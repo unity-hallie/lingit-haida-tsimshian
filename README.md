@@ -30,10 +30,31 @@ No one profits from these languages except the people they belong to.
 - **Smʼalgyax** — Northwest coast of British Columbia and southeast Alaska.
   Two writing systems. A community gaining momentum.
 
-## Status
+## What's here now
 
-Early. The corpus lives with the communities. This is the architecture
-waiting to receive it.
+- **Verb builder**: 978 Tlingit verb themes from Eggleston (2013), searchable by English
+- **Structural analysis**: decompose any verb theme — prefixes, classifier, conjugation class, verb type
+- **Corpus examples**: 24 narrative texts from the Crippen corpus (Dauenhauer et al.) with translations
+- **Honest gaps**: stem alternation and prefix contraction are unpredictable and must come from native speakers — the tool names this rather than papering over it
+
+```
+python -m tlingit.builder "go"
+python -m tlingit.builder "eat"
+python -m tlingit.builder --root aat
+```
+
+## Research directions
+
+**Transfer learning hypothesis**: agglutinative base models may generalize better
+to polysynthetic languages than English-pretrained models. A model trained on
+Finnish or Hungarian already knows that words are built from meaningful ordered
+pieces — the same structural intuition Tlingit requires. English teaches lookup;
+agglutinative languages teach composition.
+
+Candidate experiment: fine-tune a Hungarian or Finnish base model on Tlingit and
+measure how many examples are needed to reach fluent verb conjugation, compared
+to an English baseline. If the hypothesis holds, this tells you the minimum viable
+corpus size for a working Tlingit model — directly useful for revitalization work.
 
 ## Built on
 
