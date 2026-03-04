@@ -1,0 +1,120 @@
+{Number = 023}
+{Type = Translation}
+{Title = Lingít x̱ʼéináx̱ sá! Say it in Tlingit: A Tlingit phrase book}
+{Author = Nora Marks Dauenhauer, Richard Dauenhauer}
+{Source = D&D 2002: 9–101}
+{Transcriber = Ḵeixwnéi / Nora Marks Dauenhauer}
+{Dialect = Northern – Coastal – Hoonah}
+{Page = 9}
+ 1	How are you?
+ 2	How are you?
+ 3	How are you?
+ 4	I’m OK.
+ 5	OK.
+ 6	S/he’s OK.
+ 7	I’m fine.
+ 8	How’s (your father)?
+ 9	My father’s fine.
+10	Not good.
+11	Come in. (sg)
+12	Come in. (pl)
+13	Come here. (sg)
+14	Come here. (pl)
+15	Oh, you came / you’re here. (sg)
+16	Oh, you came / you’re here. (pl)
+17	It’s good to see you. (pl)
+18	I’m happy to see you. (pl)
+19	Thank you for coming. (sg)
+20	Thank you for coming. (pl)
+{Page = 10}
+20	Give me your hand. (“Put ’er there.”)
+21	Sit down. (sg)
+22	Sit down. (pl)
+23	Have (here’s) a chair.
+24	chair
+25	chair
+26	Have (there’s) a chair.
+27	Here’s two dollars.
+28	Yes.
+29	No.
+30	That’s good.
+31	Amazing.
+32	Poor thing.
+33	Well! See how you are!
+34	Go away! Shoo! Scram!
+35	Go away! Shoo! Scram!
+36	Go away already! Get lost!
+37	Too much! (Wow! Gee whiz!)
+38	Too much! (Wow! Gee whiz!)
+39	More?
+40	That’s all. (That’s enough.)
+41	It’s all gone.
+42	It’s all gone.
+43	Let me see (or think).
+44	cute / tiny
+45	cute / tiny
+46	cute / tiny
+47	That’s right; right on.
+48	That’s true.
+49	Yuck!
+50	Whew!
+51	Well!
+52	Well!
+53	Well (surprise).
+54	That’s what you get.
+55	That’s what you get.
+56	My gosh.
+{Page = 11}
+57	I’m scared.
+58	word, speech, language
+59	Tlingit language
+60	Haida language
+61	Do you hear me?
+62	Do you understand me?
+63	Do you understand Tlingit?
+64	Yes, I understand Tlingit.
+65	Yes, a little.
+66	Yes, a little.
+67	I’m learning Tlingit.
+68	What do you call this (in Tlingit)?
+69	What do you call this (in Tlingit)?
+70	What do you call this (in Tlingit)?
+71	How do you say “table” (in Tlingit)?
+72	I know it.
+73	I don’t know.
+74	Do you (sg) know?
+75	Do you (pl) know?
+76	We know.
+77	We don’t know.
+78	S/he knows.
+79	S/he doesn’t know.
+80	They know.
+81	They don’t know.
+82	I see (saw / caught sight of) it.
+83	I didn’t see it.
+84	Did you (sg) see it?
+85	Did you (pl) see it?
+86	Didn’t you (pl) see it?
+87	We saw it.
+{Page = 12}
+88	We didn’t see it.
+89	S/he saw it.
+90	S/he didn’t see it.
+91	They saw it.
+92	They didn’t see it.
+93	Thank you.
+94	Thank you very much.
+95	Yes.
+96	It’s that way.
+97	It’s good.
+98	I’m going now.
+99	I’m going now.
+100	It’s fine.
+101	Come (here) again.
+102	Do come again.
+103	Come (to us) again.
+104	Do come see us again.
+105	I’ll come again.
+106	Let’s go!
+107	Let’s go!
+{Page = 13}

@@ -1,0 +1,3906 @@
+{Number = 004}
+{Type = Text}
+{Title = Tlingit Verb Dictionary}
+{Author = Constance Naish, Gillian Story}
+{Source = N&S 1973:15–252}
+{Transcriber = Constance Naish, Gillian Story}
+{Orthography = RP}
+{Dialect = Northern – Coastal – Angoon}
+{Note = The original speakers in the dictionary are anonymous, but all were from Angoon.}
+{Note = Some speakers may have a Transitional Northern subdialect.}
+{Page = 15}
+1	Deikeenaa jeet awlitlʼít
+2	ax̱ shát x̱at wulitlʼeet
+3	at x̱alig̱aas
+4	wududlig̱aas
+5	du yoo x̱ʼatángi ḵaa tóog̱aa yatee
+6	ax̱ sáni ḵaa tóog̱aa yatee
+7	ax̱ ée sh dlix̱án wé keitl
+8	áa yaa sh nalx̱án
+9	du een woo.aat
+10	du eenx̱ sh wudliyéx̱
+11	ax̱ éesh een yee géide yoo x̱ʼax̱li.átk
+12	aanáx̱ ḵwáakt has ax̱ʼakwg̱aawáasʼi át áyá, du géide has akax̱sahaat
+{Page = 16}
+13	haa éex̱ yaa nadéin
+14	hasdu x̱ʼéix̱ woodaa
+15	áx̱ x̱at tukwg̱adáa shákdé
+16	áx̱ yaa yitunadéin ágé, ixkéexʼ yéi tí?
+17	bosst uwanúk
+18	ánkʼwt uwanúk i káalkʼw
+19	tléil yax̱ udatsʼéin: tlákw at daa yéi jiné
+20	xʼáaxʼ shayanalhá
+21	ax̱ aatch shayawlihaa
+22	a x̱ooníde yéi aa gax̱tusanée
+23	keijínináx̱ a x̱oonít aa uwa.át
+24	a tʼaaḵt tsú aawatée, «haat yee.á»
+25	i yát x̱ʼax̱wdliyóo ax̱ kéekʼ sákw, ax̱ kéekʼx̱ inax̱sateet
+26	du kéekʼ yóo áyá x̱ʼalyóo
+{Page = 17}
+27	ax̱ yáa iliḵʼéi i yoo x̱ʼatángi aadé yateeyi yé
+28	chʼa wa.é, i aayíx̱ has layéx̱
+29	yátx̱ x̱at wududliyéx̱
+30	éeḵde yaa kana.úk
+31	dáanaa yéi adaané áa x̱at shukakg̱eejáa
+32	yéi áwé áa i shukx̱wajeisʼ
+33	ax̱ éesh seet adaax̱éen
+34	ax̱ káak adaax̱ ashgóogun
+35	haa een a goog̱atée
+36	yóo aan ka.á haa een wootee
+37	dákde daak naltít
+38	sháal daat wuliteet
+{Page = 18}
+39	ax̱ keidlíxʼ ágé akeedlix̱éetlʼ?
+40	du x̱ʼéi akoox̱dlix̱eetlʼ
+41	ax̱ tláach yéi x̱at seiwahaa
+42	akaawakéts
+43	ijikx̱waakéts
+44	tlákw yan jikakéts: yéi jiné tléil ushgóok
+45	chʼa yeisú yatseen
+46	yitseení, x̱ʼaan ganaltáade yigax̱dug̱éech
+47	tléil latseen haa jee yéi utí, naná ḵaa jeedé yanax̱tusaḵaat
+48	ax̱ jeenáx̱ kaawaháa jix̱wanaag̱í
+49	du latseení ax̱ yáa ḵut woonee: tuháayi tlein akaawalʼéexʼ
+50	ldakát hasdu yáa ḵut kei at gug̱anée
+51	ḵúnáx̱ áwé lisʼaaḵ
+{Page = 19}
+52	yóoxʼ shagax̱toosyáa
+53	ax̱ yaagú shax̱wsiyaa
+54	shayéinaa héende kawdudzigúḵ
+55	daak áwé ashanastéen du yaagú
+56	yaakw yeex̱ yei naléini, dákde daak shasatí
+57	du sheiyí tléil ulcheen
+58	uwaxʼán
+59	woosh has kawdlixʼán
+60	ikakḵwalaxʼáan
+61	tʼaayawduwaḵaa, «wé x̱áat héen yíkt uwahín»
+62	ax̱ yoo x̱ʼatángi yeey.áx̱ch: yaa tʼaanx̱a.íxʼ
+63	dáa déi, yaa x̱at neesgáxʼ
+64	jeewsitaaní teet ligaaw: yaa nasgáxʼ
+65	x̱at x̱ʼawsigáxʼ
+{Page = 20}
+66	x̱ʼax̱wsigáxʼ
+67	du ée x̱at jeeyanéekw
+68	tléil tóo haa ushḵeet
+69	dei tóoxʼ áwé kei nax̱shaḵít
+70	a yáaxʼ ax̱ eet x̱ʼatán
+71	a yáaxʼ yéi ayawsiḵaa, «aadóo x̱ánt sá g̱atuwa.aat?»
+72	tléil a yáaxʼ ax̱ jeet kayeeshxeet
+73	i.éexʼ áwé: aneeda.ei
+74	dei ax̱wdi.ei
+75	shux̱sitee áyá kaxéelʼ ax̱ káa yéi wuneeyí
+76	tsu hasdu waḵsheeyeexʼ yéi sh wudzinee
+77	hasdu waḵsheeyee yéi wootee
+78	gági uwagút
+79	i yát x̱walijáḵw
+{Page = 21}
+80	ax̱ éeshch a tóo daak x̱at wusigút
+81	a tóo daak has wududzi.át
+82	tlax̱ ḵúnáx̱ áyá ax̱ toowú yakʼéi i eedé, aadé ax̱ jeeyís yan yéi jeeyanéiyi yé
+83	tlákw du eex̱ akx̱wakétsch
+84	du x̱ʼéix̱ akx̱waakéts
+85	aantḵeeních kashéix̱ʼ hasdu tuwáa sigóo, Dikée Aanḵáawuch kashéix̱ʼ yáanáx̱
+86	wáachwaanxʼ du eeg̱áa kawduwaḵaa, gax̱dusháadit
+87	has akaawa.aaḵw has awusháadi
+88	shaa yadaax̱ kei nagút
+{Page = 22}
+89	aan káa kei átch g̱uwakaan
+90	«aadóoch sá daak uwax̱útʼ?» yóo áyá ḵuwóosʼ
+91	a káx̱ x̱at x̱ʼawóosʼ
+92	tléil yoo x̱ʼeiwóosʼguḵ
+93	woosh has x̱ʼadawóosʼ
+94	hítxʼ tóox̱ wududliwáasʼ
+95	yaa x̱at x̱ʼagaywáasʼ
+96	áx̱ x̱at tukawjiyáa tléináx̱ x̱wagoodí, ách áwé ix̱waatsáay
+97	tlákw kax̱wlitsáay
+98	x̱aan áwé at kawlináay
+99	tléiḵw du eex̱ x̱waax̱oox̱
+100	dáanaa x̱áax̱ woox̱oox̱
+101	dáanaa tlákw akunalx̱úx̱ch
+102	sháal akawlix̱oox̱
+103	dáanaa áx̱ awdzig̱aax̱
+104	haa sʼaatí haat uwagút; ee wóosʼ
+105	íx̱tʼ awdzi.ei
+106	x̱útʼaa xʼwán g̱ees.ei
+{Page = 23}
+107	áxʼ áwé woosh kaanáx̱ kei s da.átch
+108	woosh kaanáx̱ has gux̱da.átch
+109	x̱at ḵʼawdigwátl wé i shkalneegí
+110	akaawachéch
+111	eech kwéiyi kadaalí teen g̱unayéi akaawachéch
+112	haa eetéenáx̱ áyá yan jiwdigút
+113	keitl du eet jiwdigút
+114	hasdu aanít jiwduwa.át
+115	x̱áa aadé daak jiwtusigoot
+116	x̱áa has at jiwsigoot
+117	haadé yaa naḵúx̱ ḵáa x̱waatlʼékw
+118	xóots tlein kulijée
+{Page = 24}
+119	ḵaa x̱ʼakooljée nooch
+120	haa hídi yéeyi dei linaaw: tléil dei ushkʼé
+121	hasdu yéi jineiyí tléil ushkʼé
+122	gáanx̱ daak yawdudzitáayi g̱oowakaan tléil kei unashkʼéin: yaa ndatláx̱
+123	ḵukg̱ahéinín, tléil ḵooshkʼéi nooch
+124	kei kawtusikúx wé yaakw
+125	yaakw sheen teen kasakúx
+126	du náxu yan ayaawanáḵw
+127	yaaw teen yax̱danáḵwsʼ
+128	at doogú wulix̱ʼwáasʼ
+129	du shax̱aawú yaa nalx̱ʼwásʼ
+{Page = 25}
+130	aanḵaawu yáx̱ shawlix̱ʼwáasʼ
+131	héent yawduwatée
+132	héent has yakawduwajél
+133	héent has yawdudli.át
+134	kát áyá x̱alax̱aan
+135	tláaḵ alx̱aan
+136	du keidlí kei aawasháa
+137	keitl yei iyagux̱lasháa
+138	yeisú naleiyí yéi ayalashéich
+139	atyátxʼi ḵukwliseek
+140	chʼáakw ḵu.aa yées shaawát ḵaa akwliseek
+141	koochʼéitʼaa aawaḵʼísh
+142	gúxʼaa át kanduḵʼíshji
+143	kei kax̱wliḵʼísh
+{Page = 26}
+144	sh daa kḵwada.óosʼ
+145	tʼukanéiyi x̱waashúch
+146	latseen ḵáa dushóoch
+147	ax̱ x̱ʼoos kuḵalashóoch
+148	aatlein kawditʼák
+149	wáa sá has yatee?
+150	ldakát yéide yatee wé kakéin
+151	ḵúnáx̱ yaadachóonx̱ isitee
+152	ax̱ éesh asg̱eiwúx̱ sitee
+153	i tláa ágé chʼa yeisú ḵudzitee?
+154	tléil daa sá ḵoostí
+155	wáa sá ḵoowatee gáanxʼ?
+156	tsu chʼu yéi shákdé ḵukg̱watée seig̱án
+157	gaaw agwáal
+{Page = 27}
+158	gaaw sh dagwáal
+159	tlákw áwé gaaw gwaal awushyékch
+160	yaa ayanashyék
+161	aatlein yan yoo jisitánk
+162	deikéenáx̱.á tlákw teet áa jinastánch
+163	x̱at woojáaḵw
+164	has gax̱toojáaḵw
+165	x̱at yaawagwál
+166	i jínch kalaxákw
+167	xákwlʼi katulaxákwlʼ
+168	ḵaa tlʼeiḵch áwé has dusx̱oox̱
+169	i tlʼeiḵch yei kg̱isax̱oox̱
+170	ḵoon shkalneegíx̱ wusitee
+171	i yéet nastá
+172	síkʼ, i yátxʼi nasx̱éixʼw
+173	chʼa tlákw yéi at ḵoowanéekw
+174	tléil yéi at ḵoonook
+175	chʼáakw yéi ḵoowanóogu aa ḵáa, dujáḵx̱ín
+{Page = 28}
+176	ax̱wlitsaa
+177	ákʼ aawahín
+178	tléil ákʼ ayeeheen ax̱ yoo x̱ʼatángi
+179	i x̱ʼéi ax̱aaheen
+180	ax̱ x̱ʼéikʼ ayaheen
+181	kuḵalséek
+182	dáanaa káx̱ wudlisík
+183	kax̱wdlisík
+184	tuháayi yóo akaawataan
+185	ax̱ óonayi kax̱wsitéx̱ʼ
+186	yínde sh kawditaan
+187	keedagwátl
+188	tléináx̱ aanáx̱ ḵu.aa chʼa aklagwátlx̱
+189	tléil du x̱eek akawulgwaatl
+190	tléíl du keey yoo akoostánk
+191	ax̱ yáxʼ awdzitʼaaḵ
+192	gidéin a yáxʼ yaa akg̱wastʼáaḵ
+193	kei akaawaník
+{Page = 29}
+194	hasdu jée x̱at jigax̱dunáaḵ
+195	du yaanaayí jeet ashoowagút
+196	tléináx̱ yateeyi aa yee x̱oodáx̱ x̱at gug̱ahóon
+197	wududlixʼásh
+198	igux̱laxʼáash
+199	wuduwahíxw
+200	x̱at uwahíxw
+201	sooḵ áa yagéi
+202	ḵaa atx̱aayí yagéi
+203	jinkaat ḵaa x̱ʼoos yéi kunax̱lagei
+204	wasóos sheidí dligéixʼ
+205	tlax̱ yéi kakwdigéixʼ wé tléiḵw
+206	tlax̱ a yáanáx̱ kakoogéi yá kʼúntsʼ
+207	ax̱ jikayáanáx̱ kakwligéi yá kées
+208	awsiteen aantḵeení aadé yakoogéiyi yé
+209	jinkaat ḵa daaxʼoon yéi has yakoogéi
+210	yéi kwditláa
+211	yú aas tlein yatlei
+212	litleiyi tíxʼ áwé
+213	wásʼ litlei
+{Page = 30}
+214	kasʼéet ḵútx̱ kayatlei
+215	yá táaxʼálʼ tlax̱ kakayatlei
+216	sh neelwáat
+217	du jín kax̱waasʼít
+218	táaxʼaa x̱at wusitáaxʼ
+219	keitl x̱at wuyeeḵ
+220	tóosʼ x̱at kawlixʼásʼ
+221	nukshiyáanch ax̱ jín yaa akanatáxʼ
+222	tás aax̱ awsitáaxʼ
+223	at danoogú ágé si.áaxʼw?
+224	kei gux̱sa.áaxʼw, yéi isa.éeni
+225	ax̱áa akawtulikwáat
+226	sʼeenáa x̱ʼatsáag̱i áx̱ akawlikwáat
+227	ax̱ gáni x̱ʼéix̱ yakawdliyésʼ
+{Page = 31}
+228	adawóotl du káa kaawaháa
+229	i káa kax̱wsiháa
+230	ḵwáaḵt yee wuneiyí, ax̱ káa kagax̱dus.háa
+231	du jeet at shuwduwatée; hóoch ḵu.aa áx̱ akawliyáakw
+232	Dikée Aanḵáawu daaxʼ l a yáx̱ yóox̱ x̱ʼawditaan
+233	yá a géide Dikée Aanḵáawu daaxʼ yóox̱ x̱ʼawditaan
+234	at dul.únxʼw
+235	shé du jínt kaawadáa
+236	ḵúnáx̱ haa wlix̱éitl
+237	kei nalx̱étl
+238	Dikée Aanḵáawu haa kawlix̱étl
+239	aan x̱at kawdudlix̱édli átx̱ sitee
+240	jinkaat táakw tléil ḵoox̱shatéen
+241	tléil ḵoox̱shatéenín; yá yeedát ḵu.aa ḵux̱aatéen
+242	ax̱waalʼúk
+{Page = 32}
+243	du jintáak a.óoxsʼ
+244	tu.óoxsʼ yeit gax̱too.óox
+245	awli.óox áyá yá ḵusax̱aḵwáan kélʼtʼi
+246	káast át wulisʼées
+247	haa jináḵ yú a keekaadé oolsʼéesch
+248	góosʼ ḵut kawdlisʼées
+249	kayaaní kalsʼísx̱
+250	x̱wadinál
+251	ḵúnáx̱ át uwaxíx yá xáanaa
+252	kʼeeljáa hasdu kát uwaxíx
+253	xóon wuduwanúk
+254	ldakát yéináx̱ áwé haax̱ dunook óoxjaa
+255	ayakawli.úx
+256	tsaa yoowú kax̱waa.úx
+257	té dynamite teen akshatúkt
+258	lítaa yawdig̱íl
+259	ilí! yakg̱ilag̱éel
+260	ax̱ kooxéedaayi loowdig̱íl
+261	ax̱ kooxéedaayi tléil ulkʼátsʼ
+{Page = 33}
+262	déi áwé wé sh kadashéix̱ʼ
+263	chʼa hú sh kadashéix̱ʼ
+264	x̱ʼaklig̱éi
+265	captainch yaa nasḵúx̱
+266	héen aa la.úk
+267	tléil ul.ookch
+268	x̱áat awshi.útl
+269	cháasʼ dush.útlx̱
+270	dleey satá
+271	yéilʼ kadustáaych
+272	x̱ʼéix̱ yawdudlitsáḵ
+273	yá yaaw tlax̱ ḵúnáx̱ dlisʼaaḵxʼ
+274	cháatl tléil ulsʼaag̱í
+275	tléil x̱at x̱ʼeishgú
+276	áxʼ áwé ḵuwdzitee
+277	kei akg̱wahéesʼ
+278	hoon daakahídidáx̱ yaa ndahísʼ
+{Page = 34}
+279	haa nadáagu wududlihéesʼ
+280	ax̱ óonaayi awlihéesʼ
+281	nagú: kagahéesʼ
+282	kooxéedaa akawlihéesʼ
+283	x̱at wushikín
+284	tléil x̱at yeeshakéeniḵ
+285	tléil x̱áax̱ ayeenéeguḵ
+286	áx̱ áwé aawanéekw
+287	yaa kanaskʼút
+288	tayeis ḵʼáatlʼ héen x̱ookáx̱ yoo ḵʼayadáax̱k
+289	hasdu shax̱aawú kadulsítx̱in
+290	kalasít
+291	tlákw shakalsítx̱
+292	shakakḵwalséet
+293	xáatl yaax̱ woowáalʼ
+294	yaakw woowáalʼ
+295	yaa anawálʼ
+296	atx̱ʼéeshi aax̱ awáalʼ
+297	sʼíxʼ akaawawálʼ
+298	kooxéedaa kaawawálʼ
+{Page = 35}
+299	sʼíxʼ wóoshdáx̱ awliwáalʼ
+300	gúxʼaa akawliwálʼ
+301	kʼwátʼ kakax̱wliwálʼ
+302	has akaklawálʼt yú sʼeenáa
+303	ḵáasʼ x̱waalʼéexʼ
+304	washéen woolʼéexʼ
+305	xítʼaa wulilʼéexʼ
+306	wásʼ x̱walilʼéexʼ
+307	ax̱ táaxʼálʼi kax̱waalʼéexʼ
+308	kooxéedaa akawlilʼéexʼ
+309	du jeex̱ at shayawlilʼéexʼ
+310	x̱ʼaan teen té kax̱waaxʼéil
+311	sakwnéin yéi kdaxʼélch
+312	x̱ʼaháat áx̱ yei akanalxʼél
+313	tíxʼ wookʼoots
+314	wé teel áa yoo ayakʼútsk
+315	kakéin x̱walikʼoots
+316	tás gux̱lakʼóots
+317	x̱ʼaháat aax̱ yóot x̱waakʼwách
+318	aadáx̱ has aawakʼwách wé atyátxʼich
+319	keishísh awlikʼwáach
+320	kaldaag̱éináx̱ áwé wudisaa
+321	chʼa yeisú diséikw
+{Page = 36}
+322	yaa kanasháḵ
+323	haa kasháḵx̱
+324	kakḵwadaseig̱ákw sʼé
+325	a ká at wudix̱eet
+326	keitl wudzix̱eet
+327	lig̱éi
+328	lítaa haat tí
+329	koochʼéitʼaa haat katí
+330	xʼeesháa haat tán
+331	sáḵs haat satán
+332	xídlaa haat katán
+333	táḵl haat yéi saní
+334	tʼukanéiyi haat sanú
+335	x̱áat haat satá
+336	sʼísaa haat áx̱
+337	héen haat sa.ín
+338	g̱alnáatʼani haat laná
+339	kóox haat kwách
+340	kʼwátl tlein haat yeesahát
+{Page = 37}
+341	x̱áat latúch
+342	yaaw awlitsík
+343	du naa.ádi akawsixéetʼ
+344	aan kadusxítʼkw át
+345	wudzikúḵ
+346	yaa naskúḵ
+347	héen táak wuduwasún
+348	héen táanáx̱ wudlisún
+349	x̱áat yaa nahíni, x̱ʼeisúnch
+350	goon anax̱ wuduwakúḵ
+351	dukúḵx̱
+{Page = 38}
+352	yéi ayawsiḵaa yaakw tlein ax̱layeix̱ít
+353	yan x̱ʼusshax̱wsigóo
+354	du lú yan uwaxíx
+355	i kʼwádli kaadé gux̱sagáan
+356	lʼoowú kaawagaan
+357	yei kanagán
+358	yaakw kawsigaan
+359	g̱agaan latseeních, haa yá kawsigaan
+360	xʼéedadi kínde x̱asagántʼ
+361	naa.át aksagántʼ
+362	wé at doogú wudix̱ʼéx̱ʼ
+363	du jín yatʼaayi héench wulix̱ʼéx̱ʼ
+364	ax̱ jín x̱walix̱ʼéx̱ʼ, yú sdoox tóot ax̱a.aagí
+365	daak x̱at kanalx̱ʼéx̱ʼ
+366	awshikéilʼ
+367	teey woodí áwé yei dushkélʼch
+{Page = 39}
+368	ḵusa.áatʼch kashatúkx̱
+369	séew haa káa woowáalʼ
+370	héen woowáalʼ
+371	héen anax̱ shayawliwáalʼ
+372	gwéil kakawlisʼélʼ
+373	du yée kakawlisʼélʼ
+374	tsaa yoowú kakawjitʼáx̱ʼ
+375	Aangóonnáx̱ ágé kawdudzihaa?
+376	keitl sʼaaḵ yanax̱ aksaháa
+377	kʼidéin awsinaa du káak
+378	daaxʼoon yakyee dei shoowaxeex aag̱áa aadé yawduwa.oowu yé
+379	gooxʼ sá yayee.oo?
+380	ax̱ táayi teen áyá x̱at wudiyék
+381	i kʼoodásʼi anax̱ kala.á
+382	anax̱ akawli.át
+383	yanshukaadé gax̱tooḵóox̱; haa wóowu sákw gax̱too.oo
+384	tléil daa sá yoo ee.eigíḵ: dei aa wtuwa.oo
+{Page = 40}
+385	tléixʼ hándít atdáli kʼúntsʼ gwéil x̱wasi.oo
+386	koochʼéitʼaa akaawa.oo
+387	du séekʼ jeeyís kooxéedaa akawsi.oo
+388	sakwnéin aaawa.óow
+389	shayadihéini át wóoshde ayakḵwa.óow
+390	ax̱ yaagú at.sʼéilʼi teen x̱wasitít
+391	ḵunáagu shaawát g̱ax̱oox̱
+392	Chʼáakʼ Hítde iwduwax̱oox̱; ḵaa jigax̱duḵéi
+393	a daat shukawdlix̱úx̱
+394	shukalx̱úx̱sʼ
+395	yéik ágé ax̱ʼayasáakw?
+396	yéik ax̱ʼeiyasáakw
+397	gáande x̱at du.éexʼ
+398	ax̱ tláa x̱waa.éexʼ
+399	ax̱ tláa kax̱wli.éexʼ
+400	du yéet ḵut gashíxch: tlákw akunal.éexʼch
+{Page = 41}
+401	kei atʼaa.íxʼch «dei éeḵdáx̱ yaawadáa»
+402	ḵóo at latóowu ḵaa saayí aawasáay
+403	tlax̱ yagéiyi át kei gax̱dutée; ách áwé ḵaa saayí gax̱dusáay
+404	ax̱ jintáak uwakél
+405	ax̱ x̱ʼuswán uwakél
+406	kawduwayélʼ
+407	ḵukawduwayélʼ
+408	du yaagú du een áa yax̱ uwagwátl
+409	yaakw áa yax̱ ishx̱énx̱
+410	x̱at wududlisháat
+411	g̱ayéisʼ hítxʼ dulshát
+412	tléil hasdu tóon utí
+413	ax̱ dachx̱ánkʼ daat x̱at yawsitáḵ
+414	ax̱ tláach a daat yawsitáḵ
+415	i daatoowú x̱áa x̱waa.oo, ax̱ aat
+{Page = 42}
+416	du yátxʼi tléil hasdu daatoowú oo.oo
+417	xʼúxʼ yaa anatéen
+418	atshiḵóok yaa anastéen
+419	koochʼéitʼaa yaa akanatéen
+420	kawóot ka.éesh yaa akanastéen
+421	kʼwátl yaa anatán
+422	óonaa yaa anastán
+423	ḵáasʼ yaa akanatán
+424	chooneit yaa akanastán
+425	néix̱ʼ yaa akanajél
+426	dzeit yaa akanaljél
+427	du jishagóonxʼi yaa yéi anasnèen
+428	káaxʼ yaa anasnúk
+429	cháatl yaa anastéin
+430	du keenaak.ádi yaa ana.áx̱
+431	gáalʼ yaa anas.ín
+432	yaa analnáan
+433	g̱uwakaan yaa anayáan
+434	du yádi yaa analjíkʼ
+{Page = 43}
+435	du óonaayi yaa anasgút
+436	xʼáaxʼ yaa anahút
+437	lʼéiw yaa anakwách
+438	kʼeikaxwéin yaa analkwách
+439	átxʼ sáani yaa akanalg̱úts
+440	yaa anatléxʼw
+441	yaa analnélʼ
+442	ḵaa naawú yaa s anas.hát
+443	sʼaaḵ yaa anayík
+444	hít tsú awsigóoḵ
+445	shaak yátxʼi yan awsigúḵ
+446	aax̱ áwé yú íxde has wushixʼóolʼ
+447	a kàa-nax̱ awé kei wshixʼúlʼ
+448	kootéeyaa kawduwatéey
+449	x̱útʼaa teen kadutéey
+450	eex̱ sʼíxʼi akaawachʼákʼw
+451	shál sáxwti kadachʼáakʼw ashigóok
+{Page = 44}
+452	kées akaxáash
+453	waḵshigáalʼ
+454	tléil kei gax̱dusháat: ḵaa yáanáx̱ yagóot
+455	aatlein x̱áat wutuwasháat
+456	koochʼéitʼaa kax̱waasháat
+457	du kayageeyí ḵeewdudzi.aa
+458	Kíswás has aḵeegux̱sa.áa
+459	tléináx̱ ḵáa yá g̱ayéisʼ hítdáx̱ jix̱anáḵx̱, aag̱áa yá Passover yaa yanaysaxix yé
+460	ḵulagaaw yís woosh has wudideiḵ
+{Page = 45}
+461	aawadeiḵ ag̱atáawut
+462	ḵaa ḵusteeyí chʼa g̱óot yéide kei shoowakítsʼ
+463	sakwnéin x̱walitʼúchʼ
+464	chʼas yei klatʼúchʼch yá gán shutú
+465	yawlixúts
+466	xoodzídáx̱ át áwé aan yadulxwátsch
+467	tsaa dulʼóoni, yadulxwátsch
+468	du eedé kei yagax̱dusḵáa
+469	wáa sá i tláach yasaḵá wé atx̱ʼéeshi?
+470	du lanáalx̱i du jeenáx̱ kaawaháa
+471	hasdu jeenáx̱ kaawaháa atkʼátskʼu
+472	plane has awlihéesʼ
+473	gáant ayawsináḵ
+474	x̱at yanasnaaḵ
+475	gáant awlikélʼ
+{Page = 46}
+476	wanadóo yaa analkélʼ
+477	tléil tsu x̱áa x̱ʼawultseen
+478	wé kóox tsu tléil x̱ʼeiltseen, áxʼ
+479	dahooní ḵut x̱at wuliyeil
+480	ḵut wudulyeilích áwé, xʼáant uwanúk
+481	du shát daat sh tukawdijél
+482	a daat sh tukax̱wdijél
+483	at x̱atáaxʼ
+484	duwáakoo kuḵatáaxʼ
+485	yaakw sákw dúḵ ax̱óotʼ
+486	sʼaaḵ du leitóox̱t uwaxíx
+487	tléil isaxéikʼuḵ; i leitóox̱t g̱waaxeex
+488	ḵaa jee dutʼúkt
+489	iyatʼúk
+{Page = 47}
+490	atkaayí aawax̱útʼ
+491	gán xáashi akawlix̱útʼt
+492	ldakát ḵáa kalx̱útʼt
+493	tlag̱anís aawasʼóow
+494	wóoshdáx̱ gax̱toosʼóow
+495	attʼánee alsʼóow
+496	asyátxʼi agux̱lasʼóow
+497	cháatl shaayí akaawasʼóow, útlx̱i sákw
+498	dleey kadulsʼóow, shanax̱wáayi yádi teen
+499	a daax̱ has shayalasʼóowx̱
+500	wáa ng̱aneens, yá ḵáa atkʼátskʼu daa yoo yeeyxáshk, yá a káa toolseix̱ yakyee káxʼ
+501	du daa wduwaxaash
+502	déix̱ aan áyá tuwahéin
+503	akwg̱ahéin tlʼátk
+504	i óonaayi x̱waasʼáa
+505	yáat aa kuḵasʼáa: a eetéex̱ dáanaa daak kuḵatée
+506	jintáak wuditʼach
+507	jintáak datʼách
+508	daak has kawdudlitʼách
+{Page = 48}
+509	xʼúxʼ ax̱ éenix̱ kax̱wlig̱úts
+510	yaa analnélʼ
+511	l ultúkdéin has sh iltínx̱
+512	yaakw deiyí wududlig̱ích
+513	wásʼ yaa ndulg̱ích
+514	haa kaax̱ kei anatán
+515	chʼa kax̱ítjaa i kát atán; ách áwé i kaax̱ kei akg̱watáan
+516	akakg̱waxáatsʼ shákdé
+517	akaawaxáatsʼ
+518	aas daax̱ kei wdlitlʼétʼ
+519	shaa yadaax̱ kei naltlʼétʼ
+{Page = 49}
+520	yáni awjix̱ákw
+521	yaa kandaxít
+522	jinkaat minutes daaxʼoon gaawdáx̱ daak kawdixít
+523	xʼúxʼ tlein x̱ʼéit shux̱wlig̱ích
+524	woosh yát shula.á
+525	x̱aawaag̱í x̱ʼéix̱ aawayeesh
+526	x̱ʼaháat x̱ʼéit ashoowatán
+527	tléil x̱ʼaháat x̱ʼéix̱ shootaan
+528	alʼóon x̱ʼéit shudutaanch
+529	x̱ʼaháat x̱ʼéit shuka.étsʼ
+530	x̱ʼéit ashukoo.étsʼch
+531	daak aawatsúx̱
+532	x̱ʼawool wududziḵít
+533	akaawatsʼút
+534	haa hídi sh tóo x̱ʼéit wutudig̱wátʼ
+535	aansʼaatí x̱ʼakawditsʼút
+536	atkʼátskʼu x̱ʼakawditsʼút
+537	wudidóok du xeitká wé óonaa eetí
+538	kawdidóok
+{Page = 50}
+539	pipe tukawdidúk
+540	tsu kakeesidóok yá kashísʼi
+541	keedalʼúx
+542	kakḵwadalʼóox
+543	chʼa kax̱wditsʼún
+544	du waaḵ kawdilʼúx
+545	kei ḵugux̱lagóosʼ
+546	tléil ḵuwoolgóosʼ
+547	x̱áat áa ashax̱íshdin
+548	ashakg̱wax̱ísht
+549	jeewdinátlʼi ḵáa yáx̱ x̱at yatee
+550	akaawag̱úk
+551	yaa at natléxʼw
+{Page = 51}
+552	tíxʼ kawdudlix̱él
+553	g̱ayéisʼ kaxéesʼ ajikawlix̱él
+554	ax̱ tíxʼi jikax̱wlix̱él
+555	héen awsi.átʼ
+556	ax̱ x̱ʼoos oos.átʼch
+557	x̱at yawdzi.átʼ
+558	haa seiwa.átʼ
+559	yá táakw ḵugux̱sa.áatʼ shákdé
+560	hít seiwaxeex
+561	g̱aatáa seiwaxeex
+562	g̱aatáa sax̱waag̱éexʼ
+563	kʼeeljáach seiwag̱éexʼ du hídi
+564	ldakát át neil katoojélch
+565	woosh kaanáx̱ ágé keeyajeil?
+566	lingít neil kaduljeilt
+567	g̱aat wudzix̱ʼákw
+568	lʼook tsú isx̱ʼákwx̱
+{Page = 52}
+569	xéidu teen shakawdziyaa
+570	shakax̱wdziyaa
+571	chʼa ldakát yakyee haa hídix̱ goot
+572	i x̱ánde gax̱too.áat
+573	tléil ágé haat ḵooteench?
+574	haat wutuwaḵúx̱
+575	xʼúxʼ ágé i jeet jeewaháa?
+576	yées sʼeenáa ax̱ jeedé jikg̱waháa
+577	táakwde yaa ḵunahéin
+578	aadé yaa ḵugahéich, yáa aag̱áa adusg̱eiwú yé
+579	ḵaa daa yaa anadáḵ
+580	daa akg̱wadáaḵ
+581	xóots a ḵoowúxʼ wutuliháa
+{Page = 53}
+582	a káa jix̱wliháa aadáx̱ awusháadi
+583	a káa daak jiwtuliháa at gas.eeyí
+584	chʼa du toowú yáaxʼ awsiháa
+585	chʼa du toowú yáaxʼ kagax̱tusaháa
+586	du toowú awlitʼáa
+587	yan sh kax̱wjixʼáḵw
+588	yánde sh kakḵwashxʼáaḵw
+589	akaawanáay
+590	atx̱á áwé kax̱ashéix̱ʼ
+591	ax̱ aat hás, yee daadáx̱ at kax̱wlishee
+592	Anáaski wuduhooní daadáx̱ at kawlishee
+593	hasdu daadáx̱ at shukawlishee
+{Page = 54}
+594	Lingít yoo x̱ʼatángi wutuwaxích
+595	daa sákwshégé i tukaawadín?
+596	x̱at tukawdidín
+597	tléil a x̱ʼáa yanax̱duwajeeyi át du ée x̱waatʼei
+598	tléil ágé chʼa aa sá yáat, i géide at kawsiháyi aa?
+599	aadóo sá yéi yaawaḵaa Jesus dikéenáx̱ yoo kawdudzitéeyi aax̱ sateeyí, gáande has akakg̱wanáa
+600	Dikée Aanḵáawu yáxʼ ldakát ax̱ l ushkʼeiyí yax̱wsiḵaa
+601	ḵugwáasʼ ax̱ daa yaa ḵoowsig̱át: chʼa g̱óot yéide x̱waagoot
+602	teet kayéik ḵaa daa yaa ḵusagátch
+603	tléil hasdu daa yaa ḵushuwusgé, wáa sá at kawdayaayí
+604	du toowú aatlein kawdixílʼ
+{Page = 55}
+605	kaxéesʼ át wududlitsáḵ
+606	g̱ayéisʼ kaxéesʼ wóosht x̱walitsóow
+607	kaxéesʼ aadé ksaxát
+608	yáade kawtusixát
+609	Dikée Aanḵáawu jeeyís yan sh wudzitée
+610	ax̱ éeshch a tóo daak x̱at wusigút
+611	a daa yaawa.aa
+612	sh daa yeenda.á: dei ḵut áwé neegút
+613	a yáanáx̱ tléiḵw aawax̱áa; gug̱asdéekʼ
+614	ḵux̱ toowditán
+615	ḵux̱ has toowdli.át
+616	áa ḵux̱ toowdzitán
+617	a náḵ ḵux̱ wudihán du l ushkʼeiyí
+{Page = 56}
+618	ayawdináḵ hasdu l ushkʼeiyí
+619	dei yaa na.éen
+620	chʼa yeisú tléixʼ yan uwa.ée
+621	kóox du x̱ʼéis sa.í
+622	wáa sá gees.ée nooch?
+623	dleey latʼúsʼ
+624	x̱áat naldaak
+625	kei awlidák
+626	tsaa wududlihíts
+627	g̱áaxʼw kakḵwashax̱ʼáalʼ
+628	x̱áat dultúchx̱
+629	g̱uwakaan yik.ádi dulg̱ées nooch
+630	inxʼeesháa x̱ʼawduwadíxʼ
+{Page = 57}
+631	ax̱wdzikúḵkw
+632	chʼa tlákw askúḵkw nooch
+633	xʼoonx̱ sáyá eestóow?
+634	tleiḵáat eestóow
+635	a káx̱ g̱ataan a yana.áatʼani
+636	yanáax̱ g̱ataan wé kóox
+637	séew daak gux̱satáan shákdé; wé x̱aanásʼ kasahát xwaasdáa teen
+638	lʼéiwch kawtusihát
+639	du shá uwaḵásʼ
+640	ax̱ sʼaag̱í wudiḵásʼ
+641	gúxʼaa x̱waliḵásʼ
+642	gúxʼaa kawliḵáasʼ
+643	tʼéexʼ kanalḵáasʼ
+644	tléil uda.áxʼwx̱
+645	wudi.áxʼu sʼíxʼ tléil ooshkʼé: néekw a tóonáx̱ ḵudzitee
+{Page = 58}
+646	wóoshdáx̱ awlig̱áat
+647	x̱ʼaan kashtʼáx̱ʼt
+648	kalshúkʼx̱ i x̱ʼoos ágé?
+649	dleewkát sh eeltín; ikoox̱dlishookʼ
+650	g̱unayéi wdig̱wátʼ
+651	yaa ndag̱wátʼ
+652	chʼa yéi áyá haat x̱waajél
+653	kasiyaayí yú atyátxʼi
+654	tléil ushkʼé kasayaayí
+655	x̱ʼaksiyaayí
+656	ax̱ hídi, kʼeeljáa a kát g̱axíxín, shag̱íx̱ʼch nooch
+657	aas sheeyxʼí woosh nashg̱íx̱ʼch
+658	lig̱íx̱ʼjaa yá nadáakw
+659	chookán tóoxʼ yaa nx̱atlúxʼ
+660	has gug̱atlóoxʼ
+661	woonaawu ḵáa yei kadusgánjin
+{Page = 59}
+662	at kʼátskʼu tsú tle yei kagánch
+663	wé g̱ánch aa lasʼúk
+664	tláakw x̱at yawsiḵaa
+665	a yatʼéik tláakw ayawsiḵaa
+666	aan kaduskʼéx̱ʼt
+667	kakéin kaduskʼéx̱ʼt
+668	lʼoowú kawdzitéx̱ʼ
+669	du waaḵ kawdzitéx̱ʼ
+670	du toowú kawdzitéx̱ʼ
+671	aantḵeení áa wdiḵʼíkʼ
+672	haa udaḵʼíkʼch
+673	haa átxʼ sáani haa usḵʼíkʼch
+674	du washéenich wusiḵʼíkʼ
+675	kanéist káx̱ yan jikawdudzixʼóo
+676	tléixʼ dáanaa kawdichúk
+{Page = 60}
+677	kawdidútl wé xʼúxʼ
+678	xʼúxʼ akladootl
+679	xʼúxʼ kax̱wlig̱úk
+680	sʼín ḵa g̱áatl kadux̱ʼáal
+681	keitl sʼaaḵ akax̱ʼáal
+682	woog̱aax̱
+683	kei g̱ax̱ gax̱yisatée
+684	at kʼátskʼu neil wudzig̱áx̱
+685	kutsʼeen ax̱satéen, kadag̱áax̱
+686	kawdig̱aax̱
+687	kakḵwasag̱áax̱
+688	x̱at kawsig̱aax̱
+689	kei agux̱shaxwéin
+690	at kʼátskʼu kei akawshixwén
+691	íx̱tʼch uwasán
+692	yanéegu ḵáa awé dusáan
+{Page = 61}
+693	shakax̱wdligwálʼ
+694	kawdlikúchʼ
+695	shakawdlikúchʼ
+696	shakawdudlikúchʼ
+697	x̱akawdlikúchʼ
+698	xʼáan kíknáx̱ át has x̱ʼeiwatán
+699	sʼísaa wóoshdáx̱ aawaxaash, ḵaashaxáshaa teen
+700	lítaach áwé x̱waaxaash
+701	tíxʼ aax̱ awlixaash
+702	wé wásʼ aax̱ nalxaash
+703	wé wásʼ aax̱ laxásh
+704	at doogú kax̱waaxaash
+705	dleey akawlixaash
+706	g̱uwakaan kakdulxáshx̱
+707	ax̱ tláa tléil shawdulxaash
+708	x̱at shagux̱laxáash
+709	cháatl x̱waliḵʼétlʼ
+710	cháasʼ akawlidúchʼ
+711	shunax̱wáayi teen sh x̱wadiḵʼékʼw
+712	du jín aawaḵʼékʼw
+{Page = 62}
+713	l uwatʼíxʼi át wóoshdáx̱ duldáasʼ
+714	tsaa taayí akaawahánt
+715	sʼín kax̱atʼáxʼt
+716	yéil téx̱i tléil kadutʼáxʼt
+717	át x̱walitúchʼ
+718	wé yaa anaḵít yéide áwé, as.héitʼ
+719	sʼigeidí héen asḵítx̱
+720	daná héen sákw gax̱dusḵéet
+721	héen x̱waatsúx̱, éeḵde shung̱ateeyít
+{Page = 63}
+722	naa.át awsináa
+723	atx̱ʼéeshi yaa nasnéin
+724	kaawanáa
+725	ḵugux̱sanáa
+726	seig̱ánin agax̱toolʼeix̱
+727	yaa geedatoox
+728	yaa geelsʼáas
+729	kuḵalsʼáas
+730	ḵukḵwasʼáas
+731	teet jiwustaan kulix̱éetlʼsháni átx̱ sitee
+732	xóots kulix̱éetlʼshán
+733	yánde yaa kanashg̱ít
+734	atgutú tóoxʼ ḵukooshg̱ítch
+735	ḵukawjig̱ít
+736	ḵeewa.aa
+737	ḵutaant ḵug̱uhéinín, gooshúḵ gaawxʼ ḵeena.éich
+738	yánde yaa xeena.át
+{Page = 64}
+739	sʼeenáa du yát x̱ʼax̱waashát; du waaḵ akawlilík
+740	kawlilígi sʼeenáa
+741	kawlilík
+742	yan g̱aḵoox̱t tuwditaan
+743	yan has g̱aḵoox̱t has toowli.aat
+744	haa wduwa.éexʼ: áxʼ áwé yóotʼaa du náa yéi shawduwa.oo
+745	kʼisáani a daa yéi s shaawa.oo
+746	ḵákw yadusháak
+747	x̱ʼáak táaxʼ dleit g̱aadlaan
+748	g̱ítg̱aa áa yan kaawadlán
+749	dleit yánde yaa kanadlán
+750	sʼíxʼg̱aa a káa yei duldlánch
+{Page = 65}
+751	dleit aadé x̱waaxwéin: a káa kax̱wlidaan
+752	sakwnéin a káa kax̱ladaan
+753	tlákw yoo yaduwadláḵkw
+754	yú keitl tlein chush káx̱ ḵoowdligaaw
+755	ḵúnáx̱ áwé chush káx̱ x̱ʼaditʼéexʼ
+756	akawlilél
+757	a káx̱ ikakḵwalnéek
+758	dleit ḵáa hasdu tlʼátgi káx̱ has akawliník
+759	daaxʼoon yakyee x̱ʼáanáx̱ x̱at yaawasík
+760	du éeshch áwé áa yawlisík
+761	kʼeeljáa ḵuyalasíkx̱
+762	tléil atx̱á yaax̱x̱ koogaax̱
+763	chʼa yáax̱ x̱at kakg̱wagáa tléixʼ sándi
+764	daa sáwé ash yawu.aayín?
+765	ax̱ éesh yax̱waa.aa
+766	x̱at x̱ʼayeeya.aa
+{Page = 66}
+767	x̱at x̱ʼayawdi.aa
+768	daatch sáwé ix̱ʼayawsi.aa?
+769	aansʼaatí yoo x̱ʼatángi koolitsʼígwayi át a x̱ooxʼ yéi yatee
+770	kalitsʼígwaa
+771	kayeeltsʼígwayi aa át
+772	aadé duḵéisʼ yé ḵaa waḵsheeyeexʼ yéi awsinee
+773	yakwteiyí ḵaa waḵsheeyeexʼ yéi awsinee
+774	xʼeesháa kawditʼák
+775	ax̱ sʼáaxu akawlitʼák
+776	ilí: wé xʼeesháa kakg̱ilatʼáak
+777	du éex̱ akax̱wliyáakw
+778	tléil aadé áx̱ akanax̱tuliyáagu yé
+779	du een x̱waasháaḵ
+780	x̱ʼeiduwóosʼi, udasháaḵ nooch
+{Page = 67}
+781	shaa kaadáx̱ yei nagút
+782	shaa kaadáx̱ yei has na.át kal.átḵ
+783	aadáx̱ jix̱wdinúk
+784	xóotsdáx̱ jeewdinúk
+785	tsu haat ḵeeyatín: dei i éexʼ aawaxaaji yé áwé
+786	tléil ayeelaxaajíḵ
+787	yaa antoolxách
+788	hóochʼkʼx̱ has agux̱layéix̱ haa x̱ʼagáaxʼ daakahídi
+789	ḵaa yoo x̱ʼatángi hóochʼx̱ awliyéx̱
+790	a yís du toowú litseen wé shukalx̱aach
+791	dei x̱at gug̱anáa
+792	dei wunaawú áwé x̱waatʼei
+793	sh ḵʼawdlinaa
+794	woodiláx̱
+{Page = 68}
+795	ax̱ tláa ḵóo wdigéiḵ
+796	wáa sá ḵóo s wudigéiḵ
+797	du eedáx̱ x̱ʼasagooxeex
+798	ldakát yax̱ has yawsixʼáḵw
+799	l a daa haa tunatéeni, ldakát yax̱ ḵuyagux̱saxʼáaḵw
+800	haa náḵ has kawdikʼéetʼ
+801	gáalʼ akaháa
+802	yeist ḵuwuhaayí, kʼúntsʼ kei kdoohéich
+803	aatlein yaakw kei kagax̱dus.háa
+804	kʼidéin x̱waagúxʼ yá xʼeesháa kaadé
+805	héen a kaax̱ aawagúxʼ
+806	yaa nalchʼéx̱ʼw
+807	ilí: i lʼaagí gag̱ilachʼéix̱ʼw
+808	ax̱ kʼoodásʼi sé kawlichʼéx̱ʼw
+809	doo yaagú yík wuditlʼíx
+810	sh wudlitlʼíx
+811	ḵúnáx̱ awlitlʼíx
+812	xʼeesháa kawlitlʼíx
+{Page = 69}
+813	woosh x̱ʼayát wududliník
+814	l wududzikóowu át daat woosh x̱ʼayáx̱ dulneek
+815	a daa néegwálʼi aax̱ woohaa
+816	camphor yei kdahéich
+817	ikakḵwalaháa
+818	ax̱ toowú kaawawálʼ
+819	ax̱ toowú wulitʼúch
+820	wé héen kawdiwúchʼ
+821	yá atyátxʼich kawliwúchʼ
+822	sʼeich kalawúchʼx̱
+823	séew daak g̱asatánín, x̱áat héeni kadawúsʼch
+824	náakw héen káa yax̱ kaysaxaayí, héen kagux̱dawóosʼ
+825	du yá kawdiwúsʼ
+826	atyátxʼich koolwúsʼch ḵútlʼkw teen
+827	héen wudilʼúx̱ʼ
+{Page = 70}
+828	i yá kawdiyésʼ
+829	a toowú yaadé yoo x̱ʼeiwatán
+830	haa yéet toowú yaadé yoo x̱ʼawtuli.át
+831	x̱at tált
+832	tléil ix̱atált
+833	a daa x̱ʼawtuli.aat yaakw tlein wudulyeix̱í
+834	kʼisáani a daa yoo x̱ʼali.átk
+835	sh déin x̱at kawdujikʼán
+836	sh déin x̱at kagax̱yishkʼáan
+837	tléil ax̱ tuwáa ushgú neildé x̱wagoodí: tlax̱ a yáanáx̱ si.áatʼ
+838	tléil ágé i tuwáa ushgú?
+839	tléil tóog̱aa kux̱shanook, ax̱ x̱ʼéi oodzikaa
+840	tléil tóog̱aa akooshnook
+841	du keey aax̱ kei guwjix̱ín
+842	tléil ḵaa x̱ʼéix̱ oos.aax̱
+{Page = 71}
+843	wé xʼúxʼ chʼa áa yéi ng̱ateet yax̱wsiḵaa; ax̱ x̱ʼakaanáx̱ áwé wudzigeet: aax̱ akaawajeil
+844	tsaa taayí yalijée
+845	dáanaa akawligaa
+846	atx̱á kei kakḵwalagáa
+847	tsaa kát shawdix̱ích
+848	kát shax̱wdix̱ích
+849	gáaxw kát shakawdlig̱ích
+850	yindasháan héent wujikʼén
+851	ax̱ daa yaa ḵusag̱átx̱
+852	g̱ílʼ shakéedáx̱ yínde awulg̱een, ḵaa daa yaa ḵusag̱ádi
+853	yéi at gux̱sanée
+854	tléil x̱áach yéi x̱wsanee
+855	néekwdéin wududzinee
+{Page = 72}
+856	tléil dei g̱aatáa yéi adaa.ooné: tlax̱ a yáanáx̱ oodzikaa
+857	chʼa daa sá du éeshch yéi daaneiyí, hóoch tsú yéi adaané
+858	wáa sá ḵeeyanéekw?
+859	tléil wáa sá ḵux̱waanook: chʼa kax̱ashxéet áyá
+860	aadé yawdoodziḵaayéi yáx̱ wudzigeet
+861	hasdu x̱ʼayáx̱ x̱wadzigeet
+862	du een yoo x̱ʼagax̱dool.aadí, tlákw atlʼéikw nooch
+863	datlʼéikw ashigóok
+864	ajeewatlʼékw
+{Page = 73}
+865	ḵoon sh kawdlixúts
+866	dáanaa yaa kandug̱íxʼ yá Hall yayís
+867	dáanaa akag̱éech
+868	nisdaat kax̱wdidútl: kusi.áatʼ
+869	kadadútlx̱ yaa ndaḵíni
+870	ash kawlidútl
+871	x̱at kulinook
+872	sh kax̱wdlinook
+873	déi áwé l átkʼ ooheen
+874	xátʼaa yeit yaa kdusxátʼch
+875	haat awsixátʼ
+876	haat aawax̱útʼ
+877	ixkéede haa gax̱dusx̱óotʼ
+878	téelʼ du kú kei alx̱útʼch héen táanáx̱
+{Page = 74}
+879	eex̱ kawlikúx
+880	yú kʼwátl a kát kawlikúx
+881	áx̱ ashuyakawlilílʼ
+882	wé sʼísaa aax̱ shuyakaylalílʼ
+883	ax̱wditlʼékw
+884	xóots ḵasatéen, ḵux̱ akax̱wdidzée
+885	xʼíg̱aa ḵáa yaa kg̱agúdin, tléil ḵúx̱de akwdadzée
+886	úsʼaach kei wlisʼíḵ
+887	yéi ax̱ajóon, x̱waajáaḵw
+888	tléil oox̱ajoon
+889	doo náax̱ yéi jeewanei
+890	atkʼátskʼu náade yéi jinané
+891	a daa yéi sha.úx̱xʼ
+892	i sée daa yéi shana.oo
+893	daat yís sákwshégé sh kawjig̱éiy?
+894	ldakát át dutóol, lʼoowú, g̱ayéisʼ
+895	héen awdináa
+{Page = 75}
+896	tléiḵw kahéeni adaneix̱
+897	sʼikshaldéen gax̱toolóok
+898	chʼa tlákw at lóok
+899	héen asʼíḵsʼ
+900	yawutʼaayích áyá, x̱asaxéikʼw
+901	tléil isaxéikʼuḵ; i leitóox̱t g̱waaxeex
+902	dei kax̱wlikʼúxʼ yá gúxʼaa
+903	kalalʼúxʼ
+904	haa kʼeeyee kadutlʼóoḵ
+905	haa kʼeeyee kawduwaxʼáas
+906	gúxʼaa kaadé kawdlixʼáa
+907	haa kʼeeyee kawduwalóox̱
+908	wasóos daakahídi yeedé akawsiháat
+909	wanadóo yaa akanatán
+910	neil sh wudigúḵ wé séew héeni
+911	yá i náagu ax̱ aayí x̱oot aa klatlʼúḵ
+{Page = 76}
+912	hít kát yawsixíx
+913	ax̱ éesh deikéexʼ héench yéi wsinee
+914	ldakát hás héench yéi s wusinee
+915	i óosʼi dei uwaxúk
+916	ax̱ leitóox̱ uwaxúk
+917	g̱uwakaan dleeyí gax̱toosaxóok
+918	ldakát ax̱ naa.ádi washéench wusixúk
+919	yáatʼaa tléil kawuxook
+920	sakwnéin kaawaxúk
+921	kʼwátl akawsixúk
+922	xóon ayawdateeyí ítdáx̱, ḵugaxúkch
+923	ḵukaawaxáak
+924	at kuḵax̱ʼáan yá ḵutaan
+925	g̱aat ax̱ʼáan
+926	xʼúxʼ wóoshdáx̱ kawdlixúk
+927	tléil yoo x̱ʼeishtánk
+928	a kaadáx̱ yax̱ kax̱wsixáa
+929	naa.át yax̱ akawsixáa
+{Page = 77}
+930	ax̱ kinaak.ádi x̱ʼaan yáx̱ kax̱wliyésʼ
+931	ax̱ téeli daa kakḵwalayéisʼ
+932	hoon daakahídi yóox̱ yaa ndahún: naa.át áa lix̱ʼwáasʼ
+933	sháchk wán g̱uwakaan áa lix̱ʼwáasʼ
+934	g̱uwakaan dleeyí gax̱toox̱áa
+935	sh tóog̱aa has wudix̱áa
+936	ldakát át has asx̱á, Lingít
+937	du jín asx̱á
+938	ilí, chʼas l keeshx̱áaḵ; ḵukʼítʼ ḵu.aa
+939	shaaw dux̱ʼéexʼw
+940	ax̱waawnéesʼ
+941	yalooleit tsú dutlʼéikw
+942	eex̱ gax̱toochʼéetʼ
+{Page = 78}
+943	néesʼ ladléxw
+944	lachʼítʼ
+945	sh ḵʼax̱toolx̱aa
+946	yá sʼíxʼ kagax̱toochʼéetʼ
+947	wududlitsígi yaaw x̱wasikʼítʼ
+948	yax̱ yawdudzix̱áa
+949	a kʼaax̱ kʼítʼ
+950	du x̱ʼéix̱ x̱waateeyi atx̱á aawakʼítʼ
+951	xeitl wudzi.aax̱
+952	yoo dzi.áx̱k
+953	du káa daak wudzigít
+954	chʼa dáx̱náx̱ a tóo daak kaawasóos
+955	a tóo daak kawdudlisóos
+956	tléil kooda.át: keitl shákdé a kaax̱ uwakʼít
+957	kʼúntsʼ gwéil tléil kooda.át
+{Page = 79}
+958	inxʼeesháa tléil tooda.át
+959	kei duhúkch
+960	kei aawahúk du xwáaxʼu teen
+961	du g̱altóo at shoowlixeex
+962	át ashoowlixíx
+963	g̱eiwú teen adaawsihát
+964	chʼa yeedát neeyís daawtusihát; x̱ʼaháat áa yéi gax̱too.oo
+965	du yáx̱ ayax̱wlix̱ʼéyxʼ
+966	atyátxʼi yáx̱ has awulx̱ʼéiyin
+967	i toowú galatseen
+968	du x̱ánt uwagút, du toowú agax̱latseent
+969	táakw yánde yaa shunashx̱ín
+970	g̱uwakaan lʼóon yan shoowjix̱ín
+971	násʼk yakyee shunaaxéex
+972	shukg̱waxéex haa yoo x̱ʼatángi
+973	tʼaawáḵ dísi áyá yaa kanakísʼ
+974	kaawakísʼi aa dís
+{Page = 80}
+975	yá dís yaa yakanakísʼ
+976	likoodzí aadé du toowú litseeni yé, yá atkʼátskʼu: tléil yoo kwdag̱áx̱k du éeshch x̱íshdi
+977	aatlein yéi tunook a tóonáx̱ yaawagút
+978	ax̱ toowáa yiḵʼawsigoo: i at shéeyi wookʼei
+979	Kíswás ḵu.éexʼi kei ḵʼagux̱sagóo
+980	tlax̱ ḵʼasigóo
+981	Kíswás káxʼ ḵugax̱dus.ookʼ
+982	ḵus.ookʼ
+983	tsaa kax̱wlidútl
+984	toot kax̱wlidútl wé atkʼátskʼu
+985	keitl kanagéis
+986	ldakát át kadugéis
+987	aax̱ akawlixílʼ
+988	aadáx̱ kakḵwaxéelʼ
+989	aadáx̱ nas.há
+990	dei aadáx̱ x̱wasihaa
+{Page = 81}
+991	kei ayawdigút
+992	kei s ayawdi.át
+993	kei s ayawdiḵúx̱
+994	a yáx̱ sh kudlidáal
+995	ḵaa yáanáx̱ ikux̱lidáal
+996	l yan shoowjix̱íni ḵustí du jée yéi kg̱watée
+997	yee eenx̱ gux̱satée, tléil yan shuwooshx̱eeníde
+998	Dikée Aanḵáawuch kée yatx̱ uwatée
+999	at yáxʼ awooné tóonáx̱ kée yatx̱ akg̱watée
+1000	haa daa yagax̱dus.áa
+1001	haat áyá x̱at kawduwaḵáa, yee ḵusteeyí a daa yanḵas.aa
+1002	i lʼaagí káxʼ ix̱waaḵéenás
+{Page = 82}
+1003	yaakw káxʼ aawaḵéenás
+1004	Lingítx̱ óosh gé satéeyin, a káa nḵwaḵéenásin
+1005	atdoogú daséixʼ áwé yadustánch óonaa
+1006	a daséixʼ ayaawatán chʼa haa aayee
+1007	haa daséixʼán wudihaan gánde
+1008	woosh daséixʼ yax̱tula.aadí kwshé
+1009	woosh daséixʼ yakx̱waajél
+1010	a yayeedé x̱ʼayeesdáy
+1011	x̱ʼayawdzidáy
+1012	at x̱waliḵáx̱
+1013	awliḵáx̱
+1014	chʼa ldakát yéide áwé át sh x̱ʼayeedlijaaḵw
+1015	uwasáḵw
+{Page = 83}
+1016	yaa nalsáḵ
+1017	x̱at wulisáḵ; kei kḵwadaháan
+1018	héen awdanaayích áwé, kaawasáḵ
+1019	yaa ndayáan x̱at kawlisáḵ
+1020	x̱at kaawadzás
+1021	x̱ʼóon kadulsháḵx̱
+1022	ḵineetínni, isagax̱tusatʼáan
+1023	ax̱ yéet sax̱wsitʼán
+1024	Aangóon aantḵeení has ashusitee
+1025	hasdu éet awdlig̱ín, hasdu jeedáx̱ at shusatí een
+1026	x̱áa shoowatee
+1027	wáa sá yee ée x̱ʼawlitseen?
+1028	i een ḵunáax̱ daak kakḵwanéek
+1029	wáa sá tléil x̱aan ḵunáax̱ daak keeníkch?
+{Page = 84}
+1030	sdoox tóonáx̱ yóot wujitúk
+1031	óonaa wjitóok
+1032	yá shaa awlichísh
+1033	du yéi jineiyí gákx̱ oohaa
+1034	dei at gutóot uwashóo
+1035	táay xéedi a shóot uwashóo
+1036	atgutú naaléiyi yéide kaaxát
+1037	haa yakwdakaa
+1038	wé shaatkʼátskʼu yakax̱wdikaa
+1039	tléil woonx̱adláḵch
+1040	tléil ayawudlàaḵ
+1041	tléil g̱áa x̱at wooshtee
+1042	tléil ḵu.aa g̱áa wooshtee
+{Page = 85}
+1043	x̱at kawdikei
+1044	tléil ikawdaké
+1045	wé ḵáa dliwú
+1046	yéil ilwéini …
+1047	du g̱altóowu wusʼéilʼi, dáanaa aadáx̱ yei kakg̱wasóos
+1048	tʼéexʼ kaanáx̱ yei s kaawasóos
+1049	ax̱ jeedáx̱ kax̱wlisóos
+1050	kawóot ax̱ jeedáx̱ wudiḵóosh
+1051	gúxʼaa daak wudiḵúsh
+1052	dzeit káx̱ wudzigeet
+{Comment = Line 1053: L91 predicts «g̱waax̱dzigeedi» for the potential.}
+1053	tléil aadé tʼéexʼ káxʼ has g̱oox̱dzigeedi yé
+1054	ḵʼwátl du jeedáx̱ wujix̱een
+1055	xʼóow tíxʼ kaax̱ woowooḵ
+1056	i kinaak.ádi a kaax̱ yei kg̱wawóoḵ
+1057	tléiḵw dei kawdig̱áat
+1058	kadásʼ kadag̱átch
+1059	i kaadé yaa shanashx̱ín
+1060	daak shawjix̱ín
+{Page = 86}
+1061	xʼúxʼ nadáakw kaadáx̱ daak uwaxíx
+1062	radio daak wusixíx
+1063	tíxʼ wookʼoodzí áwé ḵóok yei saxíxch
+1064	kʼúnsʼ daak kaawaxíx
+1065	daak kawsixíx
+1066	dleit daak gux̱satáan shákdé
+1067	kadásʼ daak woostaanín
+1068	tlax̱ yáa naakée wulixʼáas
+1069	sʼíxʼ wóoshdáx̱ wudig̱áat
+1070	té wdutʼéix̱ʼi, wóoshdáx̱ yei dag̱átch
+1071	sdoox x̱ʼatsáagi wóoshdáx̱ kei x̱ʼawdig̱át
+1072	Kanasnoowxʼ hasdu hítxʼi yéeyi áa sadag̱átch
+1073	héen x̱ookadzeidí sawdig̱átch
+1074	gáaxw tʼaawú a daadáx̱ isg̱átch
+1075	ax̱ shax̱aawú ax̱ sháadáx̱ isg̱átch
+1076	ax̱ shax̱aawú aax̱ yei kanalsóos
+{Page = 87}
+1077	ax̱ káak lisaayí
+1078	kalig̱éi yá nadáakw
+1079	kalig̱éiyi ḵáax̱ sitee
+1080	naaléi ágé hasdu aaní
+1081	tléil i éetx̱ gug̱alei
+1082	tléil unalé
+1083	wáa kunaaléiyi yéit sá eeyagút?
+1084	Tlákw.aan ḵwáani haadé s akwg̱alʼeix̱: yéi x̱waajée kei kagux̱latéesʼshán
+1085	ax̱ toowáa kulitéesʼshán
+1086	x̱ʼakwli.áax̱chʼán
+1087	du shkalneegí x̱ʼakwli.áax̱chʼán
+1088	yéi x̱waajée, kei kwg̱asátk
+1089	attʼúkt teen yasátk
+1090	ḵaa yáanáx̱ yagóot
+1091	daaxʼoon x̱at x̱ʼeiwax̱ée
+1092	alʼóon yayeedé ḵaa x̱ʼax̱éex̱
+1093	yei nalnétl
+1094	wudlineidli ḵáa
+{Page = 88}
+1095	wáa sá yéi yaa sh nax̱danúk?
+1096	tléil kʼidéin sh udanúkx̱
+1097	ax̱ lidéx̱ʼxʼ áwé tóo x̱waanúk si.áatʼi át
+1098	tóo gax̱yeenóok yeex̱sax̱áni
+1099	xʼáant uwanúk
+1100	du yís xʼáant x̱waanúk
+1101	aas tlénxʼ has alg̱ícht
+1102	aas a yayeidí káxʼ has agux̱lag̱éech
+1103	gáng̱aa woogoot
+1104	nurseg̱aa neesheex
+1105	ḵux̱wligaaw du een
+{Page = 89}
+1106	du daax̱ ḵuyaawadaa
+1107	a daax̱ woonadá
+1108	aawaxʼát
+1109	aawag̱ílʼ
+1110	wé ḵóok shakwg̱ahéek
+1111	haa yaagú shawtulihík
+1112	yan ashawlihík wé yakyee
+1113	keitlch shawlihík yá aan
+1114	ḵʼateil shaawatsʼítʼ
+1115	wé xʼeesháa héench shalatsʼítʼ
+1116	séew héeni shaawatlʼítʼ haa káasdi
+1117	shagax̱tulatlʼéetʼ
+1118	a katʼóott kasadá
+1119	shakx̱waachák
+1120	tléil ashakawuchaak
+1121	hóoch áwé yaa ashanayíḵ wé yaakw
+1122	a katʼóott kasa.úk
+{Page = 90}
+1123	táḵl, nadáakw tayeedáx̱ aawatʼei
+1124	tíxʼ x̱wasitʼei
+1125	tʼaawáḵ kʼwátʼi akaawatʼei
+1126	tʼáa kaadáx̱ kooxéedaa kawtusitʼei
+1127	du káak x̱ánxʼ du káx̱ ḵux̱waashee
+1128	tléil tsu a káx̱ ḵuwushee
+1129	seig̱ánín kei ḵukg̱wakʼéi shákdé
+1130	dei ax̱ naa.ádi gé yan uwanée?
+1131	ldakát át yan uwanée
+1132	tléil tsu yax̱ at oosní
+1133	dei ax̱ naa.ádi gé yan yeesinée?
+1134	yan shaawahík
+1135	yáa aandaa.óonaa awli.óon
+1136	yaa anal.ún
+1137	a tóot ax̱waa.ák
+1138	dei át ágé awduwa.ák?
+1139	shóode agax̱tuda.áak tsʼootaatxʼ
+{Page = 91}
+1140	shóot ax̱wdi.ák
+1141	cháasʼ awdzig̱eiwú
+1142	awdzidéek
+1143	saak áwé dusdeegáa
+1144	tʼá kínde awsiyíḵ
+1145	daat x̱áat sá has akasyeeḵ?
+1146	tléil yaaw ashoolx̱óotʼ
+1147	kei awsitʼéx̱
+1148	has shukalx̱aach
+1149	héen yíkde nagú, at kʼéx̱ʼt
+1150	x̱áat dukʼéx̱ʼt
+1151	gooxʼ sá eedanáḵwsʼin?
+1152	danáḵwsʼ kuḵaḵóox̱
+1153	yaaw aawaxítl
+{Page = 92}
+1154	ax̱ náag̱aa koogéi
+1155	ax̱ jikáag̱aa kwdigéi
+1156	ax̱ x̱ʼoosg̱áa kwdigéi
+1157	du yát wududlijáḵw
+1158	wóosht x̱walijáḵw
+1159	i sáni hás x̱ʼakajáaḵw
+1160	tléil yéi x̱wajéeyin áa kg̱wahaayí
+1161	chʼa aadé yeeyaḵaayéi yáx̱ áa uwaháa
+1162	wé atkaxʼásʼti áa sahá
+1163	áa awsiháa du atkoo.aag̱ú
+1164	du ḵusteeyí yan uwajág̱u átx̱ sitee
+1165	yan uwajáḵw
+1166	du x̱ʼéide wududlijaaḵw wé yoo x̱ʼatánk
+1167	at x̱ʼúx̱ʼu kawdix̱áaxʼ: litóoch, ách áwé yéi yatee
+1168	dáanaa, eeḵ tsú kadutʼálʼx̱
+1169	g̱ayéisʼ gúxʼaa kawditʼálʼ
+{Page = 93}
+1170	du keidlí wudzitíx
+1171	tléil ustíxx̱
+1172	ax̱ náḵ ayawdihaan
+1173	xóots tóo tuyík x̱waanúk; a náḵ ayawdihaan
+1174	aantḵeení atgutóot wudikélʼ
+1175	kʼeeljáa jináḵ yánde g̱unayéi s wudikélʼ
+1176	ldakát yá wanadóo woosh g̱uwanáa udakéilʼch
+1177	yóot awlijúx̱ʼ
+1178	yóot shax̱wlijúx̱ʼ
+1179	du náxu héent ashawlijúx̱ʼ
+1180	kootʼáaxʼaa x̱waatʼáxʼ
+1181	at x̱atʼáxʼt
+1182	yaaw kei kawdzix̱át
+1183	g̱ayéisʼ tléil kei ulhásch
+1184	ḵúx̱de yaa nalhásh
+1185	yakʼéiyi aa lʼeiwnáx̱ yan wulihásh
+1186	nóoxʼ yaa akanahéin
+{Page = 94}
+1187	aasxʼ át akaawahaa
+1188	gán a yíkt kax̱waajél ax̱ yaagú; tlei wootsʼéetʼ
+1189	yaa naḵísʼ
+1190	haa hídi tayee wliḵísʼ
+1191	aan wuliḵoo
+1192	woodaa
+1193	héen naadaa
+1194	haa káx̱ kaawadaa
+1195	a katʼóott kadéin
+1196	g̱ílʼ yaadáx̱ héen diyéet kaawa.áa
+1197	héen tʼáa kát akawsi.áa
+1198	yei ḵʼeikanalxwéin
+1199	chʼa.aanax̱ tléiḵw ḵʼeikawdlixwéin
+{Page = 95}
+1200	gáaxw haa niyaadé yaa ndaḵín
+1201	seig̱ánín Aangóonde kei gax̱tudaḵéen
+1202	tʼaawáḵ nánde yaa s kanalyích
+1203	yéil shaanáx̱ kaanáx kalyíchxʼ
+1204	táaxʼaa a daat wudziḵín
+1205	x̱ʼaan yakawliyeeḵ
+1206	xákwlʼi shax̱ílx̱
+1207	kʼwátʼ yaa nashx̱íl
+1208	teet x̱ʼawlix̱ísh
+1209	wudli.úgu úsʼaa héeni x̱ʼagux̱lax̱éesh
+1210	ax̱ waḵdáanayi kawdigwásʼ
+1211	eex̱ch kawligwásʼ
+1212	yá yakyee ḵoowdigwásʼ
+1213	akawligwátl
+1214	áa kawdudlikʼwátʼ
+1215	tléil kakg̱walkʼwáatʼ
+1216	haa ítx̱ neil uwagút
+1217	du ítx̱ nax̱too.aat
+{Page = 96}
+1218	ldakát yéit iyakx̱waatsáḵ
+1219	uháan ḵu.aa tléil yaa ḵutooshgé
+1220	yées ḵáax̱ satéexʼ, tléil yaa ḵuwooshgé
+1221	íx̱tʼ ádi át awusheeyí lig̱aas
+1222	ax̱ éesh áa x̱at kawsiháa
+1223	áa jikawdudziháa
+1224	a káx̱ haa saxʼaaḵw
+1225	tléil ax̱ kát sawuxʼaax̱w
+1226	hasdu toowú néegu, a kát has sawtulixʼáḵw
+1227	chʼa aadé yéi haa na.oo
+1228	g̱uwakaan haa eeg̱áa woosoo
+1229	aatlein lax̱eitl ax̱ eeg̱áa woosoo: yei jiné x̱waatʼei
+{Page = 97}
+1230	ax̱ x̱isʼtusʼaaḵ uwa.áxʼw
+1231	táakw eetí ḵúnáx̱ latsʼáa noojín tléiḵw
+1232	ḵʼeikaxwein áa ka.éix̱: tlax̱ wáa sáyú litsʼáa
+1233	yaa x̱at naltʼíxʼ
+1234	eesháan has sh wudlitʼíxʼ
+1235	wudlitúch
+1236	ḵúnáx̱ haa tóox̱ ḵoowatee
+1237	akawsihaan lʼée wán
+1238	wé sʼísaa yei akagux̱saháan
+1239	ḵukawdlixwán
+1240	ḵukakg̱walxwáan
+1241	a yát awsixín
+1242	wóosht sʼeiwlitsóow
+1243	x̱áat akawlisʼúk
+1244	eex̱ teen kadulsʼúkx̱
+{Page = 98}
+1245	chʼa yéi áyá yaawaḵaa, yá aadé yawooḵáayi yé, a yáx̱ yan at koox̱dayaat
+1246	a yáx̱ yan at kawdiyáa
+1247	ax̱ táayi x̱walixít
+1248	du x̱úx̱ ooheech
+1249	woosh has oodaheech
+1250	has x̱ʼaklig̱éi
+1251	násʼk cháatl yawtuwadlaaḵ
+1252	yées yaakw ayaawadlaaḵ
+1253	nahein alḵáa
+1254	ḵóo wdigéiḵ yá yeedát at dulḵáayi
+{Page = 99}
+1255	haa leitóox̱ tulakúḵx̱
+1256	i leitóox̱xʼ lakúḵ wé náakw
+1257	shaawát lʼaakí kadutlʼínx̱
+1258	gán yaxáashi yéey
+1259	x̱aanásʼ wóoshde aawayéey
+1260	aax̱ has ayawsiháa ldakát yá ḵaa x̱ʼéitx̱ ḵoowdi.oowu aa
+1261	kooxéedaa aax̱ yaksahá
+1262	a yíx̱ guyawjix̱eenán
+1263	yá xʼúxʼ i aat jeedé natí
+1264	latseen du jeet wuduwatée
+1265	ax̱ léelkʼw jeedé kakḵwatée wé dáanaa
+1266	yées kooxéedaa ax̱ jeet kasatán
+1267	guk.ádi du jeet akawli.át
+1268	tléil xʼúxʼ ḵaa jeedé yéi gax̱dusnee
+1269	lʼaak ax̱ jeet aawa.áx̱
+{Page = 100}
+1270	yee x̱ʼayeedé kawduwanáa
+1271	kóox ḵa g̱áatl ách has wududzi.oo
+1272	i éet x̱wadzitʼáḵ
+1273	tléil ágé aadé aa kg̱eestʼaaḵ?
+1274	tléil gé daa sá i kagéi kawdus.há?
+1275	ḵʼanashgidéi kagéi kax̱tusaháayín
+1276	yá xáanaaxʼ ḵoodé at gax̱dul.óo
+1277	tleiḵáa dáanaa ax̱ aat éet ila.ú
+1278	ANBch haa ée yawlidlaaḵ
+1279	du nanaawúch ayawlidlaaḵ haa ḵusteeyí
+1280	du x̱ʼéi at gax̱dulnáa
+1281	du x̱ʼéi aa wdudlilúk
+1282	g̱áatl du x̱ʼéi natí
+1283	ax̱ toowú kei kg̱wakʼéi gax̱atʼeiní
+1284	du toowú ágé yakʼéi iwsateení?
+{Page = 101}
+1285	lawyers x̱ʼasitóo
+1286	ḵoon yaa yanaxʼútʼ
+1287	plane yaa yagaxʼútʼch
+1288	ax̱ Éesh, i saayí gux̱lasaayí
+1289	i saayí tulisaayí
+1290	gán eetí chʼa yeisú wulix̱ʼaan
+1291	áxʼ yei nalx̱ʼán
+1292	keitl sʼaaḵ ax̱ʼéetʼ
+1293	uwaxúgu sakwnéin x̱waax̱ʼítʼ
+1294	i atshéeyi wookʼei
+1295	i toowúch ágé yakʼéi?
+1296	tléil oolníkt
+1297	woosh daadé s ilneek
+1298	wé keitl yádi gasháat
+1299	xʼeesháa x̱waasháat
+{Page = 102}
+1300	kʼwátʼ akaawasháat
+1301	kooxéedaa akawlisháat
+1302	neildé ashatléḵwxʼ
+1303	tléil x̱wasakú daa sá shax̱watleiḵw
+1304	óonaaxʼw has ashawlitleiḵw
+1305	i eedáx̱ sh tóog̱aa x̱at ditee
+1306	aax̱ dukkawdihútlʼ
+1307	iyatléḵwk; daag̱éináx̱ at x̱á
+1308	tléil utléḵwk; sh yáa wdanéiyi yáx̱ at x̱á
+1309	akawlixákw
+1310	dleey aklaxákwlʼ
+1311	atkatáxʼaa, kasʼéet akaawatáxʼ
+1312	Ḵusa.áatʼ aaní ḵwáan atdoogú téel sákw has akatáxʼt
+1313	adawóotl x̱at kaawatáxʼ
+1314	kei nawát
+1315	tlax̱ woowáat
+1316	kei wdudziwát
+1317	táakw eetéede yaa ḵunahéin: kayaaní kei kana.éin
+{Page = 103}
+1318	daa sá i táayi g̱eixʼ ka.éix̱?
+1319	séew ḵa g̱agaan kagánich áwé kei kanas.éin
+1320	i shax̱aawú kei kasa.á
+1321	kei uwa.íxʼ wé xóots
+1322	hasdu káx̱ yan ax̱waadél; aag̱áa tléil hasdu x̱oodáx̱ ḵut aa woosgeet
+1323	x̱ʼaháat káx̱ adel shaatkʼ át x̱ʼeiwatán
+1324	aadé ishukwḵanéi
+1325	gunalchéesh, x̱at shuyeeneiyí
+1326	áa áyá l ooshkʼé yáx̱ yee géide téen
+1327	tléil aadé yee káa at kax̱dudzihaayi yé
+1328	tléil a x̱ʼáa yiyanax̱duwajeeyi aa ḵoostí
+1329	a yáx̱ yéi jiné
+1330	tʼáa kawshikʼúx̱ʼ
+1331	sakwnéin kei kanashkʼúx̱ʼ
+{Page = 104}
+1332	a káa x̱at kaawanák
+1333	kʼidéin ḵeesteeyí, i ée kakg̱wanáak
+1334	alʼóon katushitán
+1335	ḵukʼéetʼ akwshitán
+1336	g̱uwakaan dzix̱áaw
+1337	kei yanasx̱áaw
+1338	daadzx̱áaw
+1339	wé nóoxʼ sée shadzix̱áaw
+1340	i x̱ʼéit x̱waliḵáx̱
+1341	ax̱ x̱ʼéit awliḵáx̱, ách áwé yan kax̱wliník
+1342	sʼigeiditaan kax̱yeex̱ has dixwásʼ
+1343	áx̱ dlixwásʼ
+1344	tléiḵw wásʼ náa kadixwásʼ
+{Page = 105}
+1345	kées yóo duwasáagu át aadé kdulxwásʼch
+1346	aast wududziyíḵ
+1347	yan sh wudziyíḵ
+1348	g̱ílʼ yáx̱ g̱aashóo
+1349	dzeit hít káx̱ g̱alishóo
+1350	katéx̱ʼaa x̱ʼéix̱ kaawashoo
+1351	g̱uwakaan dleeyí atx̱ʼaan hídi yeex̱ ashayaawatée
+1352	haa óosʼi gáanx̱ shayawtuwatée
+1353	aadé shayawsitee
+1354	likoodzí, aadé wooneeyi yé
+1355	dleewkát latín; aag̱áa tléil tsu yéi ikg̱wanee
+1356	l.ushkʼidéin woonee
+1357	neekwdéin x̱at woonee
+1358	wáa sá yan has kawdiyáa?
+1359	tléil x̱wasakú wáa sá yan kawdayaayí yú shaawát
+1360	ax̱ toowú sigóo ix̱wsateení
+1361	tsu yei yeekḵwasatéen ḵu.aa; aag̱áa áwé yee toowú kei gux̱sagóo, ḵúnáx̱
+1362	xʼáaxʼ wásʼi yawóosʼ
+1363	tléil uwóosʼ
+{Page = 106}
+1364	wé dleey sitʼéexʼ
+1365	xʼáaxʼ kasitʼéexʼ
+1366	ax̱ ḵusteeyí ax̱ jeexʼ yatʼéexʼ
+1367	atdoogú ḵéisʼ yatʼéexʼ
+1368	Anóoshi yoo x̱ʼatángi ax̱ x̱ʼéit lidzée
+1369	du een ḵunáax̱ daak kaneek; aag̱áa tléil du jeexʼ kei gux̱ladzée
+1370	dáanaa kawduḵwáatlʼi tsu iltʼíxʼx̱
+1371	cement dei wdlitʼíxʼ
+1372	éilʼ kaawatʼíxʼ
+1373	sʼé a takáxʼ kaawatʼíxʼ
+1374	gúxʼaa káxʼ kalatʼíxʼ
+1375	toow kadultʼíxʼsʼ
+1376	x̱ʼaligaaw
+1377	x̱at wushikʼaan
+1378	has yee shikʼáan
+1379	xʼúxʼ wéide yaa s anasxátʼ
+1380	xʼúxʼ wéide yaa ndusx̱útʼ
+{Page = 107}
+1381	Aangóonde haa yatán
+1382	kʼeeljáa yáxʼ yánde x̱at yakwg̱atáan
+1383	yei nanéx̱
+1384	i jín tléil yei unéx̱ch
+1385	ax̱ néegu tóodáx̱ x̱at wusineix̱
+1386	yanéegu ḵáa awsineix̱
+1387	gaaw tléil x̱wa.aax̱
+1388	a x̱ʼéide aawa.áx̱
+1389	nadáakw duwa.áx̱ch
+1390	xʼáatʼ kát kax̱wli.áx̱
+1391	yan ágé kayli.áx̱?
+1392	x̱at seiwa.áx̱
+1393	xóots shákdé sax̱waa.áx̱
+1394	yawsitʼáa wé sdoox
+1395	yá tʼáa ax̱ jee yadál
+{Page = 108}
+1396	i at la.ádi kei kg̱wadál
+1397	tléil uldál yá atkʼátskʼu
+1398	kei x̱at naldál
+1399	shayéinaa kaawadáas
+1400	daḵéisʼ teen x̱áat idashí
+1401	tléil i eedé kḵwadashee: tléil x̱washagóok
+1402	haa sʼaatí haa ushee
+1403	ax̱ jeeyís gag̱eeteeyít áyá, ix̱washee
+1404	g̱áx̱ doogoo teen x̱ʼadoolxítlx̱
+1405	xʼóow x̱ʼax̱wlixítl
+1406	l áa uteeyích áwé, yax̱ x̱at tukaawagaa
+1407	chʼa yeisú yax̱ tukaawagaa
+1408	x̱at tukawjiyáa
+1409	át tukawjiyáa wunoogú
+1410	a yeet sh x̱ʼayawdiwooḵ
+1411	uwadútʼ
+1412	x̱at yadútʼkw
+{Page = 109}
+1413	ax̱ g̱altóoxʼ áwé x̱walisín
+1414	nadáakw tayeexʼ awdlisín
+1415	yax̱ g̱aaléi wé xʼáas
+1416	du noowú 100 ḵaa x̱ʼoos yéi yax̱ koog̱aaléi
+1417	yú xʼáatʼ kashigootl
+1418	haat sh kawdlihún
+1419	yéi jiné yís yaa sh kanx̱alhún
+1420	gúxʼaa aawadzóo
+1421	té teen tsʼítskw shagax̱dudzóo
+1422	gánch ashagux̱ladzóo
+1423	átt uwaxíx
+1424	du éet uwaxíx
+1425	cháatl ashaawax̱ích
+{Page = 110}
+1426	woosh shawduwax̱ích
+1427	basketball akaawagwál
+1428	x̱at yagwált
+1429	ḵúnáx̱ áyá aan awjitʼákw
+1430	at yeet awdihéin
+1431	at yeedé agux̱dahéin
+1432	i yaagú liyék
+1433	déix̱ ḵʼateil yáx̱ liyék
+1434	i éenyeet kaylitlʼétʼ
+1435	tléil yax̱ akawultlʼeitʼ
+1436	xʼeesháa x̱alashát
+1437	chʼa yaakw alshát; wududzineix̱
+1438	du séekʼ asiháan
+1439	x̱ʼaháat katéx̱ʼaa eetée ágé yawóol?
+1440	ax̱ lú tléil uwool
+1441	x̱aawaag̱í kax̱wliwál
+1442	sʼíksh tóonáx̱ ḵuyawduwawál
+{Page = 111}
+1443	xʼeesháa woowaal
+1444	kawdiwaal ax̱ téeli
+1445	aan du yaadé yóo wdudzigeet
+1446	du yaadé yóo kax̱wdzigít
+1447	dukʼéx̱ʼch wé góosʼ
+1448	du x̱ʼoosch awsikʼéx̱ʼ
+1449	aax̱ kei dulkʼéx̱ʼch
+1450	ḵux̱ awlikʼéx̱ʼ
+1451	yaa yanalgwásh
+1452	át yax̱wdligwáash
+1453	yéi át ax̱wdishée, cháatl kei g̱isayeeḵ
+1454	yéi át awtudishée
+1455	lisheidí wasóos
+1456	shéech aa jánwu ágé lisheidí?
+{Page = 112}
+1457	yaawatʼáayi héen
+1458	x̱ʼaan yáx̱ yaawatʼáa
+1459	g̱agaan ḵúnáx̱ áx̱ satʼáax̱ʼ
+1460	wé x̱ʼaan naaléiyi yéit wusitʼáx̱ʼ
+1461	x̱at kawduwasáy aatlein
+1462	x̱at kawduwasáay
+1463	yá neilyee akawlisáy
+1464	g̱agaan x̱aawaag̱í tóonáx̱ ax̱ kát kawdigán; ách áwé kalisáyjaa
+1465	yax̱ wudiḵín
+1466	g̱ooch g̱ax̱satí
+1467	du éet yaan uwaháa
+1468	tléil x̱áax̱ yaan uhaa
+{Page = 113}
+1469	tléil daa sá du éex̱ yaan oos.haa
+1470	tlax̱ áwé aax̱ x̱ʼawdinúk
+1471	i x̱ʼéidáx̱ x̱ʼax̱wdinúk
+1472	alʼóon woogoot
+1473	xóots gax̱toolʼóon
+1474	sh yáa has udawútlch
+1475	sh yáa ágé idawútl?
+1476	sh yáa x̱ʼeedawútl
+1477	du jín ée shawdiháa
+1478	kei kg̱wanéekw
+1479	x̱at natee
+1480	xóots gug̱atee
+1481	ax̱ yáa udutee
+1482	ix̱ʼeiwatee ágé?
+1483	tléil x̱at x̱ʼeiteeḵ
+{Page = 114}
+1484	yadáli saayí áwé i jeewú; a yáx̱ ḵig̱eestí
+1485	tlákw daḵéisʼ sh tóo iltóowu, daḵéisʼ kei kg̱wakʼéi
+1486	du daa.itnagóowu kei nakʼéin
+1487	gidéin shakandanúkch
+1488	tsaa eex̱í x̱alitsʼéx̱
+1489	a yáanáx̱ tá alitsʼéx̱
+1490	wudliḵítʼ
+1491	yaa nalḵítʼ
+1492	du eetéedáx̱ adunéixʼ
+1493	i eedáx̱ kuḵanáa
+1494	du ée gax̱dulnáa
+1495	ax̱ jín kawdi.éiyáḵw
+1496	haa daadé ḵukg̱watéesʼ
+{Page = 115}
+1497	haat uwagút, ḵaa daadé ḵung̱atéesʼit
+1498	du ée ktoolgúkch yá aadé yoo kg̱wahaan yé
+1499	haa ée kayidligóok
+1500	áa yishukdujeisʼ
+1501	gunalchéesh áa x̱at shukayijaayí
+1502	yú xʼáatʼ kaadé áa ḵaa jikaawaḵaa yá ḵaa naaxʼú
+1503	ax̱ʼakakg̱waḵáa
+1504	ḵaa tláa ḵaa gúk yíkde x̱ʼadasʼéesʼ
+1505	i toowúch ágé yakakg̱wa.áatlʼ?
+1506	yá atx̱á yagoo.áatlʼ
+1507	sh tugéit ágé iyawtudziḵáa?
+1508	sh tugéit x̱at yawdziḵáa
+1509	sh tugéit ágé iwtudzinée?
+1510	sh tugéit x̱at wudzinée
+1511	aadé yawdudziḵaayi yéich áwé, sh tóon wuditee
+1512	tuli.aan: tléil daatdáx̱ sá sh tóon yoo udateek
+{Page = 116}
+1513	yaa ḵeeydzigéi; yáatʼaa ḵu.aa s tléil a daa teeydataan
+1514	du daa.itnagóowu tóonáx̱ duwatéen kei yaa ḵukg̱wasgéi
+1515	yéi s x̱ʼakdunéek
+1516	ix̱ʼakakḵwanéek
+1517	kaawashoo
+1518	naaw-ch kawlishoo
+1519	i daa yoo tutánk x̱at kawlishoo
+1520	kéet akawsiteeyi ḵáa
+1521	dleit ḵáa ḵusteeyí kei ashukawsitée
+1522	x̱aan ḵunáax̱ daak sh kawdiník
+1523	du een sh idasá
+1524	kawduwatlaakw du ḵusteeyí
+1525	yaa kagax̱dutláakw
+{Page = 117}
+1526	dleit ḵáa ḵusteeyí yan kax̱wsinúk
+1527	át woohaa
+1528	tléil i eedé gooháa i ḵusteeyí
+1529	tléil x̱at wudu.éexʼ
+1530	yei ḵukḵwa.éexʼ
+1531	ix̱waa.éexʼ x̱aan at g̱eex̱aat
+1532	haa naa.ádi kagax̱tushax̱ʼéelʼ
+1533	ax̱ daa yaa kanalxwétl
+1534	ax̱ leitóox̱ kawlixwétl
+1535	yáa x̱ʼaháatnáx̱ tléil neilx̱ oohaa; yan uwakʼítʼ
+1536	yan uwakʼítʼi yé yáx̱ yatee haa ḵusteeyí
+1537	woosh has yawdzitéey
+1538	du shát ayawsitéey
+{Page = 118}
+1539	gaaw káxʼ áwé adug̱íkʼx̱
+1540	wáa yateeyi yéixʼ tléil oog̱íkʼx̱
+1541	dzánti ax̱ jeewatsʼútsʼ
+1542	yaa nx̱ashkʼén
+1543	tléil tʼáa káx̱ ishkʼéiniḵ
+1544	a kaanáx̱ haa kagax̱dukʼénxʼ
+1545	kei yikdukʼéin
+1546	chʼa kindachóon áwé kei tánch cháasʼ
+1547	deix̱dahéen kei uwatán
+1548	át wudix̱eet
+1549	yaa shanaḵʼétʼ
+{Page = 119}
+1550	wududlitsáakw chál káxʼ
+1551	gax̱tulatsáagu, wé haa x̱ooní haat ḵuwuteení yís
+1552	du een sh x̱ʼax̱wdzidóok
+1553	x̱át tsú du een kei sh x̱ʼakakḵwasdóok
+1554	ax̱ x̱ʼoos iyatséx̱
+1555	chʼa yeisú at tséx̱t
+1556	neil ashukawlitséx̱ wé x̱ʼaháat
+1557	tsaag̱álʼ teen xóots aawajáḵ
+1558	káaxʼ haa atx̱aayí sákw gax̱toojáaḵ
+1559	tsaag̱álʼch awlijáḵ
+1560	g̱uwakaan aawa.een
+1561	dáach woo.een yá káaxʼ
+1562	gandaadagóokch áyá wuliláx̱ yá aas
+1563	g̱uwakaan ḵútx̱ shuwtoolixeex
+1564	hóochʼ: dei ḵútx̱ shoowaxeex
+1565	ḵútx̱ yoo ḵaa shuyaxíxk
+{Page = 120}
+1566	ax̱ tʼaaḵxʼí, gunalchéesh aadé x̱aan yeetuli.aani yé
+1567	tléil x̱aan has tool.aan
+1568	du sée x̱ʼéide yawdzi.áa
+1569	ḵaa x̱ʼéit yawoos.á
+1570	sakwnéin akaawachúx
+1571	yan tuxʼ.uwatsóow
+1572	tléil a yee yax̱ tuxʼdutsóow
+1573	x̱ʼawool kadugwálsʼ
+1574	nadáakw akaawagwál
+1575	káayag̱ajeit kax̱ ashawsig̱éexʼ
+1576	nadáakw kax̱ ashawlig̱ích
+1577	ḵútx̱ kax̱waadúxʼ
+1578	tʼáa dlisheey
+1579	aas lisheey
+1580	hasdu ée ix̱wsikóo … anax̱ tóo has ag̱anookt has isax̱áni
+1581	x̱at yisikóo ágé?
+1582	ldakát áyá wutusikóo yá shkalneek
+{Page = 121}
+1583	iyagóok
+1584	aadé aawagóogu yéich, chʼu tle ḵútx̱ yoo ashulixíxk
+1585	asg̱eiwú tléil ux̱shagóok
+1586	Lingít ḵusteeyí ishigóok
+1587	tléil áyá ix̱ʼakooshgóok
+1588	i téeli x̱ʼakladzás
+1589	du kʼoodásʼi ax̱ʼakawlidzás
+1590	ax̱ daséigu ax̱ jee koowáachʼ
+1591	tléixʼ dáanaa wooyeix̱
+1592	násʼk sʼíxʼ áwé ooyéx̱
+1593	tléixʼ sándi ooyéx̱, haadé ḵukg̱wateení
+1594	tléil yoo kooshgútkw
+1595	gáaxw át wujiḵáḵ
+1596	kaawayík yaagú áa yei ishḵáḵch
+{Page = 122}
+1597	dliwkát x̱alatiních áwé, wootsáakw
+1598	ax̱ kinaak.ádi tléil utsáakw
+1599	sheey gán x̱ʼayatsáakw
+1600	ḵúnáx̱ at shooḵ
+1601	tléil dei at x̱washúḵx̱
+1602	du yoo x̱ʼatángi tléil tsu ax̱ ée ulshoog̱ú
+1603	hasdu éexʼ áwé at dulshúḵx̱ nooch
+1604	atkʼátskʼoo neil yawdlishúḵ
+1605	du húnx̱w hásch yaa kanashúḵ
+1606	haa kaawashúḵ
+1607	dákde daak shakḵwalatsáaḵ
+1608	ḵúnáx̱ oox̱dzikaa
+1609	gán ée oodzikaa
+1610	ax̱ʼeedzikaa yoo x̱ʼatánk
+1611	neildé ee shukḵwagóot
+1612	héen x̱ʼayaax̱dé x̱at shoowagoot
+1613	wanadóo yaa ashuna.át
+{Page = 123}
+1614	du yátxʼi át ashoowa.aat
+1615	keitl ayawsiyeeḵ
+1616	át ashawsix̱óotʼ
+1617	shí shukoonáay
+1618	linaaw ax̱ téeli
+1619	tlágoo hídi ká lanaaw nooch
+1620	hít yát shakax̱wdligán
+1621	tléil yax̱ shakayeelgaaníḵ
+1622	yaa at nax̱sakwéin
+1623	du x̱ʼéidáx̱ at x̱wasikóo
+1624	daḵéisʼ yei ntushagóok
+1625	datóow x̱washigóok
+1626	du x̱úx̱ch jeewanáḵ
+1627	ldakát atyátxʼi kawdikʼéetʼ
+1628	yeiḵ ḵukandakʼítʼ
+1629	yan has x̱walitsʼén
+1630	chʼa yan x̱at latsʼén
+1631	yasʼátʼ
+1632	tleix̱ átx̱ alyeix̱í, kei kg̱wasʼáatʼ
+{Page = 124}
+1633	ax̱ éet hísʼ
+1634	sʼeenáa ḵóot aawahísʼ
+1635	ax̱ éet lahísʼ
+1636	koochʼéitʼaa ax̱ éet kahísʼ
+1637	tság̱aa ax̱ éet kalahísʼ
+1638	tsu ajikwg̱anáaḵ
+1639	tsaa dleeyee ḵaa x̱ʼéide ajeewanáḵ
+1640	lʼée ḵaa kaadé aawajáḵ
+1641	dóosh neil sagú
+1642	tléil gánde yoo isagútguḵ
+1643	keitlxʼ neil wududzi.át
+1644	dóosh sh daa datléitʼ
+1645	héen x̱waatlétʼ
+1646	yaa sh ḵʼanalyél
+1647	tléil sh ḵʼeilyélx̱iḵ: xʼéig̱aa at kadunéek
+1648	ḵʼaliyéil
+1649	té át téen
+{Page = 125}
+1650	tsaa eejí wéit satéen
+1651	kʼwátʼ kút kát katéen
+1652	kooxéedaa nadáakw kát kasatéen
+1653	shál sdoox kát tán
+1654	dzeit hít tʼéit satán
+1655	ax̱áa hít tayeet katán
+1656	chooneit yáat kasatán
+1657	kasʼéet nadáakw kát kala.át
+1658	i kʼoodásʼi yóot áx̱
+1659	yee.át kát sh istáan
+1660	yánde sh kuḵastáa
+1661	dei s sh il.át
+1662	sʼeenáat akawligán
+1663	tléil át akawtulagaan wé sdoox
+1664	a looní chʼa woosh oodiyáa
+1665	ax̱ kéekʼ ax̱ tláa oowayáa
+1666	du húnx̱w yáx̱ x̱at kudayéin
+1667	ax̱ kéekʼ yáx̱ yánde ikagux̱dayáa
+{Page = 126}
+1668	woosh kéekʼ yáx̱ woosh kawdudziyáa
+1669	kooléix̱ʼwaa yáx̱ has yatee
+1670	ldakát has du tundatáani woosh yáx̱ wuditee
+1671	yá yeedát tléil ulḵáchk
+1672	dáaktaach yéi sh kalneek, chʼu tleix̱ kei gux̱laḵáchk
+1673	woosh has ishxʼútʼt
+1674	i x̱ʼéit x̱wasi.áx̱
+1675	át wusi.áx̱
+1676	chʼa yéi yagoo.áatlʼ haa-t yéi saní
+1677	chʼa yéi yagoo.áatlʼi goon héen áwé áa yéi yatee
+1678	du hídi yeexʼ chʼa tléináx̱ ḵoowa.óo
+1679	woosh teen has ḵudi.óo
+1680	has li.oos, has ash koolyádi
+1681	ḵúnáx̱ li.oos
+{Page = 127}
+1682	ldakát, yaakw yíkt kawtuwajél
+1683	aatlein atx̱á a yíkde yéi ndusneech
+1684	ḵóok yaakw yíkde gax̱tula.áat
+1685	atkaté a tóo kei kx̱waag̱íxʼ
+1686	a tóo kei kx̱waatée
+1687	x̱ʼéit kaylitéx̱ʼ ágé?
+1688	x̱ʼaháat x̱ʼéide kakḵwalatéix̱ʼ
+1689	x̱at wuliteesh
+1690	yi ítde yei haa gux̱latéesh
+1691	ax̱ aat yáx̱ x̱at taawa.ás
+1692	woosh yáx̱ yeetaagux̱da.áas
+1693	du éet sax̱wdlitʼán dé
+1694	woosáani yayátʼ
+1695	ḵáasʼ yayátʼ
+1696	du shax̱aawú yaa nalyátʼ
+1697	jinkaat ḵaa x̱ʼoos yéi kwliyáatʼ
+1698	tás kaliyátʼ
+1699	laaḵʼásk kaliyátʼ
+1700	yakyee yeeyayátʼ
+1701	tléil yeenayátʼch
+1702	wáa sá áa yeekg̱wayáatʼ?
+{Page = 128}
+1703	ḵúnax̱ áwé iyali.eesháan
+1704	áa neilt awdlig̱ín
+1705	woosh wooyaat has awdlig̱een
+1706	at gutóodáx̱ áwé dultín
+1707	tléil x̱at ilatíniḵ
+1708	xʼúxʼ yan kalatín
+1709	du yéi jineiyí dei yan kax̱wlitín
+1710	ax̱ sʼíxʼi daak kax̱waakʼét
+1711	nóoxʼg̱aa át ḵux̱wdlitʼéet
+1712	át ḵoowdlitʼéet
+1713	ax̱ éeshg̱aa ḵux̱atéesʼ
+1714	chʼáakʼg̱aa ḵutéesʼ
+1715	ax̱ dáanaa daakagwéili tóodáx̱ ḵut kax̱wlisóos
+{Page = 129}
+1716	ax̱ xʼeesháyi ḵut x̱waax̱eech
+1717	du yaagú ḵut aawag̱éexʼ
+1718	ax̱ shát ax̱ yéi jineiyi kaax̱ ḵut x̱waag̱éexʼ
+1719	at gutóoxʼ ax̱ lítayi ḵut x̱waag̱éexʼ
+1720	du chʼéeni ḵut awsig̱éexʼ aan x̱ʼayeexʼ
+1721	ḵut x̱at wudzigeet
+1722	ḵaa satú tsú kakísʼx̱
+1723	ḵusa.áatʼ néekw ax̱ satú akawlikísʼ
+1724	ḵaa leitóox̱ aklakísʼx̱
+1725	keitl ayawlishaa: ḵúnáx̱ ligaaw
+1726	lagaawdéin akagwálsʼ
+1727	salagaawúch, du aatch gánde kaawanáa
+1728	x̱ʼaligaaw
+1729	has wudiwéisʼ
+1730	tusix̱án: shuxʼáanáx̱ haa woosx̱ánich
+1731	du yaagú akawliyaa
+{Page = 130}
+1732	ḵóok yaakw yíkde kanax̱tulayaa
+1733	tléil g̱wadlaan: ax̱ tíxʼi dei yan jikaawagút
+1734	shayéinaa tíxʼi héende yaa jikanagút
+1735	deeyínde yei jikanax̱lagút
+1736	át ajikawligoot
+1737	aawasóos
+1738	tʼukanéiyi aḵʼasóos
+1739	dleey wudliwán
+1740	x̱áat héeni duhéix̱waayín; ách áwé x̱áat shayandaheijín
+1741	gax̱duhéix̱waa
+1742	tʼukanéiyix̱ isateeyí, iwdudzihéix̱waa: i taaní chʼáakʼ aasí kʼéenáx̱ kawdudzihaa
+1743	x̱ʼeisʼawáa x̱ʼoosí iwdzihéix̱waa; ách áwé iyagóot
+{Page = 131}
+1744	yaa s analyéx̱
+1745	chʼa neek áwé ax̱ daat alyéix̱
+1746	tléil ldakát reportx̱ dulyeix̱ch
+1747	yá yeedát startx̱ gax̱tulayéix̱
+1748	lʼee xʼwán akawsinéi
+1749	naaxein kadusné
+1750	tléḵw shayadihéin
+1751	haa shayagux̱daháa
+1752	yaaw shayadlihéin
+1753	at la.át ashayalihéin
+1754	tléil naa.át ashawulhéin
+1755	a kát aawayíḵ
+1756	tʼoochʼ yát awdiyíḵ
+1757	kooxéedaa teen a kát awsiyíḵ
+1758	a daa yax̱waayíḵ, kooxéedaa teen
+1759	haa daa wududzikwéy
+1760	i kooxéedaayi daa yeesikwéy
+{Page = 132}
+1761	aadóoch sá uwasháa?
+1762	g̱uneitkanaayí woosh dashéix̱
+1763	kʼúntsʼ katʼálʼ
+1764	banana kax̱atʼáalʼ
+1765	tléiḵw akaawag̱útl
+1766	dei kawdig̱útl
+1767	kʼúntsʼ katʼéx̱ʼ
+1768	ḵulnuksʼaatích ax̱ déx̱ʼ oowachúx
+1769	tléil chaa x̱ʼeití
+1770	Greek x̱ʼéináx̱ yá saa yéi shután Christ
+1771	Jesus ḵu.aa yá naná áyá tá yóo aawasáa
+1772	wáa sáyá at kudayéin?
+1773	yéi ákyá haa keenéek, uháan tsú, tléil ḵutushatéen?
+1774	nadáakw kulayáatʼi aawakaa
+1775	du tʼaayí wuduwakaa
+1776	yan aawakáy
+{Page = 133}
+1777	yáadáx̱ áwé násʼk waat yéi gag̱eewáat
+1778	déix̱ waat yéi x̱waawát
+1779	ijili.oos
+1780	yá náakw teen tlákw nanáakw
+1781	Lingít yáx̱ áwé sh x̱wadináakw
+1782	tléil gé daa sá i kagéi kawoohá?
+1783	yaa nalléin
+1784	dleit yei kanalléin
+1785	éilʼ héen kaadéi yei klaléich
+1786	kʼóox̱ʼ dei x̱ʼawliláa
+1787	dáanaa kawduwaḵwátlʼ
+1788	eeḵ akagux̱laḵwáatlʼ
+1789	du yaagú aawax̱ásʼ
+{Page = 134}
+1790	yá táakw shákdé tléil kei gux̱latseen
+1791	ḵoowsináa
+1792	wasóos ágé ilag̱útsx̱ nooch tsʼootaatxʼ?
+1793	tléil yax̱ udatsʼéin
+1794	du jikáa yan woodá: tléil jidaa udanook
+1795	ax̱ táaxʼálʼi tléil jidaa x̱wdanook
+1796	ayawsi.únx̱aa
+1797	ayawligwálx̱aa
+1798	ayawlitʼáchx̱aa
+1799	ayawlidzéix̱aa
+1800	ayawlix̱íchx̱aa
+1801	ayawliḵʼíshx̱aa
+1802	ayawlishátx̱aa
+1803	x̱ʼaan néegwálʼ ḵa dleit néegwálʼ woosh x̱oot ajikaawatée
+{Page = 135}
+1804	shóogaa ḵa sakwnéin woosh x̱oot yéi awsinée
+1805	woosh x̱oot ajikaawaháa
+1806	du naa.ádi wuditláx̱
+1807	atx̱ʼéeshi yaa ndatláx̱
+1808	x̱áat geiyí, has yandadláḵch
+1809	hoon daakahítxʼi yadadláḵxʼw
+1810	dís yawdziḵeen
+1811	dís yan yaawawát
+1812	sʼikdísi wudziḵeen
+1813	awdlidées
+1814	tléil utsʼúx̱x̱
+1815	gúxʼaa woosh eetdé yaa kandag̱asóos
+1816	lʼéiw yaa kanasóos
+1817	góosʼ naagáasʼ
+1818	yaakw yóot uwagásʼ
+1819	yaa nalgásʼ
+{Page = 136}
+1820	kei sh ilgásʼch wé taan
+1821	aax̱ ḵux̱ kawdligásʼ
+1822	át kawligáasʼ
+1823	chooneit du tóonáx̱ yawligásʼ
+1824	xoodzí yawligáasʼ
+1825	yaa kundayéin
+1826	a yíkt at kawdiyáayi yé yáx̱ ax̱ toowáa yatee
+1827	g̱unayéi at yasaxíxx̱
+1828	yaa x̱at ḵʼayanadáax̱
+1829	chʼa yaa ḵʼaygadáax̱ch
+1830	yaa nahen át yoo shayaxítlk
+1831	tlákw ḵaa yaagú shanaxítlch
+1832	du yaax̱ woowooḵ
+1833	du lʼaakí át nawúḵch
+1834	át wusiwooḵ
+1835	wóosht wudidúsʼ
+1836	héen g̱unayéi udóosʼch
+1837	x̱áat kax̱atleix̱w
+1838	yaa akanatléx̱w
+{Page = 137}
+1839	táakw eetéexʼ shoox̱ʼ kaax̱ yadahaa
+1840	yáadáx̱ haa gux̱sadáak
+1841	ixkéede wsidaaḵ
+1842	yáadáx̱ kei gax̱tooltsóow
+1843	yáadáx̱ kei haa gux̱lagáasʼ
+1844	chʼa x̱walitsʼúx̱
+1845	tléil g̱unayéi eelatsʼúx̱x̱úḵ: tlax̱ a yáanáx̱ shaawatsʼítʼ
+1846	du sʼíxʼi át akaawakʼét
+1847	ax̱ yaagú yakḵwalatʼáak
+1848	sʼíxʼ dei g̱unayéixʼ kax̱waa.étsʼ
+1849	yaakw yaa sh kanda.étsʼ
+1850	yanéegu ḵáa át sh kanda.étsʼch
+{Page = 138}
+1851	a kát woojeil
+1852	chʼa g̱óot aa téel yéi na.oo; wé dei yík kawshiḵútlʼ
+1853	du naa kei ndax̱út
+1854	yaa nasx̱ít
+1855	x̱at x̱ʼayatlʼúnkw
+1856	ax̱ yatʼéidáx̱ x̱ʼayatlʼúnkw
+1857	du daa lidleeyí
+1858	g̱uwakaan kei naldleeyí
+1859	du x̱aawaag̱í ká akaawaxʼóo
+1860	tʼáa yátxʼi áwé kaduxʼweisʼ
+1861	tuháayi yaa akanasxʼwéin
+1862	át at kasaxʼú
+1863	wáa sá duwasáakw?
+1864	du een sh eedasá
+1865	du yéi jineiyích wududlisáa
+1866	yáa a góonnáx̱ wooshoowu dei, ách áyá has awlisáa yáa aan
+{Page = 139}
+1867	yaa nx̱asáy
+1868	du kasán yéi koosáa
+1869	lítaa yéi koosáa
+1870	tíxʼ yéi kwlisáa
+1871	ax̱ kéesi tlax̱ yéi kakoosáa
+1872	yá dei tlax̱ áyá kakwlisáa
+1873	yaakw yéi kakwlisáa
+1874	tléil tlax̱ haa jeedáx̱ at kawusei
+1875	kunaséi áwé, aadéi áwé daak at x̱wali.ún
+1876	yaa akunalséin
+1877	yá ḵutaan yaa kunalséin
+1878	ḵúnáx̱ yanéekʼ wé atkʼátskʼu
+1879	yées téel eetéenáx̱ x̱at yatee
+1880	tʼaawáḵ g̱eey yík alkʼwát
+1881	yá yeedát has awdlikʼwátʼ déi
+{Page = 140}
+1882	shakawdzinét
+1883	du yoo x̱ʼatángi daat haa yawustaag̱ín
+1884	tléil at daat yawustaaḵ
+1885	i toowú shatʼíxʼ: i eedé yaa at nax̱lanúk
+1886	haa yaanaayít at wulinúk
+1887	yoo awlitʼéey
+1888	ax̱ x̱ʼoos wulixʼwásʼḵ
+1889	yéi ee.aayí, i daa.ittú kei gux̱laxʼwásʼḵ
+1890	ax̱ jín wulinák
+1891	ax̱ tlʼeiḵ wudlinák
+1892	ax̱ dachx̱ánkʼ ax̱ x̱ʼéig̱aa yatee
+1893	du x̱ʼéig̱aa inatí
+1894	du tláa x̱ʼéit awsi.áx̱
+{Page = 141}
+1895	haat x̱waagút, ḵaa ḵusteeyí kanḵaltínt
+1896	du ḵusteeyí yánde kakḵwalatín
+1897	tlax̱ ḵúnáx̱ du toowú yatʼéexʼ
+1898	tléil áwé aadé ḵaa x̱ʼéit oox̱si.aax̱i yé
+1899	chʼa aadé yéi x̱at nay.oo: yee tugéit shákdé x̱wadzigít
+1900	ḵaa tugéit wudzigít
+1901	lʼoowú ḵélaa kuḵalanéisʼ
+1902	at doogú kuḵalanáa
+1903	yawdlináa
+1904	yaneisʼí teen yeelná
+1905	shax̱wdlináa
+1906	shakakḵwasx̱ʼáalʼ
+1907	yaa x̱at nadashán
+1908	tléil iwdashaan
+{Page = 142}
+1909	i shax̱aawú yaa nalshán
+1910	yagóolʼ
+1911	waḵshigóolʼ
+1912	ax̱ óonayi daax̱ akax̱wshigúlʼ
+1913	át shux̱wlig̱eech
+1914	ldakát du xʼúxʼu át ashuwli.aat
+1915	wóoshdáx̱ shukḵwala.áat
+1916	dei x̱ʼéidáx̱ kei x̱waayísh
+1917	héide x̱ʼeinayeesh
+1918	x̱ʼaháat héide ashoowataan
+1919	g̱ayéisʼ hít x̱ʼaháadi héide shuwli.aat
+1920	x̱ʼéidáx̱ yaku.étsʼ
+1921	ḵutaan yaa shunaxíxi, alʼóon x̱ʼéidáx̱ shooshx̱ínch
+1922	tléil unalé x̱ʼéidáx̱ shuwushx̱eení
+1923	kʼé, x̱ʼatʼáx̱, i leitóox̱ ḵaḵasateen
+1924	tlákw x̱ʼeitʼáx̱ch
+1925	x̱at wuduwaxaash
+1926	gwátk sáwé gax̱duxáash?
+{Page= 143}
+1927	ḵaa waaḵ shagáalʼi yoo duwatsʼétʼk
+1928	a yís yoo kawdudzitée
+1929	tléil yáa yoo kawdudzitéeyi aa áyá x̱át
+1930	át ḵukax̱waa.aaḵw
+1931	dei chʼa yéi áwé át haa kuna.áḵwch
+1932	has x̱at jikoo.aaḵw
+1933	ajikx̱waa.aaḵw
+1934	neildé kawduwanáa at yátxʼi
+1935	chush x̱oodáx̱ has akawdináa
+1936	yax̱ has jikawduwanáa
+1937	du jeeyís yóox̱ sh jikax̱wdináa
+1938	du sée gáande akawlináay
+1939	tlákw sgóonde x̱at kandulnáaych
+1940	tléil aag̱áa ayeewóoḵ
+1941	xʼúxʼ káx̱ awéisʼ
+1942	káx̱ aduwesʼ xʼúxʼ
+1943	Dikée Aanḵáawu jeenáx̱ kei shukawsixíx x̱ʼaséikw
+1944	aadáx̱ yá shuxʼáanáx̱ aadé kei shukawsixíxi yé, kakḵwanéek
+{Page = 144}
+1945	yéi kakwshiyáatʼ
+1946	héent uwaḵʼétʼ
+1947	yóot kaawa.úk
+1948	i sáni éet idashí: yaa yandatléxʼw
+1949	déix̱ haa x̱áni uwax̱ée
+1950	áa x̱at gug̱ax̱ée
+1951	tsʼootaat áwé a tóo yag̱alx̱éech
+1952	tlákw keitl has aya.óo
+1953	tléil ágé yaakw ee.oo?
+1954	yaa kandaḵʼékʼw
+1955	ḵaa shukát yan kawdichák
+1956	Aangóonde yaa nax̱datʼík
+1957	nandachóon kuḵadatʼéek
+{Page = 145}
+1958	Eeḵ Héenidé adux̱áa noojín
+1959	tláakw ax̱áa
+1960	ax̱ yaagú x̱anéegwálʼ
+1961	tʼáa ká áwé gug̱anéegwálʼ
+1962	tléil has uxwáchk
+1963	l uwaxwáchgi néekw
+1964	x̱at wudi.éik
+1965	ax̱ jee wdi.éik
+1966	xʼoon sá yaawax̱ée?
+1967	jinkaat ḵa déix̱ yaawax̱ée yá dís
+1968	g̱agaan a tʼéide yaa anaxíx
+1969	g̱agaan ḵúnáx̱ hasdu keenáa yaawaxíx wé yakyee
+1970	ax̱ jeedé wududliyaaḵw
+1971	ax̱ tláach yan x̱at yawsiḵáa du aayí i jeedé yan ḵalayaag̱út
+{Page = 146}
+1972	a x̱oo.aa náakw ḵaa daa yaa ḵulag̱átch
+1973	ax̱ daa yaa ḵoowlig̱át
+1974	tʼukanéiyee aldléigu
+1975	du x̱ʼásʼ x̱walidléigu
+1976	ax̱ kʼoodásʼi x̱atéeysʼ
+1977	dei aawatéey
+1978	haa tlʼátgi wududzigéy
+1979	yawdudzigéy; tléil ḵu.aa s a yáx̱ kawugé
+1980	haa nahéesʼadi tléil wutuḵé
+1981	asg̱eiwú ítxʼ ikḵwaḵéi
+1982	jinkaat dáanaach x̱at wududziḵéi
+1983	tléil ách wutusaḵé
+1984	ldakát ágé yee jeewtuwaḵéi?
+1985	wáa sá ldakát x̱áat ee ée jeewduwaḵéi?
+1986	íx̱tʼ x̱waahee du káxʼ
+1987	íx̱tʼ áyú duheexʼín
+1988	yáa wáach wé íx̱tʼ ách nas.hee
+{Page = 147}
+1989	adawóotl tlein yan shushx̱éen, at wududlikʼei
+1990	gandaadagóok aas daa agóok
+1991	át sh kanaltséx̱ch
+1992	kʼúntsʼ daakx̱ayéix̱
+1993	áanjís daax̱asʼéilʼ
+1994	yaana.eit daakakḵwasʼéilʼ
+1995	teey woodí akaawasʼéilʼ
+1996	kei shoowadlúx
+1997	a shadaadoogú kei shukḵwaladléixw
+1998	du hídináx̱ yóox̱ yaa yanas.éin
+1999	anax̱ kei yawdzi.áa
+{Page = 148}
+2000	du daat yawdixún
+2001	haa kaawawálʼ
+2002	lingít aaní káxʼ tléil daa sá yan wujaaḵw
+2003	Dikée Aanḵáawoo yoo x̱ʼatángi ldakát át yáanáx̱ uwanéeyi átx̱ sitee
+2004	John ḵa Mary yan has uwanée
+2005	du éexʼ yéi s atoowlinúk
+2006	ax̱ tóo kei at woolinúk
+2007	ax̱ tóo daak has ḵukalnúkʼch
+2008	du sh danéegu du tóox̱ yei jikanaxíx
+2009	toowú sagú du tóox̱ jikaxeex
+2010	a tsʼáayi chʼa ldakát yá neilyeex̱ shakaawayaa
+{Page = 149}
+2011	du éesh akshaxeet
+2012	aan ḵukdushxit át
+2013	aatlein kanatʼá wutuwa.ín
+2014	tléiḵw akwg̱a.éen
+2015	laaḵʼásk as.een
+2016	ḵukʼéetʼ woogoot
+2017	tatgé ḵux̱waakʼítʼ
+2018	kax̱wlitátskw kadádzaa yeit kaadé
+2019	tléil ldakát tléiḵw kadultátskw
+2020	kanatʼá áwé kax̱wdlitaats kadádzaa yeit kaadé
+2021	woosh x̱oodáx̱ yawduwag̱ích
+2022	du ganaswáani sákw ayaawag̱ích
+2023	wé téel aax̱ gatí
+2024	tʼaaw ḵóok yíkdáx̱ kei kataan
+2025	tléil kei yéi eesaneejíḵ
+2026	ax̱ keitl yádi kei kḵwasanóok
+{Page = 150}
+2027	tʼáa gasagú
+2028	xʼáaxʼ kei gax̱toohóot
+2029	has wudiwóo agé?
+2030	gax̱tudawóo
+2031	ḵáasʼ ax̱ tlʼeiḵt yawdig̱ích
+2032	tuháayi anax̱ yawdig̱ích
+2033	dzeit tayee akaawachák
+2034	ḵaa shukát yan kawdichák
+2035	chʼa wé cháash kax̱tulacháak yee.át sákw
+2036	dleit kei ndag̱át
+2037	l tlákw yéi jix̱waneiyí, ax̱ yéi jineiyí kei gux̱dag̱áat
+2038	gán kei nax̱sag̱át
+2039	du dlaakʼátskʼu atsʼíkʼwt
+2040	tléil x̱at eetsʼíkʼwdiḵ
+2041	du dlaakʼ tlákw altsʼéekʼw nooch
+2042	asʼóoshkw akwshitán
+{Page = 151}
+2043	tléil eesʼóoshguḵ
+2044	neil ashoowatée
+2045	g̱eey x̱ʼakaanáx̱ yan shoowduwatée
+2046	x̱áat dug̱éech
+2047	a yíkde áwé dug̱ích nooch wé x̱áat
+2048	eeshandéin at daa tunatí
+2049	eeshandéin at daa tutí du tóo yéi woonee
+2050	ḵáasʼ yanax̱ aawatsaaḵ
+2051	hít tayeegáasʼi anax̱ g̱atsaaḵ
+2052	ḵáasʼ yanax̱ aawatsóow
+2053	g̱ayéisʼ gúxʼaa kaanáx̱ oowatsóow
+2054	inxʼeesháa kaanáx̱ latsóow
+2055	ldakát yan akaawa.áḵw
+2056	yéi kawtuwa.aaḵw
+2057	a yáanáx̱ kawsikáak; ách áwé ayéix̱
+2058	awsihút du yaagú
+{Page = 152}
+2059	sʼú teen áwé doos.hútx̱ yá yaakw
+2060	katsóowaa teen kadultsóow
+2061	chʼáakw anahoo kaduhéix̱een
+2062	kʼúntsʼ kagax̱tooháa
+2063	du sheiyí du daa kaawatsátl
+2064	x̱ʼawool yei kakḵwalayáash
+2065	kawdudliyáash
+2066	sée teen ḵunax̱toos.ookʼ
+2067	ash kanax̱toolyát
+2068	kei yaduxʼútʼch
+2069	has ash koolchʼéitʼaa
+2070	has ash koolḵʼíshaa
+2071	has ash koosḵúx̱aa
+2072	has ash kooltʼáaxʼaa
+2073	has ash koolkʼéinaa
+2074	has ash koolkítsʼaa
+2075	has ash koolg̱eig̱achʼ
+2076	has ash koodatʼájaa
+2077	agux̱la.áax̱
+2078	tu.óoxsʼ yeit ali.áx̱ch
+2079	has ash koolg̱íx̱ʼjaa
+{Page = 153}
+2080	tʼukanéiyi tʼook káxʼ jikaawanéiy
+2081	chʼa yéi jikx̱waanéiy
+2082	yakwsi.aan aadé yeeliyéx̱i yé
+2083	xíxchʼ tléil yakoos.aan
+2084	l a yáx̱ oowateeyi neek, tléil du toowú kei agux̱lakʼei
+2085	ax̱ jeet eeyatéeyi át ax̱ toowú alikʼéi
+2086	wéi kindachooneit aax̱ laxʼúlʼ
+2087	du x̱ʼadaadzayí akʼóotsʼ
+2088	tʼaaw awlikʼútsʼ
+2089	sʼeenáa kaxéesʼi át shulatsáḵ
+{Page = 154}
+2090	yáanáx̱.aanáx̱ wudzidíkʼ
+2091	yaa tunasdíkʼ
+2092	wé x̱aawaag̱í eetí gax̱toodéexʼ
+2093	wé pipe shudíxʼ
+2094	át x̱waachʼéx̱ʼ
+2095	yaakw aawachʼéx̱ʼ
+2096	ḵaa x̱oot nachʼéx̱ʼch
+2097	át akawlixeet
+2098	aax̱ daak kawdudlixít yú plane
+2099	powder x̱ʼadáadzi atukaxeet
+2100	g̱áande kei x̱waagúḵ
+2101	lítaa a tóot awsigóo
+2102	ḵáasʼ du yát x̱wasigóo
+2103	tág̱aa teen aawatáḵ
+2104	x̱ʼéixʼálʼch awsitáḵ
+2105	gunx̱aa altáḵt
+2106	akawlitáḵ
+{Page = 155}
+2107	x̱at yawsitáḵ
+2108	ḵáasʼ teen lʼéiw akatsaaḵ
+2109	at sʼéilʼi a eetéex̱ has aklatsaaḵ
+2110	gúxʼaa kaadé woochʼéix̱ʼ
+2111	shaan dei shax̱aawú x̱oodé kasgoox̱
+2112	yaakw daak nadultáḵ
+2113	dúḵ yaa naltáḵ
+2114	yaakw héen yíx̱ kei dultsáḵch
+2115	naakéede naltsaaḵ
+2116	kei sh kaltáḵch
+2117	a kaanáx̱ sh gax̱tooltáḵch
+2118	nadáakw kagax̱tushag̱éelʼ
+2119	ax̱ téeli ḵukakḵwasaháa
+2120	igux̱la.eesháan
+2121	yú ḵáa li.eesháan
+2122	té x̱ʼaanch kawsitʼáx̱ʼ
+{Page = 156}
+2123	kei wjitʼáx̱ʼ
+2124	yan kawtusinúk i tóot at yadaxúni
+2125	kei gux̱lachéesh
+2126	kʼeeljáa tlein tléil ulchéesh
+2127	ax̱ tóoch tléil ulchéesh yéi x̱wsaneeyí
+2128	du tóoch lichéesh
+2129	wulitúk
+2130	daa sá haadé kg̱eeshḵóox̱?
+2131	áa ḵugax̱dus.ookʼ yéide yaa anashḵúx̱
+2132	chʼa kʼeekát tʼéx̱ʼ wé atx̱ʼéeshi
+{Page = 157}
+2133	kawduwatʼéx̱ʼ wé té
+2134	yaa anasxéini, neil uwagút
+2135	tléil káaxwei yax̱ akoosxáaych
+2136	a káa yax̱ aa ksaxá héen
+2137	héen ax̱ jeet yasaxá
+2138	yadiwéinaa aa shaawát
+2139	yakḵwalwéinaa
+2140	sh tóoxʼ ágé yan has at wudlitóow?
+2141	alʼeix̱ sh tóo gax̱tooltóow
+2142	at kaawashéix̱ʼ
+2143	tléil yéi jix̱wané daaḵw ḵáa sá x̱at kang̱ashéix̱ʼit
+2144	Lingít atx̱aayí akawlishéix̱ʼ
+2145	tléil x̱ʼeidagáxʼx̱
+2146	a yáaxʼ x̱ʼawdigáxʼ
+2147	i káxʼ x̱ʼax̱wdigáxʼ
+2148	sh káa x̱ʼeidagáxʼ
+2149	Dikée Aanḵáawu yoo x̱ʼatángi kaax̱ ḵoon sh kawdlineek
+2150	ax̱ éesh ḵóon sh kakg̱walnéek seig̱ánín
+{Page = 158}
+2151	x̱ʼalitseen wé tináa wé Lingít jeexʼ
+2152	alʼóon x̱waaxoon
+2153	daaxʼoon yakyee x̱ʼáanáx̱ at wooxoon
+2154	ldakát át gé yan uwanée?
+2155	yee yéi jineiyí yayeedé yan yee ní
+2156	dleey kaxákwlʼi kax̱waachúx
+2157	kawduwachúx
+2158	laaḵʼásk kax̱satʼaak
+2159	akawlichʼéix̱ʼ
+2160	chʼa g̱óot aa ágé kayeelichʼéix̱ʼ?
+2161	du yéi jineiyí awliyél
+{Page = 159}
+2162	tlákw ḵoon sh ulyélch
+2163	sh aḵʼalx̱á
+2164	sh aḵʼaltóow
+2165	sh ḵʼawdlinéekw
+2166	sh ḵʼawdlinaa
+2167	haat sh ḵʼawdligút
+2168	haat sh ḵʼawdlixíx
+2169	shaklig̱éi
+2170	kei shakanalg̱éin
+2171	yalag̱éi du jeewú
+2172	táaxʼálʼ du tlʼeiḵt yawdig̱ích
+2173	táaxʼálʼ du tlʼeiḵt ayawlitsáḵ
+2174	yeisxʼ g̱oowakaan yax̱ taa
+2175	yan uwatáa dei
+2176	ax̱ jín kawdidálʼ
+2177	i jeeyís kakwḵaladáalʼ
+2178	kawdudlidálʼi sʼísaa
+2179	x̱aan at yawsiḵaa
+2180	chʼa tlákw a kát satée nooch du at yawusḵaayee
+2181	x̱aan yanasḵaa
+{Page = 160}
+2182	du jeet aawatée du een yawusḵáayi aa át
+2183	ḵáasʼ xʼóow tayeet x̱waligásʼ
+2184	inxʼeesháa a tayeet lagásʼ
+2185	du xʼúsʼi hít yát ashaawatán
+2186	aas kʼéet shawduwatán
+2187	a shuká akaawaneek Jesus gug̱anaawú
+2188	tléil shaawát ḵoosháaxʼw
+2189	yei kḵwasháaxʼw B. ax̱ éekʼ jeeyís
+2190	ax̱ toowú klig̱éi i kaax̱
+2191	woosh kaax̱ hasdu toowú klig̱éi
+2192	du toowú kalig̱éi
+2193	yú ḵáa yan kax̱wsinúk yaa ḵudzigéi
+2194	yan kaḵasanoogút, x̱aan akaawaneek
+2195	duskéetʼ
+2196	yalooleit kaduskéetʼ
+{Page = 161}
+2197	yalooleit yadulkéetʼ
+2198	ḵóok yanáadáx̱ kei dulkítʼch
+2199	x̱ʼéidáx̱ kei analkítʼ
+2200	i shax̱aawú yeelikútl
+2201	ax̱ shayeidí kalakútl
+2202	daat shayeit sáwé kaylikútl?
+2203	kínde at sayíḵxʼ
+2204	x̱aawaag̱í áx̱ g̱ayeesh
+2205	tléixʼ du oox̱ áx̱ kei aawayísh
+2206	lítaa aax̱ kei aawax̱útʼ
+2207	tíxʼ akagux̱saxáat
+2208	woosh kawdudzixát
+2209	anahoo kaduyéesh
+2210	x̱aat kuḵalasʼéilʼ
+2211	teet du een daak x̱ʼawdiyíḵ
+2212	teet ḵoon daak x̱ʼadayíḵch, kulix̱éetlʼshán
+2213	yá ḵáa yagax̱dujee
+2214	ax̱ geinyaax̱ yawduwajee
+2215	du tundatáni tléil ultóok
+{Page = 162}
+2216	l ultúkdéin yoo sh dudzineek, a yayeedé
+2217	l ultúkdéin i tundatáani nasní
+2218	x̱ʼóon kadulsháḵx̱
+2219	taan yaa yandutsáḵ
+2220	kei x̱at uwagúḵ yóot aa
+2221	yáa iltʼíxʼsi jeedé akagóoḵ yá cháatl
+2222	du yaagú héent aawatsáḵ
+2223	wasóos daakahídidé kawduwashítʼ
+2224	hasdu aaní kaadáx̱ shákdé has kagax̱dulshéetʼ
+2225	wóosht kawdax̱dlishítʼ
+2226	kʼwátl káa yéi na.oo
+2227	gáaxw x̱ʼwáalʼi shayeit tóoxʼ yéi gax̱too.oo
+2228	a daa awsihát
+{Page = 163}
+2229	táḵl yáaxʼ yan tí
+2230	ḵóok tʼáa káa yan awsitée
+2231	kasʼéet nadáakw káa yan akawli.át
+2232	dóosh yan sanú
+2233	du séekʼ a yee.ádi káa yan awsitáa
+2234	dóosh yádi shayeit káa yan aawayíḵ
+2235	neechxʼ aawalʼaaḵ
+2236	Shaaseiyee.aan neejíxʼ akg̱walʼáaḵ
+2237	du x̱ʼoos woolʼéexʼ; a yáx̱ guyagax̱dutaanán
+2238	ax̱ jín a yíx̱ guyanataanán
+2239	áa ax̱wlixaach
+2240	ax̱ toowatee gáalʼ kahaa; ax̱ toowú ḵu.aa awlixaach
+2241	du kinaak.ádi káx̱ awditee
+2242	x̱ʼoosx̱ agux̱dayéeḵ
+2243	yéil sʼáaxw sháax̱ x̱waditee
+{Page = 164}
+2244	jinkaat gaaw kadulkísʼx̱
+2245	i sdooxú ágé akawlikísʼ?
+2246	wé x̱ʼaan yagux̱lakéesʼ
+2247	sʼeenáa ayakagux̱lakéesʼ
+2248	yaklakísʼ
+2249	woosh g̱uwanáade atx̱á yan kadulgáayjín
+2250	ax̱ yátxʼi x̱ʼéis atx̱á yánde kakḵwalagáa
+2251	yóo aan kaawa.áa
+2252	yóo aan yoo kaya.éik
+2253	du een wudikán
+2254	i een kuḵadaḵáan
+2255	x̱ʼawdudzitʼíxʼ
+2256	a káx̱ has x̱ʼagax̱tusatʼéexʼ
+{Page = 165}
+2257	tuyax̱útʼkw
+2258	tuyax̱útʼgu ḵáa du ḵusteeyí tléil yax̱ ujaaḵw
+2259	chʼa áa kḵwakʼáatlʼ
+2260	sh wudikʼátlʼi ḵáa
+2261	sh eelkʼátlʼ
+2262	tléil sh oolkʼátlʼx̱
+2263	yan x̱ʼeidatsʼén déi
+2264	dei g̱áa yaa nateen: yax̱ x̱ʼakawditsʼén
+2265	yan x̱ʼakax̱wlitsʼén
+2266	jix̱wdináḵ
+2267	jix̱tudanaaḵ goo.aa déi ágé
+2268	x̱ʼanáḵ déi wé atdaná
+2269	ax̱ yéi jineiyí kei x̱waalít
+2270	ax̱ sháade háni tléil a yáx̱ yoo x̱ʼeitánk, ách áwé kei x̱wdilít
+2271	yan awtudlix̱aanásʼ
+2272	kaxʼásʼti woodudlix̱aanásʼ; haat has aawax̱ách
+{Page = 166}
+2273	aatlein séew haa kaadé akwg̱ag̱éet
+2274	yaa anag̱éet
+2275	séew daak wusitán
+2276	daak satánch
+2277	séew yoo akakg̱walítk
+2278	ḵukawduwag̱ít
+2279	i éekʼ naná tóodáx̱ shagax̱dusnóok
+2280	yá hóochʼ yakyeeyí káxʼ nanáadáx̱ has shakḵwasaḵée
+2281	aankwéiyi has awlinaaḵ
+2282	yaa analnáḵ
+2283	kei jilatsaaḵ
+2284	yee jín kei jilatsóow
+2285	ax̱ yáx̱ asʼeekawdzig̱éexʼ
+2286	ax̱ káalkʼw kei nax̱sawát
+2287	has akaawaháakw
+2288	kawduwaháakw
+2289	aatlein áyá gax̱duxʼóolʼ yá xáanaa
+{Page = 167}
+2290	ḵut wudlixʼóolʼ
+2291	goodé sá yeelxʼóolʼín?
+2292	lishísʼḵ
+2293	du tláach át yawlijeil
+2294	át wulihaashi atdoogú yaa ayanaljél
+2295	daak jeewlitsáḵ
+2296	ax̱ xʼúxʼu yan x̱waatóow
+2297	kéenáx̱ nidatóow
+2298	sax̱wdihaa
+2299	aax̱ kei wdzikʼút
+2300	g̱útl aax̱ ḵux̱ iskʼútch
+2301	ax̱ shunax̱wáayich kʼútt; yakḵwag̱éelʼ
+2302	ax̱ lítaayich uwakʼút
+2303	du shaláx̱ʼ kaax̱ kaskʼóot
+{Page = 168}
+2304	aadáx̱ ḵux̱ daléich
+2305	du jeet x̱waatéeyi át tléil a yeexʼ daak wushí
+2306	a káx̱ at x̱wasi.éeyi dáanaa yeexʼ daak kuḵashée
+2307	tléil ágé x̱at yayeeteen?
+2308	haa yawduwatín
+2309	a daax̱ ágé tuyawditaanán?
+2310	ax̱ káani hídi woo.oo daax̱ tuyax̱wditaanán
+2311	akawliléix̱ʼw
+2312	x̱áach áwé yax̱waaléix̱ʼw
+2313	l ushkʼé tóotx̱ x̱at wusineix̱
+2314	l ushkʼé tóotx̱ ḵux̱ haa yaawadláḵ
+2315	yaaw kawlilík
+2316	dáanaa yaa awshigéi
+2317	shig̱eig̱i ḵáa chʼa tlákw yaa at shigéi
+{Page = 169}
+2318	x̱at yaawatsáḵ
+2319	aadáx̱ iyawduwatsáḵ
+2320	du washéeni ash jeexʼ tudi.ús
+2321	sh tóo yei at kagax̱dul.áax̱ch
+2322	dei sh tóo at kawtool.aax̱ín
+2323	ax̱ aat haat g̱agúdín, ax̱ toowú kax̱dayásʼch
+2324	chʼa tlákw du toowú akawliyáasʼ
+2325	aadóoch sá i toowúch yan wulijáḵw?
+2326	du kát haa toowajáḵw
+2327	i eetéenáx̱ tléil yan x̱at tuwujaaḵw
+2328	du yát tulijáḵw
+2329	ax̱ sʼaatí, i yát tux̱wlijáḵw
+2330	keijín dáanaa áyá aax̱ ḵoowdi.oo
+2331	i toowúch ágé aax̱ aa ḵugux̱da.óo?
+{Page = 170}
+2332	tléil i káa daak x̱at sawuhá
+2333	a káa daak has seiwaháa, yáa aadé yawuḵáayi yé
+2334	a kát sayatee
+2335	du ḵusax̱áni tlákw du tóoxʼ yéi yatee
+2336	gunalchéesh ax̱ káa daak teedataaní
+2337	yee tula.aaní káa daak tukḵwadatánch
+2338	i káa daak toowtuli.át
+2339	a káa daak sh sax̱wdliháa hoon daakahídidé kḵwagoodí
+2340	a káxʼ ágé daak has sayliháa?
+2341	atx̱á haat yéi ḵasaneet, a káa daak x̱at sawliháa
+2342	a kát x̱at sawlitee
+2343	ldakát ax̱ ádi akaawajeil
+2344	du oox̱ kei kawduwajél
+2345	táaxʼálʼ teen x̱waa.út
+{Page = 171}
+2346	sʼáxtʼ ax̱ jíndáx̱ kei x̱wli.út
+2347	x̱áat has altlʼéil
+2348	ḵúnáx̱ yéi jiné yá iltlʼéili
+2349	wé x̱áat naltlʼéilaḵw
+2350	shaaw g̱adus.éenín, kadulnóoxʼáḵw
+2351	g̱uwakaan doogú yaa analx̱ʼwásʼ
+2352	tsaa taayí aawadákw
+2353	agax̱toodáakw
+2354	chʼa kei alhéesʼch
+2355	x̱áat wududlihísʼ
+2356	a daadáx̱ ḵux̱ teedatán yáa l ushkʼé
+2357	ḵux̱ tux̱wditán
+2358	ḵux̱ tiyeel.á: ayaydanáḵ
+2359	x̱át áyá sakwnéin ax̱ daadleeyí yéi x̱wliyaaḵw
+2360	x̱ʼaháat yóo sh x̱wadliyaaḵw
+{Page = 172}
+2361	woosh kikyátxʼi woosh oodiyáa
+2362	tléil daa sá oodag̱ayaa
+2363	shál tlein yáx̱ kaaxát
+2364	kʼwátʼ yáx̱ kasixádi nadáakw
+2365	daat yáx̱ sá kadixwásʼ?
+2366	Anóoshi aayí chʼa g̱óot yéide kadixwásʼ
+2367	hasdu káalkʼw áyá x̱át, tléil ḵu.aa ax̱ yáa has awunei
+2368	Lingítx̱ haa sateeyí, sh yáa ayatudinéi
+2369	g̱atoolsaa
+2370	tléil ulséix̱ nooch
+2371	haagú: x̱at jilasá
+2372	a tóox̱ yawdudzihaanán
+2373	a tóox̱ has yawdudzinaag̱án
+2374	du ḵusteeyí shákdé yax̱ yakg̱waxeexán
+{Page = 173}
+2375	tléil tlax̱ jikushgóok; du jeex̱ ḵu.aa yakg̱waxeexán
+2376	áx̱ x̱at kawdudligéiḵ x̱wagoodí
+2377	ax̱ tláach áx̱ x̱at kooligéiḵ dzèit káa daak x̱wagòodee
+2378	áx̱ ajikax̱wligéiḵ
+2379	áx̱ x̱ʼakax̱wligéiḵ
+2380	tléil aadóo sá x̱at yawunei; ách áyá ḵwáaḵt x̱wasgeetch
+2381	ax̱ yéet woox̱anéi nooch; tléil ḵu.aa ax̱ x̱ʼéix̱ oos.aax̱
+2382	du káani lináalx̱
+2383	tʼáa akaawaxʼáasʼ
+2384	Hall sákw kaduxʼásʼt
+2385	kawjigín; ách áwé aax̱ kax̱wsikei
+2386	yá kakéin kʼoodásʼ yei kakḵwasakéi
+{Page = 174}
+2387	tléiḵw kaawatʼaa
+2388	shaax̱ héen yík kanastʼéich
+2389	tléiḵw g̱agaanch kawsitʼaa
+2390	xʼoon gaawxʼ sá sheedanúkx̱?
+2391	seig̱ánín kuḵaḵóox̱: keijín gaawxʼ shakḵwadanóok
+2392	xʼoon gaawxʼ sá shayeedaḵéex̱?
+2393	tléil kʼidéin kei kawdaḵaach
+2394	kei kagux̱daḵáach
+2395	sakwnéin kei kanax̱laḵách
+2396	atx̱ʼéeshi woosh g̱unayáade dulwásx̱ín
+2397	chʼa yéi wdudliwás
+2398	g̱eig̱áchʼ yoo alikítsʼk
+2399	yoo sh dlikítsʼk
+2400	aas éeḵt nax̱laháshín, át nagwátlch
+{Page = 175}
+2401	shaa yadaaxʼ daak x̱at uwagwátl
+2402	kʼúntsʼ daak kaawagwátl
+2403	kadugwátlxʼ héen
+2404	yéil yaa kanagwadli yéi yáx̱ yaa gagútch
+2405	káast yaa nax̱lagwátl
+2406	héent sh wudligwátl
+2407	aas kaxáshdi yaa akanalgwátl
+2408	teet jiwustaaní, yaakw át kakanagwátlch
+2409	tléil ushkʼé yaakw át kakawdulgwáadli
+2410	yaakw át akakawligwáatl
+2411	yaakw yaa kakanaltít
+2412	kadultóochʼ
+2413	sakwnéin kax̱wlichoox
+2414	xʼúxʼ akawlitúl
+2415	sʼín shadusxʼéet
+2416	kei shax̱wdzixʼít
+2417	x̱aat kadustíxʼx̱
+2418	kax̱wsitíxʼ
+2419	x̱áat shaayee dulsʼíxx̱
+{Page = 176}
+2420	haa hídi wudináḵw
+2421	ax̱ sáni dei yaa ndanáḵw
+2422	yei kanasnáḵw
+2423	kawsinág̱u yéi yáx̱ yatee
+2424	wulix̱ʼwán
+2425	kawlix̱ʼwaan
+2426	haa kʼwátʼi wuditlʼúḵ
+2427	i oox̱ gux̱datlʼóoḵ
+2428	chʼu tlei yeisxʼw yáa a kayaaní wultlʼóog̱u
+2429	tléiḵw kawditlʼúḵ
+2430	tʼáa kasixʼáx
+2431	tóosʼ doogú kasixʼáx
+2432	tléil at koo.éitsʼ
+2433	tléil áa yax̱ at koo.éitsʼ
+2434	seig̱ánín tsʼootaat x̱at shasanú
+2435	yee shakḵwasaḵée
+{Page = 177}
+2436	ax̱ tláa ḵaa daaneisʼí ax̱ daa yoo akaawahaa
+2437	náakw a daa yoo akayahéik
+2438	du jín alchúxsʼ
+2439	wóosht yoo lag̱éex̱ʼ
+2440	yaakw yán yoo lig̱íx̱ʼk
+2441	ax̱ waaḵ x̱adeech
+2442	tléil i waaḵ eedeejíḵ
+2443	Rome áyá hasdu aaní awlisʼaatí
+2444	tláakw ḵux̱ woojixíx du aat x̱ánde
+2445	ḵóo at latóowoog̱áa neesheex; sh yáa idawútl
+2446	sakwnéing̱aa hoon daakahídidé haa lukgw̱agóoḵ
+2447	éeḵdáx̱ neildé g̱unayéi s loowagúḵ
+2448	sh ḵʼawdlixeex
+2449	kadoo.aaḵw kang̱ajooxút
+2450	washéen g̱unayéi kakḵwalajóox
+{Page = 178}
+2451	du lóot héen kaawadáa
+2452	a kaadáx̱ x̱wasidaa
+2453	táakw eetéexʼ yei at ga.áasch
+2454	yéi jinéiyi yei shuxíxch
+2455	wanadóo yádi Dikée Aanḵáawu yaadé ayawlisʼéḵ
+2456	hasdu geinyaax̱ du x̱ʼaséigu ajeewanáḵ
+2457	ax̱ toowú yanéekw
+2458	toowú néekw has aawatee
+2459	daa sáwé yéi i toowú asinéekw?
+{Page = 179}
+2460	yawlileil
+2461	yan awlisʼís
+2462	haa gux̱lasʼées
+2463	yaaw x̱wali.élʼ
+2464	agawdli.élʼ táakw niyís
+2465	tlax̱ a yáanax̱ áwé kayli.élʼ
+2466	wé tʼéexʼ ká aawalʼéiw
+2467	dei ká gax̱toolʼéiw
+2468	tʼáa ká yaa ndag̱ílʼ
+2469	yaa s shakanalgán
+2470	át has shakawdligaan
+2471	aadóo sá ax̱ eenáx̱ neilx̱ goodí, hú awé yei kwg̱anéix̱
+2472	x̱at g̱asneix̱
+2473	haat uwagút, … ag̱ax̱saneix̱t ḵut wudzigeedi aa
+2474	héen káast káxʼ awlineix̱
+2475	dei yaa ḵux̱wlig̱át, wáa sá yax̱waaḵaa
+2476	haa jeeyís yéi yanaḵá «gunalchéesh»
+{Page = 180}
+2477	wáa sá x̱ʼayaḵá?
+2478	shayadihéini dleit ḵáaxʼw Lingítx̱ sh kasneek
+2479	Yéil yaagóox̱ kawdudzineek
+2480	yéi at g̱atulakóowun
+2481	xʼéig̱aa yéi at g̱adudlikóo
+2482	keitl wudzixén
+2483	x̱walitíl
+2484	wulitíl du keigú
+2485	yá táakw dáanaa diyáshḵ
+2486	tléil udayáshg̱in
+2487	x̱at wudidlékw
+2488	ḵúnáx̱ du toowú wudidlékw
+2489	x̱at yeelidlékw
+2490	tlax̱ x̱at uldlékwch
+2491	tʼéexʼ káx̱ lʼéiw kawduwalít
+2492	awjitʼákw
+{Page = 181}
+2493	éeḵt ḵoowdlilʼóotl
+2494	ḵúnáx̱ a kaadé yaawaḵaa yú du sée; kei ḵulahéich yú sgóonxʼ
+2495	chʼa tlákw ḵaa yaadé yawdzidáy
+2496	tléil ax̱ yaadé yayeesdáayiḵ
+2497	gáalʼ nalg̱eiyaḵw
+2498	kax̱ʼéelʼaa a yáanáx̱ yax̱wsitʼáa; ax̱ kʼoodásʼi kawaagaan
+2499	x̱aat kʼáax̱ʼi x̱axáasʼ
+2500	tsaa geení x̱walixásʼ
+2501	sáxʼ alxáasʼ
+2502	kʼwátl kax̱waaxásʼ
+2503	kóox a kaadáx̱ kaxásʼ
+2504	sáxʼ awdlixéetʼ
+{Page = 182}
+2505	ax̱ káani atdoogú áwé alxwáchsʼ
+2506	jili.oosi atkʼátskʼu nadáakw káx̱ akaawaxʼútʼ
+2507	yá x̱aawaag̱í kanasxʼútʼt
+2508	g̱ayéisʼ gúxʼaa ax̱ jínx̱ yaawaxʼóotʼ
+2509	dóosh du jín akaawadlákw
+2510	yei akanadlákw wé x̱ʼaháat
+2511	keitl sh wudlig̱ásʼ
+2512	yei nanéx̱ich áwé kalaxweidlí: tléil ilag̱ásʼx̱iḵ
+2513	sh wudzixén
+2514	tlákw sh x̱wadzixén
+2515	kasʼéet aadé akawlitéix̱ʼ
+2516	wé kasʼéet aax̱ daak kakḵwalatéix̱ʼ
+2517	gáalʼ wudikásʼ
+2518	tláakw haat áx̱ kanaadaayi yé, tléil tlax̱ udakásʼx̱
+2519	ḵulakásʼx̱
+2520	x̱ʼéit kalasʼíxʼw
+{Page = 183}
+2521	aag̱áa ḵiyeesheeyích áwé, yeetʼei
+2522	ax̱ tláag̱aa yaa ḵunx̱ashéen
+2523	ḵeewu.aayí, ldakát át dooteen nooch
+2524	chʼa ax̱ shantóoxʼ x̱aatéen aadé yéi kḵwasanei yé
+2525	tléil xóots awusteen
+2526	dleit yáx̱ yateeyi át héen x̱ookaadé wududziteen
+2527	ldakát át has ahóon
+2528	du yaagú awsihoon
+2529	haa ée akaawahoon
+2530	tléixʼ woosh yaayxʼí akawdzihoon
+2531	xʼúxʼ yaa nalhún
+2532	haa éet wududlihún
+2533	tsaa dleeyí áwé i x̱ʼéide ách aa akḵwasawóo
+2534	yi éech ágé aduswéix̱?
+2535	laaḵʼáskch du yéet jeexʼ awsiwóo
+2536	yaa akoonaḵéin haa jeeyís
+2537	haa sʼaatích chʼa du yéet akaawaḵaa
+{Page = 184}
+2538	káaxʼ haat ajeewliháa
+2539	tléil aadé ḵáa yanax̱dudziḵaayi yé; chaa chʼa x̱ʼawdu.aax̱í tsáa
+2540	ax̱ daat yawsitáḵ
+2541	du daa yoo s jikwli.átk
+2542	ax̱ jeeyís yéi jikg̱wanéi
+2543	héent wudig̱íxʼ
+2544	tʼéesh yan shaysatán: woosh éet idashí
+2545	tʼéesh yan shayla.á
+2546	x̱aan sh wudlidlékw
+2547	ḵúnax̱ hasdu een sh gag̱eeldléikw
+2548	sh x̱ʼawdlidlékw
+2549	áa wutudzi.aan
+{Page = 185}
+2550	Jilkaatdáx̱ áwé has wuligáasʼ; tle Aangóonxʼ has wudzi.aan
+2551	yei kandag̱wéin
+2552	kawdig̱oo wé héen
+2553	a takát kawlidláa
+2554	i toowú kax̱shag̱ú
+2555	du toowú shákdé yaa akanashg̱wéin
+2556	tléil oodaḵéisʼ
+2557	yá lʼaak iyaḵáa ágé?
+2558	yá ḵutaan kakḵwadaḵáa
+2559	téel iḵkeidí akaawaḵáa
+2560	du hídi tléil ushnéekʼ
+2561	a tʼéiknáx̱ á kawlichéix̱ʼ
+{Page = 186}
+2562	yánde yaa ḵukandachéx̱ʼ
+2563	chʼu l idanáayji, shakayúk
+2564	ax̱ kinaak.ádi shakx̱waayúk
+2565	yaakw akaawayúk
+2566	tleyéixʼ sʼé: ax̱ jee keeyayúk
+2567	xʼóow akaawakík
+2568	g̱áach kagax̱tookéek
+2569	yoo ayax̱íchk
+2570	dei yageeyeedé yaa ḵunahéin, ách áwé yoo ix̱waax̱ích
+2571	yakawdináash
+2572	shkahaadí yáx̱ yaa yakandanáash
+2573	ax̱ yaadé sh tlʼeḵshakawdlináash
+2574	du jín x̱walidléigu
+2575	ax̱ jín naldléigu
+2576	kutsʼeen keitlch kei kawlináash
+2577	keitl wudix̱ít
+2578	kag̱eet wudix̱ít
+2579	kug̱aatsʼáan
+2580	kug̱aatsʼáni yéixʼ i yaagú daaḵ yeesh
+2581	ax̱ dlaakʼ kayadéixʼ
+{Page = 187}
+2582	tlax̱ tléil kudéixʼ
+2583	du yéi jineiyích kawlidéixʼ
+2584	tlax̱ x̱at kalidéixʼi
+2585	kaliháachʼi átx̱ sitee
+2586	kei kagux̱laháachʼ
+2587	ax̱ téelu kax̱wsinák
+2588	lʼoowú tsú kadusnákx̱
+2589	ldakát hasdu ádi woosh teen has oodihéin
+2590	sʼáxtʼ daalikʼátsʼ
+2591	yá kooxéedaa tléil ulkʼátsʼ
+2592	lítaa yalikʼátsʼ
+2593	shanax̱wáayi yax̱waaxʼát
+2594	ḵaashaxáshaa yax̱waag̱ílʼ
+2595	ax̱ kooxéedayi kakḵwalag̱éelʼ
+2596	du oox̱ sʼaaḵch ayalag̱éelʼ
+2597	yá lítaa sdoox daaxʼ yoo yax̱útʼ
+{Page = 188}
+2598	yakḵwadaxáasʼ
+2599	yasx̱áawuch, tlákw yadaxáasʼ
+2600	yaa galx̱aayáḵwch
+2601	awlix̱ʼíxʼw
+2602	sʼeenáa kʼidéin yéi awsinee; ách ḵu.aa kei kagux̱dagáan
+2603	yi tula.aaní yi yadooknáx̱ yóot kawdigán
+2604	dzískʼw x̱waa.ún
+2605	sh woodi.ún
+2606	g̱útl has aawatʼúk
+2607	núkt aan x̱waatʼúkt
+2608	kei awshitʼúk
+2609	chooneit du ḵínt wudujitʼúk
+2610	inxʼeesháa goowátlʼ
+2611	tléil yánde kḵwasanee; ax̱ tási yéi kwliyáatlʼ
+{Page = 189}
+2612	yéi kwliyáatlʼ du lʼeet wéi dóosh
+2613	kooxéedaa yéi kakwliyáatlʼ
+2614	chʼa yéi yeegoowáatlʼ
+2615	tʼáa áa kaawayáachʼ
+2616	tíxʼ kawliyáachʼ
+2617	tíxʼ yátxʼi áa kawliyáachʼ
+2618	yádákʼw kei oowa.íxʼ
+2619	kei wdiláa
+2620	yan at kawdusheeyí ítdáx̱, kei daléich
+2621	ḵútlʼkw x̱waawxwén
+2622	yá kootlʼídaach saxwén
+2623	a tóodáx̱ alxwénxʼ wé dúsʼ
+2624	du yahaayí haa waḵsheeyeexʼ aawatee
+2625	du yaa ḵusgeiyí ḵaa waḵsheeyeexʼ kei aawatée du yoo x̱ʼatángi tóonáx̱
+2626	neildé s yandixún
+{Page = 190}
+2627	kʼoodásʼ wudix̱ák
+2628	i xʼóowu gux̱dax̱áak
+2629	yatʼaayi héen wé xʼóow agux̱sax̱áak
+2630	ax̱ tláa wudzix̱ák
+2631	ax̱ jínt wudzix̱ák
+2632	needatees
+2633	át nadatísch
+2634	du dlaakʼ akwliḵéi
+2635	Mary x̱at kuliḵéi
+2636	ḵúnáx̱ x̱at yanéekw
+2637	tléil daa sá x̱at usnéekw
+2638	kei igux̱sanéekw
+2639	sh ḵʼeedlinéekw ákwé?
+2640	sakwnéin akagux̱lag̱áat
+2641	tléil ḵoox̱shatéenin; yá yeedát ḵu.aa ḵux̱aatéen
+2642	tsʼootaatxʼ áwé aawatáax̱ʼw
+2643	yú diyáanax̱.á anax̱ awduwatáax̱ʼw
+{Page = 191}
+2644	ḵʼax̱wsixúk
+2645	woosh ḵʼawdudzixúk
+2646	wé wáach x̱ʼasanáḵ
+2647	atkʼátskʼu ax̱ʼawsináḵ
+2648	ḵʼaan cheech kayaa oowayáa
+2649	ilíl tsu l ushkʼé yéi yoo isaneegíḵ
+2650	Dikée Aanḵáawu yoo x̱ʼatángi a géide wudzigeet
+2651	a géide yan yéi jeewanéi
+2652	yadáli atshí áyá kei gax̱tooshée
+2653	ax̱ x̱ʼéi shukawduḵaayích, kei at kax̱waashée
+2654	ax̱ káak hás daat yoo kooteek kei yakx̱waashée
+2655	x̱wasi.aax̱
+2656	yaa anas.áx̱
+2657	kei s sawdzi.áx̱ lagaawdéin
+2658	a g̱uwanáax̱ áwé yaa sanas.áx̱
+{Page = 192}
+2659	gáaxw agux̱lahéets
+2660	g̱uwakaan shaayí x̱walihíts
+2661	x̱ʼwáalʼ wudixóosh
+2662	x̱ʼaanch wulixóosh
+2663	i shax̱aawú wdlixóosh
+2664	dóosh x̱awdlixóosh
+2665	óonaa yan uwatáx̱ʼw
+2666	g̱uwakaan tléil yoo utáx̱ʼwk
+2667	du yaagú woositáax̱ʼw
+2668	hasdu yaanaayí has awusteení, has sh wudzitáax̱ʼw
+2669	yínde wudziyeeḵ
+2670	kadziyíḵgi yéide wudziyeeḵ
+2671	du kinaak.ádi kax̱wsiyeeḵ
+2672	hít yát uwanúk
+2673	ax̱ daa.ittú wdixwétl; yei kḵwanóok
+2674	gáant tooḵéenin
+2675	yóoxʼ g̱aax̱tooḵee
+2676	Mary chʼa neilt áa
+{Page = 193}
+2677	dóosh ḵóok yíkt as.áa
+2678	du káa x̱wajiḵaaḵ
+2679	goodé sá yaa neeshḵáḵ?
+2680	gáant udu.ánjin
+2681	x̱ʼawool dzeit kát a.án
+2682	cannery áa yei gux̱danóok
+2683	hít tlein át la.aayín; kei uwagán ḵu.aa
+2684	ax̱ hídi ANB Hall tuwánt la.áa
+2685	déix̱ hítxʼ haa eeg̱ayáat daḵéen
+2686	hít woosh dookt daḵéen
+2687	g̱uwakaan wusixaak
+2688	gáalʼ ḵa néesʼ yei saxákch
+2689	yan x̱at keeyshakawdligásʼ
+2690	ax̱ shát ḵut jeewatee
+2691	du eedé duwatéen ḵut kei jikg̱watée
+{Page = 194}
+2692	g̱uwakaan x̱alaxʼéesh
+2693	x̱alakʼáchʼ yoo doodlixʼíshk
+2694	tsaa x̱atsʼéitʼ
+2695	yá yakyee gax̱tudatsʼéitʼ
+2696	áa jikadléitl
+2697	jikawlidléitl
+2698	a shugáasʼi shunashx̱éing̱aa; ách áwé jikax̱wlidléitl
+2699	a káxʼ ḵux̱ jikatsáḵ
+2700	naaléiyi yéide jikanatsaaḵ
+2701	kʼeeljáa ḵúx̱de yóo wdinee
+2702	du néegu ḵúx̱de yóo yaa ndaneen
+2703	du atx̱aayí ḵúx̱de yóo wdinee
+2704	x̱ʼéit ashoowax̱ích
+2705	yá x̱ʼaháat ax̱ yát ashoowax̱ích
+2706	yéi yawuḵaayí, wáachwaanch yaawatʼách
+2707	tléil yeetʼáchx̱iḵ i dlaakʼ
+{Page = 195}
+2708	sʼigeidí awjitʼákw
+2709	has wudix̱áa
+2710	nisdaat du gúk néeguch wusix̱éḵ; tléil kʼidéin wootaa
+2711	xóots táakw kaanáx̱ nateich
+2712	ax̱ yátxʼi hít shantóoxʼ has x̱éxʼwx̱
+2713	chʼa yeisú tléil ux̱éxʼw
+2714	du eedé yaa yatanahéin
+2715	i éet ágé yataawaháa?
+2716	g̱áaxʼw x̱áat yatawsiháa
+2717	kei awduwaxʼásʼ
+2718	wé x̱aat dei katx̱ awlixʼásʼ
+2719	kʼúntsʼ kag̱axʼáasʼ
+2720	x̱áat yei kakḵwalaxʼáasʼ
+2721	gishoo taayí kadulxʼáasʼ
+2722	sakwnéin akaawaxaash
+2723	koox̱ʼílʼaa yeit ax̱ jináḵ wulileet
+{Page = 196}
+2724	hasdu een át x̱walileet
+2725	yaakw héent uwalít
+2726	yaa nalít
+2727	kóoshdaa héende sh kashlítk
+2728	yei sh gax̱toolxóon
+2729	tʼukanéiyi du x̱ʼéi shax̱éelʼ nooch
+2730	ishḵeen lix̱éelʼi
+2731	ax̱ kʼoodásʼi akawshix̱éelʼ
+2732	úsʼaa kawshix̱ílʼ
+2733	yú sʼeenáa has aljúx̱ʼt
+2734	kei agux̱lajóox̱ʼ
+2735	tʼéexʼ káa yei gux̱shax̱ʼéelʼ
+2736	dleit daak wushix̱ʼílʼ
+2737	nadáakw kaawax̱ʼílʼ
+2738	wé eech ká kashix̱ʼílʼkw
+2739	tléil koojáaḵw
+{Page = 197}
+2740	neilyeexʼ yéi jiné aan x̱at lichʼéeyáḵw
+2741	a yáanáx̱ lichʼéeyáḵw; yasátgi shí áwé
+2742	atx̱á teen x̱at x̱ʼalichʼéeyáḵw
+2743	chʼa yéi googéikʼ
+2744	a sáxwti yéi googéikʼ
+2745	yéi kwsigéikʼi hít
+2746	yéi kwsigéikʼ du sée
+2747	yéi kakoogéikʼi xʼáaxʼ
+2748	kooxéedaa yéi kakwsigéikʼ
+2749	yéi kakwdzigéi
+2750	ax̱ náa kaawakʼaa
+2751	atx̱á áyá kaawakʼaa
+2752	yú yooka.óotʼ eetée áx̱ ḵukawsikʼáa
+2753	kax̱wsikʼaa
+2754	x̱at jikaawakʼaa
+2755	dutʼéx̱ʼt yá yaakw
+2756	ax̱ táḵli teen kax̱waatʼéx̱ʼ
+2757	tléiḵw kaksatʼéx̱ʼ
+{Page = 198}
+2758	x̱áat kaháagu kakdustʼéx̱ʼt
+2759	ax̱ tlʼeiḵ shax̱wsitʼéx̱ʼ
+2760	du jín teen ashakaawatʼéx̱ʼ yá tsaa
+2761	i sakwnéin sa.eeyí naaléiyi yéidáx̱ x̱wadziníxʼ
+2762	atx̱ʼéeshi cháni yáx̱ dzinéexʼ
+2763	litsʼáayi héen lichán
+2764	yéil téx̱i litéx̱
+2765	at kaawanúts ax̱ yáx̱
+2766	at kanútst
+2767	ayakaawanúts
+2768	wuduwashúḵ
+2769	woosh has yawdishúḵ
+2770	ayashúḵx̱
+2771	wudisʼéḵ
+2772	neilyee wuduwasʼéḵ
+2773	g̱uwakaan dleeyí x̱alasʼeiḵ eex̱ x̱ooyís
+2774	wuditlʼákʼi aa gán x̱ʼaan ayalasʼéḵx̱
+2775	yawlisʼéḵ
+{Page = 199}
+2776	ax̱ yaadé x̱ʼadasʼeiḵ
+2777	ax̱ naa.ádi kawdiyáasʼ
+2778	sʼísaa akawliyáasʼ
+2779	yax̱ kalayásʼ
+2780	keitl woosh daxʼíxʼt
+2781	ax̱ yaax̱ kei akooltʼáasʼch
+2782	woosh yaax̱ kei s kawdlitʼásʼ
+2783	xóots x̱wadlidásʼ
+2784	du tláa náḵ yaa sh kanalhéin
+2785	yaa sh kakḵwalháa
+2786	aadáx̱ akḵwadatáaw
+2787	yáadax̱ awditáaw, collegede
+{Page = 200}
+2788	aatlein ax̱altsʼíxaa
+2789	akwḵaltsʼíxaa
+2790	keitl át ḵoowdzinéexʼ
+2791	sháchk kát ḵoowdzinéexʼ jánwu
+2792	ldakát yax̱ ḵuyawlijáḵ: ldakát adukéet
+2793	ax̱akéet ágé?
+2794	keitl akóos
+2795	dleit yakaawadán
+2796	yéi x̱waajée haa káa ayakakg̱wadáan
+2797	dleit daak wusitán
+2798	dleit akaawakéts
+2799	kawshidúk
+2800	yaa nashnéḵ
+2801	dleit áa wshinéḵ
+2802	naa.át aklakélsʼ
+2803	kawlikél
+2804	ax̱ yaagú yaa kanda.ítʼ
+{Page = 201}
+2805	shaaw kadul.ítʼx̱
+2806	x̱áat shaayí kadul.útʼx̱
+2807	g̱uwakaan doogú x̱waliyúx̱ʼ
+2808	atx̱ʼéeshi dutéeyx̱in
+2809	chʼáakʼ tsú át sh yanasxʼútʼch
+2810	x̱at uwakích
+2811	yaa ndaxwách
+2812	tsaa doogú kuḵalaxwáach
+2813	chʼa yéi x̱achúksʼ wé atx̱ʼéeshi
+2814	atdoogú kakḵwachóok
+2815	i kʼoodásʼi kashix̱ʼwáalʼshán
+2816	yá xʼóow tléil koolx̱ʼwáalʼshán
+{Page = 202}
+2817	wudlitʼíxʼi kʼúntsʼ yei kakg̱waltéisʼ
+2818	dei a gaawú áyá kei sa.éexʼi
+2819	yaa nas.íxʼ
+2820	tléiḵw kahéeni kawlisʼúx
+2821	yaa kanalsʼúx
+2822	yá kawóot kadli.ítʼch
+2823	dleit tsú kadli.ítʼch
+2824	yaa andalʼúx̱ʼ
+2825	daaw kát awdilʼúx̱ʼ
+2826	x̱ʼaneedataan
+2827	yóode yaa x̱ʼandatán
+2828	ax̱ éet x̱ʼatán
+2829	tléil hasdu éex̱ x̱ʼatootaan
+2830	haa een yoo x̱ʼawli.átk
+2831	has x̱ʼawli.aat
+{Page = 203}
+2832	du éet áwé x̱ʼax̱wsigóo
+2833	át x̱ʼax̱wsigóo
+2834	x̱áat áadaa teen dutáḵt
+2835	tsaa aawatáḵ
+2836	sʼaaw awsitáḵt
+2837	yaa nx̱alít
+2838	ldakát du dáanayi aawahoon
+2839	wudlihoon
+2840	sakwnéing̱aa gax̱toolhóon
+2841	kóox yax̱ akaawax̱ích
+2842	sʼíxʼ ka.ádi yax̱ kax̱waax̱ích
+2843	yax̱ kawjix̱ín yá héen
+2844	tléil yax̱ kawushx̱een wé xʼeesháa
+2845	toolchʼan yaa natúl
+2846	sʼíxʼ awlitool
+2847	teey woodí aklatóol naaxein sákw
+2848	yaa kanajúx
+2849	tlʼátk kát ḵʼawditúx̱
+{Page = 204}
+2850	tléil yóox̱ eeltoox̱úḵ, chʼa g̱alsháat sʼé
+2851	yóot ḵʼawdzitúx̱
+2852	i jintáat eeyakóo
+2853	héen yan aawakóo
+2854	té héent yeeg̱éexʼi, kei kdachʼíshch
+2855	wáa ḵusa.áatʼi sáyú, héen kei kandachʼíshi, iltʼíxʼx̱
+2856	yá héen ax̱ daat kaylichʼísh
+2857	yooḵ yaa galtʼátlch
+2858	yóot wudlitʼátl
+2859	héen kax̱wlatʼátlch
+2860	i yaadé kakḵwalatʼáatl
+2861	wóosht kax̱wlitíxʼ
+2862	wóosht x̱walitsóow
+{Page = 205}
+2863	gán kadulx̱útʼt
+2864	du sháanáx̱ yaa wdudlix̱ootʼ
+2865	sháak kax̱wliḵáasʼ
+2866	ḵáasʼ kalḵásʼt
+2867	hít katʼáayi kadux̱áaxʼ
+2868	yaakw kawdix̱áaxʼ
+2869	dleey kawdlinúts
+2870	tukawdlinúts yá g̱áaxʼw
+2871	dleey yaa nalsʼíx
+2872	chʼa tlákw áwé achóox̱ nooch
+2873	gán achoox̱
+2874	kʼwátlxʼ kaadé axwéin
+2875	yá kóox x̱oodé has alxwénxʼ
+{Page = 206}
+2876	sʼíxʼ kawdichʼáchʼ
+2877	kadlichʼáchʼx̱i yé yáx̱ yatee du keenáanáx̱
+2878	tsaa doogú kadlichʼáchʼx̱: ḵúnáx̱ áwé yakʼéi
+2879	g̱uwakaan yádi kajikáxʼx̱
+2880	sʼísaa kadzigáxʼx̱
+2881	xʼúkjaa anax̱ yóot kaawa.úk
+2882	shóo yax̱ kax̱wlitséx̱ ax̱ x̱ʼoos
+2883	neek yéi g̱unayéi uwaxíx, governor yáa yéi kg̱watée
+2884	xʼóow yax̱ akaawayaa
+2885	ax̱ naa.ádi lʼéiw kaadé koox̱sayáaych
+2886	laaḵʼásk yax̱ akawsihaa
+{Page = 207}
+2887	a kʼwátʼi káx̱ sh wujig̱wán
+2888	yaa nashg̱wán
+2889	ax̱ jínt wudzix̱ák
+2890	éilʼ aklag̱átch
+2891	dei kaadé lʼéiw akawlig̱átch
+2892	shóogaa a x̱oodé kalít
+2893	ḵúx̱de yan wujiḵáḵ
+2894	lʼéiw kát wujiḵáḵ
+2895	náaḵw yátxʼi a káxʼ kei kanduwaḵáḵ
+2896	wéix̱ daaḵ kanduḵáḵ
+2897	keitl ḵʼanáax̱án x̱ʼáax̱ kawlix̱ʼéexʼ
+2898	anax̱ sh yakakḵwalx̱ʼéexʼ
+2899	xóots ash kaawag̱útl
+{Page = 208}
+2900	ilag̱útsx̱
+2901	du jín kalag̱úk
+2902	ḵaa x̱oot akawlig̱úk
+2903	tsaa naasí lashísʼ
+2904	yéin dulshéesʼ
+2905	gáalʼ x̱ʼadasʼéesʼ
+2906	wuduwagwál
+2907	lítaa teen akaawagwaal
+2908	g̱uwakaan yaa yanash.ák
+{Page = 209}
+2909	x̱áat yawji.áak
+2910	yaa yakanal.és
+2911	naaw jeeyeet áwé yaa yakakla.ésch
+2912	sháak has laséḵʼwx̱
+2913	kawdiséḵʼw wé sʼísaa
+2914	lʼoowú kax̱wliséḵʼw
+2915	x̱ʼekawdliséḵʼw
+2916	g̱uwakaan yakḵwayéik
+2917	át at kawutlaagú át ḵuyaawayeik
+2918	x̱waditúx̱
+2919	yeetúx
+2920	yan aawatséx̱
+2921	ḵaa x̱oot hán
+2922	x̱ʼaháat x̱ánt yánde kḵwaháan
+2923	gán kát toonáḵ
+2924	ldakát át áwé ax̱ géide náḵ
+2925	chʼa hú kei dahánch
+2926	ḵáa shaan wudihaan
+2927	gax̱tudanaaḵ
+2928	ldakát has wudinaaḵ
+{Page = 210}
+2929	dei x̱at uwaláxw
+2930	haa kg̱waláaxw
+2931	tláakw áwé yax̱waaḵaa
+2932	i x̱ánxʼ yéi x̱at nag̱atee
+2933	yáaxʼ ágé yéi yee kg̱watée?
+2934	ax̱ x̱áni gug̱atʼei
+2935	aadóo x̱ánxʼ sá iyatʼei?
+2936	sh yáa x̱wdiwútl: ax̱ yéet tléináx̱ neilxʼ x̱wasitʼei
+2937	awshitʼíxʼ
+2938	shatʼíxʼ
+2939	yaa anas.ín héen akawshitʼíxʼ
+2940	yaakw akawshitʼíxʼ
+2941	i éesh hás aadé s x̱ʼayaḵa yé, a x̱ʼéi shatʼíxʼ
+2942	i éesh hás x̱ʼasheeyí a x̱ʼéi yashatʼíxʼ
+2943	awutáawu akaawa.aaḵw; áa jix̱wliháa
+2944	iwduwatáw ágé?
+{Page = 211}
+2945	yádákʼwch car awsitáw
+2946	xʼáaxʼ kax̱waatáw
+2947	kooxéedaa akawsitáw
+2948	wé kaxwéix̱ kalaḵásh
+2949	kakḵwalaḵáash
+2950	tʼá agawdzixóo
+2951	gadusxwéix̱
+2952	kaxwéix̱ kadulnálx̱
+2953	kakg̱eelnáal ágé i kaxwéix̱i?
+2954	sh daa wdzixʼúk
+2955	x̱áay aawanál
+2956	wuduwaxʼúk
+2957	wudixʼúk
+2958	shaksatán yáanáx̱ áa: g̱ílʼxʼ áa yéi dag̱aatee
+2959	naakée shaaxʼú shakla.át
+2960	yaakw yax̱satán
+2961	yan yeestán
+2962	yan yeedadík
+{Page = 212}
+2963	yoo yaduwadíkk yú yaakw
+2964	idatʼík
+2965	a xʼaa daa yagux̱la.áat
+2966	du x̱ʼus.eetéex̱ keelyásʼ
+2967	yan kawdliyásʼ
+2968	ḵaa jínx̱ kei klasʼíxʼwch
+2969	neildé katulasʼéexʼw
+2970	shál sʼíxʼ kaadé yaxát
+2971	chooneit g̱uwakaandé sixát
+2972	yaakw a géek héen táade sixát
+2973	i lʼóotʼ daak tsaaḵ
+2974	yaakw ka.aasí yanax̱ naashóo
+2975	x̱áay anax̱ naashóo
+2976	wusitáax̱ʼu yaakw héennáx̱ shunlishóo
+2977	ax̱ naa.ádi wushig̱ílʼ
+2978	ax̱ jín wuditʼík
+2979	x̱at wuditʼík
+2980	daa.ittunéekwch du jín wusitʼík
+2981	x̱áat kawlitʼík
+{Page = 213}
+2982	yaa kanaltʼík
+2983	ax̱ daa.ittú woodzix̱ʼéy
+2984	tʼóokʼch uwax̱ák
+2985	tʼóokʼ x̱at wusix̱ák
+2986	yan sh eeda.ín: yá náakw litʼoojí
+2987	ax̱ jín wulitʼúch
+2988	éilʼ teen x̱at shig̱eiḵ: haa x̱ʼax̱ánde yaa shunaxíxch áyá
+2989	tléil ushg̱eiḵ
+2990	gishoo ḵúnáx̱ áyá lachán nooch
+2991	lichán áwé wé eex̱
+2992	i at gas.eeyí gwáagé i jeeyís káa yoo kakḵwaháa
+2993	dleey káa yoo kahá
+2994	hasdu tuwáa sigóo téich has wuljaag̱í
+{Page = 214}
+2995	a káa has wudlidzóo
+2996	ḵux̱ idahán sʼé: i een at kanḵaneegít áwé
+2997	tléil dei du x̱ʼayeexʼ ḵux̱ ux̱dahánch
+2998	ax̱ eeg̱áa ḵux̱ yeedanáḵ
+2999	ḵux̱ has wudináḵ
+3000	yax̱ kawditsʼén yá yaakw yikwashéeni
+3001	tléil yax̱ kudatsʼénx̱
+3002	tléil aadé yan kanax̱yeelitsʼéni yé
+3003	tléil haa jeexʼ yax̱ akawultsʼéin
+3004	aawadaaḵ
+3005	July yát shakdé a tóode gux̱dayéeḵ
+3006	a tóode wudiyeeḵ yú sʼeiḵ
+3007	yéi x̱waajée, seig̱án yei ayagux̱datée
+3008	yei ayandatéen áyá
+3009	a wán tléil kawoostéix̱ʼ
+3010	tax̱héeni kalachá
+3011	tléiḵw kahéeni kax̱wlicháa
+{Page = 215}
+3012	káaxʼ sax̱waatsíxʼ
+3013	tíxʼch seiwatsíxʼ
+3014	tsaa doogú yaa kanax̱sayéet
+3015	sʼélʼ yoo ksiyéetk
+3016	ax̱ kʼoodásʼi kax̱waayéet
+3017	kaxéesʼ yax̱ ajikanasyéet
+3018	ax̱ʼakawsiyéet
+3019	sh wudziwát
+3020	dóosh sh iswátx̱
+3021	kag̱eelyáasʼ
+3022	tsaa doogú gax̱oogút áwé, x̱waatʼeesh
+3023	x̱áach áwé x̱walitʼísh
+3024	ḵalaxwájit áwé, tʼéesht x̱waatée
+3025	yeedát tléil kawóot akool.eesh
+3026	kawóot x̱ʼakagax̱tula.éesh
+3027	chʼu tle x̱ʼakawtuli.ísh; g̱unayéi wtudix̱ách
+{Page = 216}
+3028	eeltleilkʼú agé?
+3029	akwg̱altleilkʼú
+3030	ax̱áa wutuwaxích
+3031	atwuskú x̱waaxích
+3032	dóosh a yáx̱ lasheekw
+3033	yá óoxjaa shakdéi kei gux̱latseen
+3034	latseendéin dulyéix̱
+3035	tuliwóochʼ
+3036	tléil x̱at toolwoochʼ: x̱at tuli.aan
+3037	Lingít yoo x̱ʼatángi sh tóo tooltóow
+3038	sh tóoxʼ ágé at iltóow?
+3039	kagax̱too.aaḵw yú yán yawtoodlaag̱í
+3040	yéi x̱waajée tléil yagax̱yidlaaḵ
+3041	tléil ikawdaké
+3042	wulilʼaa
+3043	ḵaa sheiyí ḵaa tóodáx̱ allʼeix̱
+3044	áanjís x̱waasʼíḵsʼ
+{Page = 217}
+3045	tlʼétlʼ té yá oo.útʼch
+3046	náaḵw a óotʼi ḵudzitee
+3047	du éex̱ wududligeiyáḵw
+3048	haa tlʼátgi tulageiyáḵw
+3049	ḵúnáx̱ áwé yéi toowanúk
+3050	chʼa eelí sʼé: aadé kagux̱dayáa áxʼ yéi tukg̱eenuk yé
+3051	eeshandéin du een yoo x̱at kaawashoo
+3052	yéi ḵuyaawaḵaa
+3053	du shaxáashi du eeg̱áa duwanook
+3054	x̱ʼaan yáx̱ yateeyi aa i náag̱aa gax̱dunóok
+3055	i yoo x̱ʼatángi yán-g̱aa duwanook
+3056	i yan sh wusnéiyi tóoxʼ yáng̱aa iduwanook
+3057	tudi.ús shákdé
+3058	daa sá tlax̱ yéi a daat sh ḵʼawdli.úsh?
+{Page = 218}
+3059	g̱agaan kei naxíx
+3060	g̱agaan anax̱ yei naxíx
+3061	awdigaan
+3062	ax̱ kát awdigán
+3063	seig̱ánín yei agux̱dagáan shákdé
+3064	du yá g̱agaanch kawsigaan
+3065	taan yaa kanaxísʼ
+3066	haa yaawajeich
+3067	aadé ash koolyát yé, x̱at yawlijeich
+3068	chʼa chʼáagu at wududzikóowu át áwé: tléil x̱at yawuljeich
+3069	du yoo x̱ʼatángi x̱waaḵít
+{Page = 219}
+3070	wáanáx̱ sáwé x̱at eeḵeet?
+3071	yéi x̱waajée, hú áwé aawatáw
+3072	dís yax̱ wulixáatʼ
+3073	g̱ílʼ yáx̱ wulixáatʼ
+3074	ḵútx̱ ayanaháa kéex̱ yawlixáatʼ
+3075	kalig̱éiyi ḵútx̱ ayanaháa Bethlehem keenáat yawlixáatʼ
+3076	aawanóotʼ
+3077	náakw akaawanóotʼ
+3078	kadziyíḵgi yé
+3079	du keey keenáade kawdziyeeḵ wé ḵútlʼkw
+3080	haa kawdusáayin
+3081	neilyee duxítʼt
+3082	g̱idaxéetʼ
+3083	x̱alakʼáchʼ dleeyí ḵúnáx̱ linúkts
+3084	yá tléiḵw tléil ulnúkts
+3085	ax̱ jín wudlixʼísʼ
+{Page = 220}
+3086	x̱at wududlixʼísʼ
+3087	ax̱ jín wudiḵách
+3088	xákwlʼi shakawdinook
+3089	kóox yaa shakandanúk
+3090	deikéet wutuditʼách
+3091	héen kaanáx̱ yaa ndatʼách
+3092	kʼisáani deikéet kandutʼáchch
+3093	at kʼátskʼu yan x̱walitʼách
+3094	tsaa yan awlitʼách
+3095	íxde yaa naxʼák
+3096	yáay anax̱ kei xʼákch
+3097	aashát héen yíkt wooheen
+3098	diyáanáx̱aadé daak uwahóo
+3099	dóosh tléil woohoo
+3100	g̱uwakaan yaa nakwán
+{Page = 221}
+3101	yánde yaa s nakwán
+3102	gáaxw át jeewdihoo
+3103	át has jeewdihoo
+3104	héen yíx̱ yei jinaskwán
+3105	chʼa gáaxw át wusihoo
+3106	kindachooneit haa x̱ánt wusikwán
+3107	tsaa yaa yanas.éin
+3108	át yawdzi.aa
+3109	kóoshdaa yaa yanasxún
+3110	áa kát wudlitsees
+3111	tsaa íxde yaa naltsís
+3112	cheech haat yáx̱ kei s kandutsís
+3113	ḵʼaan yaa kandutsís
+3114	kéet yaawagoo
+{Page = 222}
+3115	yéi x̱waajée taan yagux̱sagóo
+3116	kóoshdaa tsú yanasgwéich
+3117	du óonayi yaa analg̱éḵ
+3118	wulig̱eiḵ
+3119	yoo yakwdinúkʼgu xʼaa
+3120	haat atʼaa.uwagút
+3121	du géit atʼaa.uwa.át
+3122	x̱at jikg̱watáan
+3123	jigataan
+3124	yáax̱ á gushé jidul.aadín T. sháa
+3125	yáat aa kuḵada.éen
+3126	aax̱ ida.ín ágé?
+3127	daat yís sáwé át keeyakʼeit?
+3128	washéen gax̱tookéilʼ
+3129	yá hoon daakahídi yéeyi yaa anakélʼ
+3130	i kʼoodásʼi kaax̱ kei idatí
+{Page = 223}
+3131	x̱ʼoosdáx̱ awdiyíḵ
+3132	du sʼáaxu sháatx̱ kei awditée
+3133	kínde kei nasxíx
+3134	tléixʼ yakyee káa yaawaxeex
+3135	ḵúnáx̱ ḵulagaaw ayawuxeexín
+3136	ḵu.éexʼ g̱unayéi ayasaxíxx̱
+3137	a daa yoo x̱ʼakwḵatáan
+3138	a daa ágé yan yoo x̱ʼeiyatán?
+3139	akawliník
+3140	has x̱ʼali.oos
+3141	tléil ix̱ʼeil.oosíḵ
+3142	ḵaa x̱ʼala.oosí, gáant aawax̱ích
+3143	ḵóox̱ áwé yaa has tunadéin
+3144	ax̱ kakéini kax̱wlixísʼ
+3145	tíxʼ kawdlixísʼ
+3146	akaawxísʼ
+3147	wudlixʼísʼi yé yáx̱ yatee wé koogántʼi
+{Page = 224}
+3148	shawdlixʼísʼ
+3149	keitl x̱awdlixʼísʼ
+3150	yakʼéi aadé duwanoogu yé
+3151	tléil dunook
+3152	tsaa dleeyí ágé x̱ʼéi idinúk?
+3153	ḵukʼéetʼ nagú; tléiḵw x̱ʼéi x̱tudanook
+3154	ax̱ sée jín kax̱wsiḵáa
+3155	yá ax̱ jín kasaḵá
+3156	atshí haa ée awlitóow
+3157	ḵóo at gax̱tulatóow
+3158	woosh ée s awdlitóow
+3159	tléil x̱ʼéitx̱ yaa isʼélʼjiḵ
+3160	sʼísaa wóoshdáx̱ x̱waasʼéilʼ
+3161	xʼúxʼ kax̱asʼélʼt
+3162	g̱eiwú kawdisʼélʼ
+3163	g̱eiwú kawlisʼélʼ
+3164	tléil aadé koonax̱lisʼélʼi yé
+3165	daak yaawasʼélʼ
+3166	daak x̱ʼayaawasʼélʼ
+3167	daak ax̱ʼayawlisʼélʼ
+3168	kei has yadlúxch
+{Page = 225}
+3169	hít kawdudlix̱eech
+3170	washéen akawlix̱eech a daa.eet ang̱ahoonít
+3171	du sáni aawaxwéi
+3172	has haa xwéi: «tléil aan yádi yee x̱oo»
+3173	goox̱x̱ satí áyá ách wududlixwéi
+3174	ldakát haa ḵusteeyí yánde kakḵwanéek
+3175	adawóotl daat yoo kooteek áyá, kax̱waaneek
+3176	haa een sh kaneelneek
+3177	sʼigeidí daat sh kawdlineek
+3178	yéi áyá kdulneek, yóo x̱waa.áx̱
+3179	chʼáakw áwé yéi dutláakw
+3180	nax̱too.aadít haa yawdudziḵaa
+3181	yéi yantusaḵéich
+3182	wáa sá idaayaḵá?
+3183	sdoox naḵa.oot x̱at daayaḵá
+3184	ḵáa x̱at koodlénx̱aa; tléil ḵu.aa a yáx̱ x̱at utí
+3185	koox̱adlénx̱aa
+{Page = 226}
+3186	ax̱ x̱ʼoos x̱washitítʼ
+3187	kei kg̱wanéekw; sh eeshtítʼ
+3188	tʼáa koosakák
+3189	at doogú tléil uskaak
+3190	kei naskaak yá góosʼ
+3191	g̱uwakaan kei nashg̱áx̱ʼ déi
+3192	wushig̱áax̱ʼ
+3193	kei x̱at nalxún
+3194	wáa sá a daaxʼ ituwatee?
+3195	yéi x̱waajée
+3196	yéi ḵukg̱wajée, Dikée Aanḵáawu jeeyís áwé yéi jiné
+3197	tléil yéi ḵutoojéeyín, yá yánde haa kagux̱dayaayí
+3198	kʼinashú néekwx̱ wuduwajee
+3199	dei x̱waaḵéix̱ áyá ḵux̱wajéeyín
+3200	hasdu ḵusteeyí daa yoo tuwatánk
+3201	a daa yoo tuḵataan
+3202	a daa yoo tugax̱tula.áat
+{Page = 227}
+3203	x̱at shaawakúx
+3204	tléil tsu shakg̱wakoox
+3205	yá tás, táaxʼálʼ kʼéenáx̱ yakax̱wlitsáḵ
+3206	x̱ʼáalʼ ḵákw sákw wutuwatlʼéekʼát
+3207	x̱áat tsú wuduwatlʼéekʼát
+3208	x̱ʼaan ganaltáade yee gax̱dug̱éech
+3209	g̱eiwú héende shudug̱éech
+3210	té yóot x̱waagíxʼ
+3211	ax̱ xʼúxʼu gáant aawag̱íxʼ
+3212	shayéinaa dáaḵt x̱wasig̱íxʼ
+3213	gán diyéexʼ awsig̱éexʼ
+3214	koochʼéitʼaa kei akaawag̱íxʼ
+3215	tléil diyéexʼ akawusg̱éexʼ
+3216	keitl gáant aawax̱ích
+3217	yan sh wudix̱ích
+3218	héen gáant kax̱waax̱ích
+3219	héen gáant x̱waalít
+3220	dáanaa yóode aléet
+{Page = 228}
+3221	kei sagooḵ
+3222	ḵáasʼ gáant kx̱waagúḵ
+3223	té áwé a déx̱ʼ kát aawagúḵ
+3224	keitl aawadzóo
+3225	chʼa yeisú adzeit
+3226	shawduwadzóo
+3227	kʼwátʼch shawdudlidzóo
+3228	du neilí daak awlitlʼít
+3229	dei x̱walitlʼeet
+3230	ikakḵwalaḵéitsʼ
+3231	sakwnéin tʼóosʼi ax̱ leitóox̱ akawliḵétsʼ
+3232	ax̱ daa wlihách
+3233	ax̱ washká wulihách
+{Page = 229}
+3234	dleew kát sh eeltín: aatlein áa wduwaxʼóolʼ
+3235	yei naléin
+3236	yan uwaláa
+3237	daaḵ nadéin
+3238	yan kát uwadáa
+3239	ḵéesʼ wuduwagáa
+3240	yaa ndugéin
+3241	léin uwax̱óo
+3242	wudix̱óo
+3243	léin yaa kdawúx̱ch
+3244	ḵéesʼ wudiwúx̱
+3245	ax̱ jeeyis lag̱wán
+3246	kuḵalag̱wáan
+3247	wuduwadúxʼ
+3248	jig̱wéinaa sh káa awdidúxʼ
+3249	tíxʼ yátxʼi akadóoxʼ
+3250	yuwaa.át sh káa akawdidúxʼ
+3251	x̱waditlʼín
+3252	aawatlʼín
+3253	du léelkʼwch shaawatlʼín
+{Page = 230}
+3254	i shax̱aawú chʼín
+3255	tʼaaw káxʼ wududichʼín
+3256	asyádi káxʼ kuḵadachʼéen
+3257	x̱walichʼín
+3258	xʼúxʼ daasa.áx̱w
+3259	ḵʼeikaxwéin akʼikawsi.áx̱w
+3260	teey woodí g̱áach kadusyéey
+3261	haaw akawsiyéey
+3262	x̱aanásʼ wududlisʼít
+3263	yá gwéil x̱ʼakḵwasa.áax̱w
+3264	sʼaangax̱du.áax̱w
+3265	wé keitl yánde ya.áx̱w
+3266	yaa kanaxát
+3267	yá kasʼéet tlax̱ ḵúdáx̱ ax̱ káa kaawaxát
+3268	tíxʼ ḵux̱ jikawdigásʼ
+3269	kei shoowakítsʼ
+3270	du jishagóon daakaḵóogu yá nadáakw káx̱ ashaawakʼét
+{Page = 231}
+3271	x̱at wudixwétl
+3272	yées káa tléil udaxwétlx̱
+3273	kashx̱ʼílʼx̱ x̱at laxwétlx̱
+3274	x̱at yilixwétl
+3275	x̱at x̱ʼawdixwétl
+3276	x̱at wudigáxʼ
+3277	dei x̱at x̱ʼawdigáxʼ
+3278	tlax̱ tóo x̱ʼax̱shiḵeet
+3279	tléil aadé ḵaa x̱ʼéi g̱waachʼéx̱ʼu yé héen
+3280	xóots dleeyí ax̱ x̱ʼéi wlichʼéx̱ʼw
+3281	i x̱ʼéi yagux̱lachʼéix̱ʼw
+3282	ḵʼáachʼ x̱walisʼúk
+3283	sakwnéin akawlisʼúk
+3284	sakwnéin aawatʼúsʼ
+3285	yaawatʼáayi át áwé kei dullʼátʼch
+3286	galalʼáatʼ
+3287	x̱at yakʼáasʼ
+{Page = 232}
+3288	du shát eesháanch awlijáḵ; ách áwé du wanáa uwagút
+3289	keitl eesháanch yaa has analjáḵ
+3290	dóosh eeshandéin yoo s akwlishéik
+3291	yéi jiné teen eeshandéin yoo yikawtulishóo
+3292	x̱áach jee ḵadanoogú
+3293	tléil áx̱ eesheeḵ; kei ikg̱wayéeḵ
+3294	át uwashée
+3295	ḵʼanáax̱ánx̱ yaa nalshéen
+3296	ash uwachúxʼ
+3297	táach yaa najáḵ: yoo lachúxʼ
+3298	yoo awlichúxʼ
+3299	aas yaa anax̱ách
+3300	hít haat wutulix̱ách
+3301	g̱uwakaan yaa akanakéin
+3302	a x̱ʼus.eetí akawsikei
+{Page = 233}
+3303	héeni yoo kax̱wlitséx̱
+3304	haa atx̱aayí haat yawduwax̱áa
+3305	yaa ḵuwanax̱éin
+3306	néekw sʼaatxʼí áyá haat yawdudziḵúx̱
+3307	ldakát haadé yakḵwasaḵóox̱
+3308	kʼóox awdzig̱át
+3309	xóots tsú dusg̱ádin
+3310	sháal teen x̱áat wutuwasháat
+3311	Juneaude yaa nx̱áḵúx̱
+3312	ḵux̱ has wudiḵúx̱ yáa áa kaanáx̱
+3313	xóon ayawdateeyích áwé, tléil wé yaakwxʼ át yawugoo
+3314	yaakw haadé yakg̱wagóo
+3315	Juneaude ḵukḵwatéen
+3316	daatg̱áa sáwé ixkéede ḵoowateen?
+3317	ḵutí káaxʼ át haa kawdiyáa
+3318	ḵúx̱de x̱at kagux̱dayáa
+3319	chʼa ax̱ yáa liḵʼéi yá gaaw
+3320	g̱uwakaan dleeyí haat awdligúch
+{Page = 234}
+3321	laaḵʼásk du x̱ʼéide kḵwalagóoch
+3322	ax̱ jín udax̱wálch
+3323	a yayeedé sh wudlix̱wál
+3324	néekw x̱at wulix̱wál
+3325	xʼíg̱aa ḵáa tléil koodanétx̱
+3326	kawdinét
+3327	ḵusa.áatʼ x̱at kawsinét
+3328	washéench kawsinét
+3329	ḵuklasélx̱
+3330	táakw eetéexʼ tsʼítskw ḵukagux̱laséil
+3331	téixʼ dei káa shayadihéin: yan tsé x̱ʼusshaysagú
+3332	dáanaa áwé sh kaawaxílʼ
+3333	ax̱ yátxʼi naa.átxʼi x̱at kaawaxílʼ
+3334	tléíl sh tukayidaxéelʼiḵ
+3335	du yéi jineiyí daat sh tukawdixílʼ
+{Page = 235}
+3336	tléil tlax̱ sh tóokʼ oox̱daheen
+3337	tlax̱ a yáanáx̱ sh tóokʼ adiheen
+3338	i káa yan tux̱waatán
+3339	chʼa a káa yan tután yá yoo x̱ʼatánk
+3340	kax̱waa.aaḵw i yát ax̱walg̱eení
+3341	kanay.aaḵw
+3342	chʼa akaawa.aakw áwé, wáa sá yakg̱waḵaayí
+3343	ḵukaawa.aaḵw
+3344	ax̱ yées yaagú koox̱adlénx̱aa
+3345	sʼíxʼ daak kawdzikúḵ
+3346	tʼáa daak kakg̱waskóoḵ
+3347	héide kei yala.á
+3348	kei ayagux̱la.áat, át ḵuwuhaayí
+3349	haa aaníxʼ ayawdiḵúx̱
+3350	neildé ayawdigút
+3351	ayawdi.át
+{Page = 236}
+3352	ayagux̱datáa
+3353	táakw ayawditáa
+3354	du éet áwé ḵoowaháa
+3355	ax̱ eedé tsá ḵukwg̱aháa
+3356	xʼúxʼ yaa shunx̱ag̱ích
+3357	ḵúdáx̱ kakwliyáatʼ; ách áwé du jeeyís kei kḵwalalʼwáatʼ a kóon
+3358	tíxʼ shakdulyénxʼ
+3359	ashakawdliyén
+3360	kaxéesʼ awsitéḵʼ
+3361	wé kaxéesʼ kasatéḵʼ
+3362	tíxʼ yaa ajikanastéḵʼ
+3363	g̱aatáa kanaasí yoo akatéḵʼk
+{Page = 237}
+3364	attʼáni x̱waaxʼáa
+3365	sʼú áwé dusxʼéix̱
+3366	attʼáni wuduwasʼóo
+3367	xíxchʼ yakwlijée
+3368	tléil shakoolg̱é
+3369	a yanáadáx̱ aawataan
+3370	át awlitʼaaḵ
+3371	woosh tugéit has awdlitʼáḵ
+3372	át áwé sh x̱ʼax̱wdlitʼaaḵ
+3373	daaḵw aa sá tléil i daa yaa ḵushoosgé?
+3374	du daa yaa x̱at ḵushusigéi
+3375	Lingít ágé x̱ʼeeya.áx̱ch?
+3376	tléil ḵaa x̱ʼei.áx̱ch
+{Page = 238}
+3377	tléil x̱at tooshgú; ách áwé x̱aan sh skaneelneek
+3378	wáa sáwé l tooshgú?
+3379	sh tóonx̱ x̱at yeelyeix̱í, daa sá i tuwáa sigóo i jeedé kg̱watée
+3380	sh tóonx̱ yeekḵwalayéix̱
+3381	a yíkdáx̱ yei ktoojéil áwé, áa wlihaash
+3382	yei at gux̱la.áat
+3383	tléil koonatʼéich: chʼa yeisú kadlix̱ʼátʼ
+3384	aadé akaawa.aag̱ú yé ḵóo kawdigéiḵ
+3385	kei s akaawashéeyi shí, ḵóo kdigéig̱i átx̱ woositee
+3386	yei kakḵwasakéi yá tíxʼ
+3387	yaakw tíxʼi kax̱akélʼx̱
+3388	yá tíxʼ yádi kakélʼ
+{Page = 239}
+3389	tʼéesh ashakawsiḵʼétʼ
+3390	haaw héende shagux̱saḵʼéitʼ
+3391	tíxʼ x̱átʼaax̱ awliyéx̱
+3392	kakéin átx̱ tulayéix̱
+3393	kóox haa x̱ʼéitx̱ shoowaxeex; kʼúntsʼ káa yei ḵugax̱toostée
+3394	hóochʼ: át sheeylixíx
+3395	ax̱ yéet nanaawú ax̱ toowú ashoowlixeex
+3396	yá a káa dulseix̱ yakyee géide wudzigeet
+3397	du yoo x̱ʼatángi a géidei has wudzigeet
+3398	yei haa gax̱dugáaḵ
+{Page = 240}
+3399	g̱unayéi ḵwáan haa woogaaḵ
+3400	kax̱waagaaḵ
+3401	du x̱úx̱ch kaawagaaḵ
+3402	uwahásʼ
+3403	kei wdliḵóo
+3404	keitl kei alḵwéich
+3405	du saayí wuduwag̱éexʼ
+3406	ax̱ géide wdig̱éexʼ
+3407	héent x̱waahoo
+3408	yaa nahéin
+3409	át jiwdihoo
+3410	du yaagú yaa ashunahéin
+3411	du lʼeet ashakoolyénch
+3412	chʼa tleiyéixʼ yéi ng̱atee
+3413	tléil du eeg̱áa tleiyéi yéi haa utí
+3414	i yeeg̱áa yan yax̱waa.áa
+3415	g̱eey káxʼ yan has shawdlitsís
+3416	át shatooltsís
+{Page = 241}
+3417	wudix̱éḵ
+3418	sh gax̱toosx̱éiḵ
+3419	du akeedí x̱at wusix̱éḵ
+3420	gooshúḵ gaaw kei x̱at wusigít
+3421	tsʼootaat kei x̱at wudzigít
+3422	wáa sáwé tléil haa x̱ánx̱ eegoot?
+3423	goodé sá yaa neegút?
+3424	yee x̱ánde gax̱too.áat
+3425	gáande s woo.aat
+3426	haat sh ḵʼawdligút
+3427	g̱uwakaan yaa anagét
+3428	neil wudzigét
+3429	sʼeenáa gé wéidu? kag̱ít tóot yaa ḵux̱wdlig̱aat
+3430	tsu dáanaa du tuwáa aa sigóo
+3431	ax̱ tuwáa sigóo neildé x̱wagoodí
+3432	yá xʼúxʼ i jeedé sax̱waahaa
+3433	aadóoch sá saheiyí, kei jeeylatsóow
+3434	ḵúx̱de sax̱aahéi ax̱ shát
+{Page = 242}
+3435	chʼa hú áyá yéi sadihéi
+3436	yax̱ has ayax̱lajaaḵt has toowatee
+3437	gánde tuwatee
+3438	atshooḵ x̱áat uwaháa
+3439	sʼeiḵ du éet uwaháa
+3440	ḵúnáx̱ x̱at uwatʼáa
+3441	héen tléil utʼáaych
+3442	héen kuḵasatʼáa
+3443	xʼoow x̱at wulitʼáa
+3444	du jín altʼéisʼ
+3445	ḵoowatʼaa yáa yakyee
+3446	kei ḵunatʼéin
+3447	yá kaxʼásʼti g̱agaanch yaa kanalx̱ʼéx̱ʼ
+3448	yaakw yík na.óosʼ
+3449	naa.át áwé chʼa tlákw a.úsʼkw
+3450	dleey agux̱la.óosʼ
+3451	ax̱ x̱ʼoos x̱ala.úsʼkw
+3452	nadáakw kanax̱too.óosʼ
+3453	shada.úsʼkw
+3454	tléil shax̱wda.óosʼ
+3455	aax̱ daak awli.úsʼ
+{Page = 243}
+3456	yú héen yík awli.óosʼ
+3457	de chʼáakw áyá i kát wux̱adéin
+3458	du káa yan wudá
+3459	yax̱waahích
+3460	iyaawahích
+3461	sháal káx̱ yan aawadél
+3462	at káx̱ adélix̱ sitee
+3463	x̱ʼaan kʼidéin dultínx̱
+3464	aakʼéi atyátxʼi latínix̱ sitee
+3465	kʼéx̱ʼaa teen x̱áat yax̱waayék
+3466	jiyax̱waayék
+3467	yéi jiné tléil ushgóok: tlákw yan jiwooyék
+3468	néegwálʼ akaawahéen
+3469	tléiḵw a x̱oo kanahéen
+3470	héen du waaḵt uwadáa
+3471	lug̱wéinaa ax̱ yaadé ashaklayénxʼ
+3472	ax̱ tláa tléil ulcheen
+{Page = 244}
+3473	át x̱at kawditéisʼ
+3474	néekwch wusi.aan
+3475	sheedanú; ig̱waax̱dzi.aan
+3476	g̱uwakaan xʼóow duxʼweix̱
+3477	xʼóow g̱atudaxʼóowu: ḵútx̱ ḵusi.áatʼ
+3478	yées naa.át náa yéi s adi.óo
+3479	washéen x̱áa yoo yasháashk
+3480	a x̱ʼustáak yaa nasháash
+3481	yaa nalsháash yá tíxʼ
+3482	dzaas kawlisháash
+3483	ax̱ kooxéedayi loowasháash
+3484	áxʼ yaa nadásʼ
+3485	teey woodí a.áak g̱áach sákw
+3486	ḵákw wuduwa.ák
+{Page = 245}
+3487	kʼúntsʼ koodáali akwg̱akáa
+3488	dei a koodáali wuduwakaa
+3489	yei x̱at nalnétl
+3490	yei x̱at nalxún
+3491	kax̱waaxóo ax̱ lʼaagí
+3492	a kaxóowu
+3493	aadóoch sá neil wusgoodí yá kax̱waaḵaayi aa, x̱át tsú neilx̱ x̱at sagoot
+3494	neilx̱ ágé isagoot?
+3495	gán wuditlʼákʼ
+3496	tʼáa ká awlitlʼákʼ
+3497	ax̱ waḵdáanayi kawditlʼákʼ
+3498	xʼóow kakwḵalatlʼáakʼ
+3499	ḵukawlitlʼákʼ
+3500	at doogú wudiyúx̱ʼ
+3501	dzaas wudliyúx̱ʼ
+3502	sh wudligísh wéi keitl
+{Page = 246}
+3503	kawdigísh
+3504	keitl wudisítsʼ
+3505	dóosh yawdaséetsʼ tléil tóog̱aa akooshnook
+3506	haa yawdisítsʼ
+3507	kajúxaa yaa kanax̱lajúx
+3508	wéide kakḵwalajóox
+3509	yaakw yíkde at wulitsʼík
+3510	tlax̱ ḵúnax̱ áwé alitsʼeek du jín
+3511	ikḵwax̱ísht
+3512	a x̱ʼáaxʼ yoo x̱at duwax̱íshdik
+3513	i een ḵukḵwatláakw
+3514	tléil akx̱wa.éikw
+3515	yaa akoona.éikw
+3516	sh ḵʼada.ées
+3517	g̱aat yaa nashxén yú héen yíkxʼ
+{Page = 247}
+3518	Lʼeeneidí ishxénch
+3519	tsʼootaat niyís téil sákw akayéix̱
+3520	yawúx̱ʼu tʼáa
+3521	yá kayaaní tlax̱ yéi koowóox̱ʼ
+3522	ḵúdáx̱ kuliwóox̱ʼ yá chʼéen
+3523	ax̱ kéesi yéi kakoowóox̱ʼ
+3524	yaakw kaliwúx̱ʼ
+3525	ḵóok yéi kakwliwóox̱ʼ
+3526	kakayawúx̱ʼ áyá yá wásʼ aaní
+3527	kakliwúx̱ʼ yá tlátkʼ
+3528	chʼa x̱áach, át x̱waanúk hasdu geinyaax̱ x̱at wunaawú
+3529	át uwanúk héeng̱aa wugoodí
+3530	Cháanwaan ḵuyaawadlaaḵ
+3531	du wáaji akawlitéix̱ʼ
+3532	kanaltéix̱ʼ
+3533	wudixét
+3534	kindayígin x̱at wudzigeet; x̱at wudixét
+3535	awsixét
+{Page = 248}
+3536	ax̱ yáx̱ aawagúlʼ
+3537	i yáx̱ akax̱wshigúlʼ
+3538	du yáx̱ akax̱wdlilʼík
+3539	tlʼáx̱ʼkw tóoxʼ yei s ḵustáakwch
+3540	sʼísaa teen aax̱ x̱walig̱oo
+3541	tʼáa ká yei analg̱wéin
+3542	nadáakw kax̱lag̱ú
+3543	xʼáaxʼ a daa akawlig̱oo
+3544	geesh kadóotl a kaadé kwshé alx̱éisʼ
+3545	ax̱alx̱éisʼ
+3546	kayaaní kawshix̱ʼálʼ
+3547	g̱áaxʼw tsú kashax̱ʼálʼx̱
+3548	wé kagán akang̱aneekt haat uwagút
+3549	át wooḵʼéitʼ
+{Page = 249}
+3550	át shaawaḵʼéitʼ
+3551	yoo s akoowajeek
+3552	yoo ktoowajeek xʼoon dáanaa sá yagax̱toodlaag̱í
+3553	ax̱ aat, ilikoodzí
+3554	likoodzí aadé ḵʼáatlʼ yáx̱ yateeyi yé
+3555	kei gux̱lakoodzí
+3556	lisʼaag̱í ḵáa chʼa tlákw yéi jinéi nooch
+3557	hasdu x̱ʼayáx̱ yan yéi jix̱waanéi
+3558	tʼixʼdéin haa éen yéi jeewdudzinéi
+3559	tléil aadé x̱áa yéi jing̱eesineiyi yé
+3560	kʼidéin át has jeewli.aat
+3561	tláakw g̱unayéi s jeewli.át
+3562	daat daat sáwé tlax̱ yéi sh yeediyék?
+3563	daa sá i tóot wooxeex?
+3564	du yéi jineiyí du tóot wooxeex
+3565	ldakát ḵáa yoo kuteegí, sh tóot anasxíxch
+3566	sh tóot at wudzixeex
+{Page = 250}
+3567	wutusikóo aadóo yáa sá x̱ʼatudagáxʼx̱i
+3568	a yaadé yan has tóoxʼ.uwatsóow
+3569	Dikée Aanḵáawu yaadé yax̱ has yagux̱daxóon
+3570	ḵúnáx̱ áwé ix̱ʼadi.ék
+3571	aakʼé at kʼátskʼu wa.é: tléil x̱ʼeida.ék
+3572	wáa ng̱aneens ḵaa udachúnch
+3573	ax̱ tláa wudichún
+3574	g̱uwakaan wududlichún
+3575	gandaasʼaají x̱at wulichún
+3576	xʼúxʼ at daat kax̱waayeeḵ
+3577	xʼóow du g̱ushdaax̱ akaawayeeḵ
+3578	xʼóow sh daa kawdlig̱wáchʼ
+3579	du yádi káa kawdlig̱wáchʼ
+3580	kʼisáani has ḵoowlihaa
+3581	du een kei ḵukḵwalaháa
+3582	wuditlʼákʼi sʼísaa kadutéix̱ʼ
+3583	wé óosʼi kei katéix̱ʼ
+3584	káaxʼ shaayí akawlitéix̱ʼ
+{Page = 251}
+3585	kashgínx̱ wé sʼísaa
+3586	ilí: kakg̱ishagéen
+3587	kawdihútlʼ
+3588	kax̱wlihútlʼ
+3589	a x̱oo.aa at doogú kadulhútlʼx̱
+3590	ḵaa jín danátlʼx̱
+3591	ax̱ naa.ádi wudinátlʼ
+3592	yakʼéi wé xʼúxʼ ax̱ jeedé kayeeshxeedí
+3593	xʼúxʼ tlein akagux̱shaxéet
+3594	tléil a daa ugúnx̱
+3595	du ḵusteeyí tléil a daa awugóon
+3596	x̱at ḵʼeiwawáash
+3597	ax̱ yaadé ḵʼeiwawáash
+3598	ldakát ḵáa daléich áa sh kadulchʼéitʼaa yé
+3599	kei x̱tudaláa
+{Page = 252}
+3600	keitlch wushig̱ák
+3601	keitlch xóots yaa nashg̱ák
+{Page = 259}
+3602	chʼa g̱áa yatee
+3603	waa sá yatee?
+{Page = 262}
+3604	yan at wusinée
+3605	yax̱ at sanee
+3606	yándei at gux̱sanée
+3607	i káa kax̱wsiháa
+{Page = 263}
+3608	atudzikaa
+3609	áa aḵoox̱dlix̱éetlʼ
+3610	wuduwanúk
+{Page = 347}
+3611	nataan
+3612	gataan
+3613	nag̱ataan
+3614	nax̱tootaan
+3615	kei gax̱tootáan
+{Page = 348}
+3616	yaa g̱ag̱agoot
+3617	g̱ax̱too.éexʼ
+{Page = 351}
+3618	haax̱ goot
+{Page = 352}
+3619	gug̱agóot
+3620	tléil haax̱ ugoot
+3621	nag̱waagoot
+3622	neil ugootch
+3623	yaa nagút
+3624	nag̱agoot
+3625	nagú
+3626	nagútch
+3627	nag̱waagoot
+3628	nagóot
+3629	nagútni
+3630	nag̱agúdin
+3631	nag̱agoodít
+{Page = 353}
+3632	gug̱agóot
+3633	yaa kg̱agoot
+3634	yaa gagú
+3635	yaa gagútch
+3636	yaa kwg̱aagoot
+3637	yaa gagóot
+3638	yaa gagútni
+3639	yaa kg̱agúdin
+3640	yaa kg̱agoodít
+3641	yaa g̱aag̱agoot
+3642	yaa g̱agú
+3643	yaa g̱agútch
+3644	yaa g̱waag̱aagoot
+3645	yaa g̱agóot
+3646	yaa g̱agútni
+3647	yaa g̱aag̱agúdin
+3648	yaa g̱aag̱agoodít
+{Page = 354}

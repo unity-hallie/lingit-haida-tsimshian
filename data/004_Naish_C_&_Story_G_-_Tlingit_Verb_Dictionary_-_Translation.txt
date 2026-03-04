@@ -1,0 +1,3902 @@
+{Number = 004}
+{Type = Translation}
+{Title = Tlingit Verb Dictionary}
+{Author = Constance Naish, Gillian Story}
+{Source = N&S 1973:15–252}
+{Translator = Constance Naish, Gillian Story}
+{Page = 15}
+1	he turned it over to the Haidas
+2	my wife deserted me
+3	I abstain (from things such as eating meat)
+4	they are keeping from various foods and activities (in observance of Lent)
+5	his speech is acceptable / satisfactory
+6	my uncle is popular / my uncle is acceptable to people
+7	that dog really likes me / follows me around
+8	he’s beginning to go round with him / becoming friendly
+9	he accompanied him / went with him
+10	he accompanied him
+11	I accuse you to my father
+12	they said this to trap him, so that they could accuse him
+{Page = 16}
+13	we’re getting used to it (wood stove)
+14	they’ve grown accustomed to using certain words all the time
+15	maybe I’ll get used to it
+16	are you getting used to living down south?
+17	he acted like a boss
+18	your nephew is acting like a baby
+19	he’s always on the go: he must be working
+20	add more apples (to those already in the dish)!
+21	my aunt added more
+22	we’re going to add more (food, etc.)
+23	they added five more men
+24	he added “come here!”
+25	I’m addressing you as my younger sister, so that you will become my younger sister
+26	he always addressed him (and treated him) as younger brother
+{Page = 17}
+27	I admire the way you spoke
+28	adopt them / make them your own!
+29	they adopted me
+30	the glacier is advancing toward the beach (the ice is sliding down gradually)
+31	you will advise me about making money / about money matters
+32	that’s how I advised you
+33	my father used to make canoes with an adze
+34	my uncle knew how to work with an adze
+35	it’s going to affect us / we will be involved (for example, in some cultural activity)
+36	the earthquake affected us
+37	it was afloat and being carried out to sea by the waves
+38	it was washing against the fishtrap
+{Page = 18}
+39	are you afraid of my dog?
+40	I’m afraid of what he will say
+41	my mother agreed / is willing for me to go
+42	he’s on the alert (wondering what my happen)
+43	I’m alert (wondering what you are going to do to me)
+44	be prepared for anything, for he doesn’t know the job (and so an accident might occur)!
+45	he is still alive / can still move (after being dug up from landslide)
+46	they will throw you alive into the furnace
+47	we are not allowed to sentence anyone to death
+48	I have the right (I am allowed) to give it
+49	his strength amazed me: he broke a large nail (by snapping it across)
+50	they will all be amazed
+51	he’s really ambitious
+{Page = 19}
+52	we’re going to anchor over there
+53	I anchored my boat
+54	they dropped anchor
+55	he keeps moving his boat and anchoring it further out
+56	when the tide is falling near the boat, move it further out!
+57	he’s anemic
+58	he’s angry all the time, with everyone
+59	they are angry at each other (and won’t speak)
+60	I’m going to be angry with you (said jokingly, but meant deep down)
+61	they announced, “the salmon are swimming in the creek”
+62	you hear my sayings: I announce them loudly / I call them out
+63	stop now! you are getting me annoyed (with your chattering)
+64	the waves beating (on the shore) are loud: it’s getting him annoyed (tired of it)
+65	he annoyed me by keeping on talking (so that I had to keep on replying)
+{Page = 20}
+66	I made him talk so much that he was annoyed (and hardly knew what he was saying)
+67	everything I do annoys him
+68	he’s not annoyed with us / not tired of us (that is, of our visiting him)
+69	he’s beginning to annoy me / I’m getting tired of him (that is, of his constant borrowing)
+70	answer me!
+71	he answered him, “to whom should we go?”
+72	you haven’t answered me (replied in writing)
+73	he’s calling you: answer him!
+74	I answered already / I said “yes” already
+75	I’m anticipating difficulty / I’m expecting some bad trouble is going to hit me
+76	he appeared to them again
+77	he appeared to them
+78	he appeared (came where all could see him, having been previously out of sight)
+79	I apply it to you (that is, something I have experienced I apply to you to illustrate my point)
+{Page = 21}
+80	my father appointed me (to fill the position)
+81	they were appointed
+82	I really appreciate what you have done for me
+83	I’m apprehensive all the time concerning him (fearful he will cause trouble, etc.)
+84	I’m fearful that he’ll say something that will offend someone
+85	they wanted the approval of men, more than the approval of God
+86	they sent guards to arrest him
+87	they tried to arrest him
+88	he is ascending (climbing up) the mountain
+{Page = 22}
+89	the deer climb up to the mountain pastures (in July)
+90	“who pulled it out?” he was asking (people)
+91	he’s asking me about it
+92	don’t ask him!
+93	they were asking each other (asked among themselves)
+94	they went through the houses asking
+95	keep on asking me!
+96	I hesitate to go alone, so I’m asking you to accompany me
+97	I’m always asking her to go along
+98	he keeps asking to go with me
+99	I asked her for fruit / berries
+100	he asked me for money
+101	he’s always asking me for money
+102	he asked for a fishtrap
+103	he asked for money
+104	our master has come and is asking for you
+105	the medicine man asked for more (blankets, bracelets, money, etc.)
+106	ask for more adzes (medicine man instructing his helper)
+{Page = 23}
+107	that is where they assemble
+108	they are coming together / assembling for a meeting
+109	I’m very surprised at what you are telling me
+110	he stood with his legs apart
+111	he began to walk with legs far apart, struggling to carry the buoy weight
+112	they (one attacking force) attacked in our absence
+113	the dog jumped out at him
+114	their town was attacked (and captured)
+115	we attacked / invaded (as a war party)
+116	they went on a war party (to attack the enemy)
+117	I avoided the man who was driving (coming here by car)
+118	a big brown bear is an awful sight
+{Page = 24}
+119	the sound of people weeping sounds awful
+120	the house we used to own leaks: it’s no good now
+121	their work is bad
+122	the deer meat they have left hanging outside is going bad: it is getting mold on it
+123	it’s always bad weather when fall comes
+124	we bailed all the water out of the boat
+125	bail it out with the bailer!
+126	he finished baiting his halibut hooks
+127	I’m baiting with herring
+128	the skin has no hair on it
+129	he’s getting bald-headed
+{Page = 25}
+130	he’s bald like a rich man
+131	he was baptized
+132	they were baptized
+133	they were baptized
+134	I’m making barbs on a spearhead
+135	he’s making barbs on an arrowhead
+136	his dog barked at him
+137	the dog will bark at you
+138	he barks while a person is still a long way off
+139	children are bashful / timid with people
+140	long ago a young woman was trained to be shy of men
+141	he batted the ball (which was thrown to him)
+142	hockey (that is, batting the can)
+143	I batted it (hit the ball up)
+{Page = 26}
+144	I’m going to take a bath
+145	I bathed the baby
+146	strong men bathed (in the sea for training)
+147	I’m going to bathe my feet
+148	it’s battered
+149	how are they?
+150	the yarn is all colors
+151	you are really upright / honest
+152	my father is a seine fisherman
+153	is your mother still living?
+154	there isn’t anything
+155	what’s the weather like outside?
+156	it will be the same weather tomorrow maybe
+157	he’s beating the drum (or, less usual, he’s ringing the bell)
+{Page = 27}
+158	the bell is ringing (lit. beating itself)
+159	he always beats the drum too fast
+160	he started off on correct beat and is getting too fast
+161	the waves are really beating hard on shore
+162	the waves always come in and beat hard on the seaward side
+163	he beat me up
+164	we’re going to beat them up (said by children)
+165	he beat me up, hitting me in the face
+166	beat it (soapberries) up with your hands!
+167	we’re beating up soapberries
+168	they beckoned them
+169	you’ll beckon with your hand
+170	he became a preacher
+171	put your son to bed (to sleep)!
+172	daughter, put your children to bed!
+173	they are doing that (behaving like that) all the time
+174	they don’t behave like that / they don’t do such things
+175	long ago they used to kill people who behaved like that (who used to do those things)
+{Page = 28}
+176	I belched
+177	he believed
+178	you do not believe my words
+179	I believe you (what you say)
+180	he believes me all the time
+181	I’ll put on a belt
+182	he had dollars in his belt
+183	I put on a belt
+184	he bent the nail
+185	I bent my gun
+186	he bent over
+187	bend your knees right up!
+188	he can bend one leg
+189	he didn’t bend his arm
+190	he can’t bend his knee
+191	he was betting me something
+192	he’s going to make some big bets
+193	he told on it (something which had been done in secret (usually something wrong) and he informed everyone about it)
+{Page = 29}
+194	they will betray me to them / they will deliver me into their hands
+195	he betrayed him
+196	one from among you is going to betray me
+197	they bewitched him
+198	he’s going to bewitch you
+199	she’s bewitched (as an act of jealousy on another’s part)
+200	I dream that someone is doing bad things to me (and become sick through this)
+201	there was lots of grass there
+202	there’s plenty of food
+203	let it (wall) be ten feet high!
+204	cows’ horns are big
+205	the berries are very large
+206	this potato is too big
+207	this bracelet is too big for me
+208	he saw the big crowd
+209	there were fourteen of them there
+210	it was that big (with gesture) (of cactus)
+211	that big tree is large around (at the base)
+212	it’s a thick rope
+213	the bush is large around (has thick limbs)
+{Page = 30}
+214	the screw is too fat (for the hole)
+215	this needle is a little too fat
+216	make yourself bigger!
+217	I bound up his hand / I bandaged his hand
+218	a mosquito bit me
+219	a dog bit me
+220	a shark bit me
+221	the mink is biting hard on my hand
+222	he bit off the thread
+223	does it have a bitter taste?
+224	it will be bitter if you cook it that way
+225	we blackened the paddles in the smoke
+226	the lamp chimney got black
+227	my firewood went down and turned black instead of burning (esp. of hemlock)
+{Page = 31}
+228	he was blamed for the trouble
+229	I blame you
+230	if an accident happens to you, they’re going to blame me
+231	they blamed him for it (accused him of doing it); but he denied it
+232	he blasphemed against God (that is, said what was not right about him)
+233	he blasphemed against God (that is, spoke about God against the facts)
+234	they are blasting (rocks)
+235	his hand was bleeding
+236	we were really blessed
+237	they’re getting lucky
+238	God blessed us
+239	it is the thing I was blessed with (that I wish to share with others)
+240	I’ve been blind for ten years
+241	I was blind, and now I see
+242	I blinked
+{Page = 32}
+243	he’s blowing on his hands
+244	we are going to blow the horn
+245	he blew the cannibal’s ashes around
+246	the barrel is being blown around by the wind
+247	it’s always being blown away
+248	the clouds have blown away
+249	the leaves blow away
+250	I blew my nose noisily
+251	it’s blowing hard this evening
+252	the storm is blowing on them
+253	the north wind is blowing
+254	the wind blows from any direction
+255	he blew it (light) out
+256	I blew up a seal stomach
+257	they are blowing up the rocks with dynamite
+258	the knife is dull / blunt
+259	don’t! you’re going to blunt it
+260	my pencil is blunt
+261	my pencil is blunt
+{Page = 33}
+262	that’s enough of that boasting
+263	he’s always bragging (saying how good he is)
+264	he boasts / talks big of his status and wealth (but with no truth in it)
+265	the captain is taking the boat out
+266	boil the water!
+267	it’s not boiling yet
+268	he boiled fish / salmon
+269	they boil humpy salmon
+270	boil the meat!
+271	they used to boil elderberries
+272	they bolted the door
+273	these herring are really bony
+274	halibut isn’t bony
+275	I’m uninteresting / I’m no good at jokes (said when pressed to speak at a party)
+276	he was born there
+277	he’s going to borrow it
+278	he’s getting credit (borrowing along) from the store
+{Page = 34}
+279	our table has been borrow4ed
+280	he borrowed my gun
+281	go and borrow it (globe)!
+282	he borrowed a pencil
+283	he annoys me / he keeps interrupting (because he thinks his work is more important)
+284	don’t bother me!
+285	don’t bother me (to children demanding attention)
+286	he’s bothering him
+287	it (ball) is bouncing
+288	flat stones bounce on the water
+289	they used to braid their hair
+290	braid it!
+291	she has her hair braided all the time
+292	I’m going to braid my hair
+293	the iceberg broke off from the glacier
+294	the canoe split (down the center)
+295	he’s breaking off small chunks at a time
+296	he’s breaking off pieces of dried fish
+297	he broke the plate (into many pieces)
+298	the pencil is broken (crushed by something heavy, not snapped across)
+{Page = 35}
+299	he broke the plate in half
+300	he broke the cup to pieces
+301	I broke an egg
+302	they break the light bulbs
+303	I broke a stick
+304	the engine broke
+305	the broom broke
+306	I broke the bush
+307	I broke my needle
+308	he broke the pencil into short pieces
+309	he broke upo all his halibut hooks
+310	I broke the rock in pieces with fire
+311	the bread crumbles easily
+312	he was smashing up the door
+313	the rope is broken
+314	the scar keeps breaking open there
+315	I broke the yarn
+316	the thread is going to break (beginning to ravel)
+317	I broke the door off from there
+318	the children broke it (fence) right off
+319	he broke (a prong) off the alder tree
+320	he breathed slowly
+321	he’s still breathing
+{Page = 36}
+322	he’s getting out of breath (while running)
+323	we get short-winded
+324	I’ll get my wind back now (esp. needing rest when packing deer)
+325	things produce their young then (in May)
+326	the dog produced young ones
+327	it’s bright (of particularly brilliant star)
+328	bring a knife!
+329	bring a ball!
+330	bring a bucket!
+331	bring a bow!
+332	bring a herring rake!
+333	bring hammers!
+334	bring the baby!
+335	bring salmon!
+336	bring the cloth!
+337	bring water!
+338	bring the bundles!
+339	bring some rice in your hands!
+340	bring the large pot!
+{Page = 37}
+341	broil the salmon fast (still tastes somewhat raw)!
+342	he broiled the herring (catching the broth in a clam shell and pouring it over)
+343	he brushed his clothes
+344	clothesbrush
+345	it (cooking) is bubbling
+346	it’s beginning to bubble, fermenting
+347	tiny bubbles are coming up from the bottom (that is, from the mud)
+348	it’s bubbling up from the bottom of the water
+349	as the salmon swim along, they make tiny bubbles
+350	the spring is bubbling out / coming out real strongly
+351	it leaks real fast / it keeps bubbling out
+{Page = 38}
+352	he told them to build a large boat
+353	I bumped my foot
+354	he bumped his nose
+355	your pot (that is, your cooking) is going to burn
+356	the wood is burnt
+357	it (house) is burning down from top to bottom
+358	the boat burned up
+359	because the sun was strong, our faces got sunburnt
+360	I’m burning tree stumps
+361	he’s burning (old) clothes (on the beach)
+362	that skin has been burned / shriveled
+363	he scalded his hand with hot water
+364	I burned my hand making up the fire (stove)
+365	I was forced to move back (from fierce fire) because I was burning hot
+366	he burned it to ashes
+367	they used to burn yellow cedar bark to ashes
+{Page = 39}
+368	the cold bursts them (raven eggs)
+369	a cloudburst came on us / rain burst forth
+370	the water burst forth (that is, the dam broke)
+371	the water poured down suddenly and fast / the water broke forth (when trapped above)
+372	the sack (of flour) has burst open
+373	his appendix burst
+374	the seal stomach burst open making a popping sound
+375	did they bury him in Angoon?
+376	the dog is burying the bones
+377	he gave his uncle a good burial
+378	four days have passed since they buried him
+379	where have you buried him?
+380	I’m just busying myself with my garden
+381	button up your shirt!
+382	he buttoned it up
+383	we’re going out to camp, so we will buy food to take with us
+384	don’t buy a thing: we’ve already bought some!
+{Page = 40}
+385	I bought a hundred pound sack of potatoes
+386	he bought a ball
+387	he bought a pencil for his daughter
+388	he bought lots of bread
+389	I’m going to buy lots of things (at the sale)
+390	I caulked my boat with rags (stuffed rags in the cracks)
+391	call a nurse!
+392	you are called to the Eagle House; they are going to pay off
+393	he sang about a member of the opposite clan and caused that one to respond
+394	he composes tribal love-songs which call forth a response
+395	is he calling on the spirits?
+396	he calls on the spirits
+397	they were shouting at me from outside
+398	I called out to my mother
+399	I hollered at my mother repeatedly
+400	her son is always running off, and she’s always calling him
+{Page = 41}
+401	someone used to call out, “the tide is changing”
+402	the teacher called the roll
+403	there’s going to be a big matter (at the meeting), so they’re going to call the roll
+404	the palm of my hand is calloused
+405	there’s a corn on the side of my foot
+406	it is calm / peaceful
+407	it is calm with no wind or storm at all
+408	his boat capsized with him
+409	the canoe is tippy and given to capsizing
+410	I was captured
+411	they held him in jail (when not necessarily guilty)
+412	they don’t care (about public opinion)
+413	I cared for my grandchild
+414	my mother is taking care of him
+415	I care for you with all my heart
+{Page = 42}
+416	she doesn’t care for her children
+417	he’s carrying a book
+418	he’s carrying a radio
+419	he’s carrying a ball
+420	she’s carrying a string of beads
+421	she’s carrying a pot
+422	he’s carrying a gun
+423	he’s carrying a stick
+424	he’s carrying an arrow
+425	he’s carrying marble
+426	he’s carrying ladders (one at a time)
+427	he’s carrying his tools
+428	he’s carrying a chicken
+429	he’s carrying halibut
+430	he’s carrying his coat
+431	he’s carrying clams (in a bucket)
+432	he’s carrying bundles
+433	he’s carrying a deer on his back
+434	he’s carrying his child on his back
+{Page = 43}
+435	he’s carrying his rifle on his shoulder
+436	she’s carrying apples in her apron
+437	he’s carrying sand in his cupped hands
+438	she’s carrying flowers grasped in her hand
+439	she’s carrying lots of little oddments pressed together in her hands
+440	she’s carrying more than she can manage, dropping some and pressing the rest to herself
+441	he’s carrying it clasped against himself
+442	they are carrying a dead body (finding it heavy)
+443	it (dog) is carrying a bone in its mouth
+444	it carried away houses too (after dam burst)
+445	small pieces of driftwood were being carried along and washed up on shore
+446	from there the strong tide took them way south
+447	the tied took it right across (bay)
+448	they carved a totem pole
+449	they carve with an adze
+450	he carved an oil dish
+451	he knows how to carve spoon handles
+{Page = 44}
+452	he’s carving a bracelet
+453	he has a cataract
+454	he won’t get caught: he goes faster than anybody
+455	we’ve caught lots of salmon (said as looking into the net)
+456	I caught the ball
+457	they celebrated his birthday
+458	they are going to celebrate Christmas
+459	I always set a prisoner free during the time you are celebrating Passover
+460	they challenged each other to a fight
+{Page = 45}
+461	he dared him to steal
+462	a person’s life has changed completely to the opposite direction (lit. has tipped up)
+463	I’ve burned the toast / reduced it to charcoal
+464	it just chars along the edge of the wood (of wood suitable for canoe-making)
+465	he made charcoal
+466	it’s with material from a partially burned log that they paint the face (with charcoal)
+467	when they are hunting seal they paint their faces (so they won’t be seen)
+468	they’ll charge him
+469	how much does your mother charge for that dried fish?
+470	he had charge of her treasure
+471	they took charge of the child
+472	they chartered a plane
+473	he chased him out (from the house)
+474	chase me!
+475	he chased them out
+{Page = 46}
+476	he’s chasing sheep
+477	it didn’t cost me much
+478	the rice is cheaper over there
+479	the storekeeper cheated me
+480	he got mad, because he had been cheated
+481	he cares for his wife (cherishing her and putting her first in everything)
+482	I care for them (material things)
+483	I’m chewing something
+484	I’m going to chew snuff
+485	he’s chipping out a cottonwood tree for a canoe
+486	he choked on a bone
+487	don’t sip it up noisily (drawing air in to cool it); you will choke!
+488	they choose / point suddenly at a man’s hand
+489	you chose
+{Page = 47}
+490	he chopped a cord of wood
+491	he chopped up large blocks for firewood
+492	everybody chops wood
+493	he chopped down a sapling
+494	we’re going to chop it in two
+495	he’s chopping off branches
+496	he’s going to chop down some small trees
+497	he chopped up halibut heads for boiled fish
+498	they chop up meat with a hatchet (esp. ribs for storing in seal oil)
+499	they (beaver) chop off the tree limbs
+500	sometimes you circumcise a boy on the sabbath
+501	he was circumcised
+502	we claim two towns
+503	the land they were going to claim (that is, the Promised Land)
+504	I claim your rifle (which was going to be destroyed)
+505	I’m going to claim this and put money in its place (that is, will give its value when the owner dies)
+506	he clapped his hands
+507	clap your hands!
+508	they applauded (by clapping) so they had to come back (for encore)
+{Page = 48}
+509	I clasped a book under my arm (to carry it)
+510	he’s clasping (a heavy object) to himself in order to be able to carry it
+511	they kept themselves clean
+512	they cleared the beach (of rocks) for a canoe landing place
+513	they are clearing bushes away
+514	it’s clearing from us (that is, rain is leaving us)
+515	the mist has seemed to be lying solidly on you; that’s why (we say) it is going to lift
+516	maybe the sky is going to clear
+517	they sky is clear / there are no clouds
+518	he climbed the tree (holding on around it)
+519	he’s climbing a steep part of the mountain (holding on and pulling himself up)
+{Page = 49}
+520	it (octopus) is clinging tightly and can’t be moved
+521	the clock is going
+522	it’s ten after four
+523	I closed (pages of) the big book
+524	close them!
+525	he closed the window (pulled it closed)
+526	he closed the door
+527	he never closes the door
+528	the hunting season is closed
+529	close the door quietly!
+530	he closes the door really quietly
+531	he fixed a breakwater (of posts)
+532	they closed up the door permanently
+533	he put them close together, thus closing it
+534	we closed up our house completely (no air could get in even)
+535	the mayor has his mouth closed (he doesn’t wish to talk or give information)
+536	the child is keeping his mouth closed (refusing to eat his food)
+537	his chest healed rapidly and completely from that bullet wound
+538	it has closed up / become one whole
+{Page = 50}
+539	the pipe is plugged up
+540	you still never opened that ‘cheese’ (that is coho eggs packed in seal stomach)
+541	close your eyes
+542	I’m going to close my eyes
+543	I had my eyes tight closed (but was watching all the same)
+544	his eyes are closed
+545	it’s going to be cloudy
+546	it’s not cloudy
+547	he was clubbing salmon there
+548	he’s going to hit it
+549	I’m like a real clumsy person (when trying to thread a needle)
+550	he’s clutching it
+551	she’s clutching a load of things
+{Page = 51}
+552	they coiled the rope
+553	he coiled the wire
+554	I’ve coiled my line
+555	he cooled the water
+556	my feet are always cold
+557	my face is cold
+558	we feel cold
+559	maybe it’s going to be cold this winter
+560	the whole house collapsed
+561	the deadfall trap fell
+562	I sprang the trap / caused it to collapse
+563	his house was collapsed by the storm
+564	we collect all sorts in our house
+565	have you collected it (mail)?
+566	they were getting the people together in the house
+567	sockeye has changed color
+568	coho also changes color
+{Page = 52}
+569	he combed his hair with a comb
+570	I combed my hair
+571	he came to our house every day
+572	we’re coming to your place
+573	hasn’t he come (arrived) yet?
+574	we came by boat
+575	did any letters come for you?
+576	a new lamp will be coming for me
+577	winter is coming
+578	the time will be coming round when they go seining
+579	he’s coming to / coming back to consciousness after drinking
+580	he’s going to get back his senses
+581	we came upon a bear in its den
+{Page = 53}
+582	I came upon him and saw him in the very act of taking it
+583	we found him cooking
+584	he comforted him
+585	we’re going to comfort her / cheer her up
+586	he comforted him (lit. he warmed his inner feelings)
+587	I’m sitting very comfortably, just the way I want to be
+588	I’m going to make myself really comfortable
+589	he commands / he is in command
+590	I commented on the food
+591	my aunts, I have composed a song about you
+592	he composed a song concerning the sale of Alaska
+593	he composed a song about his relatives in the opposite clan
+{Page = 54}
+594	we concentrated on the Tlingit language (put effort into speaking Tlingit)
+595	what is on your mind / what is troubling you?
+596	I am concerned / I have no peace of mind / I don’t feel good (about something)
+597	I can’t find any reason to condemn him (that is, I don’t find in him anything for which he could be punished)
+598	is there no one left who condemns you (that is, who lays the blame on you)?
+599	whoever confessed Jesus is the messiah will be thrown out
+600	I confessed all my sins before God
+601	the fog confused me, and I went the wrong way
+602	the noise of the waves confuses people
+603	they were confused (that is, they didn’t understand what was happening)
+604	he was perplexed / bewildered (that is, his mind was really troubled)
+{Page = 55}
+605	they connected the wire
+606	I connected the wires together
+607	the wire is connected up with it
+608	we connected it up / tied it up to this
+609	he is consecrated to God
+610	my father consecrated me (that is, caused me to enter into it (a particular task))
+611	he came to his senses / he thought things over
+612	you’d better consider yourself (think over your life): you are going in the wrong direction!
+613	he’s eaten too many berries; he’ll be constipated
+614	he was converted
+615	they were converted
+616	he converted him
+617	he was converted/he stopped and turned away from his sins
+{Page = 56}
+618	they were converted/they turned from their sins
+619	it’s getting cooked
+620	only one is cooked yet
+621	cook rice for him (to eat)!
+622	how do you cook it?
+623	cook the meat by the live coals!
+624	cook the salmon in an under-fire pit!
+625	he dug up the food cooked in the pit
+626	they cooked a seal whole (in its skin, over campfire for a whole day)
+627	I’m going to cook herring eggs
+628	they kill fish fresh from water and cook it fast
+629	they used to cook inner parts of the deer on a stick fast
+630	they corked up the bottle
+{Page = 57}
+631	I’m coughing
+632	he coughs all the time
+633	how many can you count?
+634	count to twenty!
+635	cover it/put the cover on!
+636	put the cover on the rice!
+637	looks like it’s going to rain; cover the fish drying racks with canvas
+638	we covered it all over with sand
+639	his skull is fractured
+640	I have a broken/cracked bone
+641	I cracked the cup deliberately
+642	the cup is cracked
+643	crack the ice!
+644	it’s not cracked/it won’t crack easily (that is, good material)
+645	a cracked dish is no good: it harbors germs
+{Page = 58}
+646	he cracked it (rock) into two pieces
+647	the fire is crackling
+648	do you have cramp in your foot?
+649	watch yourself (take care); you might get shocked!
+650	he’s starting to crawl
+651	he’s crawling along on hands and knees
+652	I’ve just crawled here (said by old person)
+653	those kids are crazy/too lively
+654	it’s not good to be crazy
+655	he talks foolishly/says too much/his speech is crazy
+656	whenever a storm hits my house, it always creaks
+657	branches of the trees are creaking as they rub against each other
+658	the table is creaking
+659	I crept forward through the grass on hands and toes, keeping real low
+660	they are going to creep along (stalking game)
+661	they used to cremate dead people
+{Page = 59}
+662	they used to cremate children too
+663	put some of that tobacco in oven to crispen up!
+664	he really ran me down (he said hard things about me)
+665	he ran him down and criticized him to others behind his back
+666	crochet hook
+667	they are crocheting/hooking yarn
+668	the wood/plank is crooked
+669	he is cross-eyed (that is, has a crooked eye)
+670	he is crooked (working for his own ends only)
+671	the crowd is jammed together (is thick) there
+672	we are crowded (with too many things in our house)
+673	our little things (that is, all our many knickknacks) are crowding us
+674	he is crowded (cramped for space) by his machines
+675	they crucified him/nailed him on a cross
+676	the (new) one dollar bill is crumpled up
+{Page = 60}
+677	the paper is crumpled up
+678	he’s crumpling paper
+679	I crumpled the paper (in my hand)
+680	they crunch carrots and pilot bread
+681	dogs make lots of noise chewing bones
+682	he wept
+683	you (pl) will cry
+684	the child went home crying
+685	she cried out when she saw the mouse
+686	he (child) cried loudly (in temper)
+687	I’m going to make him cry
+688	she made me cry
+689	he’ll be really crying soon (although he’ll try to hold it back)
+690	the child is almost crying (he doesn’t want to, but can’t hold it in any longer; his face is puckered and he is about to break into tears or sobs)
+691	the sickness was removed by the medicine man
+692	it’s sick people that they cure (in this manner)
+{Page = 61}
+693	I curled my hair (with iron)
+694	it’s curly
+695	her hair is curly
+696	she had a ‘permanent’
+697	it (dog) is curly-haired
+698	they cursed him (that is, spoke to him in an attitude of anger)
+699	he cut the cloth in two, with scissors
+700	I cut it with a knife
+701	he cut the rope from there
+702	cut that bush from there (with a knife)!
+703	cut that bush from there (with a saw)!
+704	I cut the skin in several pieces
+705	he butchered it up/cut it in quite small pieces
+706	they cut deer open (in abdominal section ready to clean it)
+707	my mother has never had her hair cut
+708	she’s going to cut my hair
+709	I cut open the halibut
+710	he cut up humpy salmon (for boiling)
+711	I cut myself with the axe
+712	he cut his hand
+{Page = 62}
+713	they cut through anything soft (e.g. soap) with wire
+714	he cut the seal blubber in small strips
+715	I’m cutting carrot in small pieces
+716	one doesn’t cut onion thus (that is against one’s thumb with cutting edge of knife facing one)
+717	I dabbed it on there
+718	they stuff up the cracks in the dammed-up place
+719	beavers dam up rivers
+720	they are going to dam it to get drinking water
+721	I dammed the water in order to extend it towards the beach
+{Page = 63}
+722	he damped the clothes
+723	the dried fish is getting damp
+724	it (fish) is damp
+725	it’s going to get damp (it will become warmer)
+726	we are going to dance tomorrow
+727	dance (with rapid little foot movements)!
+728	dance (sliding your feet)!
+729	I’m going to dance lightly
+730	I’m going to dance (by swaying my body only)
+731	it’s a dangerous thing when the waves are beating hard
+732	brown bears are dangerous
+733	it’s getting dark (on the verge of being dark, with no moon, etc.)
+734	it’s dark in the woods always
+735	it’s real dark
+736	it’s daylight
+737	in summer it is full daylight by 9:00
+738	it’s getting dusk/daylight is fading
+{Page = 64}
+739	I thrust a light in his face and it dazzled him
+740	a dazzling light
+741	it (light) is so strong it can’t be looked at
+742	he decided to go back (by boat)
+743	they decided to go back (by boat)
+744	they’ve invited us: at the party they are going to put clan emblems on that one
+745	the young fellows decorated it (tree)
+746	they decorate baskets (by interweaving grass on the surface)
+747	down in a ravine the snow is deep
+748	the pine needles are thick (on the ground)
+749	the snow is getting deep
+750	they make the moss thick there
+{Page = 65}
+751	I shoveled the snow there and made it deep (on sides of roadway)
+752	make the flour thicker (that is, sift more onto table)!
+753	he always loses (that is, they always beat him)
+754	the big dog defended himself
+755	he really talked hard for himself
+756	he deflated it (balloon)
+757	I’ll try to talk you out of something valuable
+758	the white man defrauded them of their land
+759	I was delayed for four days
+760	her father prevented her (from attending)
+761	storms delay people
+762	he doesn’t delay after meals (he jumps up quickly and goes off)
+763	I’m going to be detained here one week
+764	what was it delayed him?
+765	I delayed my father (each time he started leaving I said something else to him, so he couldn’t get away)
+766	you delayed me in speaking / you slowed down my talk by butting in
+{Page = 66}
+767	I didn’t speak up right away / I was slow to speak
+768	what made you be delayed in speaking? / what kept you from speaking right away?
+769	there are delicate matters in the mayor’s speech
+770	it’s a touchy subject and if not dealt with diplomatically it could cause trouble
+771	things you need to treat delicately, which you should hesitate to talk about
+772	she demonstrated how they sew
+773	he performed magic before the people
+774	the bucket is bent in
+775	he dented my hat
+776	don’t! you’ll dent the bucket
+777	I denied what he said / contradicted him
+778	we cannot deny it / we cannot say it isn’t true
+779	I denied it / I told him “no” (esp. when asked if one still has any dried fish, money, etc. to give or lend)
+780	when they asked him, he denied it all the time
+{Page = 67}
+781	he descended the mountain
+782	they’re coming down the mountain without anything (that is, having hunted unsuccessfully)
+783	I’m anxious to acquire it
+784	he really desired a bear / he was anxious to go after it and get it
+785	all hopes of your returning had been given up
+786	don’t despair!
+787	we are giving up hope
+788	they will destroy our temple
+789	he made nothing of the speeches / he threw them out as being worthless
+790	he’s determined to go trolling
+791	I’m going to die
+792	he was dead when I found him
+793	he pretended to be dead
+794	it (tree) is dead, but still standing
+{Page = 68}
+795	my mother died / she no longer exists
+796	how did they die?
+797	he died / he stopped breathing (soft expression)
+798	they all died (one at a time)
+799	if we don’t take any action, they’ll all die off
+800	they all died off (leaving just a few of us in the village)
+801	he’s digging up clams
+802	whjen it comes fall time, they dig up the potatoes
+803	they are going to dig up the large boat (ancient remains)
+804	I dipped it up carefully into this bucket
+805	he dipped up water from it (spring)
+806	it’s getting dirty (from being worn)
+807	don’t! you will dirty your dress
+808	the neck of my shirt is dirty
+809	his boat is real dirty / there’s lots of rubbish in it
+810	he got himself dirty (e.g., by tumbling in the mud)
+811	it’s real dirty (dust, papers, and rubbish all over)
+812	the bucket is dirty inside
+{Page = 69}
+813	they disagreed with each other
+814	they disagree and argue about hearsay (that is, about things they don’t really know about)
+815	the paint on it (totem pole) has disappeared
+816	camphor disappears
+817	I’ll take you some place else / cause you to disappear as if by magic (said jokingly)
+818	I’m disappointed (lit. my mind is broken)
+819	I’m disappointed (lit. my mind is stinging)
+820	the water is muddy / dirty
+821	the children muddied the water
+822	clay clouds water
+823	when it rains the salmon creeks get discolored
+824	if you pour the medicine in the water, it will be discolored
+825	his face is discolored (from bruising)
+826	children discolor it (water) with mud
+827	the water is discolored (fresh water with whitish clay in it after heavy rain)
+{Page = 70}
+828	your face is discolored (for any reason such as jaundice, bruising)
+829	he tried to discourage him and stop him doing it
+830	we tried to discourage our son from doing it
+831	he’s discouraging me from doing it (he’s telling me I won’t be able to, etc.)
+832	I’m not discouraging you (that is, I think you should go ahead)
+833	we discussed making a large canoe
+834	the young fellows are discussing it
+835	I am disliked / nobody wants me
+836	you’re not going to like me
+837	I don’t want to go home: it’s too cold
+838	don’t you like it? / do you dislike it?
+839	I dislike it that he is lazy and talks back (when I tell him to do anything)
+840	he doesn’t like it very well / he disapproves
+841	he dislocated his knee
+842	he continually disobeys
+{Page = 71}
+843	I told him to leave the books, but he disobeyed me and took them
+844	seal blubber is distasteful / too rich (for many people)
+845	he distributed the money
+846	I’m going to pass out the food
+847	the hair seal dived
+848	I surface-dived
+849	the ducks dived
+850	he dived in (lit. jumped in the water upside down)
+851	I’m dizzy all the time
+852	looking down from a cliff top makes one dizzy
+853	he’ll do something
+854	I didn’t do it / I’m not the one who did it.
+855	he was hurt (lit. they did it to him in a hurting way)
+{Page = 72}
+856	he no longer does trapping: he’s too lazy
+857	whatever his father does, he does too
+858	what are you doing?
+859	I wasn’t doing anything: I’m just writing
+860	he did has he was told
+861	I did it because they told me to
+862	whenever they are going to talk to him, he dodges it
+863	you know how to dodge (in tag ball)
+864	he ducked (so that blow aimed at him missed)
+{Page = 73}
+865	they (big team) were trouncing (the other team) without giving them a chance
+866	they are donating money for the Hall
+867	he’s donating money
+868	I was doubled up last night, it was so cold
+869	it flaps then folds its wings alternately in flight (woodpecker)
+870	the pain doubled him up
+871	he doubts whether I could do it / he doesn’t have faith that I could carry it out
+872	I’m not confident that I could do it / I consider myself unworthy
+873	stop doubting (that’s enough of it)!
+874	they used to drag (laden) sleds along
+875	he dragged it over here (heavy object on a line)
+876	he dragged it over here (light object)
+877	they’re going to take us south
+878	dog salmon drags his tail along on top of water
+{Page = 74}
+879	the oil drained out
+880	that pot has gone dry (all liquid has gone from it)
+881	he drew (the curtains) across
+882	draw back the curtains!
+883	I drew back instinctively
+884	when I saw the bear I stopped short
+885	whenever a brave man is going along he doesn’t draw back
+886	soap (in a compress) draws out a boil
+887	I dreamed that I beat him up
+888	I never dream
+889	he dressed him / gave him clothes
+890	dress the child
+891	she’s dressing her (a child, esp. for a special occasion)
+892	dress your doll (and make her look pretty)
+893	I wonder why he’s all dressed up?
+894	they drill everything, wood, iron
+895	he drank water
+{Page = 75}
+896	he drinks fruit juice
+897	we are going to drink (sip) Hudson Bay tea
+898	he’s always drinking (tea or coffee)
+899	he drinks water through a straw
+900	it’s because it is hot I am sipping it noisily
+901	don’t sip it like that; you will choke!
+902	I’ve already drunk up this cupful
+903	drink it up!
+904	it’s dripping off our eaves very slowly
+905	it’s dripping off our eaves fairly fast
+906	it drips into a can (fairly constantly)
+907	it’s dripping off our eaves real fast
+908	he drove them into the cow barn
+909	he’s driving the sheep pretty fast
+910	rain water was driving in (during heavy storm)
+911	put a drop of your medicine in mine
+{Page = 76}
+912	it (a spark) dropped on the roof
+913	my father was drowned way out
+914	all of them were drowned
+915	your laundry has dried already
+916	my throat is dry
+917	we are going to dry deer meat
+918	all my clothes were dried by machine (that is, in the clothes dryer)
+919	this (pot) isn’t dry
+920	the flour is dry
+921	he dried out the pot
+922	after the north wind has been blowing, everything seems to be dry
+923	it’s dry and crisp (somewhat chilly)
+924	I’m going to make dried fish this summer
+925	he’s smoking sockeye
+926	the book has dried apart / come unglued
+927	he is dumb
+928	I dumped it (garbage)
+929	he dumped the clothes
+{Page = 77}
+930	I dyed my topcoat red
+931	I’m going to put polish on my shoes (changing their color)
+932	when the store is having a sale, clothes are easily gotten (that is, are cheap there)
+933	deer are easy to get close to at the edge of the swamp
+934	we will eat deer meat
+935	they ate as much as they wanted
+936	Tlingits eat everything (that is, have a varied diet)
+937	he is eating his hand (of infant)
+938	don’t just eat the berries, pick them (that is, for taking home)!
+939	they eat gumboots (chiton) raw from the beach
+940	I ate the sea urchin
+941	they eat cockles raw too
+942	we’ll dip it in the oil and eat it
+{Page = 78}
+943	eat the sea urchins!
+944	eat it with your fingers (esp. dip your fingers into the food)
+945	let’s pretend to eat!
+946	we’ll clean up this plate with our fingers (showing real enjoyment of the food)
+947	I ate up the whole broiled herring
+948	they ate it all up (lots of pieces)
+949	finish it up!
+950	he finished the food I gave him
+951	the thunder echoed back and forth
+952	it resounds, like an echo
+953	he is elected (that is, the choice fell on him)
+954	just two were elected (that is, they fell into office)
+955	they were elected
+956	there’s nothing there (in the dish): maybe the dog ate it up
+957	the potato sack is empty
+{Page = 79}
+958	the bottle is empty / has nothing in it
+959	they emptied (the dish) and lifted it up (in triumph)
+960	he emptied it (ate all the contents of it) with his tribal brothers
+961	he emptied his pockets
+962	he emptied it (by taking several trips)
+963	he completely surrounded it with a seine net
+964	we’ve enclosed it for now; but we’re going to put a gate in there
+965	I encouraged him / told him not to be a coward
+966	they used to encourage the children (urge them to bathe in the sea)
+967	take courage (encourage yourself)!
+968	he went to his place to comfort and encourage him
+969	winter is coming to an end
+970	the deer hunting season is closed / has ended
+971	three days ago (that is, three days had passed)
+972	our language is going to run out / come to an end
+973	February has passed
+974	last month
+{Page = 80}
+975	it’s the end of this month
+976	it’s amazing how that boy endures (that is, has a strong mind about it): he doesn’t cry when his father whips him
+977	she enured great suffering (that is, she went through it)
+978	I really enjoyed you: your singing was pretty good
+979	the Christmas party will be enjoyable (there will be lots of fun)
+980	he makes one feel good (as he speaks or sings)
+981	they are going to entertain at Christmas
+982	he’s amusing himself (playing pretending games)
+983	I called up a seal (brought it close enough to shoot)
+984	I’ve got that child used to me (with candy, etc.) so he’ll do what I please
+985	call the dog!
+986	they entice everything (such as deer, seal)
+987	he erased it
+988	I’m going to erase it
+989	erase it!
+990	I’ve already erased it / rubbed it off
+{Page = 81}
+991	he escaped
+992	they escaped
+993	they escaped in a boat
+994	he esteemed himself his equal (lit. he made himself of the same weight)
+995	I think you are above everyone / rate you higher than others (lit. I make you heavier than anyone)
+996	he will have eternal life
+997	he will be with you forever (that is, until the no-ending / eternity)
+998	God exalted him
+999	he will be lifted up and honored
+1000	they are going to examine us / we’re going to get a checkup
+1001	they sent me here to look into your way of life (to judge whether it is good or not)
+1002	I’m asking you to give me your dress (in exchange because I may give you an amount way beyond its worth because I know you need the money for some pending public activity)
+{Page = 82}
+1003	he asked for the boat (from his brother-in-law; in exchange he might give way below the price of it, because they are very close in friendship)
+1004	if she were a Tlingit, I would ask her for it (implying, that because she is not in the culture she would not understand the system of exchange)
+1005	they used to trade skins for rifles
+1006	she exchanged it for ours
+1007	he exhanged places with us (standing up and going out as we came in)
+1008	let’s trade!
+1009	I exchanged the positions (of many objects)
+1010	cry ‘hoo! hoo!’ before it happens (e.g. before having amputation mentally shut off the pain by this means)!
+1011	he cried ‘hoo! hoo!’ (when enduring pain of training) he made the sound of his clan animal (when going out to die)
+1012	I exclaimed ‘ha! ha!’
+1013	he was clapping his hands and exclaiming ‘ha! ha!’ (while his halibut hooks were going down)
+1014	you are making all kinds of excuses (as to why you lost the race)
+1015	he’s exhausted
+{Page = 83}
+1016	he’s getting all in
+1017	I’m getting stiff (with sitting); I’m going to stand up
+1018	he’s all in, because he drank water (and thus reduced his body temperature)
+1019	packing (deer) gets me really exhausted
+1020	I’m tired out (after hunting or paddling)
+1021	they used to paddle after the fur seal until he was exhausted (then they could get close enough to kill it)
+1022	when you take a trip, we shall expect you back again
+1023	I’m expecting my son
+1024	Angoon is expecting visitors
+1025	he looked at them, expecting to get something from them
+1026	an attacking force was expected
+1027	how expensive was it for you?
+1028	I’ll explain to you
+1029	why don’t you explain it to me?
+{Page = 84}
+1030	the stove exploded (that is, the explosion came through the door or lid)
+1031	someone fired a gun and the explosion was heard
+1032	he exploits the mountain (he goes up when he has a chance and every time he comes back with deer, etc.)
+1033	what he as been doing (in secret) has now been exposed
+1034	the road extends to the forest
+1035	there’s a furrow the whole length of the garden
+1036	the forest extends for a long way (to a far place)
+1037	he’s making faces at us
+1038	I made faces at that girl
+1039	I always fail / I never succeed
+1040	he failed (in an attempt to get stove to work)
+1041	I failed (for instance to return a greeting suitably)
+1042	but he failed (to get message across, though he spoke well enough)
+{Page = 85}
+1043	I failed completely
+1044	you didn’t fail / you did pretty well on that (lit. you couldn’t be ripped back or undone)
+1045	that man is very fair-skinned
+1046	when the raven turns white …
+1047	If his pocket is holey, the money will fall from it
+1048	they all fell down on the ice together
+1049	I let it fall from my hand
+1050	all the beads fell from my hands
+1051	a whole lot of cans fell over / tumbled down
+1052	he fell down from the ladder
+1053	they won’t fall on the ice
+1054	the pot fell from her hand (that is, she dropped it)
+1055	the blanket fell off the line
+1056	your coat is giong to fall off (the chair)
+1057	the berries have already fallen (not many left now)
+1058	hail is falling (a little at a time, here and there)
+1059	it (ladder) is falling on you
+1060	it (pole) fell on you (slid down the wall)
+{Page = 86}
+1061	the book fell from the table
+1062	the radio fell down
+1063	when the rope broke, the box fell down
+1064	the potato fell down
+1065	it (bobby pin) dropped
+1066	maybe it’s going to snow
+1067	hail was falling
+1068	there’s a waterfall way up the bay
+1069	the plate fell apart (in two pieces)
+1070	when they pound a rock, it cracks in two (and falls apart)
+1071	the stovepipes came apart
+1072	their former houses have all fallen down in Killisnoo
+1073	the dock fell down (fell to pieces)
+1074	ducks molt their pinion feathers
+1075	my hair is falling out
+1076	my hair is falling out
+{Page = 87}
+1077	my uncle is famous / he is known all over
+1078	this is a fancy table
+1079	he’s a prominent man / attracts attention by his dress, ‘high-brow’
+1080	is their town far away?
+1081	he won’t be far from you
+1082	it’s not far / for a short while (that is, not distant in time)
+1083	how far did you go?
+1084	the Klukwan people are coming here to dance: I think it will be a fascinating, a wonderful sight
+1085	I love to watch it / I am fascinated by it
+1086	he’s a fascinating speaker (his presentation is so good and his actions go right along with it)
+1087	his story was fascinating, one was compelled to listen
+1088	I think he’ll be fast
+1089	he was fast with bow and arrow
+1090	he goes faster than anybody
+1091	I fasted four days
+1092	men fasted before going out on hunting trips
+1093	he’s gaining weight / getting fat
+1094	a fat man
+{Page = 88}
+1095	what kind of a feeling am I getting (what am I starting to feel)?
+1096	he doesn’t feel well
+1097	I felt something cold on my neck
+1098	you will feel that I love you
+1099	he got angry / he felt like anger
+1100	I feel mad at him
+1101	they fell big trees
+1102	they are going to fell the tree onto skids
+1103	he went to fetch firewood
+1104	fetch a nurse!
+1105	I fought him
+{Page = 89}
+1106	they have observed him and figured him out (as being good or bad)
+1107	you investigate it and consider all that’s involved!
+1108	he filed it
+1109	he filed it with a grindstone
+1110	that box will be filled up
+1111	we filled our boat
+1112	he filled the day (with what he was doing)
+1113	this town is full of dogs
+1114	the pitcher is full
+1115	fill that bucket with water!
+1116	our barrel is full to the brim of rainwater
+1117	we’ll fill it to overflowing
+1118	fill it half full!
+1119	I filled it (suitcase)
+1120	he didn’t fill it
+1121	he’s the one who is filling the boat (with fish)
+1122	fill it half full (esp. with berries, salt, etc.)!
+{Page = 90}
+1123	he found the hammer under the table
+1124	I found a rope
+1125	he found the Canada goose eggs
+1126	we found a pencil on the floor
+1127	I found him at his uncle’s place
+1128	he never did find it
+1129	maybe it will be fine weather tomorrow
+1130	are my clothes finished yet (when being altered)?
+1131	all the preparations are completed / everything is ready
+1132	he never finishes anything / never completes it
+1133	have you finished (altering) my clothes yet?
+1134	it is finished (e.g. school course) (lit. it is filled up)
+1135	he fired that cannon
+1136	he’s shooting off (a machine gun) (that is, going along firing)
+1137	I fixed the fire in it
+1138	have they already made a fire?
+1139	we’ll make a (wood) fire in the morning
+{Page = 91}
+1140	I fixed the fire
+1141	he was seining humpy salmon
+1142	he fished with a dipnet
+1143	they dip net for eulachon (candlefish)
+1144	he hauled in (caught) a large king salmon
+1145	what kind of fish are they catching (with a line)?
+1146	he’s not jigging herring
+1147	he caught it with a hook
+1148	they are trolling
+1149	let’s go to the river, gaffing
+1150	they are hooking salmon
+1151	where have you been halibut fishing?
+1152	I’m going fishing with a halibut hook
+1153	he raked herring
+{Page = 92}
+1154	it (clothing) fits me
+1155	they (gloves) fit me
+1156	they (shoes) fit me
+1157	they have fitted it (name) to her (that is, the name she has been given fits her, because she is like the former bearer of that name)
+1158	I have fitted it (jigsaw puzzle) together
+1159	your uncles are good speakers / say what is fitting
+1160	I didn’t think it (pieces of jigsaw) would fit just there
+1161	it just fits what you said / it has turned out just as you said
+1162	fit that piece of lumber onto the other one!
+1163	he fitted his plans there (that is, actually did what he had been talking about)
+1164	his way of life is fitting / proper
+1165	it is fitting
+1166	his speech is fitting / fits in with his actual lineage
+1167	the fish flesh is coming apart in flakes: it’s because it’s fresh it’s like that
+1168	they roll out silver and also copper
+1169	the tin can was flattened
+{Page = 93}
+1170	his dog has fleas
+1171	it doesn’t have fleas
+1172	he fled from me
+1173	I became conscious of a bear, so I turned back from it
+1174	the people fled into the woods
+1175	they turned back and started for shore to get out of the storm
+1176	all the sheep flee / scatter in different directions
+1177	he flung it (book) aside roughly
+1178	I flung him over there (in wrestling)
+1179	he flung his halibut hook into the water
+1180	I flipped the marble / I hit the marble
+1181	I threw a small rock (by hitting it with back of thumb)
+1182	the herring are flipping their tails (just flicking them above surface)
+1183	iron doesn’t float
+1184	he’s drifting back
+1185	it drifted to a good sandy beach
+1186	shells are floating (during very calm weather)
+{Page = 94}
+1187	trees were floating around
+1188	I put lots of firewood on board; then my boat floated real low in the water
+1189	it is flooding / water is rising
+1190	our basement was flooded
+1191	the town is flooded
+1192	the creek flooded
+1193	the creek is flowing
+1194	the tide caught us (that is, flowed onto us)
+1195	the liquid is half gone / flowed away
+1196	a small waterfall is flowing over the cliff and hitting a certain place down below
+1197	he turned the hose on the floor (caused the water to pour out over the floor)
+1198	it’s beginning to flower / coming into bloom
+1199	the salmonberry is flowering
+{Page = 95}
+1200	a duck is flying toward us
+1201	we’re going to fly to Angoon tomorrow
+1202	the geese are flying northward
+1203	the ravens are flying across the valley
+1204	mosquitoes are flying around
+1205	sparks are flying
+1206	soapberries foam up
+1207	the egg (that is, the white being beaten) is starting to foam
+1208	the waves are breaking into foam
+1209	the boiling soapy water is going to foam up
+1210	my glasses are fogged up / steamed over
+1211	the oil filmed it over / made it smeary
+1212	it is foggy today
+1213	he folded it up
+1214	it was lying there folded
+1215	it’s going going to fold
+1216	he followed us into the house
+1217	let’s follow him!
+{Page = 96}
+1218	I’ve been following you all over the place (trying to catch you)
+1219	we however are foolish / we don’t reason things out
+1220	when he was a young man he was foolish / unwise (in the way he behaved)
+1221	it’s forbidden to touch the medicine man’s things
+1222	my father forced me to do it
+1223	they were using force to make him do it
+1224	we forget
+1225	he didn’t forget me
+1226	we made them forget their sorrow
+1227	forgive us!
+1228	we were able to get a deer just when we needed it (that is, the spirits sent it to us and favored us with it just the right time)
+1229	I was really fortunate: I found work
+{Page = 97}
+1230	my shin bone fractured
+1231	the berry bushes used to be real fragrant in the spring
+1232	flowers grow there: how fragrant it is / how sweet it smells
+1233	I am beginning to freeze
+1234	it’s a shame (real sad) they froze
+1235	the fish is fresh / still twitching
+1236	we were thoroughly scared and frightened (in a big storm)
+1237	he made a fringe in the edge of the blanket
+1238	he’s going to fringe that cloth around the edge
+1239	it’s frosty
+1240	it’s going to be frosty
+1241	he frowned with bad temper (in ill-humor)
+1242	he frowned / puckered his forehead (when thinking and bothered)
+1243	he fried the fish
+1244	they fried it with oil
+{Page = 98}
+1245	he said this, so that what he had said might be fulfilled / might come true
+1246	it was fulfilled / it happened that way
+1247	I’ve furrows in my garden (along the sides, to retain the water)
+1248	she made a fuss and talked to her husband (about seeing him with another woman)
+1249	they accused each other of improper conduct (because jealous of attentions to others)
+1250	they are real particular with their food
+1251	we have gained three halibut
+1252	he’s acquired a new boat
+1253	he’s gambling with the sticks
+1254	it’s forbidden to gamble now
+{Page = 99}
+1255	we gargle
+1256	gargle with this medicine
+1257	they gather a woman’s skirt (put gathers in it)
+1258	gather those blocks of wood together
+1259	he put a raft together (tying together in a loose way)
+1260	they gathered up all the pieces left over
+1261	gather up all the pencils!
+1262	it got back into joint by itself
+1263	give your aunt this letter!
+1264	he was given (he obtained) strength
+1265	I’m going to give the money to my grandfather
+1266	give me (hand me) a new pencil!
+1267	he gave her earrings
+1268	they are not going to give out the mail
+1269	she gave me a dress
+{Page = 100}
+1270	they (of the opposite clan) are giving food to you
+1271	they gave them sugar and pilot bread to take away
+1272	I am giving you a little extra (for free)
+1273	aren’t you going to give a little extra free?
+1274	didn’t they give you anything?
+1275	we could have given it to the poor
+1276	they are going to be giving to people at the party this evening (said to someone who has been absent from village and so doesn’t know the stage reached)
+1277	give my paternal aunt twenty dollars extra!
+1278	the ANB presented it to us
+1279	by his death he gave us life
+1280	they’ll give him a drink
+1281	they give him drink (usually at communion)
+1282	give him pilot bread (to eat)!
+1283	I’ll be glad when I find it
+1284	was he glad to see you?
+{Page = 101}
+1285	lawyers are glib / they always have something to say
+1286	it (canoe) is going down slowly with people in it
+1287	planes glide (that is, fly with engine shut off)
+1288	my Father, may your name be glorified
+1289	we glorify your name (we honor it and make it well known and holy)
+1290	there’s still sparks in the ashes
+1291	a spark has landed there and is starting to burn
+1292	the dog is gnawing a bone
+1293	I gnawed on dry bread
+1294	your song was good
+1295	does that seem good to you?
+1296	he doesn’t gossip now
+1297	they were gossiping / telling tales about each other
+1298	grab that puppy!
+1299	I grabbed the bucket
+{Page = 102}
+1300	he grabbed the egg
+1301	he grabbed a pencil (and hurried off with it)
+1302	he grabbed them and brought them in one at a time
+1303	I don’t know what I grabbed up (e.g., when escaping from fire)
+1304	they each grabbed up a rifle
+1305	I am grateful to you
+1306	the skin grazed off (in a fall)
+1307	you are greedy; eat slowly (to child)!
+1308	he isn’t greedy; he eats like a gentleman
+1309	he ground it up
+1310	he’s grinding meat
+1311	the pliers gripped the screw
+1312	Eskimos grip the skin in their teeth when making moccasins
+1313	trouble has me in its grip (when one disaster follows another) (lit. trouble has bitten on me)
+1314	he’s growing
+1315	he was very old (that is, really matured)
+1316	they nourished him (child)
+1317	springtime is coming; the leaves are coming out / the plants are growing
+{Page = 103}
+1318	what is growing in your garden?
+1319	the rain and sunshine are making plants grow
+1320	let your hair grow (implying it has been cut short before)!
+1321	the brown bear gave a great growl
+1322	I protected them and not one of them was lost
+1323	he spoke to the girl guarding the gate
+1324	I’ll guide you there (leading and pointing out landmarks, so that you’ll know the way another time)
+1325	thank you for guiding me
+1326	you are still guilty (that is, the sin lies against you)
+1327	you would not be guilty (that is, they could not lay the blame on you)
+1328	you are not guilty (that is, there is nothing for which you could be punished)
+1329	he’s guilty (that is, he did it)
+1330	the boards are gummy
+1331	the bread dough is getting sticky (with too much water)
+{Page = 104}
+1332	it had become habitual for me to do it (e.g., change gears a certain way)
+1333	if you live well, it will become a habit with you
+1334	we like to go hunting (and we go frequently)
+1335	she’s in the habit of going berry-picking
+1336	a deer is hairy
+1337	he’s growing hair on his face (beginning to get hairy)
+1338	it has a hairy body
+1339	that china doll has lots of hair
+1340	I handed over to you the song or story for you to complete (or substitute another for it)
+1341	he handed over to me, so I finished telling it
+1342	bats hang down in clusters from the ceiling
+1343	it’s hanging there (string, rope, or cobwebs)
+1344	berries are hanging in clusters on the bushes
+{Page = 105}
+1345	they hang things called rings on it (that is, along the bottom of the net)
+1346	they hung him on a tree
+1347	he hung himself
+1348	it (something heavy, such as a large icicle) is hanging down the cliff
+1349	the ladder is hanging down the roof
+1350	the padlock is hanging in the door
+1351	he hung up the deer meat in the smokehouse
+1352	we hung our laundry outside
+1353	he hung (string) up there
+1354	it’s amazing what happened (for example, he fell and broke his leg)
+1355	take good care, so that it doesn’t happen to you again!
+1356	it spoiled (that is, it happened badly to it)
+1357	I’ve been sick (that is, it happened in a sick manner to me)
+1358	what happened to them?
+1359	I don’t know what happened to the woman
+1360	I am happy to see you
+1361	but I will see you again, and then you will be really happy
+1362	crab apple wood is hard
+1363	it’s not hard / not tough (of boards, rope)
+{Page = 106}
+1364	that meat is tough (hard to chew on)
+1365	the crab apples are still hard (still green)
+1366	my life is hard for me
+1367	sewing skins is hard
+1368	the Russian language is very hard for me (to speak)
+1369	explain it to her, then it won’t be difficult for her!
+1370	silver that has been melted solidifies again
+1371	the cement has already hardened
+1372	the salt has hardened / caked into one mass
+1373	the clay has hardened at the bottom of the bucket
+1374	harden it in a can!
+1375	they harden tallow
+1376	he harps on it / keeps telling me over and over (till I’m tired of it)
+1377	he hated me
+1378	they hate you
+1379	they are hauling the mail (using horse and sled)
+1380	they are hauling the mail (using motor truck)
+{Page = 107}
+1381	we are headed for Angoon (in a boat)
+1382	I’m going to steer into the storm
+1383	she’s being cured / getting better / recovering
+1384	your hand never heals
+1385	he healed me
+1386	he healed the sick man
+1387	I didn’t hear the bell / drum
+1388	he heard the message
+1389	the table is creaking, squeaking
+1390	I think I hear a sound coming from the island
+1391	do you understand it now (that is, have you finally heard)?
+1392	he heard my voice
+1393	maybe I heard a bear’s voice
+1394	the stove is heated (real hot)
+1395	this board is heavy for me
+{Page = 108}
+1396	your baggage is going to be heavy
+1397	the child is not heavy
+1398	I’m getting heavier / gaining weight
+1399	that anchor is not heavy enough (that is, to hold the boat)
+1400	help me with the sewing!
+1401	I’m not going to help you: I don’t know how
+1402	our master is asking for help
+1403	I’m asking you to help me to carry this
+1404	they put an edging of rabbitskins
+1405	I hemmed up the blanket (or bound its edges)
+1406	because he’s not there, I hesitate (to do something)
+1407	he’s still hesitating (waiting to see what the other will do)
+1408	I hesitate to do it (because I don’t know how it will turn out)
+1409	he hesitated to sit / he was reluctant to sit
+1410	he hesitated to say anything (because it was such a weighty matter)
+1411	he’s hiccuping
+1412	I frequently have hiccups
+{Page = 109}
+1413	I hid it in my pocket
+1414	he hid under the table
+1415	it’s a high waterfall
+1416	his fort had walls 100 feet high
+1417	that island has a high hill on it
+1418	he’s come here looking for a job
+1419	I’m going around trying to hire myself out and get a job
+1420	he aimed at the can with a rock and hit it
+1421	they are going to aim at the small birds and hit them (with rocks)
+1422	he’s going to hit it on the head with a piece of firewood (which he will throw at it)
+1423	the bullet hit it (the place aimed for)
+1424	it hit him (he was killed by a shot)
+1425	he hit the halibut on the head
+{Page = 110}
+1426	they’ve been hitting each other (that is, there has been war)
+1427	he hit the basketball with his fist
+1428	he kept hitting me in the face with his fist
+1429	he really hit out at him (fast) and floored him
+1430	he wants it all for himself, right now
+1431	he’s going to keep it all for himself
+1432	your boat holds more
+1433	this one contains twice what that does
+1434	you held it under your arm (e.g., book)
+1435	he didn’t hold it (e.g., trying to hold papers down on a table when the wind blows)
+1436	I’m holding a bucket
+1437	he was holding on to the boat, and they saved him
+1438	she’s holding her little daughter (helping her to stand)
+1439	is there a keyhole in your door?
+1440	my nose is blocked (that is, has no outlet)
+1441	I made holes in the window (with a shotgun)
+1442	they bored holes through the hellebore (the length of the stems)
+{Page = 111}
+1443	the bucket has a hole in it (rusted through)
+1444	my shoes are holey / they have many holes in them
+1445	they honored him with a party (or a present) in farewell
+1446	I gave a memorial party for my maternal uncle (I did all expected of me to honor his name)
+1447	the hooked down a cloud
+1448	he hooked it with his foot
+1449	they hook it back from there
+1450	he hooked it back in (a seal he had shot)
+1451	he’s hopping along
+1452	I hopped around
+1453	I hope you catch a halibut
+1454	we hope so
+1455	a cow has horns
+{Comment = Line 1456 erroneously has ‘mountain sheep’ for jánwu.}
+1456	does a female mountain goat have horns?
+{Page = 112}
+1457	hot water (often designating coffee or tea)
+1458	it’s red hot
+1459	the sun is really heating
+1460	the open fire is throwing lots of heat (throwing it a long way)
+1461	I’m real hot (from stove)
+1462	I’m hot (from embarrassment)
+1463	it throws heat in the room
+1464	the sun is shining through the window, and so it’s real hot
+1465	it is hovering
+1466	wolves are howling
+1467	he’s hungry
+1468	I don’t get hungry
+{Page = 113}
+1469	nothing makes him hungry
+1470	he’s really hungry for it / anxious to eat it
+1471	I’m hungry for what you are already eating
+1472	he went hunting
+1473	we’re going to hunt brown bear
+1474	they are always in a hurry
+1475	I’m not in a hurry
+1476	eat a little faster!
+1477	he hurt his hand again
+1478	it will hurt
+1479	imitate me!
+1480	he’s going to imitate a brown bear
+1481	they imitated me to my face (to stop me doing it)
+1482	did he mimic you?
+1483	don’t imitate my speech!
+{Page = 114}
+1484	you have an important (aristocratic) name (lit. a heavy name); live up to it!
+1485	if she practices sewing, the sewing will improve
+1486	his behavior is improving
+1487	it increases very much (lit. swells up)
+1488	I eat a great deal of seal oil (I indulge myself in eating it)
+1489	he’s sleeping too much
+1490	there is pus in it
+1491	it is suppurating / getting full of pus
+1492	they inherited from his things
+1493	I’ll inherit from you
+1494	they’ll make him inherit (that is, will give it him as his inheritance)
+1495	my hand was injured and rendered useless
+1496	he’s going to inspect us (watch us to see we don’t make mistakes)
+{Page = 115}
+1497	he came here to look over the situation (for example, the welfare man)
+1498	we are instructing him how to move around (in speeches and dances)
+1499	you showed us how to do it
+1500	they are giving you instructions
+1501	thank you for showing me
+1502	he instructed them to take the dead bodies out to the island
+1503	he’s going to instruct him (or ask him) to say or sing something
+1504	a mother gives instruction in private (lit. spits into a person’s ear)
+1505	do you think it’s going to be insufficient?
+1506	this food is not enough
+1507	have we offended you by what we said?
+1508	he insulted me (he said cutting things that hit me pretty hard)
+1509	did we insult you by our actions?
+1510	he insulted me (he acted contrary to the standard I’ve set and I was offended by what he did)
+1511	he was offended, because of the way they spoke (what they said)
+1512	he’s kind: he never takes offense
+{Page = 116}
+1513	you are intelligent, but you haven’t considered this matter
+1514	through his actions one can see he’s going to be intelligent (of small child)
+1515	so they were quoted (either in the original language or interpreted into a second language)
+1516	I’ll interpret for you (act as your interpreter)
+1517	he is intoxicated / drunk
+1518	liquor intoxicated him
+1519	just thinking about you acts like an intoxicant to me
+1520	the man who introduced the killerwhale
+1521	he introduced the white man’s way of life
+1522	he introduced himself to me (that is, explained himself to me)
+1523	introduce yourself / tell him your name!
+1524	they investigated his way of life
+1525	they are going to investigate / find out what happened
+{Page = 117}
+1526	I’ve been investigating the white man’s way of life (working to find out how he lives)
+1527	it’s invisible, floating in the air
+1528	it can be seen what kind of life you live
+1529	I’m not invited
+1530	I’m going to invite people
+1531	I’m inviting you to eat with me
+1532	we’re going to iron our clothes
+1533	my body is starting to itch all over
+1534	my throat is tickling
+1535	it (table) won’t go through the door; it’s jammed
+1536	our life is like something stuck diagonally in a box (that is, the troubles we’ve had can’t be straightened out)
+1537	they both keep watch on each other in suspicion and jealousy
+1538	he is jealous and so keeps constant watch on his wife
+{Page = 118}
+1539	they make different fast movements in keeping the rhythmm of the drum
+1540	sometimes he missed the time / jerked his head out of time with the drum
+1541	a flounder was jerking my line
+1542	I’m jumping
+1543	don’t jump on the floor!
+1544	we’ll all jump over
+1545	jump (all of you)!
+1546	humpback jumps straight up
+1547	it jumped twice
+1548	the salmon are jumping around on shore
+1549	he staggers along and keels over (esp. of drunkard)
+{Page = 119}
+1550	they kept it in the cellar (for about six months)
+1551	let’s save it for when our friend comes
+1552	I put it firmly before him / there is no way to change me and I shall say no more on the subject to him
+1553	I, too, shall say nothing to him / shall be silent about it
+1554	you kicked my foot
+1555	he’s still kicking
+1556	he kicked the door in
+1557	he killed a bear with a spear
+1558	we’ll kill a chicken for our meal
+1559	he killed it with a spear
+1560	he killed deer (pl.)
+1561	a weasel killed all the chickens
+1562	a woodpecker killed this tree
+1563	we killed off all the deer
+1564	there were no more: they were all killed off
+1565	lots of people get killed (for instance, in railroad accidents)
+{Page = 120}
+1566	my brothers, thank you for being so kind to me
+1567	they haven’t been kind to me
+1568	she kissed her daughter
+1569	a kiss
+1570	he kneaded the bread
+1571	he knelt
+1572	they don’t kneel in there (in that church)
+1573	someone is knocking at the door
+1574	he knocked on / rapped on the table
+1575	he knocked over a chair
+1576	he knocked over the tables
+1577	I knotted it too tight
+1578	the board has lots of knots in it
+1579	the tree has lots of branches
+1580	I make you known to them … so that they might be conscious of your love for them
+1581	do you know me?
+1582	all of us know this story
+{Page = 121}
+1583	you know how to do things / you are competent
+1584	because of how practiced he was, he killed them all
+1585	I don’t know how to seine
+1586	you know the Tlingit way of life / how to live as a Tlingit
+1587	you don’t know how to speak in public
+1588	lace your shoes!
+1589	he laced his shirt
+1590	I’m going to die soon (that is, my life is too short)
+1591	it lacks one dollar (either one is missing, or one is needed in order to buy something)
+1592	there are three plates too few (implying that these should be brought right away)
+1593	he will be coming one week from now (that is, it lacks one week, when he will be coming)
+1594	he is lame
+1595	the duck landed
+1596	the plane lands there
+{Page = 122}
+1597	because I took good care of it, it lasted a long time
+1598	my coat is not durable
+1599	firewood that is knotty lasts a long time
+1600	he really laughed (after an excellent joke)
+1601	I don’t laugh at all now
+1602	his speeches don’t make me laugh
+1603	they try to cheer them up / make them laugh
+1604	the child went home laughing
+1605	his elder brothers mocked him
+1606	he laughed at us
+1607	I’m going to launch out (by pushing against the bottom)
+1608	I’m real lazy
+1609	he’s lazy to get firewood (he won’t make any effort)
+1610	you are lazy to talk
+1611	I’ll lead you home
+1612	he led me to the river’s edge
+1613	he’s leading the sheep
+{Page = 123}
+1614	she leads her children around
+1615	he led the dog along on a string
+1616	he leads him in a bad way, teaching him bad habits
+1617	he’s leading the singing (giving the words of the song ahead)
+1618	my shoes are leaking
+1619	old roofs are always leaking
+1620	I leaned against the wall
+1621	don’t lean back!
+1622	I am learning (that is, beginning to know)
+1623	I learned from him
+1624	we are learning how to sew
+1625	I learned to read
+1626	her husband left her
+1627	all the children have left
+1628	the people are all coming down to the beach (leaving only a few behind)
+1629	I leave them alone / don’t bother them
+1630	leave me alone!
+1631	he’s left-handed
+1632	using it all the time, he’ll become left-handed
+{Page = 124}
+1633	lend it to me!
+1634	he’s lent the lamp to somebody
+1635	lend it (large object) to me!
+1636	lend me a ball!
+1637	lend me a boating pole!
+1638	he’s going to let it go again
+1639	he is giving away seal meat
+1640	he let the blanket go (announcing that he did not want any reimbursement for it in the pay-off) (lit. he killed it)
+1641	let the cat in!
+1642	don’t let him out!
+1643	they let the dogs in
+1644	a cat licks itself
+1645	I licked / lapped up the water
+1646	he’s lying
+1647	don’t tell lies: always tell the truth (lit. they tell the truth)!
+1648	he’s a liar
+1649	there’s a rock lying there
+{Page = 125}
+1650	there are seal rocks over there
+1651	the egg is (lying) in the nest
+1652	pencils are (lying) on the table
+1653	the spoon is (lying) on the stovetop
+1654	there’s a ladder lying behind the house
+1655	the paddle is (lying) under the house
+1656	there’s an arrow lying here
+1657	the screws are (lying) on the table
+1658	your shirt is lying over there
+1659	he’s lying on the bed
+1660	I’m going to lie down
+1661	they are already lying down
+1662	he lights a lamp / turns on a light
+1663	we didn’t light the stove
+1664	the bark (of those trees) is just the same / there is no difference between them
+1665	my younger sister looks just like my mother
+1666	I am like his older brother (according to clan relationships)
+1667	you are going to be as a brother to me
+{Page = 126}
+1668	they became like brothers
+1669	they were like walruses
+1670	all their thoughts were like each other’s (that is, there was unanimous agreement)
+1671	he doesn’t limp now
+1672	the doctor says he will always limp
+1673	they are linking middle fingers, to try each other’s strength
+1674	I’m listening to you
+1675	he’s listening to it
+1676	bring just a little!
+1677	there were few springs of water there
+1678	he lives alone in his house
+1679	they lived at the same time
+1680	they made lots of noise when they played
+1681	he’s really crazy / lively
+{Page = 127}
+1682	we loaded the boat, took everything aboard
+1683	they take lots of food aboard
+1684	we’re going to load the boxes on the boat
+1685	I put the bullet in
+1686	I loaded it
+1687	did you lock the door?
+1688	I’m going to lock the door
+1689	I’m lonesome
+1690	we’re really going to miss you / be lonesome for you
+1691	I’m lonesome for my aunt / I want her company
+1692	you’ll be happy to see each other
+1693	I’m longing to see him again (wondering when he’ll be coming back and so lonesome for him)
+1694	the seal spear shaft is long
+1695	the stick is long
+1696	her hair is getting long
+1697	it is ten feet long (pole)
+1698	it’s a long thread
+1699	the black seaweed is long
+1700	the days are long
+1701	not long ago
+1702	how long is he going to stay?
+{Page = 128}
+1703	you look real sad / long-faced
+1704	he looked in
+1705	they looked around at each other
+1706	they were looking at it (for a long time) from the woods
+1707	don’t look at me / don’t watch me
+1708	look at this magazine (that is, study and take good note of all that is in it)
+1709	I’ve already taken a good look at his work (in order to copy it)
+1710	I took out all my dishes and had a look at them
+1711	I’m looking for shells, keeping my eyes open as I roam around and picking them up when I find them
+1712	he’s on the lookout for anything he can find as he’s walking around
+1713	I’m looking out for my father (expecting him to come)
+1714	he’s looking for an eagle (standing and gazing around intently)
+1715	I lost them from my purse
+{Page = 129}
+1716	I lost my bucket
+1717	he lost his boat (as a wreck)
+1718	on account of my working so hard I lost my wife (she died because I didn’t have time to care for her)
+1719	I lost my knife in the woods
+1720	she lost her ribbon in the street
+1721	I was lost / I didn’t know whereabouts I was
+1722	a man’s voice too may be lost
+1723	I lost my voice through having a cold
+1724	he’s lost his voice / he’s hoarse
+1725	a dog began barking at him: it was really loud
+1726	he’s knocking loudly
+1727	when he is noisy, his aunt sends him outdoors
+1728	he has a loud, powerful voice
+1729	they were lousy / had lots of lice on them
+1730	we love him, because he first loved us
+1731	he lowered his boat (over the rapids)
+{Page = 130}
+1732	let’s lower the box down into the boat!
+1733	it’s not deep: my line has already reached bottom (that is, has been completely lowered)
+1734	the anchor line is being lowered / is going down in the water
+1735	I’m lowering down my line
+1736	he lowered it (piece of string) (and left it dangling)
+1737	she whistled softly and put the baby to sleep
+1738	she’s lulling the baby to sleep, whistling softly
+1739	the meat is full of worms
+1740	they used to make magic at the salmon streams (perform rites such as returning salmon eggs and milt to the stream); that’s why the salmon used to be plentiful
+1741	they are going to make magic (pass someone through the fire for offending ‘the world’, and so restore good weather)
+1742	they performed magic on you when you were a baby: they buried your umbilical cord at the foot of an eagle’s tree
+1743	they made magic on you with a ptarmigan foot, so you are going to be swift (thus encouraging youngster by autosuggestion)
+{Page = 131}
+1744	they are constructing a road
+1745	he’s just making up stories about me
+1746	they haven’t all reported yet
+1747	we are going to start now
+1748	she knitted socks
+1749	they weave Chilkat blankets
+1750	there are lots of berries
+1751	there are going to be many of us (that is, my grandchildren are becoming numerous)
+1752	there are quite a few herring
+1753	he has many pieces of baggage
+1754	he doesn’t have many clothes
+1755	he marked a line on it
+1756	he marked a black line on his face
+1757	he marked a line on it with a pencil
+1758	I marked around it with a pencil
+1759	they marked us (by putting registration ribbons on us)
+1760	you have marked your pencil (with your name)
+{Page = 132}
+1761	who married her?
+1762	they marry on the other side
+1763	mash the potatoes!
+1764	I’m mashing a banana
+1765	he mashed the berries (with his hand)
+1766	they’re already mashed
+1767	mash the potatoes!
+1768	the osteopath massaged my back
+1769	he’s mean / bad-tempered
+1770	in the Greek language this name means Christ
+1771	Jesus meant that he had died (that is, he called death sleep)
+1772	what does this mean? (that is, what is happening?)
+1773	you don’t mean that we are blind too (that is, is it that you are telling us?)
+1774	he measured the length of the table
+1775	they took his temperature (that is, they measured his heat)
+1776	he’s finished measuring (everything)
+{Page = 133}
+1777	you’ll measure off three fathoms from here (pointing along a tree to be used for canoe)
+1778	I measured off two fathoms
+1779	you are meddling
+1780	medicate him all the time with this medicine
+1781	I dosed myself the Tlingit way
+1782	didn’t anything come before your eyes / didn’t you see anything (when hunting)?
+1783	it (ice) is melting all over
+1784	the snow is melting away
+1785	salt dissolves in water
+1786	the lead has already melted
+1787	the silver is melted
+1788	he’s going to melt copper
+1789	he mended his canoe by pulling the crack together with roots and tightening the stitches by means of a wedge
+{Page = 134}
+1790	maybe this is going to be a mild winter
+1791	it’s getting mild and damp
+1792	do you milk the cows every morning?
+1793	he’s mischievous / full of practical jokes (no one can control him)
+1794	keep an eye on him: he’s always misplacing things (he never knows where he puts anything)!
+1795	I’ve mislaid my needle (I don’t know where I put it)
+1796	miss the target when shooting with a gun
+1797	miss when punching with fist
+1798	miss when slapping with hand
+1799	miss when shooting in basketball
+1800	miss when hitting in baseball
+1801	miss when hitting in baseball or (originally) shinny
+1802	miss when grabbing for
+1803	he mixed together red and white paint
+{Page = 135}
+1804	she mixed the sugar and flour together
+1805	she mixed them (various ingredients) and stirred them up well
+1806	he has mold on his clothes
+1807	the dried fish is starting to go moldy
+1808	they make lots of money, when the salmon are plentiful
+1809	the stores make a lot of money
+1810	it’s a new moon
+1811	it’s a full moon
+1812	‘black bear moon’ (February) has passed
+1813	the moon is shining
+1814	he is motionless (either because so weak through sickness, or because giving whole attention to speech)
+1815	the cans are moving along behind one another (on the conveyor belt)
+1816	the sand is moving fast (through his fingers)
+1817	the clouds are moving along
+1818	the canoe started off / moved over there
+1819	it (car) is moving along
+{Page = 136}
+1820	the sea lion is moving along, coming to the surface and then going down again
+1821	it (long object) bounced down from there (having been thrown up against a wall)
+1822	it (mercury in a thermometer) moves up and down
+1823	the arrow went through him
+1824	a meteor (shooting star) shot across the sky
+1825	it is moving (of boat on horizon); (it is moving so slowly that one can only tell it after a period of time)
+1826	I’ve come to the conclusion there’s something moving round on it (boat, way out at sea)
+1827	it (light on boat) is beginning to move
+1828	I kept running (even after reaching the finishing line my legs continued to keep moving forward fast)
+1829	it moves forward even after the engine has been shut off
+1830	it is moving objects that get out of control
+1831	canoes get out of control (if paddlers not strong enough to resist force of the waves)
+1832	it (curtain) moved away from him (on the stage)
+1833	her dress kept moving around (loosely, as she was active)
+1834	it (swamp) is moving back and forth, like it’s drifting
+1835	the waters (of Red Sea) came together real fast
+1836	the water began to be moved
+1837	I made the salmon move (by slapping water, etc.)
+1838	he’s causing the fish to move in a certain direction
+{Page = 137}
+1839	in spring the robins move in / come around
+1840	we’re going to move from here / never coming back
+1841	he moved south permanently
+1842	we’re going to move from here (probably returning after a few years)
+1843	we are going to move from here
+1844	I moved it just a tiny bit (even though exerting all my strength)
+1845	don’t move it the slightest bit, it’s too full
+1846	she moved all her dishes (in order to look at them all)
+1847	I’m going to move my boat down to the water (by lifting one end and swiveling and then the other end)
+1848	I’ve already moved the dish carefully to another place
+1849	the boat is moving very slowly (reason not specified)
+1850	a sick man moves around very slowly and carefully
+{Page = 138}
+1851	he moved his hands rapidly over things
+1852	put on some other shoes, for that road is muddy
+1853	his tribe is multiplying
+1854	the numbers (of animals) are getting bigger
+1855	I’m murmuring / being disagreeable
+1856	he’s talking behind me (grumbling and complaining under his breath, but I can hear some of what he’s saying)
+1857	he’s muscular
+1858	deer are getting a little more meat on them
+1859	he’s nailed up his windows
+1860	they’re nailing shingles
+1861	he’s driving in nails
+1862	nail something over it (rat hole)!
+1863	how is he named (what do they call him)?
+1864	tell him your name!
+1865	they named him for his trade (that is, gave him a name connected with his work)
+1866	they named this town for the trail that went across the isthmus
+{Page = 139}
+1867	I’m naming all the objects I can think of
+1868	his waist is that narrow
+1869	the knife is narrow / slim
+1870	it’s a thin rope
+1871	my bracelet is narrow
+1872	that road is too narrow
+1873	the canoe is narrow
+1874	we could not get close (to game in order to shoot)
+1875	when it got a bit nearer, I took a long shot at it
+1876	he’s coming closer now (nearing end of long journey)
+1877	summer is getting closer
+1878	that child is really neat
+1879	I need new shoes
+1880	the Canada goose lays eggs up the bay
+1881	they have already laid eggs now
+{Page = 140}
+1882	his head is nodding
+1883	we noted all that he said / took note of all his sayings
+1884	he doesn’t take note / doesn’t pay attention
+1885	harden yourself to bear it: I am bringing you bad news (usually of the death of a relative)
+1886	he notified our enemy (told them what was going on)
+1887	he nudged him with his elbow
+1888	my foot has gone to sleep / is numb
+1889	the way you are sitting, you will get numb (esp. your legs)
+1890	my hand went to sleep
+1891	I’ve lost the feeling in my finger (after surgery)
+1892	my grandchild obeys me
+1893	obey him!
+1894	he obeys his mother
+{Page = 141}
+1895	I came here, in order to observe people’s way of life (how people live here)
+1896	I’m going to observe her way of life / I’m going to watch carefully how she acts, etc. (so that I can copy her)
+1897	he is really obstinate / he has a hard mind (is determined to go his own way)
+1898	he’s obstinate, unable to take to new ideas / he won’t listen to others
+1899	forgive me: maybe I have offended you!
+1900	he offended people / he did what wasn’t approved of
+1901	I’m going to oil the wooden platter
+1902	I’m going to oil the skin
+1903	he oiled his face (to keep the charcoal on for dance)
+1904	oil your face with the face oil (originally deer tallow)!
+1905	I anointed my hair
+1906	I’m going to put sweet oil (vaseline) on my hair
+1907	I’m growing old
+1908	you don’t show any signs of age
+{Page = 142}
+1909	your hair is turning white
+1910	one eyelid droops down, only one eye opens wide
+1911	he has only one eye (the other is permanently closed / eyeball has been removed)
+1912	I looked down my rifle with one eye closed
+1913	I opened it (book)
+1914	he opened all his books
+1915	I’m going to open it (book)
+1916	I’ve already opened it up
+1917	open it / pull it open!
+1918	he opened the door
+1919	prison doors were opened
+1920	open (the door) real quietly!
+1921	at the end of the summer, the hunting season opens
+1922	it will soon be open / it isn’t far from opening time
+1923	open your mouth wide, so I can look at your throat
+1924	he leaves his mouth open all the time
+1925	they operated on me (lit. cut me)
+1926	when are they going to operate?
+{Page = 143}
+1927	they remove cataract by careful cutting
+1928	he was ordained for this
+1929	I am not the anointed one (the one specially ordained)
+1930	I gave the people instructions
+1931	that’s the way he orders us around
+1932	they gave me orders (as to what work to do)
+1933	I directed him as to what he should do on the job
+1934	the children are ordered home
+1935	they ordered them to go out from among them
+1936	they are sent to work
+1937	I started working for him (that is, set myself to work for him)
+1938	he kept on ordering his daughter to go out
+1939	they were always ordering me to go to school
+1940	don’t send for it!
+1941	he’s ordering from the book (that is, the catalog)
+1942	catalog (book from which they order)
+1943	life originates / proceeds from God
+1944	I will tell how it all started from the beginning
+{Page = 144}
+1945	it’s oval (of watermelon)
+1946	he overbalanced and tipped into the water
+1947	there was so much that they (closet contents) all tumbled out / they (rocks) tumbled down because the pile was so big
+1948	help your uncle: he has too much to carry
+1949	he stayed with us two nights
+1950	I’m going to camp over there
+1951	in the morning it is alight / red right through
+1952	they always own a dog
+1953	don’t you own a boat?
+1954	he’s pacing it out
+1955	he was through packing before the others
+1956	I’m paddling to Angoon (going alone and taking time)
+1957	I am going to paddle straight up the bay
+{Page = 145}
+1958	they used to paddle all the way to Copper River
+1959	paddle quickly!
+1960	I’m painting my boat
+1961	he’s going to paint the floor
+1962	they were paralyzed
+1963	stroke, paralysis
+1964	it paralyzed me / I was so shocked I couldn’t act
+1965	I couldn’t shoot (when confronted by a bear) / my hands were rendered incapable of action
+1966	how many 24 hours have passed (that is, what date is it?)
+1967	twelve have passed this month (it is the twelfth)
+1968	the sun is passing behind it (the building)
+1969	the sun had passed to the highest point above them (that is, it was midday)
+1970	it was willed to me / they passed it on to me
+1971	my mother told me to pass this on to you
+{Page = 146}
+1972	some medicines make a person pass out
+1973	I’m all turned around
+1974	she’s rocking / patting the baby
+1975	I patted her on the chin (esp. grandparent, of child)
+1976	I’m patching my shirt
+1977	she already patched it
+1978	they are paying for our land
+1979	they paid for the injury to his face, but it was not enough
+1980	we didn’t pay our bill
+1981	I’ll pay you after fishing
+1982	they paid me ten dollars
+1983	we didn’t pay with it (that is, the item formerly agreed upon for exchange)
+1984	did we pay all of you (for what you did)?
+1985	how much did they pay you for all the salmon?
+1986	I’ve already paid the medicine man to have him healed
+1987	they used to give wages to the medicine man
+1988	pay the medicine man with this watch!
+{Page = 147}
+1989	they made peace after the big battle
+1990	the woodpecker pecks around the tree
+1991	he’s pedaling (his bicycle)
+1992	I’m peeling potatoes
+1993	I’m peeling the orange
+1994	I’ll peel the celery
+1995	he peeled off yellow cedar bark
+1996	it’s peeling off
+1997	I’m going to peel off skin from its (coho’s) head
+1998	he’s peeping out from his house
+1999	he looked up (on deck) (he peered through the hatch)
+{Page = 148}
+2000	they (wolves) gathered round and peered at him
+2001	we are penniless (lit. we are broke)
+2002	there is nothing perfect or lasting on earth
+2003	God’s Word is more permanent than anything else
+2004	John and Mary are made permanent (that is, they got married)
+2005	they persecued him (that is, caused him suffering)
+2006	he persuaded me (he talked about it so much that I became willing to go)
+2007	they’re trying to persuade me / make me change my mind
+2008	his rheumatism is going all over his body
+2009	he feels completely happy / gets filled with happiness (happiness pervades his being)
+2010	its fragrance filled the whole house
+{Page = 149}
+2011	he’s taking pictures of his father
+2012	camera
+2013	we picked lots of blueberries
+2014	he’s going to pick berries
+2015	he’s picking black seaweed
+2016	he’s gone berry-picking
+2017	I picked berries yesterday
+2018	I shook berries into a berrying basket
+2019	they don’t gather all berries by shaking them off the bushes
+2020	I hit off blueberries into the big flat basket
+2021	they pick them out (e.g. sockeye from other fish)
+2022	he picked out / selected his crew men
+2023	pick up that shoe!
+2024	take the pinion feather out of the box!
+2025	don’t lift them!
+2026	I’ll pick up my puppy and carry it
+{Page = 150}
+2027	pick up the lumber and pack it on your shoulder
+2028	we’re going to pick up the apples and carry them in our aprons
+2029	did they take their lunch?
+2030	we’re going to take a picnic
+2031	a splinter went into my finger
+2032	a nail pierced it
+2033	he piled it (firewood) under the stairs
+2034	he was through packing before the others
+2035	we’ll pile up those branches for bedding
+2036	the snow is piling up
+2037	if I don’t work all the time, my work will pile up
+2038	I’m piling up firewood
+2039	he’s pinching his little sister
+2040	don’t pinch me!
+2041	he was always pinching his sister (spitefully)
+2042	he has a habit of pinching
+{Page = 151}
+2043	don’t pinch!
+2044	he piped water into the house
+2045	they’re bringing water across the bay by pipeline
+2046	they pitch fish
+2047	they pitch the fish into it (the tender)
+2048	have pity (on him)
+2049	he was moved with compassion
+2050	he placed a stick upright in the ground
+2051	put in the housepost!
+2052	he placed several sticks upright in the ground
+2053	they (knives and forks) were placed upright in the can
+2054	place them (flowers) upright in a bottle!
+2055	it has been planned out
+2056	we planned thus
+2057	it’s too thick, and so he’s planing it
+2058	he added planks (on the side of his boat, because so full)
+{Page = 152}
+2059	they used to add planks to the boat with cedar withes
+2060	they planted (potatoes, etc.) with a planting stick
+2061	long ago they used to plant rutabaga
+2062	we’re going to plant potatoes
+2063	he was plastered with blood (from a wound)
+2064	I’m going to build a platform at the doorway
+2065	they built a platform
+2066	let’s play with dolls!
+2067	let’s play!
+2068	they play at ducks and drakes
+2069	play with ball (esp. basketball)
+2070	play with bat and ball (esp. baseball)
+2071	play with boat (esp. toy boats)
+2072	play with marbles
+2073	play at jumping or twirling around
+2074	play on seesaw
+2075	play on swings
+2076	play at swimming
+2077	he’s going to play a musical instrument
+2078	he’s playing a wind instrument
+2079	they are playing stringed instruments
+{Page = 153}
+2080	a baby plays around in a papoose board
+2081	I’m not doing much, just playing around / passing the time
+2082	the way you’ve made it (totem pole), it has a pleasant face
+2083	a frog isn’t pleasant-faced / it is kind of ugly
+2084	bad news won’t please him (make him happy)
+2085	the thing you gave me pleases me (I am pleased with your present)
+2086	pluck that mallard duck!
+2087	he’s plucking (pulling out one by one) his whiskers
+2088	he plucked the pinion feathers
+2089	plug in the light cord there!
+{Page = 154}
+2090	this side (nostril) is plugged up
+2091	it (pipe) is getting plugged
+2092	we are going to stuff up the hole in the window
+2093	put a plug in the end of that pipe!
+2094	I pointed over there
+2095	he pointed at the boat
+2096	he points them out among the people
+2097	he poked it about (worm) with a stick
+2098	they poked the toy plane from there (the roof) with a stick
+2099	he was poking inside a powder cap
+2100	I poked (a stick) outside
+2101	he poked a knife through it
+2102	I poked a stick in his face (accidentally)
+2103	he poked it with a lancet
+2104	he poked it with a pin
+2105	he’s prodding abalone (getting them off the rocks)
+2106	he poked it (balloon, in order to burst it)
+{Page = 155}
+2107	he poked me in the face
+2108	he’s prodding in the sand with a stick
+2109	they put a rag in the opening (hole in a broken window)
+2110	he poked his finger in the can
+2111	he has grey hairs poking up among the others
+2112	they are pushing the canoe off from shore (using long poles)
+2113	he’s poling along a canoe made of cottonwood (wide enough to stand in and only used in rivers)
+2114	they pole the canoes up rivers
+2115	pole towards the head of the river
+2116	he’s pole vaulting
+2117	we are going to pole-vault over it
+2118	we’re going to polish the table
+2119	I’m going to polish my shoes
+2120	you’ll be a poor man
+2121	that man is very poor (doesn’t know how to cope with his money matters)
+2122	the fire made the rock crack with a pop
+{Page = 156}
+2123	it popped to the surface / it floated up from the bottom
+2124	we know for sure that you have a demon
+2125	it’s going to be possible
+2126	it’s not possible (to survive) in a big storm
+2127	I don’t think I can do it / I don’t consider it possible for me to do it
+2128	he thinks he can do it
+2129	it is potent
+2130	what are you going to contribute to the potluck?
+2131	he’s taking potluck to the place where they are going to entertain
+2132	pound a little on the dried fish!
+{Page = 157}
+2133	they pounded that rock
+2134	as she was pouring it, he came in
+2135	he hasn’t poured the coffee yet
+2136	pour some water on it!
+2137	pour me some water
+2138	a woman who uses powder
+2139	I’m going to powder my face
+2140	have they finished practicing?
+2141	we’re going to practice dancing
+2142	he’s praising it / says it is great, wonderful
+2143	I’m not working so that men will praise me
+2144	he praised the Tlingit food
+2145	he doesn’t pray
+2146	he pleaded with him / prayed to him
+2147	I’m praying for you
+2148	pray for yourself
+2149	he preached from Scripture
+2150	my father is going to preach tomorrow
+{Page = 158}
+2151	that ‘copper’ is precious to the Tlingits
+2152	I’m getting ready to go hunting
+2153	it took him four days to prepare (for trip)
+2154	is everything ready now (for a banquet)?
+2155	be prepared (have things ready) for our work!
+2156	I patted out the ground meat into patties
+2157	they press it (mud) with their hands
+2158	I’m pressing black seaweed
+2159	he pressed it (push button) with his finger
+2160	did you press the wrong one / another one?
+2161	he pretended he was working and that he knew his job
+{Page = 159}
+2162	he’s pretending all the time to be something that he isn’t
+2163	he’s pretending to eat
+2164	he’s pretending to read
+2165	he pretended to be sick
+2166	he pretended to be dead
+2167	he pretended to walk here
+2168	he pretended to run here
+2169	she’s real cute / pretty
+2170	it’s beginning to look good
+2171	she has a very pretty face
+2172	she pricked herself (accidentally)
+2173	she pricked herself (lit. stuck a needle in her finger)
+2174	deer reach prime condition in the fall
+2175	it’s prime fat
+2176	my hand is marked (where pressed on wood)
+2177	I’ll type it for you
+2178	machine-printed cloth
+2179	he promised me
+2180	he always remembers his promises
+2181	promise me!
+{Page = 160}
+2182	he gave him the thing he had promised him
+2183	I propped up the blanket with a stick
+2184	prop it up with a bottle (that is, put a bottle under it)!
+2185	he propped up his club by the wall
+2186	they leaned it up against the tree
+2187	he was prophesying that Jesus was about to die
+2188	a woman doesn’t propose
+2189	I’m going to ask B. for my brother
+2190	I’m proud of you
+2191	they are proud of each other
+2192	he’s proud of himself / vain
+2193	I have proved / I know for sure that that man is smart
+2194	he has told me, so that I will understand the situation (in order that I might be sure of it)
+2195	they pry it up (run shovel down in ground and lift it up)
+2196	they pry up cockles (dig them up carefully with a pointed stick)
+{Page = 161}
+2197	they pry up cockles
+2198	they pry off the box lids
+2199	he’s prying off the cover of a container
+2200	you have puffed up your hair
+2201	puff up my pillow!
+2202	which pillow did you puff up?
+2203	he’s pulling goods / hauling up stuff
+2204	pull the window to!
+2205	he pulled one of her teeth
+2206	he pulled out a knife
+2207	he’s going to pull on the rope
+2208	they are having a tug of war
+2209	they pull up rutabagas
+2210	I’m going to pull up roots (for baskets)
+2211	he was pulled out by the big swell
+2212	waves pulling people under is dangerous
+2213	they are going to punish this man
+2214	he was punished in my place
+2215	his thoughts are pure
+{Page = 162}
+2216	they purified themselves ready for it (the Feast)
+2217	purify your thoughts / clean up your thinking!
+2218	they used to paddle after the fur seal until he was exhausted (then they could get close enough to kill it)
+2219	they are following a sea lion (keeping steadily along behind it in order to tire it out)
+2220	that fellow pushed me
+2221	he’s pushing halibut to the man freezing it
+2222	he pushed his canoe forward into the water
+2223	he was crowded out to the stable
+2224	maybe they will crowd them out of their own land
+2225	they (books) are pressing against each other
+2226	put them in the pot!
+2227	we are going to put down feathers in the pillow
+2228	he put it (a fence) around it
+{Page = 163}
+2229	leave the hammer here!
+2230	he put the box down on the floor
+2231	he put the screws on the table
+2232	put the cat down!
+2233	he put his little daughter (who was dead asleep) down on her bed
+2234	the cat put her kitten on the pillow
+2235	he put down hemlock branches (for herring to spawn on)
+2236	he’s going to put down branches in Jamestown Bay
+2237	his leg broke; they are going to put the bone back in place
+2238	put my arm back in joint!
+2239	I talk about doing something but never get to it / I keep putting it off
+2240	I was wanting to dig clams, but I gave up (having thought about it, but never getting to it)
+2241	he put on his topcoat
+2242	he’s going to put on shoes
+2243	I put on the Raven hat
+{Page = 164}
+2244	they put the lights out at 10:00
+2245	did your stove go out?
+2246	the fire is going to go out
+2247	he’s going to put out the lights
+2248	let it out!
+2249	they used to put up all kinds of different foods
+2250	I’m going to put up food for my children (before I go on a journey)
+2251	an earthquake occurred
+2252	the earth is quaking (right now)
+2253	they exchanged harsh words
+2254	I’m going to quarrel with you
+2255	they really questioned him (in court)
+2256	we are all going to question them closely about it
+{Page = 165}
+2257	he is easily offended / he’ll be happy one day and stubborn the next
+2258	a quick-tempered, moody person can’t fit in any place
+2259	I’ll just keep quiet (I won’t protest)
+2260	a silent man (mad and unsmiling)
+2261	be quiet!
+2262	he never stops talking
+2263	stop talking / keep quiet!
+2264	he’s getting better, so he’s quietened down (stopped groaning)
+2265	I quietened him down
+2266	I quit
+2267	I wonder whether we’d better quit
+2268	quit drinking now!
+2269	I gave up my work
+2270	my boss didn’t talk right, so I quit
+2271	we went on a raft
+2272	they made the lumber into a raft and towed it here
+{Page = 166}
+2273	it’s really going to rain on us
+2274	it’s beginning to rain
+2275	it’s raining
+2276	it’s always raining
+2277	it’s going to sprinkle with rain
+2278	it rains hard and then clears up and then rains again
+2279	your brother will be raised from death
+2280	on the last day I will raise them from death
+2281	they have raised the flag / put it up
+2282	they are putting it (flag) up
+2283	raise your hand!
+2284	raise your (pl.) hands!
+2285	he raised his eyebrow at me (indicating he wished to meet me outside)
+2286	I’m raising my nephew
+2287	they rallied around him (wounded man)
+2288	they gathered round the medicine man to encourage him
+2289	there’ll be lots of (drunk) folk rampaging around this evening
+{Page = 167}
+2290	he ran out and ‘had a good time’
+2291	where have you been ‘having a good time’ (drinking)?
+2292	it’s raw
+2293	his mother reached to catch him, while he was dodging away (and finally got hold of him)
+2294	he’s reaching for the skin that’s floating there
+2295	he reached out his hand for it
+2296	I’ve finished reading my book
+2297	read it aloud!
+2298	I was ready (to be killed as a clan representative, to atone for death of an equal on the opposite side)
+2299	it (axe) rebounded (off rock)
+2300	a blunt play arrow bounces back
+2301	my axe keeps rebounding; I will sharpen it
+2302	my knife failed to cut it (it bounced back)
+2303	advice rebounds from his skull
+{Page = 168}
+2304	the water receded from there (after a flood)
+2305	he didn’t receive / accept what I was giving him
+2306	I’ll accept / take the money for which I worked at cooking
+2307	don’t you recognize me?
+2308	they recognized us
+2309	did he reconsider it?
+2310	I was thinking of buying my brother-in-law’s house, but I’ve reconsidered it (and now I’m not going to buy it)
+2311	he made it red (painted the whole surface)
+2312	I’m the one who put red paint on his face
+2313	He has redeemed me (that is, saved me from sin)
+2314	He has redeemed us (that is, won us back from sin)
+2315	the herring are jumping and their tails reflect light
+2316	he refused to give or lend any money
+2317	the stingy man always refuses to give anything
+{Page = 169}
+2318	he didn’t want me to go along / he refused my company
+2319	they are refusing to take you / to have you go (on a trip, to a party, etc.)
+2320	his machine refused to work
+2321	they will be rehearsing
+2322	we’ve already been practicing (Indian songs)
+2323	whenever my aunt comes here, I relax in my inner feelings (lit. my feelings are smoothed out)
+2324	he is always relaxed / he makes a conscious effort to be calm (lit. he smooths out his feelings)
+2325	who do you think it would be best to be depending on (when discussing elections)?
+2326	we have lots of faith in him / we’re depending on him
+2327	I can’t do anything without you / I’m depending on you (trusting you to help)
+2328	depend on him / trust him!
+2329	I depend on you, my master
+2330	there are five dollars remaining
+2331	do you think there will be any left over (food, cloth, materials of any kind)?
+{Page = 170}
+2332	I didn’t remember you / you didn’t come to mind (while I was away)
+2333	they remembered that he had said this
+2334	he’s remembering it / he is keeping it in mind all the time (and he will finally do it)
+2335	he remembered his love all the time (and this affected how he behaved)
+2336	thank you for remembering me / thinking of me
+2337	I shall remember your kindness
+2338	we thought of you
+2339	I made myself remember that I’m to go to the store
+2340	did you remind them?
+2341	he reminded me to fetch the food
+2342	he kept on reminding me
+2343	she took all I had / removed all my things (on being divorced)
+2344	he had his teeth pulled
+2345	I used a needle to remove it (splinter)
+{Page = 171}
+2346	I got the devil’s club prickles out of my hand with a needle
+2347	they are removing the guts from the salmon
+2348	the man taking out the guts is sure working
+2349	remove the guts from that salmon!
+2350	when they have cooked the gumboots, they remove the shell
+2351	he’s taking the hair off a deer hide
+2352	he rendered seal oil
+2353	we are going to render it down
+2354	he just rents it
+2355	they rent it to me
+2356	repent of this sin!
+2357	I repented
+2358	repent and be converted!
+2359	I portray my body as bread
+2360	I represent myself as the door
+{Page = 172}
+2361	twins resemble each other closely
+2362	they don’t resemble anything (of modern paintings)
+2363	it (bailer) is like a large spoon
+2364	a round table (that is, table resembling an egg)
+2365	what do they look like / resemble?
+2366	the Russian (letters) resemble something else (that is, are different from these)
+2367	I’m their nephew, but even so they don’t respect me
+2368	we respect ourselves as Tlingits
+2369	let’s rest
+2370	he never rests
+2371	come here and give me a rest (e.g., from steering the boat)!
+2372	they gave him a vote of confidence / they re-elected him
+2373	they re-elected them (the whole committee) / they restored their confidence by the vote
+2374	there’s hope for him that he’ll live a normal life
+{Page = 173}
+2375	he’s very awkward, but in time to come he’ll do all right (he’ll become more normal in what he can do)
+2376	I was restrained from going
+2377	my mother forbids me to go to the dock
+2378	I restrained him (for example, told him not to take something without asking permission)
+2379	I stopped him (from saying what might cause trouble)
+2380	no one ever restrained me; that’s why I get into trouble every now and then
+2381	I warn my son, but he never listens to me
+2382	his brother-in-law is rich
+2383	he ripped the boards
+2384	they are ripping boards for the Hall
+2385	it was puckered; that’s why I ripped it back
+2386	I’m going to undo this knitted sweater (take it apart)
+{Page = 174}
+2387	the berries are ripe
+2388	grey currants ripen up the river
+2389	the sun ripened the berries
+2390	what time do you (sg.) get up?
+2391	I’m going off by boat: I’m going to get up at 5 o’clock
+2392	what time do you (pl.) get up?
+2393	it (bread) didn’t rise well
+2394	it’s going to rise (bread in pan)
+2395	I’m raising bread
+2396	they used to roast dried fish in various ways
+2397	they roasted fish (until its skin blistered)
+2398	he’s rocking the hammock
+2399	he’s rocking himself (in a rocking-chair)
+2400	when a tree is drifting to the beach, it rolls back and forth
+{Page = 175}
+2401	I rolled down the mountain
+2402	a potato rolled off
+2403	water rolling off in large drops
+2404	he walks along rolling from side to side like a raven
+2405	I am rolling a barrel
+2406	he rolled himself into the water
+2407	he’s rolling a block of wood
+2408	when the waves are beating hard, the boat really rolls
+2409	it’s bad to roll or rock the boat
+2410	he’s making the boat roll
+2411	the boat is really rolling in the swell (having no power and being caught in a trough)
+2412	they used to roll cedar bark and goats’ hair together
+2413	I rolled out the bread
+2414	he rolled up the paper
+2415	they pull up carrots by the roots
+2416	I rooted it up
+2417	they twisted roots to make ropes
+2418	I made rope
+2419	they rot salmon heads
+{Page = 176}
+2420	our house is old and rotting
+2421	my paternal uncle is already really old (polite)
+2422	it is getting decayed
+2423	it (willow stick) breaks easily
+2424	it’s becoming powdery
+2425	it (log) is turning to powder
+2426	our eggs were rotten
+2427	your teeth will decay
+2428	when the leaves all rot in the fall…
+2429	the berries are rotting / falling
+2430	the board is rough (before planing)
+2431	sharkskin is like sandpaper
+2432	he’s rough and careless with everything
+2433	he is careless / doesn’t leave things alone, where they should be
+2434	rouse me tomorrow morning (early)!
+2435	I’ll rouse you (pl.) / I’ll get you up
+{Page = 177}
+2436	my mother rubbed me with liniment
+2437	he’s rubbing in medicine (right now)
+2438	he’s rubbing his hands together (to warm them)
+2439	rub them against each other!
+2440	the boat is rubbing on the shore
+2441	I’m rubbing my eyes constantly
+2442	don’t rub your eyes!
+2443	Rome ruled their country
+2444	she ran back quickly to her aunt’s place
+2445	run for the teacher; hurry!
+2446	we’re going to run to the store for more bread
+2447	they started to run home
+2448	he pretended to run
+2449	they’re trying to get the engine runnuing
+2450	I’m going to start running the machine
+{Page = 178}
+2451	his nose is running
+2452	I ran it (water) out (from the tub)
+2453	in spring the sap runs (that is, flows through the trees)
+2454	they ran out of workers (there was a shortage)
+2455	he sacrificed a lamb (made its smoke rise) to God
+2456	he sacrificed himself (gave up his life) for them
+2457	I am sad/in sorrow
+2458	they felt real sad
+2459	what is making you sad?
+{Page = 179}
+2460	the skin (of his face) is getting loose and hanging down
+2461	he sailed safely ashore (that is, was blown ashore)
+2462	we’re going to sail
+2463	I’m salting herring
+2464	he salted it for the winter
+2465	you’re putting too much salt on
+2466	he sanded over the ice
+2467	we’re going to sand the road
+2468	he is sanding the floor
+2469	they are sauntering round (leaning on each other)
+2470	they sauntered round / walked slowly round
+2471	whoever comes in by me will be saved
+2472	save me!
+2473	he came … to save the lost ones
+2474	he saved water in a barrel
+2475	I’ve forgotten already what I said
+2476	say “thank you” for us!
+{Page = 180}
+2477	what does he say?
+2478	lots of white men say they are Tlingits
+2479	they said it was Raven’s boat
+2480	this is what we used to say / this is a saying
+2481	they say truly / the saying is true
+2482	the dog has scabs and sores and keeps scratching
+2483	I wounded him, so he had a scar (that is, I scarred him)
+2484	he has a scar on his lungs
+2485	money is scarce this winter
+2486	nothing was lacking / there was no shortage
+2487	I got scared (by falling)
+2488	he was really scared and upset (by bad news)
+2489	you scared me
+2490	I was really scared (by a dream)
+2491	they scattered sand on the ice (not caring how much or where)
+2492	he made the eagle feathers fly (as he danced full blast in this manner)
+{Page = 181}
+2493	it (dog) is picking up and eating things from the beach
+2494	she’s really scolding her daughter, for she is always fighting in school
+2495	he’s always scolding
+2496	don’t scold me!
+2497	scoop the meat out of the clam shell!
+2498	I overheated the iron and so my (cotton) shirt scorched
+2499	I’m scraping out the black part along thee bone of the fish
+2500	I scraped the hair seal flippers
+2501	he’s scraping inside hemlock bark
+2502	I scraped out the pot
+2503	scrape the rice from the bottom!
+2504	he scraped the inside hemlock bark (for food)
+{Page = 182}
+2505	my sister-in-law is scraping a skin
+2506	the meddlesome child made a deep scratch on the table
+2507	scratch (cut) this windowpane!
+2508	the tin can scratched my hand
+2509	the cat scratched up his hand
+2510	he’s scratching at the door
+2511	the dog is scratching himself
+2512	it’s itching because it’s healing: don’t scratch it!
+2513	it’s scratching itself (with paw)
+2514	I’m always scratching (said jokingly to close relation)
+2515	he screwed it in
+2516	I’m going to take that screw out / unscrew it
+2517	the clams are covered with scum
+2518	where the tide flows fast, there isn’t much scum
+2519	it gets scum-covered
+2520	seal it (envelope)!
+{Page = 183}
+2521	because you searched for it, you found it
+2522	I’m going along looking for my mother
+2523	when it is daylight, everything can be seen
+2524	I can see in my mind’s eye how I’m going to make it (that is, what the finished product will look like)
+2525	he never saw a bear
+2526	they saw a white thing on the water
+2527	they sell everything / all kinds of things
+2528	he sold his (large) boat
+2529	he sold it (ring) to us
+2530	he sold a pair (of rings)
+2531	he’s going round selling books
+2532	they came to us selling things
+2533	I’m going to send you some seal meat
+2534	did somebody send you (to do this work)?
+2535	he sent the black seaweed by his son
+2536	he’s sending someone for us
+2537	our master sent his own
+{Page = 184}
+2538	he sent for a chicken
+2539	they cannot sentence a man until they have heard him
+2540	he served me / attended to my needs
+2541	they served him (as personal or household servants) / they waited on him
+2542	he is going to serve me / work for me
+2543	he made a set (that is, he threw (seine net) in to the water)
+2544	set up the tanning frame: help each other!
+2545	set up the tanning frames!
+2546	he set upon me suddenly and used all his strength against me
+2547	you are really going to set upon them (in ball game) and go all out against them
+2548	he turned on them and talked real loudly about their misdeeds (so that everyone would know)
+2549	we settled there / we made it our village
+{Page = 185}
+2550	they moved from Chilkat and settled in Angoon / made Angoon their village
+2551	it (mud) is settling to the bottom
+2552	the water has settled / become clear
+2553	(sediment) has settled at the bottom
+2554	keep calm / make your heart settle down
+2555	maybe her feelings have settled down
+2556	she doesn’t sew
+2557	did you sew this dress?
+2558	this summer I’m going to sew beads
+2559	she sewed beads on moccasin tops
+2560	his house is shabby / in disorder
+2561	opposite from where the sun is, it is in shadow
+{Page = 186}
+2562	the shadows are getting longer / a greater area is coming into shadow
+2563	before you drink it (medicine), shake it!
+2564	I shook my overcoat (to remove dust)
+2565	he shook the canoe (gently, to indicate he had sighted an animal)
+2566	stop! you were shaking my hand
+2567	he shook out the blanket (to remove dust)
+2568	we are going to shake the rug
+2569	he is shaking him (to rouse him)
+2570	it’s getting on for noon, that’s why I roused you
+2571	he shook his head
+2572	he (esp. young man) is going along like a crazy fellow, looking this way and that
+2573	he shook his finger at me
+2574	I shook hands with him
+2575	shake my hand!
+2576	the dog shook the rat and flung it away
+2577	the dog shook himself dry (after swimming)
+2578	the loon shook itself free of water
+2579	it (water) is shallow
+2580	pull your boat up in a shallow place!
+2581	my sister is ashamed
+{Page = 187}
+2582	he’s never ashamed (because hardened)
+2583	his work / what he did made him ashamed
+2584	I’m real ashamed
+2585	it’s a deeply shameful thing
+2586	it’s going to be a matter of great shame
+2587	I shaped my shoes / put them on a stretcher (till they were the shape I wanted)
+2588	they shape wood too (by steaming it and then bending it for bentwood boxes)
+2589	they share everything (that is, claim everything together)
+2590	devil’s club has sharp spikes all over it
+2591	this pencil is not sharp
+2592	the knife is sharp
+2593	I sharpened the axe with a file
+2594	I sharpened the scissors on a grindstone
+2595	I’m going to sharpen my pencil
+2596	it (dog) is sharpening its teeth on a bone
+2597	sharpen this knife on the stove!
+{Page = 188}
+2598	I’m going to shave
+2599	because his face is so hairy, he’s always shaving
+2600	it sheds its hair (habitually each spring)
+2601	he put a shim in there
+2602	he’s fixed the light, so now it will shine brighter
+2603	your kindness shines through your faces
+2604	I shot a moose
+2605	he shot himself
+2606	they shot blunt arrows (for practice)
+2607	I shot grouse with it
+2608	he aimed an arrow up / shot up in the air
+2609	they shot an arrow which fell short of him
+2610	a short jar
+2611	I’m not going to get it finished; my thread is too short
+{Page = 189}
+2612	that cat has a short tail
+2613	the pencil is short
+2614	for a while / for a short time
+2615	the board is too short for there
+2616	it’s too short a rope
+2617	the string is too short for there
+2618	the young fellow cried out
+2619	they put up their paddles and shouted
+2620	when they have finished singing, they shout out in a loud expression
+2621	I shoveled the mud
+2622	you shovel it, with this shovel!
+2623	he’s shoveling the soot out from inside it
+2624	he showed us his picture
+2625	he displayed his intelligence through his speech
+2626	they are showing their faces (and masks) as they enter dancing (one at a time)
+{Page = 190}
+2627	the shirt shrank
+2628	your blanket is going to shrink
+2629	the warm water will shrink that blanket
+2630	my mother is shriveled up with arthritis
+2631	it (rubber band) springs back and hits my hand
+2632	shuffle your feet (said to children when it is thundering; in making this noise with their feet they forget their fear of the thunder)!
+2633	they go around with rapid small steps, noisily
+2634	he was shy of his sister
+2635	Mary is bashful and won’t come to me
+2636	I’m real sick
+2637	nothing makes me sick
+2638	it will make you sick
+2639	are you just pretending to be sick?
+2640	she’s going to sift the flour
+2641	I was blind, and now I see (I have my sight)
+2642	he made a smoke signal early in the morning
+2643	on the other side of the strait they saw the smoke spreading out (they got the signal)
+{Page = 191}
+2644	I silenced him (lit. I dried up his mouth so he has no more to say)
+2645	they reduced each other to silence
+2646	silence that clock!
+2647	he silenced the child
+2648	a dolphin looks similar to a porpoise (but they are not identical)
+2649	don’t sin anymore (that is, don’t do evil again)!
+2650	he sinned (that is, he acted against God’s word / law)
+2651	he sinned (that is, he did what was against it)
+2652	we’re going to sing an important song (National Anthem, historical song, etc.)
+2653	because they called on me, I began to sing a tribal song
+2654	I sang about my uncles and all that happened to them
+2655	I lengthened the note (at the end of the song)
+2656	he’s holding on to the note
+2657	they cried out with a loud voice
+2658	he’s singing way off
+{Page = 192}
+2659	he’s going to singe the ducks
+2660	I singed the deer’s head
+2661	the down feathers got singed (just enough to smell unpleasant)
+2662	it got singed by the fire
+2663	your hair singed (in curling iron)
+2664	the cat’s hair singed (just a small area)
+2665	the gun sank
+2666	deer don’t sink (because of buoyant hair)
+2667	his boat sank
+2668	when they (those in submarine) saw their enemy, they sank themselves (that is, the submarine went down)
+2669	he sank down / he was pulled under
+2670	he sank in the swampy place (or quicksand)
+2671	I sank her topcoat (with stones, in the swamp)
+2672	he’s sitting / leaning against the wall
+2673	I’m real tired, so I’m going to sit down
+2674	we were sitting outside
+2675	let’s sit down over there!
+2676	Mary sat at home
+{Page = 193}
+2677	he sat the cat in the box (and it was very docile and remained there)
+2678	I sat on him quickly
+2679	which way are you moving (sitting down, along the bench)?
+2680	they used to sit outside, quietly watching the clouds
+2681	he’s sitting quietly on the steps of his porch meditating
+2682	there’s going to be a cannery (sitting) there
+2683	there used to be a large house there, but it burned down
+2684	my house is next to the ANB Hall
+2685	there are two houses situated between us and the water
+2686	the houses are situated close together
+2687	the deer has become a skeleton (no flesh or skin left at all)
+2688	clams and sea urchins dry out till there is just an empty shell
+2689	I fell on my knees and skidded along
+2690	my wife is skilled at making beautiful things (she is a craftsman)
+2691	one can see he (child) is going to be artistic (skilled with his hands)
+{Page = 194}
+2692	I’m skinning a deer
+2693	they have to skin porcupine
+2694	I’m skinning a hair seal carefully (to obtain hide)
+2695	we’re going to skin this afternoon
+2696	it’s hanging slackly
+2697	the line is hanging way down
+2698	the post on the end might be pulled in; that’s why I slacked the line
+2699	loosen it (bandage, or something tied around)!
+2700	slacken the rope, letting it go way back!
+2701	the storm slacked off / abated
+2702	his sickness is slacking off right now
+2703	he’s not eating so well / he’s losing his appetite
+2704	he slammed the door shut
+2705	he slammed the door in my face
+2706	when he said that, the guard slapped him
+2707	don’t slap your sister!
+{Page = 195}
+2708	the beaver slapped his tail hard on the water (as he entered it)
+2709	they were slaughtered
+2710	his earache kept him awake last night, so he didn’t sleep well
+2711	bears sleep (alone) through the winter
+2712	my children sleep upstairs
+2713	they haven’t gone to bed yet
+2714	he’s getting sleepy
+2715	are you sleepy?
+2716	herring eggs make me sleepy
+2717	they’ve sliced up all the fish ready for drying (usually after it has had one night to firm up)
+2718	he split open the fish for smoking
+2719	slice the potatoes real thin (for frying)!
+2720	I’m going to slice up the salmon
+2721	they slice bacon
+2722	he sliced the bread (cut it in several pieces)
+2723	the sled slid away from me (took off by itself)
+{Page = 196}
+2724	I slid it (sled) along with them on it
+2725	the canoe slid into the water
+2726	it (boat, sled) is sliding along
+2727	land otters slide into the water (sliding down a clay bank)
+2728	we’re going to slim
+2729	a baby is always slimy (with dribble) round his mouth
+2730	rock cod has heavy slime
+2731	she slimed up my shirt
+2732	soap gets slippery
+2733	they take sling shots at the lights
+2734	he’s going to aim with his sling
+2735	he will slip on the ice
+2736	the snow slid down
+2737	the table is smooth / slippery
+2738	those rocks are slippery
+2739	she’s sloppy / doesn’t fix her hair and clothes neatly
+{Page = 197}
+2740	I’m slow at housework
+2741	it’s too slow (that is, you are singing it too slowly)
+2742	I’m slow in eating / I eat slowly
+2743	just a little
+2744	the handle is small
+2745	a small house
+2746	her daughter is short
+2747	a small apple
+2748	it’s a small pencil
+2749	they are small (berries, beads, etc.)
+2750	it (dress) is too small for me
+2751	they were short of food (the amount was too small)
+2752	the buttonhole is too small
+2753	I made it too small
+2754	my money is not enough
+2755	they smashed up the canoes
+2756	I smashed it with my hammer
+2757	smash the berries!
+{Page = 198}
+2758	they smash salmon eggs by pounding
+2759	I smashed my finger (with the hammer)
+2760	he smashed in that seal’s head with his fist
+2761	I smelled your bread cooking a long way off
+2762	it smells of dried fish
+2763	the perfume smells powerful and not very pleasant
+2764	onions smell strongly
+2765	he smiled at me about something
+2766	he is smiling sarcastically about something (and suppressing laughter)
+2767	he was smiling / flirting
+2768	they smile (good-humoredly)
+2769	they smiled at each other
+2770	he was always smiling at him
+2771	it’s smoking
+2772	it’s very smoky in the house
+2773	I smoke deer meat for storing in oil
+2774	wet wood makes the fire smoky
+2775	it’s smoldering
+{Page = 199}
+2776	he’s smooking in my face
+2777	my clothes are smooth of their own accord (e.g., drip-dry clothes)
+2778	he spread out the cloth, smoothed out the wrinkles
+2779	spread it out smoothly!
+2780	dogs snap at each other
+2781	she would snap her eyes at me
+2782	they were looking askance at each other (real mad)
+2783	I snared a brown bear
+2784	he’s sneaking away from his mother
+2785	I’m going to sneak away (disappear, from the meeting)
+2786	I’m going to sneak off
+2787	he sneaked off from here to college
+{Page = 200}
+2788	I’m sneezing a lot
+2789	I’m going to sneeze
+2790	the dog was sniffing around
+2791	the sheep was sniffing round the swamp
+2792	they are all fast asleep and snoring
+2793	did I snore?
+2794	the dog is snoring and every now and then he moves a little and whines or whimpers
+2795	the snow is coming down so heavily, one can’t see far
+2796	I think it’s going to snow real heavily on us
+2797	it is snowing
+2798	the snow is dry and lightly piled up
+2799	it is slushy / there is wet snow on the ground
+2800	the snow is rotting
+2801	the snow is in real wide blobs, which disappear as soon as they hit the ground
+2802	sheʼs soaking clothes
+2803	they (clothes) are soaked
+2804	my boat is waterlogged (so heavy with water in the boards that it is going to sink)
+{Page = 201}
+2805	they soak gumboots (chiton)
+2806	they soak salmon (esp. male coho) heads in fresh water
+2807	I soaked the deer skin (to soften it)
+2808	they used to soak dried fish
+2809	eagles too soar and glide around
+2810	I sobbed
+2811	it (a skin) is getting soft
+2812	I’m going to soften the seal skin
+2813	I rub the dried fish in my hands to soften it
+2814	I’ll soften the skin by working it in my hands
+2815	your sweater is as soft as down
+2816	this blanket has no nap on it
+{Page = 202}
+2817	frozen potatoes will be soft and squashy (when thawed out)
+2818	it’s time to sound off (ship’s siren) now
+2819	he’s going along blowing (the car horn)
+2820	the fruit juice is sour
+2821	it’s beginning to get sour (of milk, etc.)
+2822	these beads are bright / sparkling
+2823	snow sparkles too, and reflects light
+2824	they (herring) are just beginning to spawn
+2825	they spawned on the broad kelp
+2826	speak out / make a speech!
+2827	he’s beginning to talk (after a stroke)
+2828	talk to me!
+2829	we don’t speak to him
+2830	he talked to us / conversed with us
+2831	they spoke
+{Page = 203}
+2832	I spoke up (e.g., asked him suddenly where he was going)
+2833	he spoke up at once
+2834	they spear salmon with a spear called áadaa
+2835	he speared a hair seal
+2836	he speared lots of crab
+2837	I’m going along real fast (using all my strength in paddling)
+2838	he spent all his money
+2839	he’s gone to spend his money
+2840	we’re going shopping for bread
+2841	he spilled the rice
+2842	I spilled the contents of the dish
+2843	the water spilled
+2844	the bucket isn’t spilled
+2845	the top is spinning
+2846	he started the plate spinning
+2847	she’s spinning cedar bark into thread for a Chilkat blanket
+2848	it (a wheel) is spinning
+2849	he spat on the ground
+{Page = 204}
+2850	don’t spit it out (medicine); hold it in your mouth a while!
+2851	he spat it out
+2852	you spit (water) on your hands (to wash them)
+2853	he spat out the water (which he had been holding in his mouth)
+2854	when you throw rocks in the water, it splashes up
+2855	when it is very cold, the water freezes as it splashes (as spray or droplets)
+2856	you splashed some water on me
+2857	the cormorant goes along splashing up water with its feet as it takes off
+2858	it took off gradually, splashing up water as it went
+2859	I splash the water up
+2860	I’ll splash water up in your face (with my cupped hand)
+2861	I spliced rope together
+2862	I spliced the rope together (not very permanently)
+{Page = 205}
+2863	they split firewood
+2864	they split the head open (with a descending blow)
+2865	I split grass (for basket decoration)
+2866	she is splitting sticks (for kindling)
+2867	they split shingles (that is, split lumber at regular intervals to produce roofing lumber)
+2868	the canoe is full of cracks
+2869	the meat is beginning to spoil (has a tincture of bad taste)
+2870	the herring eggs are starting to smell bad
+2871	the meat is starting to really spoil
+2872	he’s always sponging / getting what he can for nothing
+2873	he’s cadging firewood
+2874	he’s spooning it into the pots
+2875	they spooned it into the rice
+{Page = 206}
+2876	the dish is spotted
+2877	it (a flicker) is spotted on top
+2878	a seal skin that is spotted is real good
+2879	a young deer is spotted all over
+2880	the cloth has polka-dots all over it
+2881	the steam spouted forth
+2882	I sprained my ankle
+2883	a rumor began to spread that the governor is going to be here
+2884	he spread the blanket
+2885	I would spread out my clothes on the sand
+2886	he spread out the seaweed
+{Page = 207}
+2887	it (bird) spread itself out over its eggs
+2888	it (frog) goes along in spread-out position
+2889	it (rubber band) springs back and hits my hand
+2890	he sprinkles salt
+2891	he sprinkled sand on the road
+2892	sprinkle some sugar in it!
+2893	he squatted back (out of the way, so as not to be seen)
+2894	he squatted down on the sand
+2895	the young octopuses squatted on it
+2896	they went along in squatting position
+2897	a dog got stuck in the fence
+2898	I’ll squeeze myself through
+2899	a brown bear squeezed him
+{Page = 208}
+2900	you are squeezing it (lemon)
+2901	squeeze his hand (with all your might, when shaking hands)!
+2902	he squeezed the trigger (that is, fired) among the people
+2903	clean out these seal intestines (by squeezing matter out of them)!
+2904	they clean out sea cucumber (by squeezing all the guts out after the head has been cut off)
+2905	clams are squirting
+2906	he was stabbed
+2907	he stabbed him (to death) with a knife
+2908	a (wounded) deer is staggering along sideways (before it drops)
+{Page = 209}
+2909	the salmon floundered on top of water (was exhausted from jumping so much)
+2910	he’s staggering (child starting to walk)
+2911	he staggers around on account of the liquor
+2912	they dye grass (for basketry)
+2913	this cloth is stained
+2914	I stained the wood
+2915	she used lipstick
+2916	I’m going to creep up on that deer
+2917	he (detective) is stalking a person, in order to investigate
+2918	I applauded (an especially good joke) by stamping
+2919	start stamping!
+2920	he stamped / put his foot down violently
+2921	he’s standing among the people
+2922	I’m going to stand near the door
+2923	we’re standing on the firewood
+2924	everything is (standing) against me
+2925	he stands up by himself (said of baby or convalescent)
+2926	the old man stood up
+2927	let’s stand up!
+2928	they all stood up
+{Page = 210}
+2929	I’m starved
+2930	we’re going to starve
+2931	I stated the facts / I spoke out plainly (e.g., on how to improve ANB)
+2932	let me stay with you, at your place!
+2933	are you going to stay here?
+2934	he’ll stay with me
+2935	at whose house did you stay?
+2936	I’m in a hurry: I left my son alone in the house
+2937	he steadied it (so nothing will spill)
+2938	steady it / hold it steady!
+2939	he held the water he was carrying steady
+2940	he steadied the canoe (so it wasn’t tipping)
+2941	keep the song going steadily, like your fathers sang it!
+2942	lead in singing your fathers’ song (and I’ll depend on you to keep me going steadily)!
+2943	he tried to steal; I caught him in the act
+2944	did they rob you?
+{Page = 211}
+2945	a young fellow stole the car
+2946	I stole an apple
+2947	he stole a pencil
+2948	steam those high bush cranberries!
+2949	I’m going to steam them
+2950	he steamed the king salmon (in the ground)
+2951	they used to cook by steaming in the ground
+2952	they steam high bush cranberries (most other types of berries are too soft and would go mushy)
+2953	are you going to steam your high bush cranberries?
+2954	he took a steam bath
+2955	he sprinkled water on hot rocks in the steam bath house, producing steam and causing a sizzling sound
+2956	it’s steamy
+2957	steam is rising
+2958	that mountain is real steep: there are cliffs there
+2959	the mountains up north are steep
+2960	I steer the boat
+2961	steer it / you take the wheel!
+2962	take the rudder / steer it!
+{Page = 212}
+2963	they steer that boat with a rudder
+2964	steer it (using a paddle)
+2965	he’s going to steer around the point
+2966	step in his footsteps!
+2967	he put his foot down
+2968	it (wet flour) sticks to one’s hands
+2969	we are sticking it (paper) indoors (that is, we are papering the walls)
+2970	a spoon is sticking out of the bowl
+2971	the arrow is sticking out of the deer
+2972	the bow of the boat is on land and the stern is sticking out into the water
+2973	stick out your tongue (for doctor)!
+2974	there’s a mast sticking up there
+2975	there’s one yellow cedar standing up over there
+2976	the stern or bow of the wreck is sticking out of the water
+2977	my clothes are stiff (with starch, etc.)
+2978	my hand has stiffened
+2979	my whole body is stiff
+2980	arthritis has made her hand stiff
+2981	the salmon was stiff
+{Page = 213}
+2982	it (dead object) is getting stiff now
+2983	my legs have stiffened (may or may not be painful, but can’t use it well)
+2984	he was stung by a nettle
+2985	the nettle stung me
+2986	be ready for it; the medicine stings!
+2987	my hand is stinging
+2988	I’m stingy with my salt, because it’s running out
+2989	he’s not stingy / he is generous (will always give the very last he has)
+2990	pigs really stink
+2991	that oil smells bad
+2992	shall I stir your cooking for you?
+2993	stir the meat stew!
+2994	they wanted to stone him
+{Page = 214}
+2995	they stoned him
+2996	stop (for a moment): I’ve something to tell you!
+2997	I never stop to listen to him
+2998	stop and wait for me!
+2999	they stopped and stepped back
+3000	the boat engine is stopped
+3001	it (engine) runs all the time / never stops
+3002	you can’t put a stop to it
+3003	he didn’t stop us (from stealing, etc.)
+3004	it has stopped raining
+3005	the water will stop running (that is, will go back up the pipes) in July maybe
+3006	the smoke suddenly stopped coming out (of the chimney)
+3007	I think it’s going to be stormy tomorrow
+3008	it’s getting rough / it’s beginning to storm
+3009	it has a straight edge (that is, its edge is not crooked)
+3010	strain the broth (that is, pour it out, leaving all the solids behind)!
+3011	I strained the fruit juice
+{Page = 215}
+3012	I strangled a chicken
+3013	he was strangled by a rope
+3014	I am stretching a seal skin
+3015	rubber (elastic) stretches
+3016	I stretched my shirt
+3017	he’s stretching out the wire
+3018	he stretched its mouth
+3019	I stretched my arms
+3020	a cat stretches its legs (to full extent, one after the other)
+3021	stretch out your legs (and relax them)!
+3022	in order to dry the seal skin, I put it on a stretcher
+3023	I’m the one that put it on the stretcher
+3024	so that I could scrape it, I put it on a stretcher
+3025	she’s not stringing beads now
+3026	we are going to string beads
+3027	then we strung them (logs with staples in) together and we began towing
+{Page = 216}
+3028	can you make string figures?
+3029	she’s going to make string figures
+3030	we paddled with all our strength
+3031	I exerted myself fully / put great effort into learning
+3032	he’s stroking the cat’s face (and head)
+3033	maybe this wind will get stronger
+3034	they are building it solidly / making it strong
+3035	he is stubborn / unyielding
+3036	I’m not stubborn: I’m real kind and gentle (said jokingly)
+3037	we’re studying the Tlingit language
+3038	does he study?
+3039	we are going to try to make it to shore (that is, to successfully reach the shore)
+3040	I don’t think you’ll succeed
+3041	you succeeded / you did pretty well (lit. you couldn’t be undone because so well made)
+3042	he’s sucking
+3043	it (vampire bat) sucks blood from people
+3044	I sucked the orange (trying to get the last drop of moisture out)
+{Page = 217}
+3045	the sucker fish fastens on to a rock and holds on by suction
+3046	a devilfish has suckers
+3047	they sued him
+3048	we are trying to get payment for our land
+3049	he really suffered / he hurt himself badly (e.g., in an accident)
+3050	wait a minute (don’t do it without thinking about it)! the time will come when you’ll suffer for it
+3051	I suffered with him (staying up all night to care for a very sick person)
+3052	they suggested thus
+3053	the way his hair is cut is becoming to him
+3054	the red one (dress) will suit you
+3055	your speech was suitable
+3056	what you are wearing is becoming to you
+3057	maybe he’s sulking
+3058	what is he feeling so sad about, pouting and won’t talk
+{Page = 218}
+3059	the sun is rising
+3060	the sun is setting
+3061	the sun is shining
+3062	the sun is shining on me
+3063	maybe it will be sunshiny tomorrow
+3064	his face was sunburned
+3065	the sea lion is going along, surfacing and submerging continuously
+3066	we were suprised and amazed / reduced to utter silence (after coming through a great storm)
+3067	the way he played really surprised me (that is, I was amazed at how good he was)
+3068	it is something that has been known for a long time: it doesn’t surprise me
+3069	I suspect what he says / I’m not confident that he’s telling the truth
+{Page = 219}
+3070	why are you suspicious of me / why do you suspect me?
+3071	I suspect he is the one who stole it
+3072	the moon is up in the sky
+3073	something or someone is suspended on the face of the cliff (stuck and unable to move up or down)
+3074	there is a star way up in the sky
+3075	a very bright star was over Bethlehem
+3076	he swallowed it
+3077	he swallowed medicine
+3078	a swampy place / a quicksand or deep mud hole
+3079	it was so swampy there the mud came above his knee
+3080	we were sweating
+3081	they are sweeping indoors
+3082	sweep the floor!
+3083	porcupine meat tastes real sweet
+3084	these berries are not sweet
+3085	my hand is swollen
+{Page = 220}
+3086	I had a boil
+3087	my hand has swelled up
+3088	soapberries swell up (when beaten)
+3089	the rice is still swelling
+3090	we swam way out
+3091	he’s swimming across the river
+3092	the young fellows used to swim way out
+3093	I swam to shore with the child
+3094	he swam ashore bringing the (dead) hair seal
+3095	it (fish) is swimming downstream
+3096	a whale is surfacing there (swimming up to the surface)
+3097	steelhead trout are swimming in the creek
+3098	he swam across to the other side
+3099	a cat doesn’t swim
+3100	there’s a lot of deer swimming along
+{Page = 221}
+3101	they swam ashore
+3102	a duck is swimming around in circles
+3103	they (boys) are swimming there (and playing with boats)
+3104	they (ducks) are swimming down the river
+3105	there’s just a duck swimming around
+3106	mallard ducks were swimming towards us
+3107	a hair seal is swimming along and putting its head out of the water every little while
+3108	it looks around and then goes down again
+3109	land otters swim along putting their heads out of the water every now and again
+3110	it’s swimming fast (in this direction and that)
+3111	hair seal is swimming fast downriver
+3112	the porpoise are swimming against the tide
+3113	several dolphin are swimming along fast
+3114	there’s a school of killerwhales swimming there
+{Page = 222}
+3115	I think the sea lion will be coming
+3116	land otters also swim in a bunch
+3117	he was swinging his rifle
+3118	it was swinging
+3119	swiveling-around point (of land)
+3120	he came here bearing news
+3121	they met him with the news
+3122	he’ll take me by the hand and lead me there
+3123	hold on to his hand / take him by the hand!
+3124	maybe this is the place where they took away the T. women
+3125	I’m going to take this home
+3126	are you going to take any home?
+3127	why are you taking out all your things?
+3128	we’re going to take the machine apart
+3129	he’s taking the old store apart / tearing it down
+3130	take off your shirt!
+{Page = 223}
+3131	he took off (shoes)
+3132	he took off his hat
+3133	it (plane) is going up
+3134	it took place on the first day (that is, Monday)
+3135	lots of fighting used to take place
+3136	he began to run the party / he caused the party to get underway
+3137	I’m going to talk it over
+3138	have you finished talking it over?
+3139	he led them astray (telling them to do something they shouldn’t, and leading them to do it by the way he spoke)
+3140	they are talkative / talk all the time / talk nonsense
+3141	don’t be talking all the time!
+3142	he talked improperly, so he was thrown out
+3143	they are getting tame / becoming used to people
+3144	I’ve tangled my yarn
+3145	the rope is tangled
+3146	he tangled it
+3147	it’s really tangled where all those windfalls are
+{Page = 224}
+3148	her hair is all matted
+3149	the dog’s hair is tangled in lumps
+3150	it tastes good (lit. it is good how it tastes)
+3151	it has no taste / it doesn’t taste of anything
+3152	have you tasted seal meat?
+3153	go berry-picking, so we can have a taste of berries!
+3154	I tattooed my dauughter’s hand
+3155	tattoo my arm / hand!
+3156	he taught us to sing
+3157	we’re going to teach
+3158	they taught each other
+3159	don’t tear it open (a present)!
+3160	I tore apart a piece of cloth
+3161	I’m making a big pile of torn paper
+3162	the seine net is all torn up
+3163	the seine net is torn in one place
+3164	it won’t tear
+3165	it (a pierced ear lobe) tore through
+3166	he talks too much / tears away in conversation
+3167	it (salmon) tore loose from the fishhook
+3168	they tore away (at the Boston Tea Party)
+{Page = 225}
+3169	they tore down the house
+3170	he tore the engine apart in order to sell the parts
+3171	he made jokes about his parternal uncle
+3172	they teased us, “there’s no prince among you”
+3173	they were teased with being slaves
+3174	I have told the whole of our way of life
+3175	I told all about the past trouble / I gave all the information about it
+3176	tell us a story!
+3177	he told a story about a beaver
+3178	that’s the way I heard it told
+3179	long ago they tell the legend thus
+3180	we were told to go / they told us to go
+3181	we used to tell him so
+3182	what’s he telling you?
+3183	he tells me (advises me) to buy a stove
+3184	a man tempted me, but I disregarded it
+3185	I tempted him
+{Page = 226}
+3186	I tensed the muscles of my leg / held my leg rigid
+3187	it’s going to hurt; brace yourself
+3188	a thick board
+3189	the skin isn’t thick
+3190	the clouds are getting thick
+3191	the deer are getting pretty lean
+3192	he’s thin / skinny
+3193	I’m losing weight / getting thinner
+3194	what do you think about it?
+3195	I think so / I imagine it so
+3196	he will think that he is working for God
+3197	we never expected anything like this would happen to us
+3198	they thought it was pneumonia
+3199	I thought I had already paid
+3200	they are thinking over their way of life
+3201	let me think it over / consider it
+3202	we’re going to think it over
+{Page = 227}
+3203	I’m real thirsty
+3204	he will never thirst again
+3205	I threaded the needle with this thread
+3206	we threaded sticks through skunk cabbage to make them stiff enough to use as baskets (for berries)
+3207	they put sticks through fish too (when too large to broil without threading sticks through at right angles to main stick, to keep it from hanging down)
+3208	they will throw you into the furnace
+3209	they threw the seine net overboard
+3210	I threw a rock over there
+3211	he threw my book outdoors
+3212	I threw in the anchor (as we neared shore)
+3213	he threw down the bundle of firewood
+3214	he’s throwing the ball
+3215	he didn’t throw down (the pencil)
+3216	he threw the dog out
+3217	he threw himself down
+3218	I threw the water outside
+3219	I threw the water out, in a forceful motion
+3220	he’s throwing money away (that is, spending foolishly)
+{Page = 228}
+3221	throw it like a spear (that is, pointed end forward)!
+3222	I threw the stick outside, end foremost
+3223	he threw a rock on the other fellow’s back
+3224	he threw (rock) at the dog and hit it
+3225	he’s still throwing stones
+3226	someone threw (a rock) at him
+3227	an egg was thrown at him
+3228	he threw away all the rubbish from his house
+3229	I’ve already thrown it away
+3230	I’m going to tickle you
+3231	the toast tickled my throat
+3232	my body is tickling (where a ghost is grabbing me)
+3233	my cheek feels like water is running down it (but it is dry)
+{Page = 229}
+3234	take care: the tide is really boiling there!
+3235	the tide is ebbing / going out
+3236	it’s low tide (that is, the tide has gone out completely)
+3237	the tide is coming in
+3238	it’s high tide (that is, the tide has flowed in completely to the shore)
+3239	the tide is slack (at high tide)
+3240	the tide is slacking / it’s getting to slack tide
+3241	there are no full tides
+3242	the tides are very small (that is, no extremes of high or low)
+3243	the minus tides are getting smaller
+3244	the high tide is smaller
+3245	tie it in a bow for me!
+3246	I’m going to tie it in a bow
+3247	they tied it in a knot
+3248	he tied a towel around himself
+3249	he’s tying the strings in knots
+3250	she tied an apron around herself
+3251	I tied my hair up
+3252	her hair was in a pony-tail
+3253	his grandfather tied his hair in a bunch
+{Page = 230}
+3254	tie up your hair!
+3255	we tied our hair with feathers in it
+3256	I’ll tie up my hair with young spruce (in preparation for death)
+3257	I’m tying it (box) up (with wire)
+3258	tie up the books in a bundle!
+3259	he tied up the stems of the flowers
+3260	they tie together yellow cedar bark mats
+3261	he tied hemlock branches together (for herring to spawn on)
+3262	they tied together a raft
+3263	I’m going to tie up this sack
+3264	they are going to tie his hands together
+3265	tie up that dog!
+3266	it (rope) is getting tight
+3267	this bandage is too tight on me
+3268	the line was hanging down, so I tightened it
+3269	it tipped up and one end went right down
+3270	he tipped out everything (tools, screws, etc.) from his toolbox onto the table
+{Page = 231}
+3271	I’m tired (after housework)
+3272	a young person shouldn’t be tired
+3273	ironing tires me
+3274	you make me tired
+3275	I’m tired of talking
+3276	I’m tired by noise (of machinery, waves, etc., that has been going on continuously)
+3277	I’m tired of the continuous talking
+3278	I’m real tired of his talking
+3279	one can’t ever get tired of water
+3280	I became tired of bear meat / couldn’t take it anymore
+3281	you’ll tire of it (certain food)
+3282	I toasted ribbon seaweed
+3283	he toasted bread
+3284	he toasted bread
+3285	they use tongs to pick up hot things
+3286	pick it up with the tongs!
+3287	I have a tooth missing
+{Page = 232}
+3288	he tormented his wife, so she left him
+3289	they are tormenting the dog
+3290	they are tormenting the cat
+3291	we tormented you / made you desperate with so much work
+3292	let me feel it!
+3293	don’t touch it (dog); it will bite you!
+3294	he touched it / took it
+3295	he (child) is going along touching the fence
+3296	it only just touched him (tree being felled)
+3297	he’s falling asleep: touch him gently to rouse him!
+3298	he touched him lightly (to get his attention)
+3299	he’s towing timber / a tree
+3300	we towed the house here (on a raft)
+3301	he’s trailing deer
+3302	he trailed its footprints
+{Page = 233}
+3303	I trampled on (clothes) in the water (to get them clean)
+3304	they bring our food here by boat
+3305	he’s taking people by boat
+3306	they brought lots of sick people here by boat
+3307	I’ll bring everything here by boat
+3308	he trapped a marten
+3309	they used to trap brown bear too
+3310	we caught salmon in a fishtrap
+3311	I’m traveling to Juneau by boat
+3312	they went back across the lake by boat
+3313	while the north wind blew, the boats didn’t travel
+3314	the boats will be coming here
+3315	I’m going to take a trip to Juneau
+3316	what did she travel down south for?
+3317	when we travel is dependent on the weather
+3318	I’ll be coming back (traveling here again)
+3319	I treasure this drum very highly
+3320	he brought deer meat here
+{Page = 234}
+3321	I’m going to treat him to some black seaweed
+3322	my hand trembles / is unsteady (after carving too long)
+3323	he made himself tremble before taking part (in gambling or wrestling)
+3324	the sickness made me shake all over
+3325	a brave man doesn’t tremble
+3326	he was trembling (from palsy, fear or cold)
+3327	the cold made me shiver
+3328	the machine was making it vibrate
+3329	it trills / sings shrilly (often said of cage bird)
+3330	the small birds will be singing in springtime
+3331	there are lots of rocks in the road: don’t trip over!
+3332	his money (that is, his financial state) is troubling him
+3333	my children’s clothing is causing me anxiety (because it is all wearing out)
+3334	don’t be worried and upset!
+3335	he’s troubled about his work
+{Page = 235}
+3336	I don’t ever trust myself
+3337	he has more confidence in himself than in anybody
+3338	I have faith in you / I’m relying on you
+3339	rely on this word (Scripture)!
+3340	I tried to look at your face (that is, to get a response from you)
+3341	try!
+3342	he tested him to see what he would say
+3343	he tried out people
+3344	I tried out my new boat
+3345	the dishes tumbled down
+3346	the lumber is going to fall down
+3347	turn (your boat) this way!
+3348	he’s going to turn, when the time comes
+3349	he returned to our town (by boat)
+3350	he turned back and returned home
+3351	they turned back
+{Page = 236}
+3352	he’s going to turn over
+3353	winter has turned over (that is, days will be getting longer and spring weather is coming)
+3354	it’s his turn
+3355	my turn will come some time
+3356	I’m leafing through a book / magazine
+3357	it’s too long, so I am going to turn up the hem for her
+3358	they twirl rope around
+3359	he was twirling it
+3360	he twisted the wire
+3361	twist up that wire!
+3362	he’s twisting the rope
+3363	it (wolverine) breaks the trap chain
+{Page = 237}
+3364	I twisted the branch in my hands (to make it supple)
+3365	they twist long thin roots or branches till they get limber
+3366	they’re working on branches, twisting them to get them limber (for use in canoe-mending, etc.)
+3367	a frog is ugly / homely-looking
+3368	it’s ugly / not pretty at all
+3369	he uncovered it / he took the lid off
+3370	he was undecided, suggesting first one thing and then another
+3371	they can’t decide together (when planning ceremony)
+3372	I gave various different answers, making excuses this way and that
+3373	which don’t you understand/
+3374	he understands me (can comprehend what I say)
+3375	do you understand Tlingit?
+3376	he doesn’t understand people (that is, the language)
+{Page = 238}
+3377	I feel a bit unhappy and low, so tell me some stories!
+3378	why is he unhappy?
+3379	if you are united with me you will receive whatever you want
+3380	I am going to be united with you (one with you)
+3381	when we had unloaded it, it floated
+3382	he’s going to unload / bring up stuff from the boat
+3383	they are not ripe yet: they are still green and hard
+3384	the thing that he planned isn’t suitable / it doesn’t fit the way it should
+3385	the song that they sang was unsuitable / it didn’t fit the occasion
+3386	I’m going to untangle this line
+3387	I tried to untie the boat line
+3388	untie this string!
+{Page = 239}
+3389	he upset the tanning frame
+3390	he’s going to tip the hemlock branches (for herring eggs) into the water (from the canoe; these branches have been tied together and weighted and therefore tip over easily)
+3391	he used rope for a whip / he made rope into a whip
+3392	we are using the yarn (for it)
+3393	our rice is all used up; we’ll live on potatoes
+3394	there’s no more; you have used it all up
+3395	my son’s death has used up all my feelings (that is, has left me unable to feel, think, etc.)
+3396	he violated the Sabbath day of rest
+3397	they violated his word / they broke his law
+3398	they are coming to visit us / we’ll be having visitors
+{Page = 240}
+3399	folk from other localities are visiting us / staying temporarily in our town
+3400	I visited at that time (e.g., Convention time)
+3401	her husband met her
+3402	he vomited a little / is nauseated
+3403	he vomited  / threw up everything
+3404	dogs vomit
+3405	they voted for him
+3406	he voted against me
+3407	I’m wading in the creek
+3408	he’s wading along
+3409	he’s wading around
+3410	he’s wading along, dragging his canoe
+3411	he always wags his tail
+3412	he’d better wait / let him stay there and keep still!
+3413	we’re not waiting for him
+3414	I was waiting for you
+3415	they anchored temporarily in the bay (they are still on board)
+3416	we are staying in one place / our boat is stationary but not actually anchored
+{Page = 241}
+3417	he’s always wakeful / he doesn’t get enough sleep
+3418	we’re going to wake (and get up) early
+3419	his snoring keeps me awake
+3420	she woke me at nine o’clock
+3421	I woke up in the morning, early
+3422	why do you never come (walking) to our place?
+3423	where are you going (walking)?
+3424	we’re coming to your place
+3425	they went outside
+3426	he pretended to walk here
+3427	he’s walking real quietly after the deer
+3428	he tiptoed in
+3429	is there a light there? I’m wandering in the dark
+3430	he wants some more money
+3431	I want to go home
+3432	I want to give you this book (I intend that you shall have it)
+3433	whoever wishes for this (that is, approves of what is being put forward), raise your hand!
+3434	I want my wife back
+{Page = 242}
+3435	he wants to be like him (that is, he wants to be dead, like his father who has just drowned)
+3436	they wanted to kill him
+3437	he feels like going outside
+3438	I wanted to laugh
+3439	he wanted to smoke
+3440	I’m really warm
+3441	the water isn’t warm yet
+3442	I’m going to warm (heat) the water
+3443	the blanket is warming me
+3444	he’s warming his hands
+3445	it’s warm today
+3446	it’s getting warmer / beginning to warm up
+3447	that lumber is getting warped in the sun
+3448	wash inside the boat!
+3449	she’s always washing clothes
+3450	he’s going to wash meat
+3451	I’m washing my feet
+3452	let’s wash the table!
+3453	she’s washing her hair
+3454	I haven’t washed my hair (yet)
+3455	big swells washed away possessions piled there (on beach)
+{Page = 243}
+3456	it (the flood) washed the stream out (that is, washed away banks)
+3457	I’ve been watching you for a long time (to see how you behave)
+3458	keep an eye on him!
+3459	I watched him, but he didn’t notice me
+3460	he’s watching you, but whenever you look up, he is looking away
+3461	he watched the fishtrap
+3462	he’s a watchman
+3463	they will watch the fire well (in the smokehouse)
+3464	she’s a good baby-sitter (that is, ‘children-watcher’)
+3465	I’m lying in wait for salmon with a gaff hook
+3466	I was on guard / watching closely (in boxing)
+3467	he doesn’t know the work: keep a good watch on him (in case he causes an accident)!
+3468	he’s watered down the paint (stirring them together to become one)
+3469	mix water with the berries!
+3470	his eye watered
+3471	she’s waving her hanky at me
+3472	my mother is weak (not strong)
+{Page = 244}
+3473	I’m weak all over / can’t hold myself together like I used to
+3474	sickness weakens one
+3475	get up; you will get too weak (you’ll be confined to bed for good)!
+3476	they wear a deer blanket all the time
+3477	let’s put on blankets: it’s so cold!
+3478	they’re wearing new clothes
+3479	machines wear out
+3480	the sole is wearing out
+3481	this rope is wearing out
+3482	the thonging is worn (frayed, but not broken)
+3483	my pencil is worn down
+3484	that’s where it (rope) is wearing through
+3485	she’s weaving yellow cedar bark for a mat
+3486	they weave baskets
+{Page = 245}
+3487	he’s going to weigh the potatoes
+3488	it’s already weighed
+3489	I’m gaining weight
+3490	I’m losing weight
+3491	I’ve got my dress held down by a rock (while it soaks)
+3492	big rock used as a weight
+3493	whoever receives and welcomes anyone I send, receives me also
+3494	did you welcome him / take him into the home?
+3495	the firewood is wet
+3496	she wet the floor (with water)
+3497	my glasses are wet (steamed up)
+3498	I’m going to sprinkle water on the blanket
+3499	all over the woods (all the vegetation) is wet
+3500	the skin is soaking wet
+3501	the thonging is thoroughly wet
+3502	the dog got himself all wet
+{Page = 246}
+3503	it has been in the water a long time and is thoroughly wet
+3504	the dog is dripping wet
+3505	a cat doesn’t like to get its face wet
+3506	our faces are wet, with our hair dripping over them
+3507	I’m wheeling a wheelbarrow
+3508	I’m going to wheel it over there
+3509	he’s whining and fussing to go on the boat
+3510	he’s really making a fuss about his hand (doesn’t want anyone to touch it to put medicine on)
+3511	I’m going to spank you
+3512	I get whipped for that
+3513	I’m going to whisper it to yoiu
+3514	I don’t whistle
+3515	he’s going along whistling
+3516	he’s whistling softly under his breath
+3517	the sockeye are getting white spots / are becoming old in that creek
+{Page = 247}
+3518	the tribal emblem of the Lʼeenèidee turns white with age
+3519	he’s whittling (wood) to make fast-burning kindling for the morning
+3520	a wide board
+3521	that leaf is broad
+3522	this ribbon is too wide
+3523	my bracelet is broad
+3524	the canoe is wide
+3525	it’s a wide box
+3526	it was a wide stretch of bushes
+3527	this land is wide
+3528	I am willing to die for them
+3529	he is willing to go for water
+3530	the Chinese won
+3531	he wound his clock
+3532	wind it up!
+3533	he’s winded (fell on stomach and can’t regain breath)
+3534	I fell flat on my back; it knocked the wind out of me
+3535	he winded him (in boxing, etc.)
+{Page = 248}
+3536	he winked at me
+3537	I was keeping my eye on you, winking
+3538	I winked at him
+3539	they spend the winter in the earth (winter underground, of snakes, etc.)
+3540	I wiped it off with a cloth
+3541	he’s wiping the floor
+3542	wipe the table!
+3543	he wiped the apple
+3544	he made a strong wish that he might land on a tangle of kelp
+3545	I’m wishing and praying for help
+3546	the leaves are withered
+3547	herring eggs wither too (when dipped in boiling water)
+3548	he came to witness to that light / to tell about it
+3549	he wobbled around (e.g., spastic child or child in high heels)
+{Page = 249}
+3550	his head is wobbling (of newborn baby)
+3551	they are curious / wondering about things
+3552	we wonder how much money we will make
+3553	my aunt, you are wonderful / amazing
+3554	my! it’s amazing how thin he is
+3555	it’s going to be tremendous
+3556	an ambitious man works all the time
+3557	I did it because they told me to / I worked according to their instructions
+3558	they made us work hard
+3559	you can’t make me work
+3560	they are all working well together
+3561	they started to work faster
+3562	what are you so worked up about?
+3563	what is worrying you / what is on your mind all the time?
+3564	he’s constantly concerned about his work (what there is to be done)
+3565	it’s none of his affairs, but he makes it his concern
+3566	he gets himself worried about things
+{Page = 250}
+3567	we know whom we worship
+3568	they worshiped him / bowed the knee to him
+3569	they will worship God / they will bow before Him
+3570	your speech is worthless / you only know how to tell lies
+3571	you’re a good boy; you say what is good / tell the truth in most cases
+3572	once in a while a person is wounded (by octopus)
+3573	my mother was injured
+3574	they wounded a deer
+3575	a bee wounded me (that is, stung me)
+3576	I wrapped it in paper
+3577	he had a blanket spread over his lap
+3578	he wrapped a blanket around himself
+3579	he wrapped the blanket around himself and around his child too (holding him on his lap)
+3580	the young fellows are wrestling
+3581	I’m going to fight (wrestle) with him
+3582	they’re wringing out wet cloths
+3583	wring out the laundry!
+3584	he wrung the chicken’s neck
+{Page = 251}
+3585	that cloth wrinkles easily
+3586	don’t! you’ll wrinkle it
+3587	it (cloth) is wrinkled in large folds
+3588	I wrinkled it (in large folds)
+3589	they wrinkle some skins (that is, for ‘Morocco leather’)
+3590	a person’s hands become all wrinkled (if they are soaked in water for a long time)
+3591	my clothes became wrinkled (because they shrank in the soaking)
+3592	that was a good letter you wrote me
+3593	he’s going to write a big book
+3594	it goes wrong / it doesn’t turn out right
+3595	his life is going in the wrong direction
+3596	I yawned
+3597	he yawned in my face
+3598	everyone was yelling at the ball game
+3599	let’s yell / cheer!
+{Page = 252}
+3600	the dog chased it, yelping and barking as it went
+3601	the dog is chasing the bear and yelping
+{Page = 259}
+3602	it’s better (improved)
+3603	how is it / would it be O.K.?
+{Page = 262}
+3604	he finished (doing something)
+3605	he finishes (every day, say)
+3606	he will finish
+3607	I blame you
+{Page = 263}
+3608	we’re lazy
+3609	I’m afraid of it
+3610	it (wind) is blowing
+{Page = 347}
+3611	go and carry it (e.g. pot)!
+3612	pick it up and carry it (e.g. pot)!
+3613	let him take it (e.g. pot)
+3614	let us take it (e.g. pot)
+3615	we will take it (e.g. pot)
+{Page = 348}
+3616	let him go down
+3617	let us invite him
+{Page = 351}
+3618	he frequently comes here
+{Page = 352}
+3619	he’s going to go, he will go
+3620	he doesn’t come here
+3621	he can go
+3622	he goes indoors (always)
+3623	he’s going along
+3624	may he go, let him go
+3625	go!
+3626	he goes (here and there)
+3627	he can go
+3628	as he went …
+3629	if he goes …
+3630	whenever he goes …
+3631	in order to go
+{Page = 353}
+3632	he’s going to go, he will go
+3633	may he go along, keep going
+3634	go along! keep going!
+3635	he goes along (stopping every so often)
+3636	he can go along
+3637	as he went along …
+3638	if he goes along, keeps going …
+3639	whenever he goes along …
+3640	in order to go along, keep going
+3641	may he go down, let him go down
+3642	go down!
+3643	he goes down (every so often)
+3644	he can go down
+3645	as he went down …
+3646	if he goes down …
+3647	whenever he goes down …
+3648	in order to go down
+{Page = 354}
