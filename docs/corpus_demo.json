@@ -1,0 +1,986 @@
+[
+  {
+    "root": "aat",
+    "theme": "P-t~ S-ø-.aat~ (ø motion)",
+    "gloss": "for (plural) S to walk, go (by walking or as a general term) to P",
+    "conjugation_class": "ø",
+    "verb_type": "motion",
+    "classifier": "ø",
+    "prefixes": [
+      "P",
+      "t~",
+      "S"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "go"
+    ],
+    "examples": [
+      {
+        "tlingit": "aatlein;",
+        "english": "a huge one;",
+        "source": "Basket Bay"
+      },
+      {
+        "tlingit": "Chʼu tle áyá a náḵ neil oo.aatch yá ḵaa jáag̱adi.",
+        "english": "They would even go home from their kill.",
+        "source": "Basket Bay"
+      }
+    ]
+  },
+  {
+    "root": "aat",
+    "theme": "P-x̲ S-ø-.aat~ (g̲a motion)",
+    "gloss": "for (plural) S to walk, go (by walking or as a general term) down along P",
+    "conjugation_class": "g̲a",
+    "verb_type": "motion",
+    "classifier": "ø",
+    "prefixes": [
+      "P",
+      "x̲",
+      "S"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "go"
+    ],
+    "examples": [
+      {
+        "tlingit": "aatlein;",
+        "english": "a huge one;",
+        "source": "Basket Bay"
+      },
+      {
+        "tlingit": "Chʼu tle áyá a náḵ neil oo.aatch yá ḵaa jáag̱adi.",
+        "english": "They would even go home from their kill.",
+        "source": "Basket Bay"
+      }
+    ]
+  },
+  {
+    "root": "aat",
+    "theme": "gánde S-ø-.aat~ (na motion)",
+    "gloss": "for (plural) S to go to the bathroom",
+    "conjugation_class": "na",
+    "verb_type": "motion",
+    "classifier": "ø",
+    "prefixes": [
+      "gánde",
+      "S"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "go"
+    ],
+    "examples": [
+      {
+        "tlingit": "aatlein;",
+        "english": "a huge one;",
+        "source": "Basket Bay"
+      },
+      {
+        "tlingit": "Chʼu tle áyá a náḵ neil oo.aatch yá ḵaa jáag̱adi.",
+        "english": "They would even go home from their kill.",
+        "source": "Basket Bay"
+      }
+    ]
+  },
+  {
+    "root": "teeʰ",
+    "theme": "N x̲&apos;éix̲ O-S-ø-teeʰ~ (na event)",
+    "gloss": "for S to feed O to N; for S to give O to N to eat",
+    "conjugation_class": "na",
+    "verb_type": "event",
+    "classifier": "ø",
+    "prefixes": [
+      "N",
+      "x̲&apos;éix̲",
+      "O",
+      "S",
+      "ø",
+      "teeʰ~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "eat"
+    ],
+    "examples": []
+  },
+  {
+    "root": "x̲aa",
+    "theme": "O-S-ø-x̲aa~ (ø act)",
+    "gloss": "for S to eat O",
+    "conjugation_class": "ø",
+    "verb_type": "act",
+    "classifier": "ø",
+    "prefixes": [
+      "O",
+      "S",
+      "ø",
+      "x̲aa~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "eat"
+    ],
+    "examples": []
+  },
+  {
+    "root": "x̲aa",
+    "theme": "at S-ø-x̲aa~ (ø act)",
+    "gloss": "for S to eat",
+    "conjugation_class": "ø",
+    "verb_type": "act",
+    "classifier": "ø",
+    "prefixes": [
+      "at",
+      "S",
+      "ø",
+      "x̲aa~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "eat"
+    ],
+    "examples": []
+  },
+  {
+    "root": "aas",
+    "theme": "N yáx̲ O-taa-.aas~ (Ø, event)",
+    "gloss": "for O to miss, be lonesome for, wish to see N",
+    "conjugation_class": "Ø,",
+    "verb_type": "event",
+    "classifier": "ø",
+    "prefixes": [
+      "N",
+      "yáx̲",
+      "O",
+      "taa"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "see"
+    ],
+    "examples": [
+      {
+        "tlingit": "aas áyú.",
+        "english": "it was a tree.",
+        "source": "Basket Bay"
+      },
+      {
+        "tlingit": "Yá sítʼ tayeenáx̱ has wulhaashí áyá",
+        "english": "Floating under the glacier",
+        "source": "Basket Bay"
+      }
+    ]
+  },
+  {
+    "root": "aat",
+    "theme": "P-x̲ yaa S-ø-.aat~ (ga motion)",
+    "gloss": "for (plural) S to be walking, going (by foot or as general term) along P (basically plural; see goot for singular)",
+    "conjugation_class": "ga",
+    "verb_type": "motion",
+    "classifier": "ø",
+    "prefixes": [
+      "P",
+      "x̲",
+      "yaa",
+      "S"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "see"
+    ],
+    "examples": [
+      {
+        "tlingit": "aatlein;",
+        "english": "a huge one;",
+        "source": "Basket Bay"
+      },
+      {
+        "tlingit": "Chʼu tle áyá a náḵ neil oo.aatch yá ḵaa jáag̱adi.",
+        "english": "They would even go home from their kill.",
+        "source": "Basket Bay"
+      }
+    ]
+  },
+  {
+    "root": "k&apos;ein",
+    "theme": "kei O-ka-du-ø-k&apos;éin~ (ø motion)",
+    "gloss": "for (plural) O to jump (see ji-k'ein for singular)",
+    "conjugation_class": "ø",
+    "verb_type": "motion",
+    "classifier": "ø",
+    "prefixes": [
+      "kei",
+      "O",
+      "ka",
+      "du",
+      "ø",
+      "k&apos;éin~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "see"
+    ],
+    "examples": []
+  },
+  {
+    "root": "aak̲w",
+    "theme": "O-x̲&apos;a-ka-(u)-S-ø-.aak̲w (na act)",
+    "gloss": "for S to give O an opportunity to speak; for S to give O directions as to what to say",
+    "conjugation_class": "u",
+    "verb_type": "",
+    "classifier": "ø",
+    "prefixes": [
+      "O",
+      "x̲&apos;a",
+      "ka",
+      "S"
+    ],
+    "has_stem_variation": false,
+    "search_terms": [
+      "say"
+    ],
+    "examples": []
+  },
+  {
+    "root": "k̲aa",
+    "theme": "(yéi) ya-S-ø-k̲aa~ (na act)",
+    "gloss": "for S to say (a certain thing); for S to confess, acknowledge, declare (a certain thing)",
+    "conjugation_class": "yéi",
+    "verb_type": "",
+    "classifier": "ø",
+    "prefixes": [
+      "ya",
+      "S",
+      "ø",
+      "k̲aa~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "say"
+    ],
+    "examples": []
+  },
+  {
+    "root": "k̲aa",
+    "theme": "(yóo) O-ya-S-s-k̲aa~ (na event)",
+    "gloss": "for S to tell, say (that) to O; for S to ask O to do (that)",
+    "conjugation_class": "yóo",
+    "verb_type": "",
+    "classifier": "ø",
+    "prefixes": [
+      "O",
+      "ya",
+      "S",
+      "s",
+      "k̲aa~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "say"
+    ],
+    "examples": []
+  },
+  {
+    "root": "aak̲w",
+    "theme": "át O-ji-ka-u-S-ø-.aak̲w~ (na act)",
+    "gloss": "for S to give O orders, instructions (esp. concerning work)",
+    "conjugation_class": "na",
+    "verb_type": "act",
+    "classifier": "ø",
+    "prefixes": [
+      "át",
+      "O",
+      "ji",
+      "ka",
+      "u",
+      "S"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "give"
+    ],
+    "examples": []
+  },
+  {
+    "root": "aak̲w",
+    "theme": "át O-ka-S-ø-.aak̲w~ (na motion)",
+    "gloss": "for S to give orders to, command, instruct O",
+    "conjugation_class": "na",
+    "verb_type": "motion",
+    "classifier": "ø",
+    "prefixes": [
+      "át",
+      "O",
+      "ka",
+      "S"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "give"
+    ],
+    "examples": []
+  },
+  {
+    "root": "aat",
+    "theme": "O-ji-S-l-.aat~ (n, motion)",
+    "gloss": "for S to take, lead (plural) O by the hand",
+    "conjugation_class": "n,",
+    "verb_type": "motion",
+    "classifier": "l",
+    "prefixes": [
+      "O",
+      "ji",
+      "S"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "take"
+    ],
+    "examples": [
+      {
+        "tlingit": "aatlein;",
+        "english": "a huge one;",
+        "source": "Basket Bay"
+      },
+      {
+        "tlingit": "Chʼu tle áyá a náḵ neil oo.aatch yá ḵaa jáag̱adi.",
+        "english": "They would even go home from their kill.",
+        "source": "Basket Bay"
+      }
+    ]
+  },
+  {
+    "root": "aat",
+    "theme": "P-dé O-S-l-.aat~ (na motion)",
+    "gloss": "for S to carry, take (plural) O (esp. baggage) to P",
+    "conjugation_class": "na",
+    "verb_type": "motion",
+    "classifier": "l",
+    "prefixes": [
+      "P",
+      "dé",
+      "O",
+      "S"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "take"
+    ],
+    "examples": [
+      {
+        "tlingit": "aatlein;",
+        "english": "a huge one;",
+        "source": "Basket Bay"
+      },
+      {
+        "tlingit": "Chʼu tle áyá a náḵ neil oo.aatch yá ḵaa jáag̱adi.",
+        "english": "They would even go home from their kill.",
+        "source": "Basket Bay"
+      }
+    ]
+  },
+  {
+    "root": "aat",
+    "theme": "N jee-t~ O-ka-S-l-.aat~ (ø event)",
+    "gloss": "for S to give, take, hand O (small, round or hoop-like objects) to N",
+    "conjugation_class": "ø",
+    "verb_type": "event",
+    "classifier": "l",
+    "prefixes": [
+      "N",
+      "jee",
+      "t~",
+      "O",
+      "ka",
+      "S"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "take"
+    ],
+    "examples": [
+      {
+        "tlingit": "aatlein;",
+        "english": "a huge one;",
+        "source": "Basket Bay"
+      },
+      {
+        "tlingit": "Chʼu tle áyá a náḵ neil oo.aatch yá ḵaa jáag̱adi.",
+        "english": "They would even go home from their kill.",
+        "source": "Basket Bay"
+      }
+    ]
+  },
+  {
+    "root": "daa",
+    "theme": "daak̲ ø-daa~ (ø motion)",
+    "gloss": "for the tide to rise, come in",
+    "conjugation_class": "ø",
+    "verb_type": "motion",
+    "classifier": "ø",
+    "prefixes": [
+      "daak̲",
+      "ø",
+      "daa~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "come"
+    ],
+    "examples": [
+      {
+        "tlingit": "daaxʼoon aa áwé,",
+        "english": "the fourth one",
+        "source": "Basket Bay"
+      },
+      {
+        "tlingit": "yá ḵaa jáag̱adi daaxʼ.",
+        "english": "on this kill of theirs.",
+        "source": "Basket Bay"
+      }
+    ]
+  },
+  {
+    "root": "haa",
+    "theme": "P-t~ O-ya-d-haa~ (Ø motion)",
+    "gloss": "for O to move in, come around, crowd at P (of large numbers, esp. people, birds)",
+    "conjugation_class": "Ø",
+    "verb_type": "motion",
+    "classifier": "ø",
+    "prefixes": [
+      "P",
+      "t~",
+      "O",
+      "ya",
+      "d",
+      "haa~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "come"
+    ],
+    "examples": [
+      {
+        "tlingit": "Yú haa aaní áyú",
+        "english": "That land of ours,",
+        "source": "Basket Bay"
+      },
+      {
+        "tlingit": "yú haa aaní,",
+        "english": "that land of ours",
+        "source": "Basket Bay"
+      }
+    ]
+  },
+  {
+    "root": "haa",
+    "theme": "P-t~ k̲u-ø-haa~ (ø motion)",
+    "gloss": "for the time to come for P",
+    "conjugation_class": "ø",
+    "verb_type": "motion",
+    "classifier": "ø",
+    "prefixes": [
+      "P",
+      "t~",
+      "k̲u",
+      "ø",
+      "haa~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "come"
+    ],
+    "examples": [
+      {
+        "tlingit": "Yú haa aaní áyú",
+        "english": "That land of ours,",
+        "source": "Basket Bay"
+      },
+      {
+        "tlingit": "yú haa aaní,",
+        "english": "that land of ours",
+        "source": "Basket Bay"
+      }
+    ]
+  },
+  {
+    "root": "k̲aak̲",
+    "theme": "S-j-k̲aak̲~ (g̲a event)",
+    "gloss": "for S to squat, sit down low; for S to sit down quickly, squat down; for S to land (of waterfowl, plane) (singular subject)",
+    "conjugation_class": "g̲a",
+    "verb_type": "event",
+    "classifier": "ø",
+    "prefixes": [
+      "S",
+      "j",
+      "k̲aak̲~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "sit"
+    ],
+    "examples": []
+  },
+  {
+    "root": "k̲ee",
+    "theme": "S-ø-k̲ee~ (g̲a event)",
+    "gloss": "for (plural) S to sit, sit down (esp. act of sitting)",
+    "conjugation_class": "g̲a",
+    "verb_type": "event",
+    "classifier": "ø",
+    "prefixes": [
+      "S",
+      "ø",
+      "k̲ee~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "sit"
+    ],
+    "examples": []
+  },
+  {
+    "root": "nook",
+    "theme": "S-ø-nook~ (g̲a event)",
+    "gloss": "for (singular) S to sit, sit down (esp. act of sitting)",
+    "conjugation_class": "g̲a",
+    "verb_type": "event",
+    "classifier": "ø",
+    "prefixes": [
+      "S",
+      "ø",
+      "nook~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "sit"
+    ],
+    "examples": [
+      {
+        "tlingit": "“keitl wududzinook.”",
+        "english": "“carrying a dog.”",
+        "source": "The Woman Who Married the Bear"
+      },
+      {
+        "tlingit": "Chʼu tle du eet ÿaan wuhaaÿí, chʼa wáa sá shukanduwajáa, chʼa a yáx̱ ḵoowanook.",
+        "english": "So then when he got hungry, just how she had instructed him, that was how he acted.",
+        "source": "Salmon Boy"
+      }
+    ]
+  },
+  {
+    "root": "haan",
+    "theme": "S-d-haan~ (ga event)",
+    "gloss": "for (singular) S to stand up, rise",
+    "conjugation_class": "ga",
+    "verb_type": "event",
+    "classifier": "ø",
+    "prefixes": [
+      "S",
+      "d",
+      "haan~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "stand"
+    ],
+    "examples": [
+      {
+        "tlingit": "tléináx̱ áyú yú éeg̱i yan aa uhaanch.",
+        "english": "One would stand out on the beach.",
+        "source": "Basket Bay"
+      },
+      {
+        "tlingit": "Násʼgi aa áwé ḵu.aa, áa yax̱ haan áwé Kaaḵáakw shakée;",
+        "english": "The third one would stand at the arch of Kaaḵáakw;",
+        "source": "Basket Bay"
+      }
+    ]
+  },
+  {
+    "root": "haan",
+    "theme": "yan~ S-ø-haan~ (ø motion)",
+    "gloss": "for (singular) S to keep standing; for (singular) S to stand firm",
+    "conjugation_class": "ø",
+    "verb_type": "motion",
+    "classifier": "ø",
+    "prefixes": [
+      "yan~",
+      "S",
+      "ø",
+      "haan~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "stand"
+    ],
+    "examples": [
+      {
+        "tlingit": "tléináx̱ áyú yú éeg̱i yan aa uhaanch.",
+        "english": "One would stand out on the beach.",
+        "source": "Basket Bay"
+      },
+      {
+        "tlingit": "Násʼgi aa áwé ḵu.aa, áa yax̱ haan áwé Kaaḵáakw shakée;",
+        "english": "The third one would stand at the arch of Kaaḵáakw;",
+        "source": "Basket Bay"
+      }
+    ]
+  },
+  {
+    "root": "naak̲",
+    "theme": "S-d-naak̲~ (ga event)",
+    "gloss": "for (plural) S to stand up, rise",
+    "conjugation_class": "ga",
+    "verb_type": "event",
+    "classifier": "ø",
+    "prefixes": [
+      "S",
+      "d",
+      "naak̲~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "stand"
+    ],
+    "examples": []
+  },
+  {
+    "root": "look",
+    "theme": "O-S-ø-look~ (Ø act)",
+    "gloss": "for S to drink O in sips, sip O (esp. hot liquids)",
+    "conjugation_class": "Ø",
+    "verb_type": "act",
+    "classifier": "ø",
+    "prefixes": [
+      "O",
+      "S",
+      "ø",
+      "look~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "drink"
+    ],
+    "examples": [
+      {
+        "tlingit": "look like it",
+        "english": "it acted",
+        "source": "The Woman Who Married the Bear"
+      }
+    ]
+  },
+  {
+    "root": "naa",
+    "theme": "at S-d-naa~ (ø act)",
+    "gloss": "for S to drink",
+    "conjugation_class": "ø",
+    "verb_type": "act",
+    "classifier": "ø",
+    "prefixes": [
+      "at",
+      "S",
+      "d",
+      "naa~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "drink"
+    ],
+    "examples": [
+      {
+        "tlingit": "Naaléi,",
+        "english": "ages.",
+        "source": "Basket Bay"
+      },
+      {
+        "tlingit": "sítʼ tayeedéi naadaa.",
+        "english": "the river flowed under a glacier.",
+        "source": "Basket Bay"
+      }
+    ]
+  },
+  {
+    "root": "naa",
+    "theme": "O-S-d-naa~ (ø act)",
+    "gloss": "for S to drink O",
+    "conjugation_class": "ø",
+    "verb_type": "act",
+    "classifier": "ø",
+    "prefixes": [
+      "O",
+      "S",
+      "d",
+      "naa~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "drink"
+    ],
+    "examples": [
+      {
+        "tlingit": "Naaléi,",
+        "english": "ages.",
+        "source": "Basket Bay"
+      },
+      {
+        "tlingit": "sítʼ tayeedéi naadaa.",
+        "english": "the river flowed under a glacier.",
+        "source": "Basket Bay"
+      }
+    ]
+  },
+  {
+    "root": "geet",
+    "theme": "kei O-S-s-geet~ (ø motion)",
+    "gloss": "for S to wake O up, rouse O from sleep",
+    "conjugation_class": "ø",
+    "verb_type": "motion",
+    "classifier": "ø",
+    "prefixes": [
+      "kei",
+      "O",
+      "S",
+      "s",
+      "geet~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "sleep"
+    ],
+    "examples": [
+      {
+        "tlingit": "áwé x̱at woox̱oox̱ Geetwéin.",
+        "english": "Geetwéin called me over.",
+        "source": "Mosquito"
+      },
+      {
+        "tlingit": "Wudzigeet,",
+        "english": "He fell,",
+        "source": "Mosquito"
+      }
+    ]
+  },
+  {
+    "root": "jaak̲",
+    "theme": "táach O-S-ø-jaak̲~ (ø event)",
+    "gloss": "for (singular) O to fall asleep (literally: for S (sleep) to kill (singular) O)",
+    "conjugation_class": "ø",
+    "verb_type": "event",
+    "classifier": "ø",
+    "prefixes": [
+      "táach",
+      "O",
+      "S",
+      "ø",
+      "jaak̲~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "sleep"
+    ],
+    "examples": []
+  },
+  {
+    "root": "jaak̲",
+    "theme": "táach yax̲ O-ya-S-l-jaak̲~ (Ø event)",
+    "gloss": "for (plural) O to fall asleep (literally: for S (sleep) to kill (plural) O)",
+    "conjugation_class": "Ø",
+    "verb_type": "event",
+    "classifier": "ø",
+    "prefixes": [
+      "táach",
+      "yax̲",
+      "O",
+      "ya",
+      "S",
+      "l",
+      "jaak̲~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "sleep"
+    ],
+    "examples": []
+  },
+  {
+    "root": "gook",
+    "theme": "O-S-sh-góok (ga state)",
+    "gloss": "for S to know, learn how to do O",
+    "conjugation_class": "ga",
+    "verb_type": "state",
+    "classifier": "ø",
+    "prefixes": [
+      "O",
+      "S",
+      "sh",
+      "góok"
+    ],
+    "has_stem_variation": false,
+    "search_terms": [
+      "know"
+    ],
+    "examples": [
+      {
+        "tlingit": "Gook!",
+        "english": "Let’s go!",
+        "source": "The Woman Who Married the Bear"
+      },
+      {
+        "tlingit": "A gookt has ḵéen; has at x̱á.",
+        "english": "They were sitting next to it; they were eating.",
+        "source": "The Woman Who Married the Bear"
+      }
+    ]
+  },
+  {
+    "root": "kooʰ",
+    "theme": "O-S-s-kooʰ~ (ø event; CV́V Imp/Hort/Pot)",
+    "gloss": "for S to know, be acquainted with, make known O (esp. people, facts); for S to learn O (esp. facts)",
+    "conjugation_class": "ø",
+    "verb_type": "event;",
+    "classifier": "ø",
+    "prefixes": [
+      "O",
+      "S",
+      "s",
+      "kooʰ~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "know"
+    ],
+    "examples": []
+  },
+  {
+    "root": "goo",
+    "theme": "N tuwáa S-s-góo (ga state)",
+    "gloss": "for N to want, like, desire S; for S to be pleasing to N",
+    "conjugation_class": "ga",
+    "verb_type": "state",
+    "classifier": "ø",
+    "prefixes": [
+      "N",
+      "tuwáa",
+      "S",
+      "s",
+      "góo"
+    ],
+    "has_stem_variation": false,
+    "search_terms": [
+      "want"
+    ],
+    "examples": [
+      {
+        "tlingit": "kíndei yóo dzeit kát áwé ḵaa lugooḵch kag̱ít tú áyá;",
+        "english": "they would run up the ladder in the dark;",
+        "source": "Basket Bay"
+      },
+      {
+        "tlingit": "yá Goon Xʼaakʼú yayeenáx̱ áwé kíndei anasgooḵ nooch,",
+        "english": "in front of Spring Water Point",
+        "source": "Basket Bay"
+      }
+    ]
+  },
+  {
+    "root": "haa",
+    "theme": "(yéi) O-sa-S-ø-haa~ (na state)",
+    "gloss": "for S to want O (a certain way); for S to be decided about O; for S to agree to O",
+    "conjugation_class": "yéi",
+    "verb_type": "",
+    "classifier": "ø",
+    "prefixes": [
+      "O",
+      "sa",
+      "S",
+      "ø",
+      "haa~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "want"
+    ],
+    "examples": [
+      {
+        "tlingit": "Yú haa aaní áyú",
+        "english": "That land of ours,",
+        "source": "Basket Bay"
+      },
+      {
+        "tlingit": "yú haa aaní,",
+        "english": "that land of ours",
+        "source": "Basket Bay"
+      }
+    ]
+  },
+  {
+    "root": "teeʰ",
+    "theme": "(yéi) O-tu-ø-teeʰ~ (na state)",
+    "gloss": "for O to want to do, feel like doing (that); for O to feel a certain way",
+    "conjugation_class": "yéi",
+    "verb_type": "",
+    "classifier": "ø",
+    "prefixes": [
+      "O",
+      "tu",
+      "ø",
+      "teeʰ~"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "want"
+    ],
+    "examples": []
+  },
+  {
+    "root": "x̲án",
+    "theme": "O-S-s-x̲án (ga state)",
+    "gloss": "for S to love O",
+    "conjugation_class": "ga",
+    "verb_type": "state",
+    "classifier": "ø",
+    "prefixes": [
+      "O",
+      "S",
+      "s",
+      "x̲án"
+    ],
+    "has_stem_variation": false,
+    "search_terms": [
+      "love"
+    ],
+    "examples": []
+  },
+  {
+    "root": "aat",
+    "theme": "gági S-ø-.aat~ (ø motion)",
+    "gloss": "for (plural) S to emerge, walk out into the open",
+    "conjugation_class": "ø",
+    "verb_type": "motion",
+    "classifier": "ø",
+    "prefixes": [
+      "gági",
+      "S"
+    ],
+    "has_stem_variation": true,
+    "search_terms": [
+      "walk"
+    ],
+    "examples": [
+      {
+        "tlingit": "aatlein;",
+        "english": "a huge one;",
+        "source": "Basket Bay"
+      },
+      {
+        "tlingit": "Chʼu tle áyá a náḵ neil oo.aatch yá ḵaa jáag̱adi.",
+        "english": "They would even go home from their kill.",
+        "source": "Basket Bay"
+      }
+    ]
+  }
+]

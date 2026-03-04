@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lingít Verb Builder</title>
+<style>
+  :root {
+    --bg: #f9f6f0;
+    --card: #ffffff;
+    --border: #d4c9b0;
+    --accent: #2d5a27;
+    --accent-light: #e8f0e6;
+    --text: #1a1a1a;
+    --muted: #666;
+    --guess: #7a5c00;
+    --guess-bg: #fff9e6;
+    --gap: #8b2020;
+    --gap-bg: #fff0f0;
+    --confirmed: #1a5c1a;
+    --confirmed-bg: #e8f5e8;
+    --radius: 8px;
+    --font-tlingit: 'Doulos SIL', 'Charis SIL', Georgia, serif;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+  }
+
+  header {
+    background: var(--accent);
+    color: white;
+    padding: 1.25rem 1.5rem;
+  }
+
+  header h1 {
+    font-size: 1.4rem;
+    font-weight: 600;
+    font-family: var(--font-tlingit);
+    letter-spacing: 0.02em;
+  }
+
+  header p {
+    font-size: 0.85rem;
+    opacity: 0.85;
+    margin-top: 0.25rem;
+  }
+
+  .search-bar {
+    background: white;
+    border-bottom: 1px solid var(--border);
+    padding: 1rem 1.5rem;
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+  }
+
+  .search-bar input {
+    flex: 1;
+    padding: 0.65rem 1rem;
+    border: 1.5px solid var(--border);
+    border-radius: var(--radius);
+    font-size: 1rem;
+    outline: none;
+    transition: border-color 0.15s;
+  }
+
+  .search-bar input:focus { border-color: var(--accent); }
+
+  .search-bar button {
+    padding: 0.65rem 1.25rem;
+    background: var(--accent);
+    color: white;
+    border: none;
+    border-radius: var(--radius);
+    font-size: 0.95rem;
+    cursor: pointer;
+  }
+
+  .export-btn {
+    padding: 0.6rem 1rem;
+    background: white;
+    color: var(--accent);
+    border: 1.5px solid var(--accent);
+    border-radius: var(--radius);
+    font-size: 0.85rem;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+
+  main { padding: 1.25rem 1.5rem; max-width: 900px; margin: 0 auto; }
+
+  .result-count {
+    font-size: 0.85rem;
+    color: var(--muted);
+    margin-bottom: 1rem;
+  }
+
+  .verb-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    margin-bottom: 1.25rem;
+    overflow: hidden;
+  }
+
+  .verb-header {
+    padding: 1rem 1.25rem;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+  }
+
+  .verb-root {
+    font-family: var(--font-tlingit);
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--accent);
+  }
+
+  .verb-gloss {
+    font-size: 0.95rem;
+    color: var(--text);
+    flex: 1;
+  }
+
+  .verb-type {
+    font-size: 0.75rem;
+    color: var(--muted);
+    background: var(--accent-light);
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+  }
+
+  /* Structure section — expanded on desktop, collapsed on mobile */
+  .structure-toggle {
+    display: none;
+    width: 100%;
+    padding: 0.6rem 1.25rem;
+    background: var(--accent-light);
+    border: none;
+    border-bottom: 1px solid var(--border);
+    text-align: left;
+    font-size: 0.85rem;
+    color: var(--accent);
+    cursor: pointer;
+  }
+
+  .structure {
+    padding: 0.9rem 1.25rem;
+    border-bottom: 1px solid var(--border);
+    background: #fafaf8;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 0.5rem;
+  }
+
+  .struct-item { font-size: 0.82rem; }
+  .struct-label { color: var(--muted); font-size: 0.75rem; display: block; }
+  .struct-value { font-family: var(--font-tlingit); }
+
+  .stem-note {
+    grid-column: 1 / -1;
+    font-size: 0.8rem;
+    color: var(--guess);
+    background: var(--guess-bg);
+    padding: 0.4rem 0.6rem;
+    border-radius: 4px;
+  }
+
+  /* Forms section */
+  .forms {
+    padding: 1rem 1.25rem;
+  }
+
+  .forms h3 {
+    font-size: 0.8rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.75rem;
+  }
+
+  .mode-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 0.6rem;
+    margin-bottom: 1rem;
+  }
+
+  .mode-cell {
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    overflow: hidden;
+  }
+
+  .mode-label {
+    font-size: 0.72rem;
+    color: var(--muted);
+    background: #f5f3ee;
+    padding: 0.3rem 0.6rem;
+    border-bottom: 1px solid var(--border);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  .mode-form {
+    padding: 0.4rem 0.6rem;
+    min-height: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .form-value {
+    font-family: var(--font-tlingit);
+    font-size: 0.95rem;
+    flex: 1;
+  }
+
+  .form-value.confirmed { color: var(--confirmed); }
+  .form-value.gap { color: var(--gap); font-style: italic; font-size: 0.8rem; }
+
+  .edit-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 0.8rem;
+    color: var(--muted);
+    padding: 0.1rem 0.3rem;
+    border-radius: 3px;
+  }
+  .edit-btn:hover { background: var(--border); }
+
+  .form-input {
+    font-family: var(--font-tlingit);
+    font-size: 0.9rem;
+    border: 1.5px solid var(--accent);
+    border-radius: 4px;
+    padding: 0.2rem 0.4rem;
+    width: 100%;
+    outline: none;
+  }
+
+  /* Examples */
+  .examples {
+    padding: 0 1.25rem 1rem;
+  }
+
+  .examples h3 {
+    font-size: 0.8rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.6rem;
+  }
+
+  .example {
+    margin-bottom: 0.75rem;
+    padding: 0.6rem 0.75rem;
+    background: var(--accent-light);
+    border-radius: 6px;
+    border-left: 3px solid var(--accent);
+  }
+
+  .example .tlingit {
+    font-family: var(--font-tlingit);
+    font-size: 0.95rem;
+    margin-bottom: 0.2rem;
+  }
+
+  .example .english { font-size: 0.85rem; color: var(--muted); }
+  .example .source { font-size: 0.72rem; color: var(--muted); margin-top: 0.2rem; }
+
+  /* Empty state */
+  .empty { text-align: center; padding: 3rem 1rem; color: var(--muted); }
+  .empty p { margin-bottom: 0.5rem; }
+
+  /* Export notification */
+  .toast {
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    background: var(--accent);
+    color: white;
+    padding: 0.75rem 1.25rem;
+    border-radius: var(--radius);
+    font-size: 0.9rem;
+    opacity: 0;
+    transition: opacity 0.3s;
+    pointer-events: none;
+  }
+  .toast.show { opacity: 1; }
+
+  /* Mobile */
+  @media (max-width: 600px) {
+    header { padding: 1rem; }
+    header h1 { font-size: 1.2rem; }
+    .search-bar { padding: 0.75rem 1rem; flex-wrap: wrap; }
+    .search-bar input { min-width: 0; }
+    main { padding: 1rem; }
+
+    .structure { display: none; }
+    .structure.open { display: grid; }
+    .structure-toggle { display: block; }
+
+    .mode-grid { grid-template-columns: 1fr 1fr; }
+
+    .verb-root { font-size: 1.2rem; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Lingít Verb Builder</h1>
+  <p>Structural analysis · corpus examples · speaker corrections</p>
+</header>
+
+<div class="search-bar">
+  <input type="text" id="searchInput" placeholder="Search in English (go, eat, see…)" autofocus>
+  <button onclick="search()">Search</button>
+  <button class="export-btn" onclick="exportData()">Export corrections</button>
+</div>
+
+<main id="main">
+  <div class="empty">
+    <p>Search for a verb in English.</p>
+    <p style="font-size:0.8rem">e.g. "go", "eat", "see", "give"</p>
+  </div>
+</main>
+
+<div class="toast" id="toast"></div>
+
+<script>
+// ── Data ──────────────────────────────────────────────────────────────────────
+
+let CORPUS = [];
+const STORAGE_KEY = 'lingit_corrections';
+
+const MODES = [
+  { key: 'imperfective',    label: 'Imperfective' },
+  { key: 'perfective',      label: 'Perfective' },
+  { key: 'habitual',        label: 'Habitual' },
+  { key: 'potential',       label: 'Potential' },
+  { key: 'imperative',      label: 'Imperative' },
+  { key: 'prohibitive',     label: 'Prohibitive' },
+];
+
+const CLASSIFIER_DESC = {
+  'ø':  'active',
+  'l':  'active, valency+',
+  's':  'causative',
+  'd':  'middle voice',
+  'sh': 'reflexive',
+};
+
+const CLASS_DESC = {
+  'ø':  'Ø-class',
+  'na': 'na-class',
+  'ga': 'ga-class',
+  'yi': 'yi-class',
+};
+
+const THEMATIC = {
+  'ka': 'surface', 'ya': 'face', 'ji': 'hand', 'tu': 'inside/mind',
+  "x'a": 'mouth', 'ku': 'weather', 'sha': 'head', 'kei': 'upward',
+  'yei': 'downward', 'daak': 'out to sea', 'yan': 'completion',
+};
+
+// ── Storage ───────────────────────────────────────────────────────────────────
+
+function loadCorrections() {
+  try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); }
+  catch(e) { return {}; }
+}
+
+function saveCorrection(root, theme, mode, value) {
+  const data = loadCorrections();
+  if (!data[root]) data[root] = {};
+  if (!data[root][theme]) data[root][theme] = {};
+  data[root][theme][mode] = { value, timestamp: new Date().toISOString(), source: 'speaker' };
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+}
+
+function getCorrection(root, theme, mode) {
+  const data = loadCorrections();
+  return data?.[root]?.[theme]?.[mode] || null;
+}
+
+// ── Search ────────────────────────────────────────────────────────────────────
+
+function search() {
+  const q = document.getElementById('searchInput').value.trim().toLowerCase();
+  if (!q) return;
+
+  const results = CORPUS.filter(v =>
+    v.gloss.toLowerCase().includes(q) ||
+    v.search_terms.some(t => t.includes(q)) ||
+    v.root.toLowerCase().includes(q)
+  );
+
+  const main = document.getElementById('main');
+
+  if (!results.length) {
+    main.innerHTML = `<div class="empty"><p>No verbs found for "${q}".</p><p style="font-size:0.8rem">Try: go, eat, see, give, walk, sit, know</p></div>`;
+    return;
+  }
+
+  main.innerHTML = `<div class="result-count">${results.length} verb theme${results.length !== 1 ? 's' : ''} found</div>` +
+    results.map(renderCard).join('');
+}
+
+// ── Render ────────────────────────────────────────────────────────────────────
+
+function renderCard(verb) {
+  const cardId = `card-${verb.root}-${verb.theme}`.replace(/[^a-zA-Z0-9-]/g, '_');
+  const prefixHtml = verb.prefixes.map(p => {
+    const clean = p.replace(/[~\-]/g, '');
+    const desc = THEMATIC[clean] || (clean === 'O' ? 'object' : clean === 'S' ? 'subject' : clean === 'P' ? 'place' : '');
+    return desc ? `<span title="${desc}">${p}</span>` : `<span>${p}</span>`;
+  }).join(' – ') || '—';
+
+  const structHtml = `
+    <div class="structure" id="struct-${cardId}">
+      <div class="struct-item">
+        <span class="struct-label">Theme</span>
+        <span class="struct-value">${verb.theme}</span>
+      </div>
+      <div class="struct-item">
+        <span class="struct-label">Conjugation class</span>
+        <span class="struct-value">${CLASS_DESC[verb.conjugation_class] || verb.conjugation_class}</span>
+      </div>
+      <div class="struct-item">
+        <span class="struct-label">Classifier</span>
+        <span class="struct-value">${verb.classifier}– (${CLASSIFIER_DESC[verb.classifier] || verb.classifier})</span>
+      </div>
+      <div class="struct-item">
+        <span class="struct-label">Prefixes</span>
+        <span class="struct-value">${prefixHtml}</span>
+      </div>
+      ${verb.has_stem_variation ? '<div class="stem-note">⚠ Stem changes form by mode — must be learned from a speaker</div>' : ''}
+    </div>`;
+
+  const modesHtml = MODES.map(m => {
+    const saved = getCorrection(verb.root, verb.theme, m.key);
+    const cellId = `${cardId}_${m.key}`;
+    if (saved) {
+      return `<div class="mode-cell">
+        <div class="mode-label">${m.label}</div>
+        <div class="mode-form" id="form-${cellId}">
+          <span class="form-value confirmed">${saved.value}</span>
+          <button class="edit-btn" onclick="editForm('${cellId}','${verb.root}','${escQ(verb.theme)}','${m.key}')">edit</button>
+        </div>
+      </div>`;
+    } else {
+      return `<div class="mode-cell">
+        <div class="mode-label">${m.label}</div>
+        <div class="mode-form" id="form-${cellId}">
+          <span class="form-value gap">not recorded</span>
+          <button class="edit-btn" onclick="editForm('${cellId}','${verb.root}','${escQ(verb.theme)}','${m.key}')">add</button>
+        </div>
+      </div>`;
+    }
+  }).join('');
+
+  const examplesHtml = verb.examples.length ? `
+    <div class="examples">
+      <h3>From oral literature</h3>
+      ${verb.examples.map(e => `
+        <div class="example">
+          <div class="tlingit">${e.tlingit}</div>
+          ${e.english ? `<div class="english">${e.english}</div>` : ''}
+          <div class="source">${e.source}</div>
+        </div>`).join('')}
+    </div>` : '';
+
+  return `
+    <div class="verb-card">
+      <div class="verb-header">
+        <span class="verb-root">.${verb.root}</span>
+        <span class="verb-gloss">${verb.gloss}</span>
+        ${verb.verb_type ? `<span class="verb-type">${verb.verb_type}</span>` : ''}
+      </div>
+      <button class="structure-toggle" onclick="toggleStruct('struct-${cardId}', this)">
+        ▸ Show structure
+      </button>
+      ${structHtml}
+      <div class="forms">
+        <h3>Verb forms — tap to add or correct</h3>
+        <div class="mode-grid">${modesHtml}</div>
+      </div>
+      ${examplesHtml}
+    </div>`;
+}
+
+function toggleStruct(id, btn) {
+  const el = document.getElementById(id);
+  el.classList.toggle('open');
+  btn.textContent = el.classList.contains('open') ? '▾ Hide structure' : '▸ Show structure';
+}
+
+function escQ(s) { return s.replace(/'/g, "\\'").replace(/"/g, '&quot;'); }
+
+// ── Edit form ─────────────────────────────────────────────────────────────────
+
+function editForm(cellId, root, theme, mode) {
+  const container = document.getElementById(`form-${cellId}`);
+  const saved = getCorrection(root, theme, mode);
+  container.innerHTML = `
+    <input class="form-input" id="input-${cellId}"
+           placeholder="Type Tlingit form…"
+           value="${saved ? saved.value : ''}"
+           onkeydown="handleKey(event,'${cellId}','${root}','${escQ(theme)}','${mode}')">`;
+  document.getElementById(`input-${cellId}`).focus();
+}
+
+function handleKey(e, cellId, root, theme, mode) {
+  if (e.key === 'Enter') confirmForm(cellId, root, theme, mode);
+  if (e.key === 'Escape') cancelEdit(cellId, root, theme, mode);
+}
+
+function confirmForm(cellId, root, theme, mode) {
+  const input = document.getElementById(`input-${cellId}`);
+  const value = input.value.trim();
+  if (!value) { cancelEdit(cellId, root, theme, mode); return; }
+  saveCorrection(root, theme, mode, value);
+  const container = document.getElementById(`form-${cellId}`);
+  container.innerHTML = `
+    <span class="form-value confirmed">${value}</span>
+    <button class="edit-btn" onclick="editForm('${cellId}','${root}','${escQ(theme)}','${mode}')">edit</button>`;
+  showToast('Saved to local storage');
+}
+
+function cancelEdit(cellId, root, theme, mode) {
+  const saved = getCorrection(root, theme, mode);
+  const container = document.getElementById(`form-${cellId}`);
+  if (saved) {
+    container.innerHTML = `
+      <span class="form-value confirmed">${saved.value}</span>
+      <button class="edit-btn" onclick="editForm('${cellId}','${root}','${escQ(theme)}','${mode}')">edit</button>`;
+  } else {
+    container.innerHTML = `
+      <span class="form-value gap">not recorded</span>
+      <button class="edit-btn" onclick="editForm('${cellId}','${root}','${escQ(theme)}','${mode}')">add</button>`;
+  }
+}
+
+// ── Export ────────────────────────────────────────────────────────────────────
+
+function exportData() {
+  const data = loadCorrections();
+  const count = Object.values(data).flatMap(r => Object.values(r)).flatMap(t => Object.values(t)).length;
+  if (!count) { showToast('No corrections yet'); return; }
+
+  const blob = new Blob([JSON.stringify({
+    exported: new Date().toISOString(),
+    source: 'Lingít Verb Builder (static demo)',
+    corrections: data,
+  }, null, 2)], { type: 'application/json' });
+
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `lingit_corrections_${new Date().toISOString().slice(0,10)}.json`;
+  a.click();
+  showToast(`Exported ${count} correction${count !== 1 ? 's' : ''}`);
+}
+
+// ── Toast ─────────────────────────────────────────────────────────────────────
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2500);
+}
+
+// ── Init ──────────────────────────────────────────────────────────────────────
+
+document.getElementById('searchInput').addEventListener('keydown', e => {
+  if (e.key === 'Enter') search();
+});
+
+fetch('corpus_demo.json')
+  .then(r => r.json())
+  .then(data => { CORPUS = data; })
+  .catch(() => {
+    document.getElementById('main').innerHTML =
+      '<div class="empty"><p>Could not load corpus data.</p></div>';
+  });
+</script>
+</body>
+</html>
