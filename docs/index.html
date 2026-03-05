@@ -82,7 +82,7 @@
     cursor: pointer;
   }
 
-  .export-btn {
+  .export-btn, .import-btn {
     padding: 0.6rem 1rem;
     background: white;
     color: var(--accent);
@@ -92,6 +92,16 @@
     cursor: pointer;
     white-space: nowrap;
   }
+
+  .mode-badge {
+    font-size: 0.72rem;
+    padding: 0.15rem 0.5rem;
+    border-radius: 10px;
+    margin-left: 0.5rem;
+    vertical-align: middle;
+  }
+  .mode-badge.live { background: #d4edda; color: #155724; }
+  .mode-badge.static { background: #fff3cd; color: #856404; }
 
   main { padding: 1.25rem 1.5rem; max-width: 900px; margin: 0 auto; }
 
@@ -342,13 +352,17 @@
 
 <header>
   <h1>Lingít Verb Builder</h1>
-  <p>Structural analysis · corpus examples · speaker corrections</p>
+  <p>Structural analysis · corpus examples · speaker corrections
+    <span id="modeBadge" class="mode-badge"></span>
+  </p>
 </header>
 
 <div class="search-bar">
   <input type="text" id="searchInput" placeholder="Search in English (go, eat, see…)" autofocus>
   <button onclick="search()">Search</button>
   <button class="export-btn" onclick="exportData()">Export corrections</button>
+  <button class="import-btn" id="importBtn" onclick="importData()" style="display:none">Import corrections</button>
+  <input type="file" id="importFile" accept=".json" style="display:none" onchange="handleImportFile(event)">
 </div>
 
 <main id="main">
@@ -361,77 +375,108 @@
 <div class="toast" id="toast"></div>
 
 <script>
-// ── Data ──────────────────────────────────────────────────────────────────────
+// ── Constants ─────────────────────────────────────────────────────────────────
 
-let CORPUS = [];
 const STORAGE_KEY = 'lingit_corrections';
 
 const MODES = [
-  { key: 'imperfective',    label: 'Imperfective' },
-  { key: 'perfective',      label: 'Perfective' },
-  { key: 'habitual',        label: 'Habitual' },
-  { key: 'potential',       label: 'Potential' },
-  { key: 'imperative',      label: 'Imperative' },
-  { key: 'prohibitive',     label: 'Prohibitive' },
+  { key: 'imperfective', label: 'Imperfective' },
+  { key: 'perfective',   label: 'Perfective' },
+  { key: 'habitual',     label: 'Habitual' },
+  { key: 'potential',    label: 'Potential' },
+  { key: 'imperative',   label: 'Imperative' },
+  { key: 'prohibitive',  label: 'Prohibitive' },
 ];
 
-const CLASSIFIER_DESC = {
-  'ø':  'active',
-  'l':  'active, valency+',
-  's':  'causative',
-  'd':  'middle voice',
-  'sh': 'reflexive',
-};
+const CLASSIFIER_DESC = { 'ø': 'active', 'l': 'active, valency+', 's': 'causative', 'd': 'middle voice', 'sh': 'reflexive' };
+const CLASS_DESC = { 'ø': 'Ø-class', 'na': 'na-class', 'ga': 'ga-class', 'yi': 'yi-class' };
+const THEMATIC = { 'ka': 'surface', 'ya': 'face', 'ji': 'hand', 'tu': 'inside/mind', "x'a": 'mouth', 'ku': 'weather', 'sha': 'head', 'kei': 'upward', 'yei': 'downward', 'daak': 'out to sea', 'yan': 'completion' };
 
-const CLASS_DESC = {
-  'ø':  'Ø-class',
-  'na': 'na-class',
-  'ga': 'ga-class',
-  'yi': 'yi-class',
-};
+// ── Mode detection ────────────────────────────────────────────────────────────
+// SERVER_MODE = true when running under app.py (full DB + server-side corrections)
+// SERVER_MODE = false = static GitHub Pages (corpus_demo.json + localStorage)
 
-const THEMATIC = {
-  'ka': 'surface', 'ya': 'face', 'ji': 'hand', 'tu': 'inside/mind',
-  "x'a": 'mouth', 'ku': 'weather', 'sha': 'head', 'kei': 'upward',
-  'yei': 'downward', 'daak': 'out to sea', 'yan': 'completion',
-};
+let SERVER_MODE = false;
+let CORPUS = [];  // used in static mode only
 
-// ── Storage ───────────────────────────────────────────────────────────────────
+async function detectMode() {
+  try {
+    const r = await fetch('/api/status', { signal: AbortSignal.timeout(800) });
+    if (r.ok) {
+      const data = await r.json();
+      SERVER_MODE = true;
+      const badge = document.getElementById('modeBadge');
+      badge.textContent = `live · ${data.themes} themes`;
+      badge.className = 'mode-badge live';
+      document.getElementById('importBtn').style.display = '';
+      return;
+    }
+  } catch(e) { /* static mode */ }
 
-function loadCorrections() {
+  // Static mode: load corpus_demo.json
+  const badge = document.getElementById('modeBadge');
+  badge.textContent = 'static demo';
+  badge.className = 'mode-badge static';
+  document.getElementById('importBtn').style.display = '';  // still allow import to localStorage
+
+  try {
+    const r = await fetch('corpus_demo.json');
+    CORPUS = await r.json();
+  } catch(e) {
+    document.getElementById('main').innerHTML = '<div class="empty"><p>Could not load corpus data.</p></div>';
+  }
+}
+
+// ── localStorage (static mode) ────────────────────────────────────────────────
+
+function loadLocalCorrections() {
   try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); }
   catch(e) { return {}; }
 }
 
-function saveCorrection(root, theme, mode, value) {
-  const data = loadCorrections();
+function saveLocalCorrection(root, theme, mode, value) {
+  const data = loadLocalCorrections();
   if (!data[root]) data[root] = {};
   if (!data[root][theme]) data[root][theme] = {};
   data[root][theme][mode] = { value, timestamp: new Date().toISOString(), source: 'speaker' };
   localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
 }
 
-function getCorrection(root, theme, mode) {
-  const data = loadCorrections();
+function getLocalCorrection(root, theme, mode) {
+  const data = loadLocalCorrections();
   return data?.[root]?.[theme]?.[mode] || null;
 }
 
 // ── Search ────────────────────────────────────────────────────────────────────
 
-function search() {
-  const q = document.getElementById('searchInput').value.trim().toLowerCase();
+async function search() {
+  const q = document.getElementById('searchInput').value.trim();
   if (!q) return;
 
-  const results = CORPUS.filter(v =>
-    v.gloss.toLowerCase().includes(q) ||
-    v.search_terms.some(t => t.includes(q)) ||
-    v.root.toLowerCase().includes(q)
-  );
-
   const main = document.getElementById('main');
+  main.innerHTML = '<div class="empty"><p>Searching…</p></div>';
+
+  let results;
+  if (SERVER_MODE) {
+    try {
+      const r = await fetch(`/api/search?q=${encodeURIComponent(q)}`);
+      const data = await r.json();
+      results = data.results || [];
+    } catch(e) {
+      main.innerHTML = `<div class="empty"><p>Search failed: ${e.message}</p></div>`;
+      return;
+    }
+  } else {
+    const qLow = q.toLowerCase();
+    results = CORPUS.filter(v =>
+      v.gloss.toLowerCase().includes(qLow) ||
+      (v.search_terms || []).some(t => t.includes(qLow)) ||
+      v.root.toLowerCase().includes(qLow)
+    );
+  }
 
   if (!results.length) {
-    main.innerHTML = `<div class="empty"><p>No verbs found for "${q}".</p><p style="font-size:0.8rem">Try: go, eat, see, give, walk, sit, know</p></div>`;
+    main.innerHTML = `<div class="empty"><p>No verbs found for "${escHtml(q)}".</p><p style="font-size:0.8rem">Try: go, eat, see, give, walk, sit, know</p></div>`;
     return;
   }
 
@@ -439,104 +484,125 @@ function search() {
     results.map(renderCard).join('');
 }
 
+// ── Corrections: unified get/save ─────────────────────────────────────────────
+
+function getCorrectionValue(verb, mode) {
+  // Server mode: corrections embedded in verb.corrections (by mode → subject → {form})
+  if (SERVER_MODE) {
+    return verb.corrections?.[mode]?.['3']?.form || null;
+  }
+  // Static mode: localStorage
+  const c = getLocalCorrection(verb.root, verb.theme, mode);
+  return c ? c.value : null;
+}
+
+async function saveCorrection(root, theme, mode, value) {
+  if (SERVER_MODE) {
+    const r = await fetch(`/api/correction/${encodeURIComponent(root)}`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ mode, subject: '3', form: value }),
+    });
+    if (!r.ok) throw new Error('Server save failed');
+  } else {
+    saveLocalCorrection(root, theme, mode, value);
+  }
+}
+
 // ── Render ────────────────────────────────────────────────────────────────────
 
 function renderCard(verb) {
-  const cardId = `card-${verb.root}-${verb.theme}`.replace(/[^a-zA-Z0-9-]/g, '_');
-  const prefixHtml = verb.prefixes.map(p => {
+  const cardId = `card-${verb.root}`.replace(/[^a-zA-Z0-9-]/g, '_');
+  const prefixHtml = (verb.prefixes || []).map(p => {
     const clean = p.replace(/[~\-]/g, '');
     const desc = THEMATIC[clean] || (clean === 'O' ? 'object' : clean === 'S' ? 'subject' : clean === 'P' ? 'place' : '');
-    return desc ? `<span title="${desc}">${p}</span>` : `<span>${p}</span>`;
+    return desc ? `<span title="${desc}">${escHtml(p)}</span>` : `<span>${escHtml(p)}</span>`;
   }).join(' – ') || '—';
 
   const structHtml = `
     <div class="structure" id="struct-${cardId}">
       <div class="struct-item">
         <span class="struct-label">Theme</span>
-        <span class="struct-value">${verb.theme}</span>
+        <span class="struct-value">${escHtml(verb.theme)}</span>
       </div>
       <div class="struct-item">
         <span class="struct-label">Conjugation class</span>
-        <span class="struct-value">${CLASS_DESC[verb.conjugation_class] || verb.conjugation_class}</span>
+        <span class="struct-value">${CLASS_DESC[verb.conjugation_class] || escHtml(verb.conjugation_class)}</span>
       </div>
       <div class="struct-item">
         <span class="struct-label">Classifier</span>
-        <span class="struct-value">${verb.classifier}– (${CLASSIFIER_DESC[verb.classifier] || verb.classifier})</span>
+        <span class="struct-value">${escHtml(verb.classifier)}– (${CLASSIFIER_DESC[verb.classifier] || escHtml(verb.classifier)})</span>
       </div>
       <div class="struct-item">
         <span class="struct-label">Prefixes</span>
         <span class="struct-value">${prefixHtml}</span>
       </div>
-      ${verb.has_stem_variation ? '<div class="stem-note">⚠ Stem changes form by mode — must be learned from a speaker</div>' : ''}
+      ${verb.has_stem_variation ? '<div class="stem-note">Stem changes form by mode — must be learned from a speaker</div>' : ''}
     </div>`;
 
   const modesHtml = MODES.map(m => {
-    const saved = getCorrection(verb.root, verb.theme, m.key);
+    const corrValue = getCorrectionValue(verb, m.key);
     const cellId = `${cardId}_${m.key}`;
+    const rootQ = escAttr(verb.root);
+    const themeQ = escAttr(verb.theme);
+    const modeQ = m.key;
 
-    // Speaker correction takes precedence
-    if (saved) {
+    if (corrValue) {
       return `<div class="mode-cell">
         <div class="mode-label">${m.label}</div>
         <div class="mode-form" id="form-${cellId}">
-          <span class="form-value confirmed">${saved.value}</span>
-          <button class="edit-btn" onclick="editForm('${cellId}','${verb.root}','${escQ(verb.theme)}','${m.key}')">edit</button>
-        </div>
-      </div>`;
+          <span class="form-value confirmed">${escHtml(corrValue)}</span>
+          <button class="edit-btn" onclick="editForm('${cellId}','${rootQ}','${themeQ}','${modeQ}')">edit</button>
+        </div></div>`;
     }
 
-    // Attested form from The Conjugator
     const attested3 = verb.attested?.[m.key]?.['3'];
     if (attested3) {
       return `<div class="mode-cell">
         <div class="mode-label">${m.label}</div>
         <div class="mode-form" id="form-${cellId}">
-          <span class="form-value attested" title="${attested3.english} (${attested3.source})">${attested3.tlingit}</span>
-          <span class="attested-badge" title="From ${attested3.source}">cited</span>
-          <button class="edit-btn" onclick="editForm('${cellId}','${verb.root}','${escQ(verb.theme)}','${m.key}')">edit</button>
-        </div>
-      </div>`;
+          <span class="form-value attested" title="${escAttr(attested3.english)} (${escAttr(attested3.source)})">${escHtml(attested3.tlingit)}</span>
+          <span class="attested-badge" title="From ${escAttr(attested3.source)}">cited</span>
+          <button class="edit-btn" onclick="editForm('${cellId}','${rootQ}','${themeQ}','${modeQ}')">edit</button>
+        </div></div>`;
     }
 
-    // AI guess from prefix rules (stem unknown)
     const guess = verb.guesses?.[m.key]?.['3'];
     if (guess) {
       return `<div class="mode-cell">
         <div class="mode-label">${m.label}</div>
         <div class="mode-form" id="form-${cellId}">
-          <span class="form-value guess" title="Prefix structure only — stem unknown">${guess}</span>
+          <span class="form-value guess" title="Prefix structure only — stem unknown">${escHtml(guess)}</span>
           <span class="guess-badge">guess</span>
-          <button class="edit-btn" onclick="editForm('${cellId}','${verb.root}','${escQ(verb.theme)}','${m.key}')">correct</button>
-        </div>
-      </div>`;
+          <button class="edit-btn" onclick="editForm('${cellId}','${rootQ}','${themeQ}','${modeQ}')">correct</button>
+        </div></div>`;
     }
 
     return `<div class="mode-cell">
       <div class="mode-label">${m.label}</div>
       <div class="mode-form" id="form-${cellId}">
         <span class="form-value gap">not recorded</span>
-        <button class="edit-btn" onclick="editForm('${cellId}','${verb.root}','${escQ(verb.theme)}','${m.key}')">add</button>
-      </div>
-    </div>`;
+        <button class="edit-btn" onclick="editForm('${cellId}','${rootQ}','${themeQ}','${modeQ}')">add</button>
+      </div></div>`;
   }).join('');
 
-  const examplesHtml = verb.examples.length ? `
+  const examplesHtml = (verb.examples || []).length ? `
     <div class="examples">
       <h3>From oral literature</h3>
       ${verb.examples.map(e => `
         <div class="example">
-          <div class="tlingit">${e.tlingit}</div>
-          ${e.english ? `<div class="english">${e.english}</div>` : ''}
-          <div class="source">${e.source}</div>
+          <div class="tlingit">${escHtml(e.tlingit)}</div>
+          ${e.english ? `<div class="english">${escHtml(e.english)}</div>` : ''}
+          <div class="source">${escHtml(e.source)}</div>
         </div>`).join('')}
     </div>` : '';
 
   return `
     <div class="verb-card">
       <div class="verb-header">
-        <span class="verb-root">.${verb.root}</span>
-        <span class="verb-gloss">${verb.gloss}</span>
-        ${verb.verb_type ? `<span class="verb-type">${verb.verb_type}</span>` : ''}
+        <span class="verb-root">.${escHtml(verb.root)}</span>
+        <span class="verb-gloss">${escHtml(verb.gloss)}</span>
+        ${verb.verb_type ? `<span class="verb-type">${escHtml(verb.verb_type)}</span>` : ''}
       </div>
       <button class="structure-toggle" onclick="toggleStruct('struct-${cardId}', this)">
         ▸ Show structure
@@ -556,70 +622,116 @@ function toggleStruct(id, btn) {
   btn.textContent = el.classList.contains('open') ? '▾ Hide structure' : '▸ Show structure';
 }
 
-function escQ(s) { return s.replace(/'/g, "\\'").replace(/"/g, '&quot;'); }
+function escHtml(s) {
+  return String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function escAttr(s) { return escHtml(s); }
 
 // ── Edit form ─────────────────────────────────────────────────────────────────
 
 function editForm(cellId, root, theme, mode) {
   const container = document.getElementById(`form-${cellId}`);
-  const saved = getCorrection(root, theme, mode);
+  // Find current displayed value
+  const displayed = container.querySelector('.form-value.confirmed');
+  const current = displayed ? displayed.textContent : '';
   container.innerHTML = `
     <input class="form-input" id="input-${cellId}"
            placeholder="Type Tlingit form…"
-           value="${saved ? saved.value : ''}"
-           onkeydown="handleKey(event,'${cellId}','${root}','${escQ(theme)}','${mode}')">`;
+           value="${escAttr(current)}"
+           onkeydown="handleKey(event,'${cellId}','${escAttr(root)}','${escAttr(theme)}','${mode}')">`;
   document.getElementById(`input-${cellId}`).focus();
 }
 
 function handleKey(e, cellId, root, theme, mode) {
   if (e.key === 'Enter') confirmForm(cellId, root, theme, mode);
-  if (e.key === 'Escape') cancelEdit(cellId, root, theme, mode);
+  if (e.key === 'Escape') location.reload(); // simplest cancel
 }
 
-function confirmForm(cellId, root, theme, mode) {
+async function confirmForm(cellId, root, theme, mode) {
   const input = document.getElementById(`input-${cellId}`);
   const value = input.value.trim();
-  if (!value) { cancelEdit(cellId, root, theme, mode); return; }
-  saveCorrection(root, theme, mode, value);
+  if (!value) { location.reload(); return; }
+
+  try {
+    await saveCorrection(root, theme, mode, value);
+  } catch(e) {
+    showToast('Save failed — check server connection');
+    return;
+  }
+
   const container = document.getElementById(`form-${cellId}`);
   container.innerHTML = `
-    <span class="form-value confirmed">${value}</span>
-    <button class="edit-btn" onclick="editForm('${cellId}','${root}','${escQ(theme)}','${mode}')">edit</button>`;
-  showToast('Saved to local storage');
-}
-
-function cancelEdit(cellId, root, theme, mode) {
-  const saved = getCorrection(root, theme, mode);
-  const container = document.getElementById(`form-${cellId}`);
-  if (saved) {
-    container.innerHTML = `
-      <span class="form-value confirmed">${saved.value}</span>
-      <button class="edit-btn" onclick="editForm('${cellId}','${root}','${escQ(theme)}','${mode}')">edit</button>`;
-  } else {
-    container.innerHTML = `
-      <span class="form-value gap">not recorded</span>
-      <button class="edit-btn" onclick="editForm('${cellId}','${root}','${escQ(theme)}','${mode}')">add</button>`;
-  }
+    <span class="form-value confirmed">${escHtml(value)}</span>
+    <button class="edit-btn" onclick="editForm('${cellId}','${escAttr(root)}','${escAttr(theme)}','${mode}')">edit</button>`;
+  showToast(SERVER_MODE ? 'Saved to server' : 'Saved locally');
 }
 
 // ── Export ────────────────────────────────────────────────────────────────────
 
-function exportData() {
-  const data = loadCorrections();
+async function exportData() {
+  if (SERVER_MODE) {
+    window.location = '/api/corrections/export';
+    return;
+  }
+  const data = loadLocalCorrections();
   const count = Object.values(data).flatMap(r => Object.values(r)).flatMap(t => Object.values(t)).length;
   if (!count) { showToast('No corrections yet'); return; }
-
-  const blob = new Blob([JSON.stringify({
-    exported: new Date().toISOString(),
-    source: 'Lingít Verb Builder (static demo)',
-    corrections: data,
-  }, null, 2)], { type: 'application/json' });
-
+  const blob = new Blob([JSON.stringify({ exported: new Date().toISOString(), source: 'Lingít Verb Builder (static)', corrections: data }, null, 2)], { type: 'application/json' });
   const a = document.createElement('a');
   a.href = URL.createObjectURL(blob);
   a.download = `lingit_corrections_${new Date().toISOString().slice(0,10)}.json`;
   a.click();
   showToast(`Exported ${count} correction${count !== 1 ? 's' : ''}`);
+}
+
+// ── Import ────────────────────────────────────────────────────────────────────
+
+function importData() {
+  document.getElementById('importFile').click();
+}
+
+async function handleImportFile(event) {
+  const file = event.target.files[0];
+  if (!file) return;
+  let json;
+  try {
+    json = JSON.parse(await file.text());
+  } catch(e) {
+    showToast('Invalid JSON file'); return;
+  }
+  // Unwrap if exported from static demo (has .corrections wrapper)
+  const payload = json.corrections ?? json;
+
+  if (SERVER_MODE) {
+    try {
+      const r = await fetch('/api/corrections/import', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      });
+      const data = await r.json();
+      showToast(`Imported ${data.added} correction${data.added !== 1 ? 's' : ''} to server`);
+    } catch(e) {
+      showToast('Import failed');
+    }
+  } else {
+    // Merge into localStorage
+    const existing = loadLocalCorrections();
+    let added = 0;
+    for (const [root, themes] of Object.entries(payload)) {
+      if (!existing[root]) existing[root] = {};
+      for (const [theme, modes] of Object.entries(themes)) {
+        if (!existing[root][theme]) existing[root][theme] = {};
+        for (const [mode, entry] of Object.entries(modes)) {
+          existing[root][theme][mode] = entry;
+          added++;
+        }
+      }
+    }
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(existing));
+    showToast(`Imported ${added} correction${added !== 1 ? 's' : ''}`);
+  }
+  event.target.value = '';
 }
 
 // ── Toast ─────────────────────────────────────────────────────────────────────
@@ -637,13 +749,7 @@ document.getElementById('searchInput').addEventListener('keydown', e => {
   if (e.key === 'Enter') search();
 });
 
-fetch('corpus_demo.json')
-  .then(r => r.json())
-  .then(data => { CORPUS = data; })
-  .catch(() => {
-    document.getElementById('main').innerHTML =
-      '<div class="empty"><p>Could not load corpus data.</p></div>';
-  });
+detectMode();
 </script>
 </body>
 </html>
