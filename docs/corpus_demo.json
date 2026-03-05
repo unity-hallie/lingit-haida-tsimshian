@@ -26,7 +26,58 @@
         "english": "They would even go home from their kill.",
         "source": "Basket Bay"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√aat[?]",
+        "2sg": "i-√aat[?]",
+        "3": "√aat[?]",
+        "1pl": "tu-√aat[?]",
+        "2pl": "yi-√aat[?]",
+        "4h": "du-√aat[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√aat[?]",
+        "2sg": "wu-i-√aat[?]",
+        "3": "wu-√aat[?]",
+        "1pl": "wu-tu-√aat[?]",
+        "2pl": "wu-yi-√aat[?]",
+        "4h": "wu-du-√aat[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√aat[?]",
+        "2sg": "i-√aat[?]",
+        "3": "√aat[?]",
+        "1pl": "tu-√aat[?]",
+        "2pl": "yi-√aat[?]",
+        "4h": "du-√aat[?]"
+      },
+      "potential": {
+        "1sg": "g̲-/k-x̱a-√aat[?]",
+        "2sg": "g̲-/k-i-√aat[?]",
+        "3": "g̲-/k-√aat[?]",
+        "1pl": "g̲-/k-tu-√aat[?]",
+        "2pl": "g̲-/k-yi-√aat[?]",
+        "4h": "g̲-/k-du-√aat[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√aat[?]",
+        "2sg": "i-√aat[?]",
+        "3": "√aat[?]",
+        "1pl": "tu-√aat[?]",
+        "2pl": "yi-√aat[?]",
+        "4h": "du-√aat[?]"
+      },
+      "prohibitive": {
+        "1sg": "u-x̱a-√aat[?]",
+        "2sg": "u-i-√aat[?]",
+        "3": "u-√aat[?]",
+        "1pl": "u-tu-√aat[?]",
+        "2pl": "u-yi-√aat[?]",
+        "4h": "u-du-√aat[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "aat",
@@ -55,7 +106,58 @@
         "english": "They would even go home from their kill.",
         "source": "Basket Bay"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√aat[?]",
+        "2sg": "i-√aat[?]",
+        "3": "√aat[?]",
+        "1pl": "tu-√aat[?]",
+        "2pl": "yi-√aat[?]",
+        "4h": "du-√aat[?]"
+      },
+      "perfective": {
+        "1sg": "x̱a-√aat[?]",
+        "2sg": "i-√aat[?]",
+        "3": "√aat[?]",
+        "1pl": "tu-√aat[?]",
+        "2pl": "yi-√aat[?]",
+        "4h": "du-√aat[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√aat[?]",
+        "2sg": "i-√aat[?]",
+        "3": "√aat[?]",
+        "1pl": "tu-√aat[?]",
+        "2pl": "yi-√aat[?]",
+        "4h": "du-√aat[?]"
+      },
+      "potential": {
+        "1sg": "x̱a-√aat[?]",
+        "2sg": "i-√aat[?]",
+        "3": "√aat[?]",
+        "1pl": "tu-√aat[?]",
+        "2pl": "yi-√aat[?]",
+        "4h": "du-√aat[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√aat[?]",
+        "2sg": "i-√aat[?]",
+        "3": "√aat[?]",
+        "1pl": "tu-√aat[?]",
+        "2pl": "yi-√aat[?]",
+        "4h": "du-√aat[?]"
+      },
+      "prohibitive": {
+        "1sg": "x̱a-√aat[?]",
+        "2sg": "i-√aat[?]",
+        "3": "√aat[?]",
+        "1pl": "tu-√aat[?]",
+        "2pl": "yi-√aat[?]",
+        "4h": "du-√aat[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "aat",
@@ -83,7 +185,58 @@
         "english": "They would even go home from their kill.",
         "source": "Basket Bay"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "na-x̱a-√aat[?]",
+        "2sg": "na-i-√aat[?]",
+        "3": "na-√aat[?]",
+        "1pl": "na-tu-√aat[?]",
+        "2pl": "na-yi-√aat[?]",
+        "4h": "na-du-√aat[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√aat[?]",
+        "2sg": "wu-i-√aat[?]",
+        "3": "wu-√aat[?]",
+        "1pl": "wu-tu-√aat[?]",
+        "2pl": "wu-yi-√aat[?]",
+        "4h": "wu-du-√aat[?]"
+      },
+      "habitual": {
+        "1sg": "na-x̱a-√aat[?]",
+        "2sg": "na-i-√aat[?]",
+        "3": "na-√aat[?]",
+        "1pl": "na-tu-√aat[?]",
+        "2pl": "na-yi-√aat[?]",
+        "4h": "na-du-√aat[?]"
+      },
+      "potential": {
+        "1sg": "na-g̲-x̱a-√aat[?]",
+        "2sg": "na-g̲-i-√aat[?]",
+        "3": "na-g̲-√aat[?]",
+        "1pl": "na-g̲-tu-√aat[?]",
+        "2pl": "na-g̲-yi-√aat[?]",
+        "4h": "na-g̲-du-√aat[?]"
+      },
+      "imperative": {
+        "1sg": "na-x̱a-√aat[?]",
+        "2sg": "na-i-√aat[?]",
+        "3": "na-√aat[?]",
+        "1pl": "na-tu-√aat[?]",
+        "2pl": "na-yi-√aat[?]",
+        "4h": "na-du-√aat[?]"
+      },
+      "prohibitive": {
+        "1sg": "na-u-x̱a-√aat[?]",
+        "2sg": "na-u-i-√aat[?]",
+        "3": "na-u-√aat[?]",
+        "1pl": "na-u-tu-√aat[?]",
+        "2pl": "na-u-yi-√aat[?]",
+        "4h": "na-u-du-√aat[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "teeʰ",
@@ -104,7 +257,58 @@
     "search_terms": [
       "eat"
     ],
-    "examples": []
+    "examples": [],
+    "guesses": {
+      "imperfective": {
+        "1sg": "na-x̱a-√teeʰ[?]",
+        "2sg": "na-i-√teeʰ[?]",
+        "3": "na-√teeʰ[?]",
+        "1pl": "na-tu-√teeʰ[?]",
+        "2pl": "na-yi-√teeʰ[?]",
+        "4h": "na-du-√teeʰ[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√teeʰ[?]",
+        "2sg": "wu-i-√teeʰ[?]",
+        "3": "wu-√teeʰ[?]",
+        "1pl": "wu-tu-√teeʰ[?]",
+        "2pl": "wu-yi-√teeʰ[?]",
+        "4h": "wu-du-√teeʰ[?]"
+      },
+      "habitual": {
+        "1sg": "na-x̱a-√teeʰ[?]",
+        "2sg": "na-i-√teeʰ[?]",
+        "3": "na-√teeʰ[?]",
+        "1pl": "na-tu-√teeʰ[?]",
+        "2pl": "na-yi-√teeʰ[?]",
+        "4h": "na-du-√teeʰ[?]"
+      },
+      "potential": {
+        "1sg": "na-g̲-x̱a-√teeʰ[?]",
+        "2sg": "na-g̲-i-√teeʰ[?]",
+        "3": "na-g̲-√teeʰ[?]",
+        "1pl": "na-g̲-tu-√teeʰ[?]",
+        "2pl": "na-g̲-yi-√teeʰ[?]",
+        "4h": "na-g̲-du-√teeʰ[?]"
+      },
+      "imperative": {
+        "1sg": "na-x̱a-√teeʰ[?]",
+        "2sg": "na-i-√teeʰ[?]",
+        "3": "na-√teeʰ[?]",
+        "1pl": "na-tu-√teeʰ[?]",
+        "2pl": "na-yi-√teeʰ[?]",
+        "4h": "na-du-√teeʰ[?]"
+      },
+      "prohibitive": {
+        "1sg": "na-u-x̱a-√teeʰ[?]",
+        "2sg": "na-u-i-√teeʰ[?]",
+        "3": "na-u-√teeʰ[?]",
+        "1pl": "na-u-tu-√teeʰ[?]",
+        "2pl": "na-u-yi-√teeʰ[?]",
+        "4h": "na-u-du-√teeʰ[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "x̲aa",
@@ -123,7 +327,58 @@
     "search_terms": [
       "eat"
     ],
-    "examples": []
+    "examples": [],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√x̲aa[?]",
+        "2sg": "i-√x̲aa[?]",
+        "3": "√x̲aa[?]",
+        "1pl": "tu-√x̲aa[?]",
+        "2pl": "yi-√x̲aa[?]",
+        "4h": "du-√x̲aa[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√x̲aa[?]",
+        "2sg": "wu-i-√x̲aa[?]",
+        "3": "wu-√x̲aa[?]",
+        "1pl": "wu-tu-√x̲aa[?]",
+        "2pl": "wu-yi-√x̲aa[?]",
+        "4h": "wu-du-√x̲aa[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√x̲aa[?]",
+        "2sg": "i-√x̲aa[?]",
+        "3": "√x̲aa[?]",
+        "1pl": "tu-√x̲aa[?]",
+        "2pl": "yi-√x̲aa[?]",
+        "4h": "du-√x̲aa[?]"
+      },
+      "potential": {
+        "1sg": "g̲-/k-x̱a-√x̲aa[?]",
+        "2sg": "g̲-/k-i-√x̲aa[?]",
+        "3": "g̲-/k-√x̲aa[?]",
+        "1pl": "g̲-/k-tu-√x̲aa[?]",
+        "2pl": "g̲-/k-yi-√x̲aa[?]",
+        "4h": "g̲-/k-du-√x̲aa[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√x̲aa[?]",
+        "2sg": "i-√x̲aa[?]",
+        "3": "√x̲aa[?]",
+        "1pl": "tu-√x̲aa[?]",
+        "2pl": "yi-√x̲aa[?]",
+        "4h": "du-√x̲aa[?]"
+      },
+      "prohibitive": {
+        "1sg": "u-x̱a-√x̲aa[?]",
+        "2sg": "u-i-√x̲aa[?]",
+        "3": "u-√x̲aa[?]",
+        "1pl": "u-tu-√x̲aa[?]",
+        "2pl": "u-yi-√x̲aa[?]",
+        "4h": "u-du-√x̲aa[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "x̲aa",
@@ -142,7 +397,58 @@
     "search_terms": [
       "eat"
     ],
-    "examples": []
+    "examples": [],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√x̲aa[?]",
+        "2sg": "i-√x̲aa[?]",
+        "3": "√x̲aa[?]",
+        "1pl": "tu-√x̲aa[?]",
+        "2pl": "yi-√x̲aa[?]",
+        "4h": "du-√x̲aa[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√x̲aa[?]",
+        "2sg": "wu-i-√x̲aa[?]",
+        "3": "wu-√x̲aa[?]",
+        "1pl": "wu-tu-√x̲aa[?]",
+        "2pl": "wu-yi-√x̲aa[?]",
+        "4h": "wu-du-√x̲aa[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√x̲aa[?]",
+        "2sg": "i-√x̲aa[?]",
+        "3": "√x̲aa[?]",
+        "1pl": "tu-√x̲aa[?]",
+        "2pl": "yi-√x̲aa[?]",
+        "4h": "du-√x̲aa[?]"
+      },
+      "potential": {
+        "1sg": "g̲-/k-x̱a-√x̲aa[?]",
+        "2sg": "g̲-/k-i-√x̲aa[?]",
+        "3": "g̲-/k-√x̲aa[?]",
+        "1pl": "g̲-/k-tu-√x̲aa[?]",
+        "2pl": "g̲-/k-yi-√x̲aa[?]",
+        "4h": "g̲-/k-du-√x̲aa[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√x̲aa[?]",
+        "2sg": "i-√x̲aa[?]",
+        "3": "√x̲aa[?]",
+        "1pl": "tu-√x̲aa[?]",
+        "2pl": "yi-√x̲aa[?]",
+        "4h": "du-√x̲aa[?]"
+      },
+      "prohibitive": {
+        "1sg": "u-x̱a-√x̲aa[?]",
+        "2sg": "u-i-√x̲aa[?]",
+        "3": "u-√x̲aa[?]",
+        "1pl": "u-tu-√x̲aa[?]",
+        "2pl": "u-yi-√x̲aa[?]",
+        "4h": "u-du-√x̲aa[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "aas",
@@ -172,7 +478,58 @@
         "english": "Floating under the glacier",
         "source": "Basket Bay"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√aas[?]",
+        "2sg": "i-√aas[?]",
+        "3": "√aas[?]",
+        "1pl": "tu-√aas[?]",
+        "2pl": "yi-√aas[?]",
+        "4h": "du-√aas[?]"
+      },
+      "perfective": {
+        "1sg": "x̱a-√aas[?]",
+        "2sg": "i-√aas[?]",
+        "3": "√aas[?]",
+        "1pl": "tu-√aas[?]",
+        "2pl": "yi-√aas[?]",
+        "4h": "du-√aas[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√aas[?]",
+        "2sg": "i-√aas[?]",
+        "3": "√aas[?]",
+        "1pl": "tu-√aas[?]",
+        "2pl": "yi-√aas[?]",
+        "4h": "du-√aas[?]"
+      },
+      "potential": {
+        "1sg": "x̱a-√aas[?]",
+        "2sg": "i-√aas[?]",
+        "3": "√aas[?]",
+        "1pl": "tu-√aas[?]",
+        "2pl": "yi-√aas[?]",
+        "4h": "du-√aas[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√aas[?]",
+        "2sg": "i-√aas[?]",
+        "3": "√aas[?]",
+        "1pl": "tu-√aas[?]",
+        "2pl": "yi-√aas[?]",
+        "4h": "du-√aas[?]"
+      },
+      "prohibitive": {
+        "1sg": "x̱a-√aas[?]",
+        "2sg": "i-√aas[?]",
+        "3": "√aas[?]",
+        "1pl": "tu-√aas[?]",
+        "2pl": "yi-√aas[?]",
+        "4h": "du-√aas[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "aat",
@@ -202,7 +559,58 @@
         "english": "They would even go home from their kill.",
         "source": "Basket Bay"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "ga-x̱a-√aat[?]",
+        "2sg": "ga-i-√aat[?]",
+        "3": "ga-√aat[?]",
+        "1pl": "ga-tu-√aat[?]",
+        "2pl": "ga-yi-√aat[?]",
+        "4h": "ga-du-√aat[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√aat[?]",
+        "2sg": "wu-i-√aat[?]",
+        "3": "wu-√aat[?]",
+        "1pl": "wu-tu-√aat[?]",
+        "2pl": "wu-yi-√aat[?]",
+        "4h": "wu-du-√aat[?]"
+      },
+      "habitual": {
+        "1sg": "ga-x̱a-√aat[?]",
+        "2sg": "ga-i-√aat[?]",
+        "3": "ga-√aat[?]",
+        "1pl": "ga-tu-√aat[?]",
+        "2pl": "ga-yi-√aat[?]",
+        "4h": "ga-du-√aat[?]"
+      },
+      "potential": {
+        "1sg": "ga-g̲-x̱a-√aat[?]",
+        "2sg": "ga-g̲-i-√aat[?]",
+        "3": "ga-g̲-√aat[?]",
+        "1pl": "ga-g̲-tu-√aat[?]",
+        "2pl": "ga-g̲-yi-√aat[?]",
+        "4h": "ga-g̲-du-√aat[?]"
+      },
+      "imperative": {
+        "1sg": "ga-x̱a-√aat[?]",
+        "2sg": "ga-i-√aat[?]",
+        "3": "ga-√aat[?]",
+        "1pl": "ga-tu-√aat[?]",
+        "2pl": "ga-yi-√aat[?]",
+        "4h": "ga-du-√aat[?]"
+      },
+      "prohibitive": {
+        "1sg": "ga-u-x̱a-√aat[?]",
+        "2sg": "ga-u-i-√aat[?]",
+        "3": "ga-u-√aat[?]",
+        "1pl": "ga-u-tu-√aat[?]",
+        "2pl": "ga-u-yi-√aat[?]",
+        "4h": "ga-u-du-√aat[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "k&apos;ein",
@@ -223,7 +631,58 @@
     "search_terms": [
       "see"
     ],
-    "examples": []
+    "examples": [],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√k&apos;ein[?]",
+        "2sg": "i-√k&apos;ein[?]",
+        "3": "√k&apos;ein[?]",
+        "1pl": "tu-√k&apos;ein[?]",
+        "2pl": "yi-√k&apos;ein[?]",
+        "4h": "du-√k&apos;ein[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√k&apos;ein[?]",
+        "2sg": "wu-i-√k&apos;ein[?]",
+        "3": "wu-√k&apos;ein[?]",
+        "1pl": "wu-tu-√k&apos;ein[?]",
+        "2pl": "wu-yi-√k&apos;ein[?]",
+        "4h": "wu-du-√k&apos;ein[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√k&apos;ein[?]",
+        "2sg": "i-√k&apos;ein[?]",
+        "3": "√k&apos;ein[?]",
+        "1pl": "tu-√k&apos;ein[?]",
+        "2pl": "yi-√k&apos;ein[?]",
+        "4h": "du-√k&apos;ein[?]"
+      },
+      "potential": {
+        "1sg": "g̲-/k-x̱a-√k&apos;ein[?]",
+        "2sg": "g̲-/k-i-√k&apos;ein[?]",
+        "3": "g̲-/k-√k&apos;ein[?]",
+        "1pl": "g̲-/k-tu-√k&apos;ein[?]",
+        "2pl": "g̲-/k-yi-√k&apos;ein[?]",
+        "4h": "g̲-/k-du-√k&apos;ein[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√k&apos;ein[?]",
+        "2sg": "i-√k&apos;ein[?]",
+        "3": "√k&apos;ein[?]",
+        "1pl": "tu-√k&apos;ein[?]",
+        "2pl": "yi-√k&apos;ein[?]",
+        "4h": "du-√k&apos;ein[?]"
+      },
+      "prohibitive": {
+        "1sg": "u-x̱a-√k&apos;ein[?]",
+        "2sg": "u-i-√k&apos;ein[?]",
+        "3": "u-√k&apos;ein[?]",
+        "1pl": "u-tu-√k&apos;ein[?]",
+        "2pl": "u-yi-√k&apos;ein[?]",
+        "4h": "u-du-√k&apos;ein[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "aak̲w",
@@ -242,7 +701,58 @@
     "search_terms": [
       "say"
     ],
-    "examples": []
+    "examples": [],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√aak̲w[?]",
+        "2sg": "i-√aak̲w[?]",
+        "3": "√aak̲w[?]",
+        "1pl": "tu-√aak̲w[?]",
+        "2pl": "yi-√aak̲w[?]",
+        "4h": "du-√aak̲w[?]"
+      },
+      "perfective": {
+        "1sg": "x̱a-√aak̲w[?]",
+        "2sg": "i-√aak̲w[?]",
+        "3": "√aak̲w[?]",
+        "1pl": "tu-√aak̲w[?]",
+        "2pl": "yi-√aak̲w[?]",
+        "4h": "du-√aak̲w[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√aak̲w[?]",
+        "2sg": "i-√aak̲w[?]",
+        "3": "√aak̲w[?]",
+        "1pl": "tu-√aak̲w[?]",
+        "2pl": "yi-√aak̲w[?]",
+        "4h": "du-√aak̲w[?]"
+      },
+      "potential": {
+        "1sg": "x̱a-√aak̲w[?]",
+        "2sg": "i-√aak̲w[?]",
+        "3": "√aak̲w[?]",
+        "1pl": "tu-√aak̲w[?]",
+        "2pl": "yi-√aak̲w[?]",
+        "4h": "du-√aak̲w[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√aak̲w[?]",
+        "2sg": "i-√aak̲w[?]",
+        "3": "√aak̲w[?]",
+        "1pl": "tu-√aak̲w[?]",
+        "2pl": "yi-√aak̲w[?]",
+        "4h": "du-√aak̲w[?]"
+      },
+      "prohibitive": {
+        "1sg": "x̱a-√aak̲w[?]",
+        "2sg": "i-√aak̲w[?]",
+        "3": "√aak̲w[?]",
+        "1pl": "tu-√aak̲w[?]",
+        "2pl": "yi-√aak̲w[?]",
+        "4h": "du-√aak̲w[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "k̲aa",
@@ -261,7 +771,58 @@
     "search_terms": [
       "say"
     ],
-    "examples": []
+    "examples": [],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√k̲aa[?]",
+        "2sg": "i-√k̲aa[?]",
+        "3": "√k̲aa[?]",
+        "1pl": "tu-√k̲aa[?]",
+        "2pl": "yi-√k̲aa[?]",
+        "4h": "du-√k̲aa[?]"
+      },
+      "perfective": {
+        "1sg": "x̱a-√k̲aa[?]",
+        "2sg": "i-√k̲aa[?]",
+        "3": "√k̲aa[?]",
+        "1pl": "tu-√k̲aa[?]",
+        "2pl": "yi-√k̲aa[?]",
+        "4h": "du-√k̲aa[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√k̲aa[?]",
+        "2sg": "i-√k̲aa[?]",
+        "3": "√k̲aa[?]",
+        "1pl": "tu-√k̲aa[?]",
+        "2pl": "yi-√k̲aa[?]",
+        "4h": "du-√k̲aa[?]"
+      },
+      "potential": {
+        "1sg": "x̱a-√k̲aa[?]",
+        "2sg": "i-√k̲aa[?]",
+        "3": "√k̲aa[?]",
+        "1pl": "tu-√k̲aa[?]",
+        "2pl": "yi-√k̲aa[?]",
+        "4h": "du-√k̲aa[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√k̲aa[?]",
+        "2sg": "i-√k̲aa[?]",
+        "3": "√k̲aa[?]",
+        "1pl": "tu-√k̲aa[?]",
+        "2pl": "yi-√k̲aa[?]",
+        "4h": "du-√k̲aa[?]"
+      },
+      "prohibitive": {
+        "1sg": "x̱a-√k̲aa[?]",
+        "2sg": "i-√k̲aa[?]",
+        "3": "√k̲aa[?]",
+        "1pl": "tu-√k̲aa[?]",
+        "2pl": "yi-√k̲aa[?]",
+        "4h": "du-√k̲aa[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "k̲aa",
@@ -281,7 +842,58 @@
     "search_terms": [
       "say"
     ],
-    "examples": []
+    "examples": [],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√k̲aa[?]",
+        "2sg": "i-√k̲aa[?]",
+        "3": "√k̲aa[?]",
+        "1pl": "tu-√k̲aa[?]",
+        "2pl": "yi-√k̲aa[?]",
+        "4h": "du-√k̲aa[?]"
+      },
+      "perfective": {
+        "1sg": "x̱a-√k̲aa[?]",
+        "2sg": "i-√k̲aa[?]",
+        "3": "√k̲aa[?]",
+        "1pl": "tu-√k̲aa[?]",
+        "2pl": "yi-√k̲aa[?]",
+        "4h": "du-√k̲aa[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√k̲aa[?]",
+        "2sg": "i-√k̲aa[?]",
+        "3": "√k̲aa[?]",
+        "1pl": "tu-√k̲aa[?]",
+        "2pl": "yi-√k̲aa[?]",
+        "4h": "du-√k̲aa[?]"
+      },
+      "potential": {
+        "1sg": "x̱a-√k̲aa[?]",
+        "2sg": "i-√k̲aa[?]",
+        "3": "√k̲aa[?]",
+        "1pl": "tu-√k̲aa[?]",
+        "2pl": "yi-√k̲aa[?]",
+        "4h": "du-√k̲aa[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√k̲aa[?]",
+        "2sg": "i-√k̲aa[?]",
+        "3": "√k̲aa[?]",
+        "1pl": "tu-√k̲aa[?]",
+        "2pl": "yi-√k̲aa[?]",
+        "4h": "du-√k̲aa[?]"
+      },
+      "prohibitive": {
+        "1sg": "x̱a-√k̲aa[?]",
+        "2sg": "i-√k̲aa[?]",
+        "3": "√k̲aa[?]",
+        "1pl": "tu-√k̲aa[?]",
+        "2pl": "yi-√k̲aa[?]",
+        "4h": "du-√k̲aa[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "aak̲w",
@@ -302,7 +914,58 @@
     "search_terms": [
       "give"
     ],
-    "examples": []
+    "examples": [],
+    "guesses": {
+      "imperfective": {
+        "1sg": "na-x̱a-√aak̲w[?]",
+        "2sg": "na-i-√aak̲w[?]",
+        "3": "na-√aak̲w[?]",
+        "1pl": "na-tu-√aak̲w[?]",
+        "2pl": "na-yi-√aak̲w[?]",
+        "4h": "na-du-√aak̲w[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√aak̲w[?]",
+        "2sg": "wu-i-√aak̲w[?]",
+        "3": "wu-√aak̲w[?]",
+        "1pl": "wu-tu-√aak̲w[?]",
+        "2pl": "wu-yi-√aak̲w[?]",
+        "4h": "wu-du-√aak̲w[?]"
+      },
+      "habitual": {
+        "1sg": "na-x̱a-√aak̲w[?]",
+        "2sg": "na-i-√aak̲w[?]",
+        "3": "na-√aak̲w[?]",
+        "1pl": "na-tu-√aak̲w[?]",
+        "2pl": "na-yi-√aak̲w[?]",
+        "4h": "na-du-√aak̲w[?]"
+      },
+      "potential": {
+        "1sg": "na-g̲-x̱a-√aak̲w[?]",
+        "2sg": "na-g̲-i-√aak̲w[?]",
+        "3": "na-g̲-√aak̲w[?]",
+        "1pl": "na-g̲-tu-√aak̲w[?]",
+        "2pl": "na-g̲-yi-√aak̲w[?]",
+        "4h": "na-g̲-du-√aak̲w[?]"
+      },
+      "imperative": {
+        "1sg": "na-x̱a-√aak̲w[?]",
+        "2sg": "na-i-√aak̲w[?]",
+        "3": "na-√aak̲w[?]",
+        "1pl": "na-tu-√aak̲w[?]",
+        "2pl": "na-yi-√aak̲w[?]",
+        "4h": "na-du-√aak̲w[?]"
+      },
+      "prohibitive": {
+        "1sg": "na-u-x̱a-√aak̲w[?]",
+        "2sg": "na-u-i-√aak̲w[?]",
+        "3": "na-u-√aak̲w[?]",
+        "1pl": "na-u-tu-√aak̲w[?]",
+        "2pl": "na-u-yi-√aak̲w[?]",
+        "4h": "na-u-du-√aak̲w[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "aak̲w",
@@ -321,7 +984,58 @@
     "search_terms": [
       "give"
     ],
-    "examples": []
+    "examples": [],
+    "guesses": {
+      "imperfective": {
+        "1sg": "na-x̱a-√aak̲w[?]",
+        "2sg": "na-i-√aak̲w[?]",
+        "3": "na-√aak̲w[?]",
+        "1pl": "na-tu-√aak̲w[?]",
+        "2pl": "na-yi-√aak̲w[?]",
+        "4h": "na-du-√aak̲w[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√aak̲w[?]",
+        "2sg": "wu-i-√aak̲w[?]",
+        "3": "wu-√aak̲w[?]",
+        "1pl": "wu-tu-√aak̲w[?]",
+        "2pl": "wu-yi-√aak̲w[?]",
+        "4h": "wu-du-√aak̲w[?]"
+      },
+      "habitual": {
+        "1sg": "na-x̱a-√aak̲w[?]",
+        "2sg": "na-i-√aak̲w[?]",
+        "3": "na-√aak̲w[?]",
+        "1pl": "na-tu-√aak̲w[?]",
+        "2pl": "na-yi-√aak̲w[?]",
+        "4h": "na-du-√aak̲w[?]"
+      },
+      "potential": {
+        "1sg": "na-g̲-x̱a-√aak̲w[?]",
+        "2sg": "na-g̲-i-√aak̲w[?]",
+        "3": "na-g̲-√aak̲w[?]",
+        "1pl": "na-g̲-tu-√aak̲w[?]",
+        "2pl": "na-g̲-yi-√aak̲w[?]",
+        "4h": "na-g̲-du-√aak̲w[?]"
+      },
+      "imperative": {
+        "1sg": "na-x̱a-√aak̲w[?]",
+        "2sg": "na-i-√aak̲w[?]",
+        "3": "na-√aak̲w[?]",
+        "1pl": "na-tu-√aak̲w[?]",
+        "2pl": "na-yi-√aak̲w[?]",
+        "4h": "na-du-√aak̲w[?]"
+      },
+      "prohibitive": {
+        "1sg": "na-u-x̱a-√aak̲w[?]",
+        "2sg": "na-u-i-√aak̲w[?]",
+        "3": "na-u-√aak̲w[?]",
+        "1pl": "na-u-tu-√aak̲w[?]",
+        "2pl": "na-u-yi-√aak̲w[?]",
+        "4h": "na-u-du-√aak̲w[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "aat",
@@ -350,7 +1064,58 @@
         "english": "They would even go home from their kill.",
         "source": "Basket Bay"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-l-√aat[?]",
+        "2sg": "i-l-√aat[?]",
+        "3": "l-√aat[?]",
+        "1pl": "tu-l-√aat[?]",
+        "2pl": "yi-l-√aat[?]",
+        "4h": "du-l-√aat[?]"
+      },
+      "perfective": {
+        "1sg": "x̱a-l-√aat[?]",
+        "2sg": "i-l-√aat[?]",
+        "3": "l-√aat[?]",
+        "1pl": "tu-l-√aat[?]",
+        "2pl": "yi-l-√aat[?]",
+        "4h": "du-l-√aat[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-l-√aat[?]",
+        "2sg": "i-l-√aat[?]",
+        "3": "l-√aat[?]",
+        "1pl": "tu-l-√aat[?]",
+        "2pl": "yi-l-√aat[?]",
+        "4h": "du-l-√aat[?]"
+      },
+      "potential": {
+        "1sg": "x̱a-l-√aat[?]",
+        "2sg": "i-l-√aat[?]",
+        "3": "l-√aat[?]",
+        "1pl": "tu-l-√aat[?]",
+        "2pl": "yi-l-√aat[?]",
+        "4h": "du-l-√aat[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-l-√aat[?]",
+        "2sg": "i-l-√aat[?]",
+        "3": "l-√aat[?]",
+        "1pl": "tu-l-√aat[?]",
+        "2pl": "yi-l-√aat[?]",
+        "4h": "du-l-√aat[?]"
+      },
+      "prohibitive": {
+        "1sg": "x̱a-l-√aat[?]",
+        "2sg": "i-l-√aat[?]",
+        "3": "l-√aat[?]",
+        "1pl": "tu-l-√aat[?]",
+        "2pl": "yi-l-√aat[?]",
+        "4h": "du-l-√aat[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "aat",
@@ -380,7 +1145,58 @@
         "english": "They would even go home from their kill.",
         "source": "Basket Bay"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "na-x̱a-l-√aat[?]",
+        "2sg": "na-i-l-√aat[?]",
+        "3": "na-l-√aat[?]",
+        "1pl": "na-tu-l-√aat[?]",
+        "2pl": "na-yi-l-√aat[?]",
+        "4h": "na-du-l-√aat[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-l-√aat[?]",
+        "2sg": "wu-i-l-√aat[?]",
+        "3": "wu-l-√aat[?]",
+        "1pl": "wu-tu-l-√aat[?]",
+        "2pl": "wu-yi-l-√aat[?]",
+        "4h": "wu-du-l-√aat[?]"
+      },
+      "habitual": {
+        "1sg": "na-x̱a-l-√aat[?]",
+        "2sg": "na-i-l-√aat[?]",
+        "3": "na-l-√aat[?]",
+        "1pl": "na-tu-l-√aat[?]",
+        "2pl": "na-yi-l-√aat[?]",
+        "4h": "na-du-l-√aat[?]"
+      },
+      "potential": {
+        "1sg": "na-g̲-x̱a-l-√aat[?]",
+        "2sg": "na-g̲-i-l-√aat[?]",
+        "3": "na-g̲-l-√aat[?]",
+        "1pl": "na-g̲-tu-l-√aat[?]",
+        "2pl": "na-g̲-yi-l-√aat[?]",
+        "4h": "na-g̲-du-l-√aat[?]"
+      },
+      "imperative": {
+        "1sg": "na-x̱a-l-√aat[?]",
+        "2sg": "na-i-l-√aat[?]",
+        "3": "na-l-√aat[?]",
+        "1pl": "na-tu-l-√aat[?]",
+        "2pl": "na-yi-l-√aat[?]",
+        "4h": "na-du-l-√aat[?]"
+      },
+      "prohibitive": {
+        "1sg": "na-u-x̱a-l-√aat[?]",
+        "2sg": "na-u-i-l-√aat[?]",
+        "3": "na-u-l-√aat[?]",
+        "1pl": "na-u-tu-l-√aat[?]",
+        "2pl": "na-u-yi-l-√aat[?]",
+        "4h": "na-u-du-l-√aat[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "aat",
@@ -412,7 +1228,58 @@
         "english": "They would even go home from their kill.",
         "source": "Basket Bay"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-l-√aat[?]",
+        "2sg": "i-l-√aat[?]",
+        "3": "l-√aat[?]",
+        "1pl": "tu-l-√aat[?]",
+        "2pl": "yi-l-√aat[?]",
+        "4h": "du-l-√aat[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-l-√aat[?]",
+        "2sg": "wu-i-l-√aat[?]",
+        "3": "wu-l-√aat[?]",
+        "1pl": "wu-tu-l-√aat[?]",
+        "2pl": "wu-yi-l-√aat[?]",
+        "4h": "wu-du-l-√aat[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-l-√aat[?]",
+        "2sg": "i-l-√aat[?]",
+        "3": "l-√aat[?]",
+        "1pl": "tu-l-√aat[?]",
+        "2pl": "yi-l-√aat[?]",
+        "4h": "du-l-√aat[?]"
+      },
+      "potential": {
+        "1sg": "g̲-/k-x̱a-l-√aat[?]",
+        "2sg": "g̲-/k-i-l-√aat[?]",
+        "3": "g̲-/k-l-√aat[?]",
+        "1pl": "g̲-/k-tu-l-√aat[?]",
+        "2pl": "g̲-/k-yi-l-√aat[?]",
+        "4h": "g̲-/k-du-l-√aat[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-l-√aat[?]",
+        "2sg": "i-l-√aat[?]",
+        "3": "l-√aat[?]",
+        "1pl": "tu-l-√aat[?]",
+        "2pl": "yi-l-√aat[?]",
+        "4h": "du-l-√aat[?]"
+      },
+      "prohibitive": {
+        "1sg": "u-x̱a-l-√aat[?]",
+        "2sg": "u-i-l-√aat[?]",
+        "3": "u-l-√aat[?]",
+        "1pl": "u-tu-l-√aat[?]",
+        "2pl": "u-yi-l-√aat[?]",
+        "4h": "u-du-l-√aat[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "daa",
@@ -441,7 +1308,58 @@
         "english": "on this kill of theirs.",
         "source": "Basket Bay"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√daa[?]",
+        "2sg": "i-√daa[?]",
+        "3": "√daa[?]",
+        "1pl": "tu-√daa[?]",
+        "2pl": "yi-√daa[?]",
+        "4h": "du-√daa[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√daa[?]",
+        "2sg": "wu-i-√daa[?]",
+        "3": "wu-√daa[?]",
+        "1pl": "wu-tu-√daa[?]",
+        "2pl": "wu-yi-√daa[?]",
+        "4h": "wu-du-√daa[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√daa[?]",
+        "2sg": "i-√daa[?]",
+        "3": "√daa[?]",
+        "1pl": "tu-√daa[?]",
+        "2pl": "yi-√daa[?]",
+        "4h": "du-√daa[?]"
+      },
+      "potential": {
+        "1sg": "g̲-/k-x̱a-√daa[?]",
+        "2sg": "g̲-/k-i-√daa[?]",
+        "3": "g̲-/k-√daa[?]",
+        "1pl": "g̲-/k-tu-√daa[?]",
+        "2pl": "g̲-/k-yi-√daa[?]",
+        "4h": "g̲-/k-du-√daa[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√daa[?]",
+        "2sg": "i-√daa[?]",
+        "3": "√daa[?]",
+        "1pl": "tu-√daa[?]",
+        "2pl": "yi-√daa[?]",
+        "4h": "du-√daa[?]"
+      },
+      "prohibitive": {
+        "1sg": "u-x̱a-√daa[?]",
+        "2sg": "u-i-√daa[?]",
+        "3": "u-√daa[?]",
+        "1pl": "u-tu-√daa[?]",
+        "2pl": "u-yi-√daa[?]",
+        "4h": "u-du-√daa[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "haa",
@@ -473,7 +1391,58 @@
         "english": "that land of ours",
         "source": "Basket Bay"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√haa[?]",
+        "2sg": "i-√haa[?]",
+        "3": "√haa[?]",
+        "1pl": "tu-√haa[?]",
+        "2pl": "yi-√haa[?]",
+        "4h": "du-√haa[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√haa[?]",
+        "2sg": "wu-i-√haa[?]",
+        "3": "wu-√haa[?]",
+        "1pl": "wu-tu-√haa[?]",
+        "2pl": "wu-yi-√haa[?]",
+        "4h": "wu-du-√haa[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√haa[?]",
+        "2sg": "i-√haa[?]",
+        "3": "√haa[?]",
+        "1pl": "tu-√haa[?]",
+        "2pl": "yi-√haa[?]",
+        "4h": "du-√haa[?]"
+      },
+      "potential": {
+        "1sg": "g̲-/k-x̱a-√haa[?]",
+        "2sg": "g̲-/k-i-√haa[?]",
+        "3": "g̲-/k-√haa[?]",
+        "1pl": "g̲-/k-tu-√haa[?]",
+        "2pl": "g̲-/k-yi-√haa[?]",
+        "4h": "g̲-/k-du-√haa[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√haa[?]",
+        "2sg": "i-√haa[?]",
+        "3": "√haa[?]",
+        "1pl": "tu-√haa[?]",
+        "2pl": "yi-√haa[?]",
+        "4h": "du-√haa[?]"
+      },
+      "prohibitive": {
+        "1sg": "u-x̱a-√haa[?]",
+        "2sg": "u-i-√haa[?]",
+        "3": "u-√haa[?]",
+        "1pl": "u-tu-√haa[?]",
+        "2pl": "u-yi-√haa[?]",
+        "4h": "u-du-√haa[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "haa",
@@ -504,7 +1473,58 @@
         "english": "that land of ours",
         "source": "Basket Bay"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√haa[?]",
+        "2sg": "i-√haa[?]",
+        "3": "√haa[?]",
+        "1pl": "tu-√haa[?]",
+        "2pl": "yi-√haa[?]",
+        "4h": "du-√haa[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√haa[?]",
+        "2sg": "wu-i-√haa[?]",
+        "3": "wu-√haa[?]",
+        "1pl": "wu-tu-√haa[?]",
+        "2pl": "wu-yi-√haa[?]",
+        "4h": "wu-du-√haa[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√haa[?]",
+        "2sg": "i-√haa[?]",
+        "3": "√haa[?]",
+        "1pl": "tu-√haa[?]",
+        "2pl": "yi-√haa[?]",
+        "4h": "du-√haa[?]"
+      },
+      "potential": {
+        "1sg": "g̲-/k-x̱a-√haa[?]",
+        "2sg": "g̲-/k-i-√haa[?]",
+        "3": "g̲-/k-√haa[?]",
+        "1pl": "g̲-/k-tu-√haa[?]",
+        "2pl": "g̲-/k-yi-√haa[?]",
+        "4h": "g̲-/k-du-√haa[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√haa[?]",
+        "2sg": "i-√haa[?]",
+        "3": "√haa[?]",
+        "1pl": "tu-√haa[?]",
+        "2pl": "yi-√haa[?]",
+        "4h": "du-√haa[?]"
+      },
+      "prohibitive": {
+        "1sg": "u-x̱a-√haa[?]",
+        "2sg": "u-i-√haa[?]",
+        "3": "u-√haa[?]",
+        "1pl": "u-tu-√haa[?]",
+        "2pl": "u-yi-√haa[?]",
+        "4h": "u-du-√haa[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "k̲aak̲",
@@ -522,7 +1542,58 @@
     "search_terms": [
       "sit"
     ],
-    "examples": []
+    "examples": [],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√k̲aak̲[?]",
+        "2sg": "i-√k̲aak̲[?]",
+        "3": "√k̲aak̲[?]",
+        "1pl": "tu-√k̲aak̲[?]",
+        "2pl": "yi-√k̲aak̲[?]",
+        "4h": "du-√k̲aak̲[?]"
+      },
+      "perfective": {
+        "1sg": "x̱a-√k̲aak̲[?]",
+        "2sg": "i-√k̲aak̲[?]",
+        "3": "√k̲aak̲[?]",
+        "1pl": "tu-√k̲aak̲[?]",
+        "2pl": "yi-√k̲aak̲[?]",
+        "4h": "du-√k̲aak̲[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√k̲aak̲[?]",
+        "2sg": "i-√k̲aak̲[?]",
+        "3": "√k̲aak̲[?]",
+        "1pl": "tu-√k̲aak̲[?]",
+        "2pl": "yi-√k̲aak̲[?]",
+        "4h": "du-√k̲aak̲[?]"
+      },
+      "potential": {
+        "1sg": "x̱a-√k̲aak̲[?]",
+        "2sg": "i-√k̲aak̲[?]",
+        "3": "√k̲aak̲[?]",
+        "1pl": "tu-√k̲aak̲[?]",
+        "2pl": "yi-√k̲aak̲[?]",
+        "4h": "du-√k̲aak̲[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√k̲aak̲[?]",
+        "2sg": "i-√k̲aak̲[?]",
+        "3": "√k̲aak̲[?]",
+        "1pl": "tu-√k̲aak̲[?]",
+        "2pl": "yi-√k̲aak̲[?]",
+        "4h": "du-√k̲aak̲[?]"
+      },
+      "prohibitive": {
+        "1sg": "x̱a-√k̲aak̲[?]",
+        "2sg": "i-√k̲aak̲[?]",
+        "3": "√k̲aak̲[?]",
+        "1pl": "tu-√k̲aak̲[?]",
+        "2pl": "yi-√k̲aak̲[?]",
+        "4h": "du-√k̲aak̲[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "k̲ee",
@@ -540,7 +1611,58 @@
     "search_terms": [
       "sit"
     ],
-    "examples": []
+    "examples": [],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√k̲ee[?]",
+        "2sg": "i-√k̲ee[?]",
+        "3": "√k̲ee[?]",
+        "1pl": "tu-√k̲ee[?]",
+        "2pl": "yi-√k̲ee[?]",
+        "4h": "du-√k̲ee[?]"
+      },
+      "perfective": {
+        "1sg": "x̱a-√k̲ee[?]",
+        "2sg": "i-√k̲ee[?]",
+        "3": "√k̲ee[?]",
+        "1pl": "tu-√k̲ee[?]",
+        "2pl": "yi-√k̲ee[?]",
+        "4h": "du-√k̲ee[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√k̲ee[?]",
+        "2sg": "i-√k̲ee[?]",
+        "3": "√k̲ee[?]",
+        "1pl": "tu-√k̲ee[?]",
+        "2pl": "yi-√k̲ee[?]",
+        "4h": "du-√k̲ee[?]"
+      },
+      "potential": {
+        "1sg": "x̱a-√k̲ee[?]",
+        "2sg": "i-√k̲ee[?]",
+        "3": "√k̲ee[?]",
+        "1pl": "tu-√k̲ee[?]",
+        "2pl": "yi-√k̲ee[?]",
+        "4h": "du-√k̲ee[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√k̲ee[?]",
+        "2sg": "i-√k̲ee[?]",
+        "3": "√k̲ee[?]",
+        "1pl": "tu-√k̲ee[?]",
+        "2pl": "yi-√k̲ee[?]",
+        "4h": "du-√k̲ee[?]"
+      },
+      "prohibitive": {
+        "1sg": "x̱a-√k̲ee[?]",
+        "2sg": "i-√k̲ee[?]",
+        "3": "√k̲ee[?]",
+        "1pl": "tu-√k̲ee[?]",
+        "2pl": "yi-√k̲ee[?]",
+        "4h": "du-√k̲ee[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "nook",
@@ -569,7 +1691,58 @@
         "english": "So then when he got hungry, just how she had instructed him, that was how he acted.",
         "source": "Salmon Boy"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√nook[?]",
+        "2sg": "i-√nook[?]",
+        "3": "√nook[?]",
+        "1pl": "tu-√nook[?]",
+        "2pl": "yi-√nook[?]",
+        "4h": "du-√nook[?]"
+      },
+      "perfective": {
+        "1sg": "x̱a-√nook[?]",
+        "2sg": "i-√nook[?]",
+        "3": "√nook[?]",
+        "1pl": "tu-√nook[?]",
+        "2pl": "yi-√nook[?]",
+        "4h": "du-√nook[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√nook[?]",
+        "2sg": "i-√nook[?]",
+        "3": "√nook[?]",
+        "1pl": "tu-√nook[?]",
+        "2pl": "yi-√nook[?]",
+        "4h": "du-√nook[?]"
+      },
+      "potential": {
+        "1sg": "x̱a-√nook[?]",
+        "2sg": "i-√nook[?]",
+        "3": "√nook[?]",
+        "1pl": "tu-√nook[?]",
+        "2pl": "yi-√nook[?]",
+        "4h": "du-√nook[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√nook[?]",
+        "2sg": "i-√nook[?]",
+        "3": "√nook[?]",
+        "1pl": "tu-√nook[?]",
+        "2pl": "yi-√nook[?]",
+        "4h": "du-√nook[?]"
+      },
+      "prohibitive": {
+        "1sg": "x̱a-√nook[?]",
+        "2sg": "i-√nook[?]",
+        "3": "√nook[?]",
+        "1pl": "tu-√nook[?]",
+        "2pl": "yi-√nook[?]",
+        "4h": "du-√nook[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "haan",
@@ -598,7 +1771,58 @@
         "english": "The third one would stand at the arch of Kaaḵáakw;",
         "source": "Basket Bay"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "ga-x̱a-√haan[?]",
+        "2sg": "ga-i-√haan[?]",
+        "3": "ga-√haan[?]",
+        "1pl": "ga-tu-√haan[?]",
+        "2pl": "ga-yi-√haan[?]",
+        "4h": "ga-du-√haan[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√haan[?]",
+        "2sg": "wu-i-√haan[?]",
+        "3": "wu-√haan[?]",
+        "1pl": "wu-tu-√haan[?]",
+        "2pl": "wu-yi-√haan[?]",
+        "4h": "wu-du-√haan[?]"
+      },
+      "habitual": {
+        "1sg": "ga-x̱a-√haan[?]",
+        "2sg": "ga-i-√haan[?]",
+        "3": "ga-√haan[?]",
+        "1pl": "ga-tu-√haan[?]",
+        "2pl": "ga-yi-√haan[?]",
+        "4h": "ga-du-√haan[?]"
+      },
+      "potential": {
+        "1sg": "ga-g̲-x̱a-√haan[?]",
+        "2sg": "ga-g̲-i-√haan[?]",
+        "3": "ga-g̲-√haan[?]",
+        "1pl": "ga-g̲-tu-√haan[?]",
+        "2pl": "ga-g̲-yi-√haan[?]",
+        "4h": "ga-g̲-du-√haan[?]"
+      },
+      "imperative": {
+        "1sg": "ga-x̱a-√haan[?]",
+        "2sg": "ga-i-√haan[?]",
+        "3": "ga-√haan[?]",
+        "1pl": "ga-tu-√haan[?]",
+        "2pl": "ga-yi-√haan[?]",
+        "4h": "ga-du-√haan[?]"
+      },
+      "prohibitive": {
+        "1sg": "ga-u-x̱a-√haan[?]",
+        "2sg": "ga-u-i-√haan[?]",
+        "3": "ga-u-√haan[?]",
+        "1pl": "ga-u-tu-√haan[?]",
+        "2pl": "ga-u-yi-√haan[?]",
+        "4h": "ga-u-du-√haan[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "haan",
@@ -628,7 +1852,58 @@
         "english": "The third one would stand at the arch of Kaaḵáakw;",
         "source": "Basket Bay"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√haan[?]",
+        "2sg": "i-√haan[?]",
+        "3": "√haan[?]",
+        "1pl": "tu-√haan[?]",
+        "2pl": "yi-√haan[?]",
+        "4h": "du-√haan[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√haan[?]",
+        "2sg": "wu-i-√haan[?]",
+        "3": "wu-√haan[?]",
+        "1pl": "wu-tu-√haan[?]",
+        "2pl": "wu-yi-√haan[?]",
+        "4h": "wu-du-√haan[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√haan[?]",
+        "2sg": "i-√haan[?]",
+        "3": "√haan[?]",
+        "1pl": "tu-√haan[?]",
+        "2pl": "yi-√haan[?]",
+        "4h": "du-√haan[?]"
+      },
+      "potential": {
+        "1sg": "g̲-/k-x̱a-√haan[?]",
+        "2sg": "g̲-/k-i-√haan[?]",
+        "3": "g̲-/k-√haan[?]",
+        "1pl": "g̲-/k-tu-√haan[?]",
+        "2pl": "g̲-/k-yi-√haan[?]",
+        "4h": "g̲-/k-du-√haan[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√haan[?]",
+        "2sg": "i-√haan[?]",
+        "3": "√haan[?]",
+        "1pl": "tu-√haan[?]",
+        "2pl": "yi-√haan[?]",
+        "4h": "du-√haan[?]"
+      },
+      "prohibitive": {
+        "1sg": "u-x̱a-√haan[?]",
+        "2sg": "u-i-√haan[?]",
+        "3": "u-√haan[?]",
+        "1pl": "u-tu-√haan[?]",
+        "2pl": "u-yi-√haan[?]",
+        "4h": "u-du-√haan[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "naak̲",
@@ -646,7 +1921,58 @@
     "search_terms": [
       "stand"
     ],
-    "examples": []
+    "examples": [],
+    "guesses": {
+      "imperfective": {
+        "1sg": "ga-x̱a-√naak̲[?]",
+        "2sg": "ga-i-√naak̲[?]",
+        "3": "ga-√naak̲[?]",
+        "1pl": "ga-tu-√naak̲[?]",
+        "2pl": "ga-yi-√naak̲[?]",
+        "4h": "ga-du-√naak̲[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√naak̲[?]",
+        "2sg": "wu-i-√naak̲[?]",
+        "3": "wu-√naak̲[?]",
+        "1pl": "wu-tu-√naak̲[?]",
+        "2pl": "wu-yi-√naak̲[?]",
+        "4h": "wu-du-√naak̲[?]"
+      },
+      "habitual": {
+        "1sg": "ga-x̱a-√naak̲[?]",
+        "2sg": "ga-i-√naak̲[?]",
+        "3": "ga-√naak̲[?]",
+        "1pl": "ga-tu-√naak̲[?]",
+        "2pl": "ga-yi-√naak̲[?]",
+        "4h": "ga-du-√naak̲[?]"
+      },
+      "potential": {
+        "1sg": "ga-g̲-x̱a-√naak̲[?]",
+        "2sg": "ga-g̲-i-√naak̲[?]",
+        "3": "ga-g̲-√naak̲[?]",
+        "1pl": "ga-g̲-tu-√naak̲[?]",
+        "2pl": "ga-g̲-yi-√naak̲[?]",
+        "4h": "ga-g̲-du-√naak̲[?]"
+      },
+      "imperative": {
+        "1sg": "ga-x̱a-√naak̲[?]",
+        "2sg": "ga-i-√naak̲[?]",
+        "3": "ga-√naak̲[?]",
+        "1pl": "ga-tu-√naak̲[?]",
+        "2pl": "ga-yi-√naak̲[?]",
+        "4h": "ga-du-√naak̲[?]"
+      },
+      "prohibitive": {
+        "1sg": "ga-u-x̱a-√naak̲[?]",
+        "2sg": "ga-u-i-√naak̲[?]",
+        "3": "ga-u-√naak̲[?]",
+        "1pl": "ga-u-tu-√naak̲[?]",
+        "2pl": "ga-u-yi-√naak̲[?]",
+        "4h": "ga-u-du-√naak̲[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "look",
@@ -671,7 +1997,58 @@
         "english": "it acted",
         "source": "The Woman Who Married the Bear"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√look[?]",
+        "2sg": "i-√look[?]",
+        "3": "√look[?]",
+        "1pl": "tu-√look[?]",
+        "2pl": "yi-√look[?]",
+        "4h": "du-√look[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√look[?]",
+        "2sg": "wu-i-√look[?]",
+        "3": "wu-√look[?]",
+        "1pl": "wu-tu-√look[?]",
+        "2pl": "wu-yi-√look[?]",
+        "4h": "wu-du-√look[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√look[?]",
+        "2sg": "i-√look[?]",
+        "3": "√look[?]",
+        "1pl": "tu-√look[?]",
+        "2pl": "yi-√look[?]",
+        "4h": "du-√look[?]"
+      },
+      "potential": {
+        "1sg": "g̲-/k-x̱a-√look[?]",
+        "2sg": "g̲-/k-i-√look[?]",
+        "3": "g̲-/k-√look[?]",
+        "1pl": "g̲-/k-tu-√look[?]",
+        "2pl": "g̲-/k-yi-√look[?]",
+        "4h": "g̲-/k-du-√look[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√look[?]",
+        "2sg": "i-√look[?]",
+        "3": "√look[?]",
+        "1pl": "tu-√look[?]",
+        "2pl": "yi-√look[?]",
+        "4h": "du-√look[?]"
+      },
+      "prohibitive": {
+        "1sg": "u-x̱a-√look[?]",
+        "2sg": "u-i-√look[?]",
+        "3": "u-√look[?]",
+        "1pl": "u-tu-√look[?]",
+        "2pl": "u-yi-√look[?]",
+        "4h": "u-du-√look[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "naa",
@@ -701,7 +2078,58 @@
         "english": "the river flowed under a glacier.",
         "source": "Basket Bay"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√naa[?]",
+        "2sg": "i-√naa[?]",
+        "3": "√naa[?]",
+        "1pl": "tu-√naa[?]",
+        "2pl": "yi-√naa[?]",
+        "4h": "du-√naa[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√naa[?]",
+        "2sg": "wu-i-√naa[?]",
+        "3": "wu-√naa[?]",
+        "1pl": "wu-tu-√naa[?]",
+        "2pl": "wu-yi-√naa[?]",
+        "4h": "wu-du-√naa[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√naa[?]",
+        "2sg": "i-√naa[?]",
+        "3": "√naa[?]",
+        "1pl": "tu-√naa[?]",
+        "2pl": "yi-√naa[?]",
+        "4h": "du-√naa[?]"
+      },
+      "potential": {
+        "1sg": "g̲-/k-x̱a-√naa[?]",
+        "2sg": "g̲-/k-i-√naa[?]",
+        "3": "g̲-/k-√naa[?]",
+        "1pl": "g̲-/k-tu-√naa[?]",
+        "2pl": "g̲-/k-yi-√naa[?]",
+        "4h": "g̲-/k-du-√naa[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√naa[?]",
+        "2sg": "i-√naa[?]",
+        "3": "√naa[?]",
+        "1pl": "tu-√naa[?]",
+        "2pl": "yi-√naa[?]",
+        "4h": "du-√naa[?]"
+      },
+      "prohibitive": {
+        "1sg": "u-x̱a-√naa[?]",
+        "2sg": "u-i-√naa[?]",
+        "3": "u-√naa[?]",
+        "1pl": "u-tu-√naa[?]",
+        "2pl": "u-yi-√naa[?]",
+        "4h": "u-du-√naa[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "naa",
@@ -731,7 +2159,58 @@
         "english": "the river flowed under a glacier.",
         "source": "Basket Bay"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√naa[?]",
+        "2sg": "i-√naa[?]",
+        "3": "√naa[?]",
+        "1pl": "tu-√naa[?]",
+        "2pl": "yi-√naa[?]",
+        "4h": "du-√naa[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√naa[?]",
+        "2sg": "wu-i-√naa[?]",
+        "3": "wu-√naa[?]",
+        "1pl": "wu-tu-√naa[?]",
+        "2pl": "wu-yi-√naa[?]",
+        "4h": "wu-du-√naa[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√naa[?]",
+        "2sg": "i-√naa[?]",
+        "3": "√naa[?]",
+        "1pl": "tu-√naa[?]",
+        "2pl": "yi-√naa[?]",
+        "4h": "du-√naa[?]"
+      },
+      "potential": {
+        "1sg": "g̲-/k-x̱a-√naa[?]",
+        "2sg": "g̲-/k-i-√naa[?]",
+        "3": "g̲-/k-√naa[?]",
+        "1pl": "g̲-/k-tu-√naa[?]",
+        "2pl": "g̲-/k-yi-√naa[?]",
+        "4h": "g̲-/k-du-√naa[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√naa[?]",
+        "2sg": "i-√naa[?]",
+        "3": "√naa[?]",
+        "1pl": "tu-√naa[?]",
+        "2pl": "yi-√naa[?]",
+        "4h": "du-√naa[?]"
+      },
+      "prohibitive": {
+        "1sg": "u-x̱a-√naa[?]",
+        "2sg": "u-i-√naa[?]",
+        "3": "u-√naa[?]",
+        "1pl": "u-tu-√naa[?]",
+        "2pl": "u-yi-√naa[?]",
+        "4h": "u-du-√naa[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "geet",
@@ -762,7 +2241,58 @@
         "english": "He fell,",
         "source": "Mosquito"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√geet[?]",
+        "2sg": "i-√geet[?]",
+        "3": "√geet[?]",
+        "1pl": "tu-√geet[?]",
+        "2pl": "yi-√geet[?]",
+        "4h": "du-√geet[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√geet[?]",
+        "2sg": "wu-i-√geet[?]",
+        "3": "wu-√geet[?]",
+        "1pl": "wu-tu-√geet[?]",
+        "2pl": "wu-yi-√geet[?]",
+        "4h": "wu-du-√geet[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√geet[?]",
+        "2sg": "i-√geet[?]",
+        "3": "√geet[?]",
+        "1pl": "tu-√geet[?]",
+        "2pl": "yi-√geet[?]",
+        "4h": "du-√geet[?]"
+      },
+      "potential": {
+        "1sg": "g̲-/k-x̱a-√geet[?]",
+        "2sg": "g̲-/k-i-√geet[?]",
+        "3": "g̲-/k-√geet[?]",
+        "1pl": "g̲-/k-tu-√geet[?]",
+        "2pl": "g̲-/k-yi-√geet[?]",
+        "4h": "g̲-/k-du-√geet[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√geet[?]",
+        "2sg": "i-√geet[?]",
+        "3": "√geet[?]",
+        "1pl": "tu-√geet[?]",
+        "2pl": "yi-√geet[?]",
+        "4h": "du-√geet[?]"
+      },
+      "prohibitive": {
+        "1sg": "u-x̱a-√geet[?]",
+        "2sg": "u-i-√geet[?]",
+        "3": "u-√geet[?]",
+        "1pl": "u-tu-√geet[?]",
+        "2pl": "u-yi-√geet[?]",
+        "4h": "u-du-√geet[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "jaak̲",
@@ -782,7 +2312,58 @@
     "search_terms": [
       "sleep"
     ],
-    "examples": []
+    "examples": [],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√jaak̲[?]",
+        "2sg": "i-√jaak̲[?]",
+        "3": "√jaak̲[?]",
+        "1pl": "tu-√jaak̲[?]",
+        "2pl": "yi-√jaak̲[?]",
+        "4h": "du-√jaak̲[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√jaak̲[?]",
+        "2sg": "wu-i-√jaak̲[?]",
+        "3": "wu-√jaak̲[?]",
+        "1pl": "wu-tu-√jaak̲[?]",
+        "2pl": "wu-yi-√jaak̲[?]",
+        "4h": "wu-du-√jaak̲[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√jaak̲[?]",
+        "2sg": "i-√jaak̲[?]",
+        "3": "√jaak̲[?]",
+        "1pl": "tu-√jaak̲[?]",
+        "2pl": "yi-√jaak̲[?]",
+        "4h": "du-√jaak̲[?]"
+      },
+      "potential": {
+        "1sg": "g̲-/k-x̱a-√jaak̲[?]",
+        "2sg": "g̲-/k-i-√jaak̲[?]",
+        "3": "g̲-/k-√jaak̲[?]",
+        "1pl": "g̲-/k-tu-√jaak̲[?]",
+        "2pl": "g̲-/k-yi-√jaak̲[?]",
+        "4h": "g̲-/k-du-√jaak̲[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√jaak̲[?]",
+        "2sg": "i-√jaak̲[?]",
+        "3": "√jaak̲[?]",
+        "1pl": "tu-√jaak̲[?]",
+        "2pl": "yi-√jaak̲[?]",
+        "4h": "du-√jaak̲[?]"
+      },
+      "prohibitive": {
+        "1sg": "u-x̱a-√jaak̲[?]",
+        "2sg": "u-i-√jaak̲[?]",
+        "3": "u-√jaak̲[?]",
+        "1pl": "u-tu-√jaak̲[?]",
+        "2pl": "u-yi-√jaak̲[?]",
+        "4h": "u-du-√jaak̲[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "jaak̲",
@@ -804,7 +2385,58 @@
     "search_terms": [
       "sleep"
     ],
-    "examples": []
+    "examples": [],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√jaak̲[?]",
+        "2sg": "i-√jaak̲[?]",
+        "3": "√jaak̲[?]",
+        "1pl": "tu-√jaak̲[?]",
+        "2pl": "yi-√jaak̲[?]",
+        "4h": "du-√jaak̲[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√jaak̲[?]",
+        "2sg": "wu-i-√jaak̲[?]",
+        "3": "wu-√jaak̲[?]",
+        "1pl": "wu-tu-√jaak̲[?]",
+        "2pl": "wu-yi-√jaak̲[?]",
+        "4h": "wu-du-√jaak̲[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√jaak̲[?]",
+        "2sg": "i-√jaak̲[?]",
+        "3": "√jaak̲[?]",
+        "1pl": "tu-√jaak̲[?]",
+        "2pl": "yi-√jaak̲[?]",
+        "4h": "du-√jaak̲[?]"
+      },
+      "potential": {
+        "1sg": "g̲-/k-x̱a-√jaak̲[?]",
+        "2sg": "g̲-/k-i-√jaak̲[?]",
+        "3": "g̲-/k-√jaak̲[?]",
+        "1pl": "g̲-/k-tu-√jaak̲[?]",
+        "2pl": "g̲-/k-yi-√jaak̲[?]",
+        "4h": "g̲-/k-du-√jaak̲[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√jaak̲[?]",
+        "2sg": "i-√jaak̲[?]",
+        "3": "√jaak̲[?]",
+        "1pl": "tu-√jaak̲[?]",
+        "2pl": "yi-√jaak̲[?]",
+        "4h": "du-√jaak̲[?]"
+      },
+      "prohibitive": {
+        "1sg": "u-x̱a-√jaak̲[?]",
+        "2sg": "u-i-√jaak̲[?]",
+        "3": "u-√jaak̲[?]",
+        "1pl": "u-tu-√jaak̲[?]",
+        "2pl": "u-yi-√jaak̲[?]",
+        "4h": "u-du-√jaak̲[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "gook",
@@ -834,7 +2466,58 @@
         "english": "They were sitting next to it; they were eating.",
         "source": "The Woman Who Married the Bear"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "ga-x̱a-√gook[?]",
+        "2sg": "ga-i-√gook[?]",
+        "3": "ga-√gook[?]",
+        "1pl": "ga-tu-√gook[?]",
+        "2pl": "ga-yi-√gook[?]",
+        "4h": "ga-du-√gook[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√gook[?]",
+        "2sg": "wu-i-√gook[?]",
+        "3": "wu-√gook[?]",
+        "1pl": "wu-tu-√gook[?]",
+        "2pl": "wu-yi-√gook[?]",
+        "4h": "wu-du-√gook[?]"
+      },
+      "habitual": {
+        "1sg": "ga-x̱a-√gook[?]",
+        "2sg": "ga-i-√gook[?]",
+        "3": "ga-√gook[?]",
+        "1pl": "ga-tu-√gook[?]",
+        "2pl": "ga-yi-√gook[?]",
+        "4h": "ga-du-√gook[?]"
+      },
+      "potential": {
+        "1sg": "ga-g̲-x̱a-√gook[?]",
+        "2sg": "ga-g̲-i-√gook[?]",
+        "3": "ga-g̲-√gook[?]",
+        "1pl": "ga-g̲-tu-√gook[?]",
+        "2pl": "ga-g̲-yi-√gook[?]",
+        "4h": "ga-g̲-du-√gook[?]"
+      },
+      "imperative": {
+        "1sg": "ga-x̱a-√gook[?]",
+        "2sg": "ga-i-√gook[?]",
+        "3": "ga-√gook[?]",
+        "1pl": "ga-tu-√gook[?]",
+        "2pl": "ga-yi-√gook[?]",
+        "4h": "ga-du-√gook[?]"
+      },
+      "prohibitive": {
+        "1sg": "ga-u-x̱a-√gook[?]",
+        "2sg": "ga-u-i-√gook[?]",
+        "3": "ga-u-√gook[?]",
+        "1pl": "ga-u-tu-√gook[?]",
+        "2pl": "ga-u-yi-√gook[?]",
+        "4h": "ga-u-du-√gook[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "kooʰ",
@@ -853,7 +2536,58 @@
     "search_terms": [
       "know"
     ],
-    "examples": []
+    "examples": [],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√kooʰ[?]",
+        "2sg": "i-√kooʰ[?]",
+        "3": "√kooʰ[?]",
+        "1pl": "tu-√kooʰ[?]",
+        "2pl": "yi-√kooʰ[?]",
+        "4h": "du-√kooʰ[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√kooʰ[?]",
+        "2sg": "wu-i-√kooʰ[?]",
+        "3": "wu-√kooʰ[?]",
+        "1pl": "wu-tu-√kooʰ[?]",
+        "2pl": "wu-yi-√kooʰ[?]",
+        "4h": "wu-du-√kooʰ[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√kooʰ[?]",
+        "2sg": "i-√kooʰ[?]",
+        "3": "√kooʰ[?]",
+        "1pl": "tu-√kooʰ[?]",
+        "2pl": "yi-√kooʰ[?]",
+        "4h": "du-√kooʰ[?]"
+      },
+      "potential": {
+        "1sg": "g̲-/k-x̱a-√kooʰ[?]",
+        "2sg": "g̲-/k-i-√kooʰ[?]",
+        "3": "g̲-/k-√kooʰ[?]",
+        "1pl": "g̲-/k-tu-√kooʰ[?]",
+        "2pl": "g̲-/k-yi-√kooʰ[?]",
+        "4h": "g̲-/k-du-√kooʰ[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√kooʰ[?]",
+        "2sg": "i-√kooʰ[?]",
+        "3": "√kooʰ[?]",
+        "1pl": "tu-√kooʰ[?]",
+        "2pl": "yi-√kooʰ[?]",
+        "4h": "du-√kooʰ[?]"
+      },
+      "prohibitive": {
+        "1sg": "u-x̱a-√kooʰ[?]",
+        "2sg": "u-i-√kooʰ[?]",
+        "3": "u-√kooʰ[?]",
+        "1pl": "u-tu-√kooʰ[?]",
+        "2pl": "u-yi-√kooʰ[?]",
+        "4h": "u-du-√kooʰ[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "goo",
@@ -884,7 +2618,58 @@
         "english": "in front of Spring Water Point",
         "source": "Basket Bay"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "ga-x̱a-√goo[?]",
+        "2sg": "ga-i-√goo[?]",
+        "3": "ga-√goo[?]",
+        "1pl": "ga-tu-√goo[?]",
+        "2pl": "ga-yi-√goo[?]",
+        "4h": "ga-du-√goo[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√goo[?]",
+        "2sg": "wu-i-√goo[?]",
+        "3": "wu-√goo[?]",
+        "1pl": "wu-tu-√goo[?]",
+        "2pl": "wu-yi-√goo[?]",
+        "4h": "wu-du-√goo[?]"
+      },
+      "habitual": {
+        "1sg": "ga-x̱a-√goo[?]",
+        "2sg": "ga-i-√goo[?]",
+        "3": "ga-√goo[?]",
+        "1pl": "ga-tu-√goo[?]",
+        "2pl": "ga-yi-√goo[?]",
+        "4h": "ga-du-√goo[?]"
+      },
+      "potential": {
+        "1sg": "ga-g̲-x̱a-√goo[?]",
+        "2sg": "ga-g̲-i-√goo[?]",
+        "3": "ga-g̲-√goo[?]",
+        "1pl": "ga-g̲-tu-√goo[?]",
+        "2pl": "ga-g̲-yi-√goo[?]",
+        "4h": "ga-g̲-du-√goo[?]"
+      },
+      "imperative": {
+        "1sg": "ga-x̱a-√goo[?]",
+        "2sg": "ga-i-√goo[?]",
+        "3": "ga-√goo[?]",
+        "1pl": "ga-tu-√goo[?]",
+        "2pl": "ga-yi-√goo[?]",
+        "4h": "ga-du-√goo[?]"
+      },
+      "prohibitive": {
+        "1sg": "ga-u-x̱a-√goo[?]",
+        "2sg": "ga-u-i-√goo[?]",
+        "3": "ga-u-√goo[?]",
+        "1pl": "ga-u-tu-√goo[?]",
+        "2pl": "ga-u-yi-√goo[?]",
+        "4h": "ga-u-du-√goo[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "haa",
@@ -915,7 +2700,58 @@
         "english": "that land of ours",
         "source": "Basket Bay"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√haa[?]",
+        "2sg": "i-√haa[?]",
+        "3": "√haa[?]",
+        "1pl": "tu-√haa[?]",
+        "2pl": "yi-√haa[?]",
+        "4h": "du-√haa[?]"
+      },
+      "perfective": {
+        "1sg": "x̱a-√haa[?]",
+        "2sg": "i-√haa[?]",
+        "3": "√haa[?]",
+        "1pl": "tu-√haa[?]",
+        "2pl": "yi-√haa[?]",
+        "4h": "du-√haa[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√haa[?]",
+        "2sg": "i-√haa[?]",
+        "3": "√haa[?]",
+        "1pl": "tu-√haa[?]",
+        "2pl": "yi-√haa[?]",
+        "4h": "du-√haa[?]"
+      },
+      "potential": {
+        "1sg": "x̱a-√haa[?]",
+        "2sg": "i-√haa[?]",
+        "3": "√haa[?]",
+        "1pl": "tu-√haa[?]",
+        "2pl": "yi-√haa[?]",
+        "4h": "du-√haa[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√haa[?]",
+        "2sg": "i-√haa[?]",
+        "3": "√haa[?]",
+        "1pl": "tu-√haa[?]",
+        "2pl": "yi-√haa[?]",
+        "4h": "du-√haa[?]"
+      },
+      "prohibitive": {
+        "1sg": "x̱a-√haa[?]",
+        "2sg": "i-√haa[?]",
+        "3": "√haa[?]",
+        "1pl": "tu-√haa[?]",
+        "2pl": "yi-√haa[?]",
+        "4h": "du-√haa[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "teeʰ",
@@ -934,7 +2770,58 @@
     "search_terms": [
       "want"
     ],
-    "examples": []
+    "examples": [],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√teeʰ[?]",
+        "2sg": "i-√teeʰ[?]",
+        "3": "√teeʰ[?]",
+        "1pl": "tu-√teeʰ[?]",
+        "2pl": "yi-√teeʰ[?]",
+        "4h": "du-√teeʰ[?]"
+      },
+      "perfective": {
+        "1sg": "x̱a-√teeʰ[?]",
+        "2sg": "i-√teeʰ[?]",
+        "3": "√teeʰ[?]",
+        "1pl": "tu-√teeʰ[?]",
+        "2pl": "yi-√teeʰ[?]",
+        "4h": "du-√teeʰ[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√teeʰ[?]",
+        "2sg": "i-√teeʰ[?]",
+        "3": "√teeʰ[?]",
+        "1pl": "tu-√teeʰ[?]",
+        "2pl": "yi-√teeʰ[?]",
+        "4h": "du-√teeʰ[?]"
+      },
+      "potential": {
+        "1sg": "x̱a-√teeʰ[?]",
+        "2sg": "i-√teeʰ[?]",
+        "3": "√teeʰ[?]",
+        "1pl": "tu-√teeʰ[?]",
+        "2pl": "yi-√teeʰ[?]",
+        "4h": "du-√teeʰ[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√teeʰ[?]",
+        "2sg": "i-√teeʰ[?]",
+        "3": "√teeʰ[?]",
+        "1pl": "tu-√teeʰ[?]",
+        "2pl": "yi-√teeʰ[?]",
+        "4h": "du-√teeʰ[?]"
+      },
+      "prohibitive": {
+        "1sg": "x̱a-√teeʰ[?]",
+        "2sg": "i-√teeʰ[?]",
+        "3": "√teeʰ[?]",
+        "1pl": "tu-√teeʰ[?]",
+        "2pl": "yi-√teeʰ[?]",
+        "4h": "du-√teeʰ[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "x̲án",
@@ -953,7 +2840,58 @@
     "search_terms": [
       "love"
     ],
-    "examples": []
+    "examples": [],
+    "guesses": {
+      "imperfective": {
+        "1sg": "ga-x̱a-√x̲án[?]",
+        "2sg": "ga-i-√x̲án[?]",
+        "3": "ga-√x̲án[?]",
+        "1pl": "ga-tu-√x̲án[?]",
+        "2pl": "ga-yi-√x̲án[?]",
+        "4h": "ga-du-√x̲án[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√x̲án[?]",
+        "2sg": "wu-i-√x̲án[?]",
+        "3": "wu-√x̲án[?]",
+        "1pl": "wu-tu-√x̲án[?]",
+        "2pl": "wu-yi-√x̲án[?]",
+        "4h": "wu-du-√x̲án[?]"
+      },
+      "habitual": {
+        "1sg": "ga-x̱a-√x̲án[?]",
+        "2sg": "ga-i-√x̲án[?]",
+        "3": "ga-√x̲án[?]",
+        "1pl": "ga-tu-√x̲án[?]",
+        "2pl": "ga-yi-√x̲án[?]",
+        "4h": "ga-du-√x̲án[?]"
+      },
+      "potential": {
+        "1sg": "ga-g̲-x̱a-√x̲án[?]",
+        "2sg": "ga-g̲-i-√x̲án[?]",
+        "3": "ga-g̲-√x̲án[?]",
+        "1pl": "ga-g̲-tu-√x̲án[?]",
+        "2pl": "ga-g̲-yi-√x̲án[?]",
+        "4h": "ga-g̲-du-√x̲án[?]"
+      },
+      "imperative": {
+        "1sg": "ga-x̱a-√x̲án[?]",
+        "2sg": "ga-i-√x̲án[?]",
+        "3": "ga-√x̲án[?]",
+        "1pl": "ga-tu-√x̲án[?]",
+        "2pl": "ga-yi-√x̲án[?]",
+        "4h": "ga-du-√x̲án[?]"
+      },
+      "prohibitive": {
+        "1sg": "ga-u-x̱a-√x̲án[?]",
+        "2sg": "ga-u-i-√x̲án[?]",
+        "3": "ga-u-√x̲án[?]",
+        "1pl": "ga-u-tu-√x̲án[?]",
+        "2pl": "ga-u-yi-√x̲án[?]",
+        "4h": "ga-u-du-√x̲án[?]"
+      }
+    },
+    "attested": {}
   },
   {
     "root": "aat",
@@ -981,6 +2919,57 @@
         "english": "They would even go home from their kill.",
         "source": "Basket Bay"
       }
-    ]
+    ],
+    "guesses": {
+      "imperfective": {
+        "1sg": "x̱a-√aat[?]",
+        "2sg": "i-√aat[?]",
+        "3": "√aat[?]",
+        "1pl": "tu-√aat[?]",
+        "2pl": "yi-√aat[?]",
+        "4h": "du-√aat[?]"
+      },
+      "perfective": {
+        "1sg": "wu-x̱a-√aat[?]",
+        "2sg": "wu-i-√aat[?]",
+        "3": "wu-√aat[?]",
+        "1pl": "wu-tu-√aat[?]",
+        "2pl": "wu-yi-√aat[?]",
+        "4h": "wu-du-√aat[?]"
+      },
+      "habitual": {
+        "1sg": "x̱a-√aat[?]",
+        "2sg": "i-√aat[?]",
+        "3": "√aat[?]",
+        "1pl": "tu-√aat[?]",
+        "2pl": "yi-√aat[?]",
+        "4h": "du-√aat[?]"
+      },
+      "potential": {
+        "1sg": "g̲-/k-x̱a-√aat[?]",
+        "2sg": "g̲-/k-i-√aat[?]",
+        "3": "g̲-/k-√aat[?]",
+        "1pl": "g̲-/k-tu-√aat[?]",
+        "2pl": "g̲-/k-yi-√aat[?]",
+        "4h": "g̲-/k-du-√aat[?]"
+      },
+      "imperative": {
+        "1sg": "x̱a-√aat[?]",
+        "2sg": "i-√aat[?]",
+        "3": "√aat[?]",
+        "1pl": "tu-√aat[?]",
+        "2pl": "yi-√aat[?]",
+        "4h": "du-√aat[?]"
+      },
+      "prohibitive": {
+        "1sg": "u-x̱a-√aat[?]",
+        "2sg": "u-i-√aat[?]",
+        "3": "u-√aat[?]",
+        "1pl": "u-tu-√aat[?]",
+        "2pl": "u-yi-√aat[?]",
+        "4h": "u-du-√aat[?]"
+      }
+    },
+    "attested": {}
   }
 ]

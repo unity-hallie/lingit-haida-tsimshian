@@ -226,7 +226,28 @@
   }
 
   .form-value.confirmed { color: var(--confirmed); }
-  .form-value.gap { color: var(--gap); font-style: italic; font-size: 0.8rem; }
+  .form-value.attested  { color: var(--accent); font-weight: 500; }
+  .form-value.guess     { color: var(--guess); font-style: italic; font-size: 0.85rem; }
+  .form-value.gap       { color: var(--gap); font-style: italic; font-size: 0.8rem; }
+
+  .attested-badge {
+    font-size: 0.65rem;
+    background: var(--accent);
+    color: white;
+    padding: 0.1rem 0.3rem;
+    border-radius: 3px;
+    white-space: nowrap;
+  }
+
+  .guess-badge {
+    font-size: 0.65rem;
+    background: var(--guess-bg);
+    color: var(--guess);
+    border: 1px solid var(--guess);
+    padding: 0.1rem 0.3rem;
+    border-radius: 3px;
+    white-space: nowrap;
+  }
 
   .edit-btn {
     background: none;
@@ -452,6 +473,8 @@ function renderCard(verb) {
   const modesHtml = MODES.map(m => {
     const saved = getCorrection(verb.root, verb.theme, m.key);
     const cellId = `${cardId}_${m.key}`;
+
+    // Speaker correction takes precedence
     if (saved) {
       return `<div class="mode-cell">
         <div class="mode-label">${m.label}</div>
@@ -460,15 +483,41 @@ function renderCard(verb) {
           <button class="edit-btn" onclick="editForm('${cellId}','${verb.root}','${escQ(verb.theme)}','${m.key}')">edit</button>
         </div>
       </div>`;
-    } else {
+    }
+
+    // Attested form from The Conjugator
+    const attested3 = verb.attested?.[m.key]?.['3'];
+    if (attested3) {
       return `<div class="mode-cell">
         <div class="mode-label">${m.label}</div>
         <div class="mode-form" id="form-${cellId}">
-          <span class="form-value gap">not recorded</span>
-          <button class="edit-btn" onclick="editForm('${cellId}','${verb.root}','${escQ(verb.theme)}','${m.key}')">add</button>
+          <span class="form-value attested" title="${attested3.english} (${attested3.source})">${attested3.tlingit}</span>
+          <span class="attested-badge" title="From ${attested3.source}">cited</span>
+          <button class="edit-btn" onclick="editForm('${cellId}','${verb.root}','${escQ(verb.theme)}','${m.key}')">edit</button>
         </div>
       </div>`;
     }
+
+    // AI guess from prefix rules (stem unknown)
+    const guess = verb.guesses?.[m.key]?.['3'];
+    if (guess) {
+      return `<div class="mode-cell">
+        <div class="mode-label">${m.label}</div>
+        <div class="mode-form" id="form-${cellId}">
+          <span class="form-value guess" title="Prefix structure only — stem unknown">${guess}</span>
+          <span class="guess-badge">guess</span>
+          <button class="edit-btn" onclick="editForm('${cellId}','${verb.root}','${escQ(verb.theme)}','${m.key}')">correct</button>
+        </div>
+      </div>`;
+    }
+
+    return `<div class="mode-cell">
+      <div class="mode-label">${m.label}</div>
+      <div class="mode-form" id="form-${cellId}">
+        <span class="form-value gap">not recorded</span>
+        <button class="edit-btn" onclick="editForm('${cellId}','${verb.root}','${escQ(verb.theme)}','${m.key}')">add</button>
+      </div>
+    </div>`;
   }).join('');
 
   const examplesHtml = verb.examples.length ? `
