@@ -375,7 +375,37 @@
 <div class="toast" id="toast"></div>
 
 <script>
-// ── Constants ─────────────────────────────────────────────────────────────────
+// ── Morphology tables (mirrors tlingit/guesses.py) ────────────────────────────
+
+const CONJ_PREFIX = {
+  'ø':  { imperfective:'∅', perfective:'wu-', habitual:'∅',    potential:'g̲-/k-', imperative:'∅',   prohibitive:'u-'    },
+  'na': { imperfective:'na-', perfective:'wu-', habitual:'na-', potential:'na-g̲-', imperative:'na-', prohibitive:'na-u-' },
+  'ga': { imperfective:'ga-', perfective:'wu-', habitual:'ga-', potential:'ga-g̲-', imperative:'ga-', prohibitive:'ga-u-' },
+  'yi': { imperfective:'yi-', perfective:'wu-', habitual:'yi-', potential:'yi-g̲-', imperative:'yi-', prohibitive:'yi-u-' },
+};
+
+const SUBJECT_PREFIX = {
+  '1sg':'x̱a-', '2sg':'i-', '3':'∅-', '1pl':'tu-', '2pl':'yi-', '4h':'du-',
+};
+
+function makeGuess(root, conjClass, classifier, mode, subject) {
+  const cls = (conjClass || 'ø').toLowerCase();
+  const prefixes = CONJ_PREFIX[cls];
+  if (!prefixes) return null;
+  const conj = prefixes[mode];
+  if (!conj) return null;
+
+  const parts = [];
+  if (conj !== '∅') parts.push(conj);
+  const subj = SUBJECT_PREFIX[subject] || '';
+  if (subj && subj !== '∅-') parts.push(subj);
+  const cl = (classifier && classifier !== 'ø') ? classifier : null;
+  if (cl) parts.push(cl + '-');
+  parts.push(`√${root}[?]`);
+  return parts.join('');
+}
+
+// ── UI constants ──────────────────────────────────────────────────────────────
 
 const STORAGE_KEY = 'lingit_corrections';
 
@@ -388,115 +418,92 @@ const MODES = [
   { key: 'prohibitive',  label: 'Prohibitive' },
 ];
 
-const CLASSIFIER_DESC = { 'ø': 'active', 'l': 'active, valency+', 's': 'causative', 'd': 'middle voice', 'sh': 'reflexive' };
-const CLASS_DESC = { 'ø': 'Ø-class', 'na': 'na-class', 'ga': 'ga-class', 'yi': 'yi-class' };
-const THEMATIC = { 'ka': 'surface', 'ya': 'face', 'ji': 'hand', 'tu': 'inside/mind', "x'a": 'mouth', 'ku': 'weather', 'sha': 'head', 'kei': 'upward', 'yei': 'downward', 'daak': 'out to sea', 'yan': 'completion' };
+const CLASSIFIER_DESC = { 'ø':'active', 'l':'active, valency+', 's':'causative', 'd':'middle voice', 'sh':'reflexive' };
+const CLASS_DESC = { 'ø':'Ø-class', 'na':'na-class', 'ga':'ga-class', 'yi':'yi-class' };
+const THEMATIC = { 'ka':'surface', 'ya':'face', 'ji':'hand', 'tu':'inside/mind', "x'a":'mouth', 'ku':'weather', 'sha':'head', 'kei':'upward', 'yei':'downward', 'daak':'out to sea', 'yan':'completion' };
 
-// ── Mode detection ────────────────────────────────────────────────────────────
-// SERVER_MODE = true when running under app.py (full DB + server-side corrections)
-// SERVER_MODE = false = static GitHub Pages (corpus_demo.json + localStorage)
+// ── Database ──────────────────────────────────────────────────────────────────
 
+let DB = null;  // { meta, themes, attested, corpus }
 let SERVER_MODE = false;
-let CORPUS = [];  // used in static mode only
 
-async function detectMode() {
+async function init() {
+  // Try server first (corrections API)
   try {
-    const r = await fetch('/api/status', { signal: AbortSignal.timeout(800) });
-    if (r.ok) {
-      const data = await r.json();
-      SERVER_MODE = true;
-      const badge = document.getElementById('modeBadge');
-      badge.textContent = `live · ${data.themes} themes`;
-      badge.className = 'mode-badge live';
-      document.getElementById('importBtn').style.display = '';
-      return;
-    }
-  } catch(e) { /* static mode */ }
+    const r = await fetch('/api/status', { signal: AbortSignal.timeout(600) });
+    if (r.ok) SERVER_MODE = true;
+  } catch(e) {}
 
-  // Static mode: load corpus_demo.json
-  const badge = document.getElementById('modeBadge');
-  badge.textContent = 'static demo';
-  badge.className = 'mode-badge static';
-  document.getElementById('importBtn').style.display = '';  // still allow import to localStorage
-
+  // Always load the local DB (full database, works offline)
+  document.getElementById('main').innerHTML = '<div class="empty"><p>Loading…</p></div>';
   try {
-    const r = await fetch('corpus_demo.json');
-    CORPUS = await r.json();
+    const r = await fetch('tlingit_db.json');
+    DB = await r.json();
   } catch(e) {
-    document.getElementById('main').innerHTML = '<div class="empty"><p>Could not load corpus data.</p></div>';
+    document.getElementById('main').innerHTML = '<div class="empty"><p>Could not load database.</p></div>';
+    return;
   }
+
+  const badge = document.getElementById('modeBadge');
+  if (SERVER_MODE) {
+    badge.textContent = `live · ${DB.meta.themes} themes`;
+    badge.className = 'mode-badge live';
+  } else {
+    badge.textContent = `${DB.meta.themes} themes`;
+    badge.className = 'mode-badge static';
+  }
+  document.getElementById('importBtn').style.display = '';
+  document.getElementById('main').innerHTML = '<div class="empty"><p>Search for a verb in English.</p><p style="font-size:0.8rem">e.g. "go", "eat", "see", "give"</p></div>';
 }
 
-// ── localStorage (static mode) ────────────────────────────────────────────────
+// ── Search ────────────────────────────────────────────────────────────────────
+
+function search() {
+  if (!DB) return;
+  const q = document.getElementById('searchInput').value.trim().toLowerCase();
+  if (!q) return;
+
+  // Search by gloss words or root
+  const results = DB.themes.filter(t =>
+    t.gloss.toLowerCase().includes(q) || t.root.toLowerCase().includes(q)
+  ).slice(0, 15);
+
+  const main = document.getElementById('main');
+  if (!results.length) {
+    main.innerHTML = `<div class="empty"><p>No verbs found for "${escHtml(q)}".</p><p style="font-size:0.8rem">Try: go, eat, see, give, walk, sit, know</p></div>`;
+    return;
+  }
+
+  main.innerHTML = `<div class="result-count">${results.length} verb theme${results.length !== 1 ? 's' : ''}</div>` +
+    results.map(renderCard).join('');
+}
+
+// ── Corrections ───────────────────────────────────────────────────────────────
 
 function loadLocalCorrections() {
   try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); }
   catch(e) { return {}; }
 }
 
-function saveLocalCorrection(root, theme, mode, value) {
+function getLocalCorrection(root, mode) {
+  return loadLocalCorrections()?.[root]?.[mode] || null;
+}
+
+function saveLocalCorrection(root, mode, value) {
   const data = loadLocalCorrections();
   if (!data[root]) data[root] = {};
-  if (!data[root][theme]) data[root][theme] = {};
-  data[root][theme][mode] = { value, timestamp: new Date().toISOString(), source: 'speaker' };
+  data[root][mode] = { value, timestamp: new Date().toISOString() };
   localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
 }
 
-function getLocalCorrection(root, theme, mode) {
-  const data = loadLocalCorrections();
-  return data?.[root]?.[theme]?.[mode] || null;
-}
-
-// ── Search ────────────────────────────────────────────────────────────────────
-
-async function search() {
-  const q = document.getElementById('searchInput').value.trim();
-  if (!q) return;
-
-  const main = document.getElementById('main');
-  main.innerHTML = '<div class="empty"><p>Searching…</p></div>';
-
-  let results;
-  if (SERVER_MODE) {
-    try {
-      const r = await fetch(`/api/search?q=${encodeURIComponent(q)}`);
-      const data = await r.json();
-      results = data.results || [];
-    } catch(e) {
-      main.innerHTML = `<div class="empty"><p>Search failed: ${e.message}</p></div>`;
-      return;
-    }
-  } else {
-    const qLow = q.toLowerCase();
-    results = CORPUS.filter(v =>
-      v.gloss.toLowerCase().includes(qLow) ||
-      (v.search_terms || []).some(t => t.includes(qLow)) ||
-      v.root.toLowerCase().includes(qLow)
-    );
-  }
-
-  if (!results.length) {
-    main.innerHTML = `<div class="empty"><p>No verbs found for "${escHtml(q)}".</p><p style="font-size:0.8rem">Try: go, eat, see, give, walk, sit, know</p></div>`;
-    return;
-  }
-
-  main.innerHTML = `<div class="result-count">${results.length} verb theme${results.length !== 1 ? 's' : ''} found</div>` +
-    results.map(renderCard).join('');
-}
-
-// ── Corrections: unified get/save ─────────────────────────────────────────────
-
-function getCorrectionValue(verb, mode) {
-  // Server mode: corrections embedded in verb.corrections (by mode → subject → {form})
-  if (SERVER_MODE) {
+function getCorrectionValue(root, verb, mode) {
+  if (SERVER_MODE && verb.corrections) {
     return verb.corrections?.[mode]?.['3']?.form || null;
   }
-  // Static mode: localStorage
-  const c = getLocalCorrection(verb.root, verb.theme, mode);
-  return c ? c.value : null;
+  return getLocalCorrection(root, mode)?.value || null;
 }
 
-async function saveCorrection(root, theme, mode, value) {
+async function saveCorrection(root, mode, value) {
   if (SERVER_MODE) {
     const r = await fetch(`/api/correction/${encodeURIComponent(root)}`, {
       method: 'POST',
@@ -505,7 +512,7 @@ async function saveCorrection(root, theme, mode, value) {
     });
     if (!r.ok) throw new Error('Server save failed');
   } else {
-    saveLocalCorrection(root, theme, mode, value);
+    saveLocalCorrection(root, mode, value);
   }
 }
 
@@ -513,107 +520,88 @@ async function saveCorrection(root, theme, mode, value) {
 
 function renderCard(verb) {
   const cardId = `card-${verb.root}`.replace(/[^a-zA-Z0-9-]/g, '_');
+
   const prefixHtml = (verb.prefixes || []).map(p => {
     const clean = p.replace(/[~\-]/g, '');
-    const desc = THEMATIC[clean] || (clean === 'O' ? 'object' : clean === 'S' ? 'subject' : clean === 'P' ? 'place' : '');
-    return desc ? `<span title="${desc}">${escHtml(p)}</span>` : `<span>${escHtml(p)}</span>`;
+    const desc = THEMATIC[clean] || (clean==='O'?'object':clean==='S'?'subject':clean==='P'?'place':'');
+    return `<span${desc ? ` title="${escAttr(desc)}"` : ''}>${escHtml(p)}</span>`;
   }).join(' – ') || '—';
 
   const structHtml = `
     <div class="structure" id="struct-${cardId}">
-      <div class="struct-item">
-        <span class="struct-label">Theme</span>
-        <span class="struct-value">${escHtml(verb.theme)}</span>
-      </div>
-      <div class="struct-item">
-        <span class="struct-label">Conjugation class</span>
-        <span class="struct-value">${CLASS_DESC[verb.conjugation_class] || escHtml(verb.conjugation_class)}</span>
-      </div>
-      <div class="struct-item">
-        <span class="struct-label">Classifier</span>
-        <span class="struct-value">${escHtml(verb.classifier)}– (${CLASSIFIER_DESC[verb.classifier] || escHtml(verb.classifier)})</span>
-      </div>
-      <div class="struct-item">
-        <span class="struct-label">Prefixes</span>
-        <span class="struct-value">${prefixHtml}</span>
-      </div>
-      ${verb.has_stem_variation ? '<div class="stem-note">Stem changes form by mode — must be learned from a speaker</div>' : ''}
+      <div class="struct-item"><span class="struct-label">Theme</span><span class="struct-value">${escHtml(verb.theme)}</span></div>
+      <div class="struct-item"><span class="struct-label">Conjugation class</span><span class="struct-value">${CLASS_DESC[verb.conjugation_class] || escHtml(verb.conjugation_class)}</span></div>
+      <div class="struct-item"><span class="struct-label">Classifier</span><span class="struct-value">${escHtml(verb.classifier)}– (${CLASSIFIER_DESC[verb.classifier] || escHtml(verb.classifier)})</span></div>
+      <div class="struct-item"><span class="struct-label">Prefixes</span><span class="struct-value">${prefixHtml}</span></div>
+      ${verb.stem_varies ? '<div class="stem-note">Stem changes form by mode — must be learned from a speaker</div>' : ''}
     </div>`;
 
+  const attested = DB.attested?.[verb.root] || {};
+
   const modesHtml = MODES.map(m => {
-    const corrValue = getCorrectionValue(verb, m.key);
     const cellId = `${cardId}_${m.key}`;
+    const corrValue = getCorrectionValue(verb.root, verb, m.key);
     const rootQ = escAttr(verb.root);
-    const themeQ = escAttr(verb.theme);
     const modeQ = m.key;
 
     if (corrValue) {
-      return `<div class="mode-cell">
-        <div class="mode-label">${m.label}</div>
+      return `<div class="mode-cell"><div class="mode-label">${m.label}</div>
         <div class="mode-form" id="form-${cellId}">
           <span class="form-value confirmed">${escHtml(corrValue)}</span>
-          <button class="edit-btn" onclick="editForm('${cellId}','${rootQ}','${themeQ}','${modeQ}')">edit</button>
+          <button class="edit-btn" onclick="editForm('${cellId}','${rootQ}','${modeQ}')">edit</button>
         </div></div>`;
     }
 
-    const attested3 = verb.attested?.[m.key]?.['3'];
-    if (attested3) {
-      return `<div class="mode-cell">
-        <div class="mode-label">${m.label}</div>
+    const att = attested[m.key]?.['3'];
+    if (att) {
+      return `<div class="mode-cell"><div class="mode-label">${m.label}</div>
         <div class="mode-form" id="form-${cellId}">
-          <span class="form-value attested" title="${escAttr(attested3.english)} (${escAttr(attested3.source)})">${escHtml(attested3.tlingit)}</span>
-          <span class="attested-badge" title="From ${escAttr(attested3.source)}">cited</span>
-          <button class="edit-btn" onclick="editForm('${cellId}','${rootQ}','${themeQ}','${modeQ}')">edit</button>
+          <span class="form-value attested" title="${escAttr(att.english)} — ${escAttr(att.source)}">${escHtml(att.tlingit)}</span>
+          <span class="attested-badge">cited</span>
+          <button class="edit-btn" onclick="editForm('${cellId}','${rootQ}','${modeQ}')">edit</button>
         </div></div>`;
     }
 
-    const guess = verb.guesses?.[m.key]?.['3'];
+    const guess = makeGuess(verb.root, verb.conjugation_class, verb.classifier, m.key, '3');
     if (guess) {
-      return `<div class="mode-cell">
-        <div class="mode-label">${m.label}</div>
+      return `<div class="mode-cell"><div class="mode-label">${m.label}</div>
         <div class="mode-form" id="form-${cellId}">
           <span class="form-value guess" title="Prefix structure only — stem unknown">${escHtml(guess)}</span>
           <span class="guess-badge">guess</span>
-          <button class="edit-btn" onclick="editForm('${cellId}','${rootQ}','${themeQ}','${modeQ}')">correct</button>
+          <button class="edit-btn" onclick="editForm('${cellId}','${rootQ}','${modeQ}')">correct</button>
         </div></div>`;
     }
 
-    return `<div class="mode-cell">
-      <div class="mode-label">${m.label}</div>
+    return `<div class="mode-cell"><div class="mode-label">${m.label}</div>
       <div class="mode-form" id="form-${cellId}">
         <span class="form-value gap">not recorded</span>
-        <button class="edit-btn" onclick="editForm('${cellId}','${rootQ}','${themeQ}','${modeQ}')">add</button>
+        <button class="edit-btn" onclick="editForm('${cellId}','${rootQ}','${modeQ}')">add</button>
       </div></div>`;
   }).join('');
 
-  const examplesHtml = (verb.examples || []).length ? `
-    <div class="examples">
-      <h3>From oral literature</h3>
-      ${verb.examples.map(e => `
-        <div class="example">
-          <div class="tlingit">${escHtml(e.tlingit)}</div>
-          ${e.english ? `<div class="english">${escHtml(e.english)}</div>` : ''}
-          <div class="source">${escHtml(e.source)}</div>
-        </div>`).join('')}
+  const examples = DB.corpus?.[verb.root] || [];
+  const examplesHtml = examples.length ? `
+    <div class="examples"><h3>From oral literature</h3>
+      ${examples.map(e => `<div class="example">
+        <div class="tlingit">${escHtml(e.tlingit)}</div>
+        ${e.english ? `<div class="english">${escHtml(e.english)}</div>` : ''}
+        <div class="source">${escHtml(e.source)}</div>
+      </div>`).join('')}
     </div>` : '';
 
-  return `
-    <div class="verb-card">
-      <div class="verb-header">
-        <span class="verb-root">.${escHtml(verb.root)}</span>
-        <span class="verb-gloss">${escHtml(verb.gloss)}</span>
-        ${verb.verb_type ? `<span class="verb-type">${escHtml(verb.verb_type)}</span>` : ''}
-      </div>
-      <button class="structure-toggle" onclick="toggleStruct('struct-${cardId}', this)">
-        ▸ Show structure
-      </button>
-      ${structHtml}
-      <div class="forms">
-        <h3>Verb forms — tap to add or correct</h3>
-        <div class="mode-grid">${modesHtml}</div>
-      </div>
-      ${examplesHtml}
-    </div>`;
+  return `<div class="verb-card">
+    <div class="verb-header">
+      <span class="verb-root">.${escHtml(verb.root)}</span>
+      <span class="verb-gloss">${escHtml(verb.gloss)}</span>
+      ${verb.verb_type ? `<span class="verb-type">${escHtml(verb.verb_type)}</span>` : ''}
+    </div>
+    <button class="structure-toggle" onclick="toggleStruct('struct-${cardId}',this)">▸ Show structure</button>
+    ${structHtml}
+    <div class="forms"><h3>Verb forms — tap to add or correct</h3>
+      <div class="mode-grid">${modesHtml}</div>
+    </div>
+    ${examplesHtml}
+  </div>`;
 }
 
 function toggleStruct(id, btn) {
@@ -629,107 +617,100 @@ function escAttr(s) { return escHtml(s); }
 
 // ── Edit form ─────────────────────────────────────────────────────────────────
 
-function editForm(cellId, root, theme, mode) {
+function editForm(cellId, root, mode) {
   const container = document.getElementById(`form-${cellId}`);
-  // Find current displayed value
-  const displayed = container.querySelector('.form-value.confirmed');
-  const current = displayed ? displayed.textContent : '';
+  const current = container.querySelector('.form-value.confirmed')?.textContent || '';
   container.innerHTML = `
-    <input class="form-input" id="input-${cellId}"
-           placeholder="Type Tlingit form…"
+    <input class="form-input" id="input-${cellId}" placeholder="Type Tlingit form…"
            value="${escAttr(current)}"
-           onkeydown="handleKey(event,'${cellId}','${escAttr(root)}','${escAttr(theme)}','${mode}')">`;
+           onkeydown="handleKey(event,'${cellId}','${escAttr(root)}','${mode}')">
+    <button class="edit-btn" onclick="confirmForm('${cellId}','${escAttr(root)}','${mode}')">✓</button>
+    <button class="edit-btn" onclick="cancelEdit('${cellId}','${escAttr(root)}','${mode}')">✕</button>`;
   document.getElementById(`input-${cellId}`).focus();
 }
 
-function handleKey(e, cellId, root, theme, mode) {
-  if (e.key === 'Enter') confirmForm(cellId, root, theme, mode);
-  if (e.key === 'Escape') location.reload(); // simplest cancel
+function handleKey(e, cellId, root, mode) {
+  if (e.key === 'Enter') confirmForm(cellId, root, mode);
+  if (e.key === 'Escape') cancelEdit(cellId, root, mode);
 }
 
-async function confirmForm(cellId, root, theme, mode) {
+async function confirmForm(cellId, root, mode) {
   const input = document.getElementById(`input-${cellId}`);
   const value = input.value.trim();
-  if (!value) { location.reload(); return; }
+  if (!value) { cancelEdit(cellId, root, mode); return; }
 
   try {
-    await saveCorrection(root, theme, mode, value);
+    await saveCorrection(root, mode, value);
   } catch(e) {
-    showToast('Save failed — check server connection');
-    return;
+    showToast('Save failed'); return;
   }
 
   const container = document.getElementById(`form-${cellId}`);
   container.innerHTML = `
     <span class="form-value confirmed">${escHtml(value)}</span>
-    <button class="edit-btn" onclick="editForm('${cellId}','${escAttr(root)}','${escAttr(theme)}','${mode}')">edit</button>`;
+    <button class="edit-btn" onclick="editForm('${cellId}','${escAttr(root)}','${mode}')">edit</button>`;
   showToast(SERVER_MODE ? 'Saved to server' : 'Saved locally');
 }
 
-// ── Export ────────────────────────────────────────────────────────────────────
+function cancelEdit(cellId, root, mode) {
+  // Re-render this cell from current state
+  const saved = getCorrectionValue(root, {}, mode);
+  const container = document.getElementById(`form-${cellId}`);
+  if (saved) {
+    container.innerHTML = `
+      <span class="form-value confirmed">${escHtml(saved)}</span>
+      <button class="edit-btn" onclick="editForm('${cellId}','${escAttr(root)}','${mode}')">edit</button>`;
+  } else {
+    container.innerHTML = `
+      <span class="form-value gap">not recorded</span>
+      <button class="edit-btn" onclick="editForm('${cellId}','${escAttr(root)}','${mode}')">add</button>`;
+  }
+}
+
+// ── Export / Import ───────────────────────────────────────────────────────────
 
 async function exportData() {
-  if (SERVER_MODE) {
-    window.location = '/api/corrections/export';
-    return;
-  }
+  if (SERVER_MODE) { window.location = '/api/corrections/export'; return; }
   const data = loadLocalCorrections();
-  const count = Object.values(data).flatMap(r => Object.values(r)).flatMap(t => Object.values(t)).length;
+  const count = Object.values(data).flatMap(v => Object.values(v)).length;
   if (!count) { showToast('No corrections yet'); return; }
-  const blob = new Blob([JSON.stringify({ exported: new Date().toISOString(), source: 'Lingít Verb Builder (static)', corrections: data }, null, 2)], { type: 'application/json' });
+  const blob = new Blob([JSON.stringify({ exported: new Date().toISOString(), corrections: data }, null, 2)], { type:'application/json' });
   const a = document.createElement('a');
   a.href = URL.createObjectURL(blob);
   a.download = `lingit_corrections_${new Date().toISOString().slice(0,10)}.json`;
   a.click();
-  showToast(`Exported ${count} correction${count !== 1 ? 's' : ''}`);
+  showToast(`Exported ${count} correction${count!==1?'s':''}`);
 }
 
-// ── Import ────────────────────────────────────────────────────────────────────
-
-function importData() {
-  document.getElementById('importFile').click();
-}
+function importData() { document.getElementById('importFile').click(); }
 
 async function handleImportFile(event) {
   const file = event.target.files[0];
   if (!file) return;
   let json;
-  try {
-    json = JSON.parse(await file.text());
-  } catch(e) {
-    showToast('Invalid JSON file'); return;
-  }
-  // Unwrap if exported from static demo (has .corrections wrapper)
+  try { json = JSON.parse(await file.text()); } catch(e) { showToast('Invalid JSON'); return; }
   const payload = json.corrections ?? json;
 
   if (SERVER_MODE) {
     try {
       const r = await fetch('/api/corrections/import', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(payload),
       });
       const data = await r.json();
-      showToast(`Imported ${data.added} correction${data.added !== 1 ? 's' : ''} to server`);
-    } catch(e) {
-      showToast('Import failed');
-    }
+      showToast(`Imported ${data.added} correction${data.added!==1?'s':''}`);
+    } catch(e) { showToast('Import failed'); }
   } else {
-    // Merge into localStorage
     const existing = loadLocalCorrections();
     let added = 0;
-    for (const [root, themes] of Object.entries(payload)) {
+    for (const [root, modes] of Object.entries(payload)) {
       if (!existing[root]) existing[root] = {};
-      for (const [theme, modes] of Object.entries(themes)) {
-        if (!existing[root][theme]) existing[root][theme] = {};
-        for (const [mode, entry] of Object.entries(modes)) {
-          existing[root][theme][mode] = entry;
-          added++;
-        }
+      for (const [mode, entry] of Object.entries(modes)) {
+        existing[root][mode] = entry; added++;
       }
     }
     localStorage.setItem(STORAGE_KEY, JSON.stringify(existing));
-    showToast(`Imported ${added} correction${added !== 1 ? 's' : ''}`);
+    showToast(`Imported ${added} correction${added!==1?'s':''}`);
   }
   event.target.value = '';
 }
@@ -745,11 +726,8 @@ function showToast(msg) {
 
 // ── Init ──────────────────────────────────────────────────────────────────────
 
-document.getElementById('searchInput').addEventListener('keydown', e => {
-  if (e.key === 'Enter') search();
-});
-
-detectMode();
+document.getElementById('searchInput').addEventListener('keydown', e => { if (e.key === 'Enter') search(); });
+init();
 </script>
 </body>
 </html>
